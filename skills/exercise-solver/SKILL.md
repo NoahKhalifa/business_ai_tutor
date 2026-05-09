@@ -116,6 +116,25 @@ total_questions: 5
    - Có "Sai lầm thường gặp" không?
    - Có kết luận rõ không?
 
+## Quy tắc tiết kiệm token khi đọc bài giảng
+
+Khi đọc bài giảng để có context giải bài, áp dụng chiến lược 2 tầng:
+
+### Tầng 1: Đọc summary trước (mặc định)
+- Đọc TẤT CẢ `subjects/<môn>/lectures/md/*_summary.md`
+- Mỗi summary ~500-1,000 token, 5 lecture chỉ tốn ~3,000-5,000 token
+- Đủ để biết "khái niệm A nằm ở bài N, công thức B trong bài M"
+
+### Tầng 2: Chỉ mở bản đầy đủ khi cần verify
+- Sau khi đọc summary, nếu giải bài cần CHI TIẾT về 1-2 khái niệm cụ thể
+- → Mở bản đầy đủ `<tên>.md` chỉ của bài liên quan, KHÔNG đọc tất cả
+- Ví dụ: bài tập về NPV → chỉ mở `bai-X-tham-dinh-du-an.md`, không cần đọc bài về SWOT
+
+### Khi nào BẮT BUỘC đọc bản đầy đủ
+- Bài tập trích nguyên văn case study từ slide → cần đọc full để verify
+- User yêu cầu "dẫn chiếu chính xác mục X.Y" → mở chính xác bài đó
+- Lời giải bị reviewer phát hiện sai → đọc lại bài đầy đủ liên quan để sửa
+
 ## Khi nào dùng skill khác
 - Sau khi giải xong → CHUYỂN sang skill `example-generator` để thêm ví dụ thực tế.
 - Sau example-generator → `extension-builder` để thêm bài tập mở rộng.
