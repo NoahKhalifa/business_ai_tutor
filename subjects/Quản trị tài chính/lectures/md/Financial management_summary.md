@@ -19,6 +19,7 @@ subject: "quan-tri-tai-chinh"
 - Quản trị vốn lưu động: tiền, hàng tồn kho, khoản phải thu
 - Đánh giá và lựa chọn dự án đầu tư dài hạn (NPV, IRR, PI, PBP)
 - Hiểu các nguồn tài trợ và chi phí sử dụng vốn (WACC)
+- Tính toán chi phí từng nguồn vốn (nợ vay, cổ phiếu ưu đãi, cổ phiếu thường) bằng CAPM, DDM, YTM trái phiếu
 
 ## 📚 Kiến thức cốt lõi cần nắm
 
@@ -56,8 +57,11 @@ subject: "quan-tri-tai-chinh"
 ### 5. Quản trị đầu tư dài hạn (Chương 5)
 
 - **Dự toán ngân sách vốn**: Quy trình đánh giá và lựa chọn các dự án đầu tư dài hạn
-- **Luồng tiền dự án**: Bao gồm luồng tiền ra ban đầu (ICO) và luồng tiền thuần tăng thêm trong tương lai
+- **Luồng tiền dự án**: Bao gồm luồng tiền ra ban đầu (ICO) và luồng tiền thuần tăng thêm trong tương lai (CF = LN sau thuế + Khấu hao + giá trị thanh lý cuối dự án)
 - **4 phương pháp đánh giá**: PBP, NPV, IRR, PI (xem bảng công thức)
+- **So sánh dự án có tuổi thọ khác nhau** 🤖: Khi so sánh 2 dự án loại trừ nhau (mutually exclusive) có vòng đời khác nhau, **NPV thuần không công bằng** → dùng:
+  - **EAA (Equivalent Annual Annuity)**: $EAA = NPV / PVAF(r,n)$ — quy NPV về dòng tiền đều hằng năm, chọn dự án EAA cao hơn.
+  - **Common Time Horizon (Replacement Chain)**: Lặp lại dự án ngắn cho đến khi hai dự án có cùng vòng đời (ví dụ dự án 4 năm vs 5 năm → dùng chu kỳ 20 năm).
 
 ### 6. Quản trị tài trợ (Chương 6)
 
@@ -65,6 +69,26 @@ subject: "quan-tri-tai-chinh"
 - **Nguồn bên ngoài**: Vốn cổ phần (phát hành cổ phiếu), Nợ vay (ngân hàng, trái phiếu), Thuê tài chính
 - **Chi phí sử dụng vốn**: WACC (Chi phí bình quân gia quyền)
 - **Cấu trúc vốn**: Tỷ lệ nợ/vốn chủ sở hữu tối ưu; Đòn bẩy tài chính
+- **Chi phí tín dụng thương mại (trade credit)** 🤖: Khi nhà cung cấp cho điều khoản "d/k₁ net N" (giảm giá d% nếu trả trong k₁ ngày, hạn N ngày), chi phí cơ hội của việc bỏ qua chiết khấu: $r = \dfrac{d}{1-d} \times \dfrac{360}{N - k_1}$. Ví dụ "2/10 net 60" trả ngày 60 → $r = 0{,}02/0{,}98 \times 360/50 = 14{,}69\%$/năm.
+- **EAR khoản vay chiết khấu (discount loan)** 🤖: Ngân hàng trừ lãi vay ngay khi giải ngân → số tiền thực nhận = mệnh giá − lãi. EAR thực luôn **cao hơn lãi danh nghĩa** do gốc thực nhỏ hơn. Có **số dư bù (compensating balance)** thì EAR còn cao hơn nữa (vì phải giữ lại x% gốc tại NH).
+- **VAS 06 — Thuê tài sản** 🤖: Thuê tài chính (finance lease) ghi nhận **đồng thời** Tài sản và Nợ phải trả trên BCĐKT (theo giá trị hợp lý hoặc PV của tiền thuê tối thiểu). Thuê hoạt động (operating lease) chỉ ghi chi phí thuê trong kỳ → không tăng nợ, không có lá chắn thuế khấu hao.
+- **Lý thuyết đánh đổi (Trade-off Theory)** 🤖: DN cân bằng giữa **lợi ích lá chắn thuế** ($T \cdot D$) khi tăng nợ và **chi phí kiệt quệ tài chính** (financial distress cost). Cấu trúc vốn tối ưu nằm tại điểm chi phí biên = lợi ích biên. Liên hệ: lý thuyết Pecking-order — DN ưu tiên nguồn nội bộ → nợ → CP mới (vì bất cân xứng thông tin).
+
+### 7. Chi phí sử dụng vốn (Chương 7) 🤖
+
+> 🤖 **Nội dung Chương 7 do AI bổ sung** (không có trong PDF lecture gốc) để phục vụ giải đề [trac-nghiem-chuong-7.md](../../exercises/md/trac-nghiem-chuong-7.md). Bản đầy đủ tại [Financial management.md § Chương 7](./Financial%20management.md). Tổng hợp từ Brealey–Myers–Allen, Brigham–Houston và giáo trình Nguyễn Minh Kiều.
+
+- **Khái niệm**: Chi phí vốn (cost of capital) là tỷ suất sinh lời tối thiểu mà nhà đầu tư đòi hỏi từ DN, dùng làm ngưỡng (hurdle rate) đánh giá dự án.
+- **Chi phí nợ vay sau thuế**: $r_d^{at} = r_d \times (1-T)$. Lãi vay được khấu trừ thuế → tạo "lá chắn thuế" giảm chi phí thực.
+- **Chi phí cổ phiếu ưu đãi**: $r_p = D_p/P_p$. Không có lá chắn thuế (cổ tức không được khấu trừ).
+- **Chi phí cổ phần thường — 3 phương pháp**:
+  1. **DDM/Gordon**: $r_e = D_1/P_0 + g$ — phù hợp DN trả cổ tức ổn định.
+  2. **CAPM**: $r_e = r_f + \beta(r_m - r_f)$ — chuẩn quốc tế, dùng β đo rủi ro hệ thống.
+  3. **Bond-yield + risk premium**: $r_e = r_d + \text{premium}$ (3-5%) — ước lượng nhanh khi không có dữ liệu thị trường.
+- **Chi phí phát hành CP mới (flotation cost f)**: $r_e^{new} = D_1/[P_0(1-f)] + g$ — luôn cao hơn lợi nhuận giữ lại do phải gánh chi phí phát hành.
+- **WACC**: $WACC = w_d \cdot r_d(1-T) + w_p \cdot r_p + w_e \cdot r_e$ với trọng số dựa trên giá trị thị trường (không phải sổ sách).
+- **Yếu tố tác động đến WACC**: cấu trúc vốn, chính sách cổ tức, chính sách đầu tư (rủi ro β), lãi suất thị trường.
+- **Quy tắc đòn bẩy**: $D/E = (D/TA)/(1-D/TA)$.
 
 ## 🧮 Công thức cần thuộc
 
@@ -83,6 +107,16 @@ subject: "quan-tri-tai-chinh"
 | 11 | $ROE = ROA \times (1 + \dfrac{Nợ}{VCSH})$ | Phương trình Dupont rút gọn | Phân tích tác động đòn bẩy tài chính |
 | 12 | $ROE = ROS \times SOA \times AOE$ | Phương trình Dupont mở rộng | Phân tích chi tiết các nhân tố ảnh hưởng ROE |
 | 13 | Quy tắc 72: $n = 72/i$ | Số năm để gấp đôi vốn | Ước lượng nhanh thời gian tăng trưởng |
+| 14 | $r_d^{at} = r_d(1-T)$ | Chi phí nợ vay sau thuế | Tính chi phí thực sau lá chắn thuế |
+| 15 | $r_p = D_p/P_p$ | Chi phí cổ phiếu ưu đãi | $D_p$: cổ tức, $P_p$: giá thị trường |
+| 16 | $r_e = D_1/P_0 + g$ | Chi phí cổ phần thường — DDM | DN trả cổ tức ổn định, $D_1 = D_0(1+g)$ |
+| 17 | $r_e = r_f + \beta(r_m - r_f)$ | Chi phí cổ phần thường — CAPM | Khi có dữ liệu β và thị trường |
+| 18 | $r_e^{new} = \dfrac{D_1}{P_0(1-f)} + g$ | Chi phí phát hành CP mới | f: chi phí phát hành tỷ lệ trên giá |
+| 19 | $WACC = w_d r_d(1-T) + w_p r_p + w_e r_e$ | Chi phí vốn bình quân gia quyền | Hurdle rate đánh giá dự án |
+| 20 | $D/E = (D/TA)/(1-D/TA)$ | Quy đổi đòn bẩy nợ | Khi đề chỉ cho D/TA |
+| 21 | $EAA = NPV / PVAF(r,n)$ | Chuỗi tiền đều tương đương | So sánh dự án có vòng đời khác nhau |
+| 22 | $r_{TC} = \dfrac{d}{1-d} \times \dfrac{360}{N-k_1}$ | Chi phí tín dụng thương mại | Đánh giá có nên hưởng chiết khấu thanh toán |
+| 23 | $EAR_{discount} = \dfrac{Lãi}{Gốc - Lãi - SDB}$ (kỳ) → quy năm | EAR khoản vay chiết khấu có số dư bù | Tính chi phí thực vay ngân hàng |
 
 ## 🗺️ Mô hình / Khung phân tích chính
 
@@ -111,6 +145,16 @@ subject: "quan-tri-tai-chinh"
 - **Baumol**: Giả định dòng tiền chi ổn định → $C^* = \sqrt{2BT/i}$
 - **Miller-Orr**: Dòng tiền biến động ngẫu nhiên → xác định giới hạn trên (H) và dưới (L) cho tồn quỹ
 
+### Mô hình CAPM (Capital Asset Pricing Model)
+- **Mục đích**: Tính chi phí cổ phần thường dựa trên rủi ro hệ thống
+- **Các thành phần**: $r_f$ (lãi TPCP), β (độ nhạy với thị trường), MRP = $r_m - r_f$ (phần bù rủi ro thị trường)
+- **Cách áp dụng**: $r_e = r_f + \beta \times MRP$. β > 1 ⇒ cổ phiếu rủi ro cao hơn thị trường ⇒ $r_e > r_m$
+
+### Mô hình DDM/Gordon Growth Model
+- **Mục đích**: Tính chi phí cổ phần thường khi DN trả cổ tức tăng đều mỗi năm
+- **Các thành phần**: $D_1$ (cổ tức kỳ tới), $P_0$ (giá hiện tại), g (tốc độ tăng cổ tức)
+- **Cách áp dụng**: $r_e = D_1/P_0 + g$. Phù hợp DN ổn định, không phù hợp DN không trả cổ tức hoặc cổ tức biến động
+
 ## 🔑 Thuật ngữ quan trọng (mini-glossary)
 
 | Thuật ngữ Việt | Tiếng Anh | Định nghĩa ngắn |
@@ -133,6 +177,18 @@ subject: "quan-tri-tai-chinh"
 | Tỷ suất sinh lời doanh thu | ROS | Lợi nhuận sau thuế / Doanh thu thuần |
 | Thuê tài chính | Financial Leasing | Hình thức cấp tín dụng trung/dài hạn qua cho thuê tài sản |
 | Chuỗi tiền đều | Annuity | Dãy khoản tiền bằng nhau phát sinh đều đặn theo kỳ |
+| Chi phí sử dụng vốn | Cost of capital | Tỷ suất sinh lời tối thiểu nhà đầu tư đòi hỏi từ DN |
+| Lãi suất phi rủi ro | Risk-free rate ($r_f$) | Lãi suất TPCP — proxy cho rủi ro 0 |
+| Hệ số Beta | Beta (β) | Đo độ nhạy lợi suất cổ phiếu với thị trường |
+| Phần bù rủi ro thị trường | Market Risk Premium (MRP) | $r_m - r_f$ — phần thưởng đầu tư cổ phiếu so với TPCP |
+| Lá chắn thuế | Tax shield | Tiền thuế tiết kiệm nhờ lãi vay được khấu trừ |
+| Chi phí phát hành | Flotation cost (f) | Phí trả cho ngân hàng đầu tư khi phát hành CP/trái phiếu mới |
+| Cấu trúc vốn | Capital structure | Tỷ trọng nợ dài hạn, CP ưu đãi, CP thường trong nguồn vốn dài hạn |
+| Chuỗi tiền đều tương đương | Equivalent Annual Annuity (EAA) | Quy NPV về dòng tiền đều/năm để so sánh dự án khác vòng đời |
+| Tín dụng thương mại | Trade credit | Nhà cung cấp cấp tín dụng cho người mua qua điều khoản "d/k₁ net N" |
+| Số dư bù | Compensating balance | Khoản tiền NH bắt người vay duy trì trên TK → đẩy EAR thực lên |
+| Lý thuyết đánh đổi | Trade-off Theory | DN cân bằng lá chắn thuế của nợ với chi phí kiệt quệ tài chính |
+| Lý thuyết trật tự ưu tiên | Pecking-order Theory | Nguồn nội bộ → Nợ → CP mới (do bất cân xứng thông tin) |
 
 ## ⚡ Câu hỏi tự kiểm tra nhanh
 
@@ -146,6 +202,15 @@ subject: "quan-tri-tai-chinh"
 8. Tính EOQ với D = 10.000 đơn vị, P = 500.000đ/lần, C = 20.000đ/đơn vị/năm. Số lần đặt hàng trong năm là bao nhiêu?
 9. Phân biệt **thị trường tiền tệ** và **thị trường vốn**. Cho ví dụ công cụ tài chính ở mỗi loại.
 10. Giải thích mô hình **Baumol** trong quản trị tiền. Hạn chế chính của mô hình này là gì?
+11. So sánh ba phương pháp tính chi phí cổ phần thường (**DDM, CAPM, Bond-yield + premium**). Phương pháp nào phù hợp nhất với một DN niêm yết tại VN có cổ tức ổn định?
+12. Tại sao chỉ chi phí **nợ vay** mới được nhân (1-T) trong WACC, còn chi phí cổ phiếu ưu đãi và cổ phần thường thì không?
+13. Một DN có $D/TA = 0{,}6$. Tính D/E. Việc chuyển nợ ngắn hạn sang nợ dài hạn có làm giảm tỷ lệ này không?
+14. Khi NHNN tăng lãi suất, **WACC** của DN có cấu trúc nhiều nợ và DN ít nợ — DN nào chịu tác động lớn hơn? Vì sao?
+15. Tại sao **lợi nhuận giữ lại** rẻ hơn **phát hành cổ phiếu thường mới**? Liên hệ với lý thuyết Pecking-order.
+16. Hai dự án A (n=4, NPV=11M) vs B (n=6, NPV=13M), r=15%. Theo NPV thì B thắng — nhưng dùng **EAA** thì sao? Vì sao EAA công bằng hơn?
+17. Nhà cung cấp đưa điều khoản "**3/15 net 45**". DN nên hưởng chiết khấu hay trả vào ngày 45? (Giả sử lãi vay NH = 12%/năm để so sánh).
+18. Vay 1.000 trđ, lãi suất 12%/năm tính theo kiểu **chiết khấu**, kỳ hạn 6 tháng, NH yêu cầu **số dư bù 10%**. Số tiền thực nhận và EAR là bao nhiêu?
+19. Theo **Trade-off Theory**, vì sao DN không vay 100% nợ dù lá chắn thuế giảm chi phí vốn? Khi nào điểm tối ưu dịch sang phải (vay nhiều hơn)?
 
 ## 🔗 Liên kết
 

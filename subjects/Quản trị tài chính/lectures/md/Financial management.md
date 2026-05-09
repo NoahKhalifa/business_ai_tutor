@@ -8546,3 +8546,288 @@ tình trạng mất khả năng thanh toán, tăng nguy cơ bị phá sản.
 - Việc tăng vốn bằng phát hành trái phiếu có thể dẫn đến hệ số nợ cao.
 Nếu công ty kinh doanh thua lỗ sẽ làm tăng mức thua lỗ trên vốn chủ sở
 hữu, làm giảm vốn chủ sở hữu, giảm giá cổ phiếu của công ty…
+
+---
+
+## CHƯƠNG 7. CHI PHÍ SỬ DỤNG VỐN (COST OF CAPITAL)
+
+> 🤖 **NỘI DUNG CHƯƠNG 7 DO AI BỔ SUNG** *(không có trong file PDF gốc `Financial management.pdf`)*
+>
+> **Lý do bổ sung**: File PDF lecture gốc (216 trang) chỉ trình bày đến Chương 6 (Quản trị tài trợ), trong khi đề bài [trac-nghiem-chuong-7.md](../../exercises/md/trac-nghiem-chuong-7.md) gồm 30 câu trắc nghiệm về **chi phí sử dụng vốn (CAPM, DDM, WACC, chi phí từng nguồn vốn)** lại yêu cầu kiến thức Chương 7. Để có dẫn chiếu lý thuyết khi giải bài, phần dưới đây được AI tổng hợp từ giáo trình chuẩn quốc tế (Brealey–Myers–Allen, *Principles of Corporate Finance*; Brigham–Houston, *Fundamentals of Financial Management*) và giáo trình Việt Nam (PGS.TS. Nguyễn Minh Kiều, *Tài chính Doanh nghiệp Căn bản*, NXB Thống kê).
+>
+> **Phục vụ giải các câu**: Toàn bộ 30 câu trong [trac-nghiem-chuong-7_solution.md](../../solutions/trac-nghiem-chuong-7_solution.md).
+>
+> **Khuyến nghị**: Khi có bản PDF lecture chính thức cho Chương 7 từ giảng viên, hãy thay thế phần này bằng nội dung gốc.
+
+### 7.1. Tổng quan về chi phí sử dụng vốn
+
+#### 7.1.1. Khái niệm
+
+**Chi phí sử dụng vốn (cost of capital)** là tỷ suất sinh lời tối thiểu mà doanh nghiệp phải tạo ra trên các khoản vốn huy động để đảm bảo:
+- Trả lãi cho chủ nợ đúng hạn.
+- Trả cổ tức cho cổ đông ưu đãi theo mức cam kết.
+- Đem lại tỷ suất sinh lời kỳ vọng cho cổ đông thường tương xứng với mức rủi ro họ gánh chịu.
+
+Nói cách khác, chi phí sử dụng vốn là **chi phí cơ hội** của các nhà cung cấp vốn — nếu DN không tạo ra được tỷ suất sinh lời tối thiểu này, các nhà đầu tư sẽ rút vốn để chuyển sang cơ hội khác có cùng mức rủi ro.
+
+#### 7.1.2. Vai trò trong quản trị tài chính
+
+Chi phí sử dụng vốn đóng 3 vai trò quan trọng:
+
+1. **Ngưỡng (hurdle rate) đánh giá dự án**: Một dự án chỉ tạo giá trị cho cổ đông khi IRR > chi phí sử dụng vốn (hoặc NPV chiết khấu theo WACC > 0). Đây là cầu nối giữa Chương 5 (đầu tư dài hạn) và Chương 7.
+2. **Cơ sở định giá doanh nghiệp**: Trong mô hình DCF, dòng tiền tự do được chiết khấu theo WACC để ra giá trị doanh nghiệp.
+3. **Định hướng cấu trúc vốn**: DN có thể tối đa hóa giá trị bằng cách điều chỉnh tỷ trọng nợ/vốn chủ sở hữu để WACC thấp nhất.
+
+#### 7.1.3. Nguyên tắc tính chi phí sử dụng vốn
+
+- **Dùng giá trị thị trường, không dùng giá trị sổ sách** để tính trọng số: $w_d = D_{market}/V$, $w_e = E_{market}/V$.
+- **Sau thuế cho chi phí nợ**: Vì lãi vay được khấu trừ thuế (lá chắn thuế).
+- **Trước thuế cho cổ phiếu (ưu đãi và thường)**: Vì cổ tức không được khấu trừ thuế.
+- **Marginal cost (chi phí cận biên)**: Lý thuyết WACC dùng chi phí huy động vốn mới (mới phát hành), không dùng chi phí lịch sử.
+
+### 7.2. Chi phí của từng nguồn vốn
+
+#### 7.2.1. Chi phí nợ vay sau thuế (rd after-tax)
+
+Lãi vay là chi phí tài chính được khấu trừ trước khi tính thuế thu nhập doanh nghiệp (TNDN). Do đó chi phí nợ thực tế DN gánh chịu sau lá chắn thuế (tax shield):
+
+$$r_d^{at} = r_d \times (1 - T)$$
+
+Trong đó:
+- $r_d$: lãi suất vay danh nghĩa (trước thuế).
+- $T$: thuế suất thuế TNDN.
+
+**Ví dụ**: DN vay ngân hàng 100 tỷ với lãi 10%/năm, T = 20%. Chi phí thực sau thuế = 10% × (1 - 0,2) = **8%**. Hằng năm DN trả 10 tỷ tiền lãi nhưng tiết kiệm được 10 × 20% = 2 tỷ thuế → chi phí ròng chỉ 8 tỷ → tỷ suất chi phí 8%.
+
+> 📌 **Liên hệ bài tập**: Câu 4, 13, 27 trong [trac-nghiem-chuong-7.md](../../exercises/md/trac-nghiem-chuong-7.md) đều áp công thức này.
+
+#### 7.2.2. Chi phí trái phiếu (rb)
+
+Khi DN phát hành trái phiếu, chi phí thực tế là **lợi tức đến hạn (Yield To Maturity – YTM)** mà nhà đầu tư đòi hỏi. Phương trình giá trái phiếu:
+
+$$P = \sum_{t=1}^{n} \dfrac{C}{(1+r_b)^t} + \dfrac{M}{(1+r_b)^n}$$
+
+Trong đó:
+- $P$: giá phát hành (giá thị trường hiện tại).
+- $C$: lãi coupon hàng kỳ (= % coupon × mệnh giá).
+- $M$: mệnh giá (face value).
+- $n$: số kỳ đến đáo hạn.
+
+**Công thức xấp xỉ (khi giải tay không có máy tính):**
+
+$$r_b \approx \dfrac{C + (M-P)/n}{(M+P)/2}$$
+
+Sau thuế: $r_b^{at} = r_b \times (1-T)$.
+
+**Quy tắc quan sát**:
+- $P < M$ (phát hành chiết khấu) ⇒ YTM > coupon rate.
+- $P > M$ (phát hành thặng dư) ⇒ YTM < coupon rate.
+- $P = M$ (phát hành ngang giá) ⇒ YTM = coupon rate.
+
+> 📌 **Liên hệ bài tập**: Câu 5 áp công thức xấp xỉ YTM.
+
+#### 7.2.3. Chi phí cổ phiếu ưu đãi (rp)
+
+Cổ phiếu ưu đãi thường trả cổ tức cố định ($D_p$) vĩnh viễn. Theo công thức giá trị hiện tại của niên kim vô hạn (perpetuity):
+
+$$P_p = \dfrac{D_p}{r_p} \quad \Rightarrow \quad r_p = \dfrac{D_p}{P_p}$$
+
+Trong đó:
+- $D_p$: cổ tức ưu đãi cố định mỗi năm (= % ưu đãi × mệnh giá).
+- $P_p$: giá thị trường hiện tại của cổ phiếu ưu đãi.
+
+**Đặc điểm quan trọng**: $r_p$ KHÔNG nhân (1-T) vì cổ tức ưu đãi không được khấu trừ thuế TNDN. Đây là lý do cổ phiếu ưu đãi thường đắt hơn nợ vay (về mặt chi phí sau thuế).
+
+**Quy tắc quan sát**: Khi $P_p$ tăng → $r_p$ giảm (DN huy động vốn rẻ hơn); khi $P_p$ giảm → $r_p$ tăng.
+
+> 📌 **Liên hệ bài tập**: Câu 16 (định tính), 23, 26 (tính số).
+
+#### 7.2.4. Chi phí cổ phần thường (re) — Ba phương pháp
+
+Cổ phần thường là nguồn vốn có chi phí cao nhất vì cổ đông gánh rủi ro lớn nhất (claimant cuối cùng khi DN phá sản, cổ tức không cố định, không bắt buộc trả). Có 3 phương pháp ước lượng $r_e$:
+
+##### (a) Mô hình chiết khấu cổ tức (DDM / Gordon Growth Model)
+
+Áp dụng khi DN trả cổ tức ổn định và tăng đều với tốc độ g:
+
+$$r_e = \dfrac{D_1}{P_0} + g = \dfrac{D_0(1+g)}{P_0} + g$$
+
+Trong đó:
+- $D_0$: cổ tức kỳ vừa rồi (đã trả).
+- $D_1 = D_0(1+g)$: cổ tức kỳ tới (kỳ vọng).
+- $P_0$: giá cổ phiếu hiện tại.
+- $g$: tốc độ tăng cổ tức ổn định (giả định vĩnh viễn).
+
+**Ưu điểm**: Trực quan, dễ tính nếu có dữ liệu cổ tức.
+**Hạn chế**: Không áp dụng cho DN không trả cổ tức (FPT giai đoạn đầu, các startup); rất nhạy với g.
+
+> 📌 **Liên hệ bài tập**: Câu 11, 24.
+
+##### (b) Mô hình định giá tài sản vốn (CAPM)
+
+$$r_e = r_f + \beta \cdot (r_m - r_f)$$
+
+Trong đó:
+- $r_f$: tỷ suất sinh lời phi rủi ro — thường lấy bằng **lãi suất trái phiếu chính phủ** kỳ hạn dài (10Y phổ biến).
+- $r_m$: tỷ suất sinh lời kỳ vọng của thị trường (chỉ số đại diện như VN-Index, S&P 500).
+- $\beta$: hệ số rủi ro hệ thống của cổ phiếu (đo độ nhạy của cổ phiếu với biến động thị trường).
+- $r_m - r_f$: phần bù rủi ro thị trường (Market Risk Premium – MRP).
+
+**Diễn giải β**:
+- $\beta = 1$: cổ phiếu biến động đồng pha và cùng biên độ với thị trường.
+- $\beta > 1$: cổ phiếu biến động mạnh hơn thị trường (cổ phiếu tăng trưởng/chu kỳ — HPG, MWG).
+- $\beta < 1$: cổ phiếu ít biến động hơn thị trường (cổ phiếu phòng thủ — VNM, REE, các tiện ích).
+- $\beta = 0$: lý thuyết — không có rủi ro hệ thống (TPCP).
+
+**Ưu điểm**: Có cơ sở lý thuyết vững (Markowitz, Sharpe — Nobel 1990); áp dụng được cho mọi cổ phiếu niêm yết.
+**Hạn chế**: Phụ thuộc giả định β ổn định; cần dữ liệu thị trường tốt.
+
+> 📌 **Liên hệ bài tập**: Câu 1 (vai trò $r_f$), 2, 12 (yếu tố cần biết), 30.
+
+##### (c) Phương pháp Bond-yield-plus-risk-premium
+
+$$r_e = r_d + \text{risk premium}$$
+
+Premium thường 3-5% cho thị trường phát triển, có thể 4-7% cho thị trường mới nổi.
+
+**Logic**: Cổ đông gánh rủi ro cao hơn trái chủ → đòi suất lợi tức cao hơn lãi trái phiếu một biên độ rủi ro.
+
+**Ưu điểm**: Đơn giản, nhanh, dùng được khi không có dữ liệu β hoặc cổ tức.
+**Hạn chế**: Premium mang tính chủ quan.
+
+> 📌 **Liên hệ bài tập**: Câu 6.
+
+#### 7.2.5. Chi phí phát hành cổ phần thường mới (re-new)
+
+Khi DN phát hành cổ phiếu mới, phải trả phí cho ngân hàng đầu tư (chi phí phát hành – flotation cost, ký hiệu f, thường 2-7% giá phát hành). Giá ròng DN nhận được giảm xuống $P_0(1-f)$, do đó:
+
+$$r_e^{new} = \dfrac{D_1}{P_0(1-f)} + g = \dfrac{D_0(1+g)}{P_0(1-f)} + g$$
+
+**Hệ quả**: $r_e^{new} > r_e$ (lợi nhuận giữ lại) — chính là cơ sở cho **lý thuyết trật tự ưu tiên (Pecking-order theory)** của Myers (1984): DN ưu tiên dùng lợi nhuận giữ lại trước, rồi đến nợ, cuối cùng mới phát hành cổ phần mới.
+
+> 📌 **Liên hệ bài tập**: Câu 15, 18, 29.
+
+### 7.3. Chi phí sử dụng vốn bình quân gia quyền (WACC)
+
+#### 7.3.1. Công thức tổng quát
+
+$$WACC = w_d \cdot r_d \cdot (1-T) + w_p \cdot r_p + w_e \cdot r_e$$
+
+Mở rộng cho nhiều nguồn vốn (nợ ngân hàng + trái phiếu + ưu đãi + thường):
+
+$$WACC = \sum_i w_i \cdot r_i^{at}$$
+
+với mỗi $r_i^{at}$ đã được hiệu chỉnh thuế nếu là chi phí nợ.
+
+**Trọng số**: Tính theo giá trị thị trường của từng nguồn / tổng giá trị thị trường của DN ($V = D + P + E$).
+
+#### 7.3.2. Quy trình tính WACC (5 bước)
+
+1. **Xác định cấu trúc vốn theo giá trị thị trường**: D, P, E và tỷ trọng tương ứng.
+2. **Tính chi phí từng nguồn**: $r_d^{at}$, $r_p$, $r_e$ (chọn DDM/CAPM/bond+premium phù hợp).
+3. **Áp công thức tổng**.
+4. **Kiểm tra**: WACC phải nằm giữa min và max của các thành phần (thường gần $r_e$ hơn nếu DN nghiêng vốn cổ phần).
+5. **Sensitivity**: Thử thay đổi g, β để xem độ nhạy của WACC.
+
+#### 7.3.3. Yếu tố ảnh hưởng đến WACC
+
+DN có thể tác động đến WACC qua **3 nhóm chính sách**:
+
+| Chính sách | Cơ chế tác động | Ví dụ |
+|---|---|---|
+| Cấu trúc vốn | Đổi $w_d$, $w_e$ → đổi trọng số trực tiếp | Phát hành thêm cổ phiếu để giảm tỷ lệ nợ |
+| Cổ tức | Đổi tỷ lệ lợi nhuận giữ lại vs phát hành CP mới → đổi $r_e$ | Tăng tỷ lệ chi trả → phải phát hành CP mới (đắt hơn) |
+| Đầu tư | Đổi rủi ro β của tài sản → đổi $r_e$ qua CAPM | Đầu tư mạo hiểm vào ngành mới → β tăng → $r_e$ tăng |
+
+Yếu tố ngoài tầm kiểm soát: **lãi suất thị trường** (do NHNN/FED quyết định) — khi tăng thì $r_d$ và $r_e$ đều tăng → WACC tăng.
+
+> 📌 **Liên hệ bài tập**: Câu 9 (3 chính sách), 21 (lãi suất tăng).
+
+#### 7.3.4. Lưu ý quan trọng khi tính WACC
+
+⚠️ **Đọc kỹ "trước thuế" hay "sau thuế" của TỪNG nguồn vốn** — đây là bẫy phổ biến nhất. Nếu đề cho:
+- "Lãi suất vay 10%" → mặc định trước thuế → cần nhân (1-T).
+- "Chi phí nợ sau thuế 8%" → đã sau thuế → dùng thẳng.
+- "Chi phí cổ phiếu ưu đãi 12%" → KHÔNG nhân (1-T) (cổ tức không khấu trừ).
+- "Chi phí cổ phần thường 15%" → KHÔNG nhân (1-T).
+
+> 📌 **Liên hệ bài tập**: Câu 3, 7, 10, 17, 20, 25 — toàn bài WACC, mỗi câu lại có cách trộn "trước thuế / sau thuế" khác nhau.
+
+### 7.4. Cấu trúc vốn và đòn bẩy
+
+#### 7.4.1. Định nghĩa cấu trúc vốn
+
+**Cấu trúc vốn (capital structure)** là tổ hợp các nguồn tài trợ **dài hạn** mà DN sử dụng:
+- Nợ dài hạn (vay dài hạn, trái phiếu).
+- Cổ phiếu ưu đãi.
+- Vốn cổ phần thường (gồm vốn góp + lợi nhuận giữ lại).
+
+⚠️ **Phân biệt với "cấu trúc tài chính" (financial structure)** — cấu trúc tài chính bao gồm cả nợ ngắn hạn (tài sản ngắn hạn = nợ ngắn hạn). Cấu trúc vốn là tập con chỉ tính nguồn dài hạn.
+
+> 📌 **Liên hệ bài tập**: Câu 22.
+
+#### 7.4.2. Các tỷ số đòn bẩy
+
+| Tỷ số | Công thức | Ý nghĩa |
+|---|---|---|
+| $D/TA$ (Debt-to-Assets) | Tổng nợ / Tổng tài sản | % tài sản được tài trợ bằng nợ |
+| $D/E$ (Debt-to-Equity) | Tổng nợ / Vốn chủ sở hữu | Bao nhiêu đồng nợ trên 1 đồng vốn |
+| $D/V$ (Debt-to-Value) | Tổng nợ / Tổng giá trị DN | Tỷ trọng nợ trong cấu trúc vốn (theo thị trường) |
+
+**Quy đổi giữa D/TA và D/E** (vì TA = D + E):
+
+$$\dfrac{D}{E} = \dfrac{D/TA}{1 - D/TA} \quad ; \quad \dfrac{D}{TA} = \dfrac{D/E}{1 + D/E}$$
+
+**Bảng tham chiếu nhanh**:
+
+| D/TA | D/E |
+|---|---|
+| 0,2 | 0,25 |
+| 0,33 | 0,5 |
+| 0,4 | 0,667 |
+| 0,45 | 0,818 |
+| 0,5 | 1,0 |
+| 0,6 | 1,5 |
+| 0,667 | 2,0 |
+
+> 📌 **Liên hệ bài tập**: Câu 8 (D/TA = 0,45), 14 (D/TA = 0,4), 19 (cách giảm D/TA).
+
+#### 7.4.3. Cách điều chỉnh tỷ lệ đòn bẩy
+
+Để **giảm D/TA** (giảm rủi ro tài chính), DN có thể:
+- ✅ **Bán/phát hành cổ phiếu phổ thông** → tăng E → tăng TA, D không đổi → D/TA giảm.
+- ✅ Bán bớt tài sản, dùng tiền trả nợ (giảm cả D và TA, nhưng D giảm tương đối nhanh hơn).
+- ❌ Chuyển nợ ngắn hạn ↔ dài hạn: **không thay đổi D/TA** (chỉ đổi cấu trúc kỳ hạn).
+- ❌ Vay thêm: tăng cả D và TA cùng lượng → D/TA tăng.
+
+> 📌 **Liên hệ bài tập**: Câu 19.
+
+#### 7.4.4. Lý thuyết cấu trúc vốn (giới thiệu)
+
+- **Modigliani-Miller (1958, không thuế)**: Cấu trúc vốn không ảnh hưởng giá trị DN trong thị trường hoàn hảo.
+- **Modigliani-Miller (1963, có thuế)**: Vay nợ tạo lá chắn thuế → DN nên vay 100%.
+- **Trade-off theory**: Cân bằng giữa lợi ích lá chắn thuế và chi phí khốn cùng tài chính (financial distress costs) → có cấu trúc vốn tối ưu.
+- **Pecking-order theory (Myers, 1984)**: Thứ tự ưu tiên: lợi nhuận giữ lại → nợ → CP mới (do thông tin bất đối xứng).
+- **Market timing theory**: DN phát hành cổ phiếu khi giá cao, mua lại khi giá thấp.
+
+### 7.5. Tổng kết Chương 7
+
+**3 thông điệp chính cần nhớ**:
+
+1. **Chi phí sử dụng vốn = chi phí cơ hội của nhà đầu tư**, không phải chi phí kế toán. WACC là hurdle rate khi đánh giá dự án.
+2. **Chỉ chi phí nợ vay được nhân (1-T)** vì lá chắn thuế. Cổ phiếu ưu đãi và cổ phần thường thì không.
+3. **Tăng nợ vay làm WACC giảm tới ngưỡng**, sau ngưỡng đó rủi ro phá sản đẩy chi phí lên — đây là lý do cấu trúc vốn tối ưu là điểm uốn cong, không phải vay càng nhiều càng tốt.
+
+**Bộ công thức cốt lõi cần thuộc**:
+
+$$\boxed{r_d^{at} = r_d(1-T)}$$
+$$\boxed{r_p = D_p/P_p}$$
+$$\boxed{r_e^{DDM} = \dfrac{D_0(1+g)}{P_0} + g}$$
+$$\boxed{r_e^{CAPM} = r_f + \beta(r_m - r_f)}$$
+$$\boxed{r_e^{new} = \dfrac{D_0(1+g)}{P_0(1-f)} + g}$$
+$$\boxed{WACC = w_d \cdot r_d(1-T) + w_p \cdot r_p + w_e \cdot r_e}$$
+$$\boxed{D/E = \dfrac{D/TA}{1-D/TA}}$$
+
+---
+
+> 🤖 **Kết thúc phần do AI bổ sung cho Chương 7.** Phần này phục vụ giải đề [trac-nghiem-chuong-7.md](../../exercises/md/trac-nghiem-chuong-7.md) (30 câu trắc nghiệm). Khi có bản lecture chính thức, vui lòng thay thế.
