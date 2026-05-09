@@ -29,7 +29,7 @@ criteria:
 
 ### Kiểm tra đáp án — Tự giải lại độc lập
 
-Reviewer đã tự giải lại toàn bộ 30 câu dựa trên bài giảng Chương 1 (`Financal management.md`):
+Reviewer đã tự giải lại toàn bộ 30 câu dựa trên bài giảng Chương 1 (`Financial management.md`):
 
 | Câu | Solver | Reviewer | Khớp |
 |-----|--------|----------|------|

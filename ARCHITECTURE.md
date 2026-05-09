@@ -74,8 +74,10 @@ Project được xây trên 4 nguyên tắc:
 
 ## 3. Cấu trúc một môn học
 
+> **Quy ước**: tên folder môn dùng tiếng Việt Unicode (VD: `Quản trị chiến lược`). Trường `subject` trong front-matter MD dùng slug ASCII (`quan-tri-chien-luoc`).
+
 ```
-subjects/quan-tri-chien-luoc/
+subjects/Quản trị chiến lược/
 ├── metadata.yaml
 ├── lectures/
 │   ├── pdf/
@@ -157,26 +159,12 @@ Tương tự cho solution: nếu `status: reviewed` và đề chưa đổi → c
 
 ---
 
-## 6. Rubric Review chi tiết
+## 6. Rubric Review
 
-| # | Tiêu chí | Trọng số | Cách đánh giá |
-|---|---|---|---|
-| 1 | **Chính xác khái niệm/công thức** | 30% | Đối chiếu định nghĩa với bài giảng. Công thức đúng dạng? Đơn vị đúng? |
-| 2 | **Logic lập luận** | 20% | Các bước nối tiếp có hợp lý? Có bước nhảy không? Có giả định ngầm chưa khai báo? |
-| 3 | **Tính toán** | 20% | Reviewer **TỰ TÍNH LẠI**. Sai số > 1% → trừ điểm. |
-| 4 | **Phù hợp ngữ cảnh VN** | 15% | Ví dụ có thật? DN có nêu đúng đặc điểm? Không bịa số liệu? |
-| 5 | **Sư phạm & chi tiết** | 15% | SV đọc có hiểu? Có dẫn chiếu bài giảng? Có "sai lầm thường gặp"? |
+> **Single source of truth**: [`skills/answer-reviewer/SKILL.md`](skills/answer-reviewer/SKILL.md)
 
-**Điều kiện pass**:
-- Tổng điểm có trọng số ≥ **8.0/10** **VÀ**
-- Không có tiêu chí nào < **6.0/10**
-
-Phân loại lỗi:
-| Mức | Tiêu chuẩn | Hành động |
-|---|---|---|
-| **NẶNG** | Sai công thức, sai đáp án cuối, bịa số liệu | Bắt buộc revise |
-| **VỪA** | Sai bước trung gian (đáp cuối vẫn đúng), thiếu dẫn chiếu, bỏ bước | Nên revise |
-| **NHẸ** | Lỗi chính tả, format, ví dụ hơi nhạt | Có thể bỏ qua nếu các tiêu chí khác đạt |
+Tóm tắt: 5 tiêu chí (Chính xác 30%, Logic 20%, Tính toán 20%, Ngữ cảnh VN 15%, Sư phạm 15%).
+**Pass**: tổng ≥ 8.0/10 VÀ không tiêu chí nào < 6.0/10. Chi tiết trọng số, cách chấm, phân loại lỗi → xem skill.
 
 ---
 

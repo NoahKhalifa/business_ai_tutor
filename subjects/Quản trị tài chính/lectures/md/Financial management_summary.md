@@ -1,7 +1,7 @@
 ---
-source_pdf: "Financal management.pdf"
+source_pdf: "Financial management.pdf"
 source_hash: "sha256:F416B5E1CB5156223A289D944F7CABCE4129DE79D665E37A4E4EEE4418892484"
-parent_md: "Financal management.md"
+parent_md: "Financial management.md"
 summary_of: "lecture"
 created_at: "2026-05-09T07:12:00Z"
 subject: "quan-tri-tai-chinh"
@@ -9,7 +9,7 @@ subject: "quan-tri-tai-chinh"
 
 # Tóm tắt: Quản trị Tài chính 1
 
-> Bản tóm tắt cô đọng phục vụ ôn thi & tra cứu nhanh. Đọc bản đầy đủ tại [Financal management.md](./Financal%20management.md).
+> Bản tóm tắt cô đọng phục vụ ôn thi & tra cứu nhanh. Đọc bản đầy đủ tại [Financial management.md](./Financial%20management.md).
 
 ## 🎯 Mục tiêu bài học
 
@@ -149,4 +149,4 @@ subject: "quan-tri-tai-chinh"
 
 ## 🔗 Liên kết
 
-- **Bài giảng đầy đủ**: [Financal management.md](./Financal%20management.md)
+- **Bài giảng đầy đủ**: [Financial management.md](./Financial%20management.md)

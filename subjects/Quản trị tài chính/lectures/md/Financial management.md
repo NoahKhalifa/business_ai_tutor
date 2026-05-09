@@ -1,5 +1,5 @@
 ---
-source_pdf: "Financal management.pdf"
+source_pdf: "Financial management.pdf"
 source_hash: "sha256:F416B5E1CB5156223A289D944F7CABCE4129DE79D665E37A4E4EEE4418892484"
 converted_at: "2026-05-09T07:11:25Z"
 subject: "quan-tri-tai-chinh"

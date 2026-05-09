@@ -12,7 +12,7 @@ total_questions: 30
 
 # Lời giải: Trắc nghiệm Chương 1 — Tổng quan về Quản trị Tài chính Doanh nghiệp
 
-> Dẫn chiếu bài giảng: [Financal management.md](../lectures/md/Financal%20management.md) — Chương 1
+> Dẫn chiếu bài giảng: [Financial management.md](../lectures/md/Financial%20management.md) — Chương 1
 
 ---
 

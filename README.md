@@ -121,7 +121,7 @@ business_ai_tutor/
 │
 ├── subjects/
 │   ├── _template/
-│   └── quan-tri-chien-luoc/
+│   └── Quản trị chiến lược/        ← tên folder = tiếng Việt Unicode
 │       ├── metadata.yaml
 │       ├── lectures/{pdf,md}/          ← PDF qua LFS, MD bình thường
 │       ├── exercises/{pdf,md}/

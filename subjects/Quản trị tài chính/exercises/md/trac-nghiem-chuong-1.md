@@ -1,10 +1,11 @@
 ---
-source_pdf: "trac-nghiem-chuong-1.pdf"
-source_hash: "sha256:ATTACHED_PDF"
+source_pdf: "none"
+source_hash: "manual"
 converted_at: "2026-05-09T12:00:00Z"
 subject: "quan-tri-tai-chinh"
 doc_type: "exercise"
 pages: 16
+note: "Tạo trực tiếp từ đề in, không có file PDF gốc"
 ---
 
 # Quản trị tài chính 1 — Luyện tập trắc nghiệm Chương 1

@@ -21,7 +21,7 @@
 ## Subjects hiện có
 - `subjects/Khởi nghiệp/` — Start up (3 tín chỉ, Khoa Khởi sự kinh doanh)
 - `subjects/Quản trị chiến lược/` — Quản trị Chiến lược (3 tín chỉ, Khoa QTKD)
-- `subjects/Quản trị tài chính/` — Financal management (3 tín chỉ, Khoa QTTC)
+- `subjects/Quản trị tài chính/` — Financial management (3 tín chỉ, Khoa QTTC)
 
 ## Cấu trúc 1 môn
 ```
