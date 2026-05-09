@@ -1,0 +1,25 @@
+subject_code: "QTCL"
+subject_name: "Quản trị Chiến lược"
+credits: 3
+faculty: "Quản trị Kinh doanh"
+description: "Cung cấp khung tư duy để hoạch định, thực thi và đánh giá chiến lược doanh nghiệp."
+learning_outcomes:
+  - "Hiểu các khái niệm cốt lõi về chiến lược"
+  - "Phân tích môi trường kinh doanh bằng các mô hình chuẩn (PESTEL, 5 Forces, SWOT)"
+  - "Hoạch định chiến lược cấp doanh nghiệp và cấp đơn vị kinh doanh"
+  - "Đánh giá và lựa chọn chiến lược phù hợp"
+lectures_order:
+  - "bai-1-tong-quan-quan-tri-chien-luoc"
+  - "bai-2-phan-tich-moi-truong"
+  - "bai-3-chien-luoc-canh-tranh"
+  - "bai-4-chien-luoc-cap-cong-ty"
+  - "bai-5-thuc-thi-va-danh-gia"
+related_subjects:
+  - "marketing-can-ban"
+  - "quan-tri-tai-chinh"
+  - "quan-tri-van-hanh"
+references:
+  - "Hill, Jones (2020). Strategic Management: An Integrated Approach."
+  - "Porter, M. (1985). Competitive Advantage."
+  - "Mintzberg, H. (1994). The Rise and Fall of Strategic Planning."
+  - "Giáo trình Quản trị Chiến lược - NXB Đại học Kinh tế Quốc dân"

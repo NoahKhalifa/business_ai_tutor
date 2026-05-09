@@ -1,0 +1,35 @@
+{
+  "// === Copilot Custom Instructions ===": "",
+  "github.copilot.chat.codeGeneration.useInstructionFiles": true,
+
+  "// === Editor: ưu tiên đọc Markdown gọn ===": "",
+  "files.associations": {
+    "*.instructions.md": "markdown"
+  },
+  "markdown.preview.fontSize": 14,
+  "markdown.preview.lineHeight": 1.6,
+
+  "// === Định dạng MD nhất quán ===": "",
+  "[markdown]": {
+    "files.trimTrailingWhitespace": false,
+    "editor.wordWrap": "on",
+    "editor.quickSuggestions": {
+      "comments": "off",
+      "strings": "off",
+      "other": "off"
+    }
+  },
+
+  "// === Loại trừ folder lớn khỏi search ===": "",
+  "search.exclude": {
+    "**/*.pdf": true,
+    "logs/**": true,
+    "outputs/**": true
+  },
+
+  "// === Hiện file ẩn trong Explorer ===": "",
+  "files.exclude": {
+    "**/.DS_Store": true,
+    "**/Thumbs.db": true
+  }
+}

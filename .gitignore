@@ -1,0 +1,31 @@
+# === COMMIT TẤT CẢ học liệu (PDF qua LFS, MD bình thường) ===
+# subjects/*/lectures/{pdf,md}/*  ← KHÔNG ignore, commit cả
+# subjects/*/exercises/{pdf,md}/* ← KHÔNG ignore, commit cả
+# subjects/*/solutions/*          ← KHÔNG ignore, commit cả
+# subjects/*/extensions/*         ← KHÔNG ignore, commit cả
+
+# === IGNORE ===
+
+# Logs
+logs/*
+!logs/.gitkeep
+
+# Outputs có thể tái sinh
+outputs/*
+!outputs/.gitkeep
+
+# IDE
+# .vscode/  ← KHÔNG ignore vì muốn share settings.json
+.idea/
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Dữ liệu nhạy cảm
+*.local
+secrets/
+
+# Copilot cache (nếu có)
+.copilot/
