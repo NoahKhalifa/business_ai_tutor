@@ -50,6 +50,7 @@ subjects/<slug>/
 - Khớp → SKIP, không convert lại
 - Khác hoặc MD chưa có → convert
 - Chỉ ép convert khi user nói rõ: "biên dịch lại", "ép convert", "force"
+- **Với LECTURE (không phải exercise)**: sau khi convert đầy đủ, TỰ ĐỘNG tạo thêm `<tên>_summary.md` cùng folder — bản tóm tắt cô đọng gồm mục tiêu, kiến thức cốt lõi, công thức, mô hình, glossary, câu hỏi tự kiểm tra. Cũng cache-aware. Chi tiết format: [`skills/pdf-to-md/SKILL.md`](skills/pdf-to-md/SKILL.md) section "Stage bổ sung".
 
 ### Bước 2 — Giải bài (skill: exercise-solver)
 Đọc `skills/exercise-solver/SKILL.md`. Đọc TOÀN BỘ `lectures/md/*.md` để có context. Áp dụng template 8 phần:
@@ -93,6 +94,7 @@ Lưu vào `solutions/<tên-đề>_solution.md`, front-matter `status: draft`.
 5. **Văn phong sư phạm**: Dùng "ta", "chúng ta", câu ngắn. Không "tuyệt vời", "siêu hay".
 6. **Front-matter YAML** ở đầu mỗi MD: bắt buộc.
 7. **Tiếng Việt** là ngôn ngữ chính. Giữ thuật ngữ tiếng Anh trong ngoặc khi cần.
+8. **Công thức toán**: LUÔN trình bày bằng LaTeX trong `$...$` (inline) hoặc `$$...$$` (block). Tuân thủ đầy đủ quy ước trong [`prompts/math-formatting.md`](prompts/math-formatting.md). Áp dụng cho MỌI file MD: lecture đầy đủ, lecture summary, solution, exercise đã convert, extension. Sau công thức luôn định nghĩa biến và đơn vị.
 
 ## 📝 Format front-matter chuẩn
 

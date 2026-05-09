@@ -34,6 +34,7 @@
 - [ ] Có "Kết luận" rõ và hữu ích?
 - [ ] Văn phong có phù hợp (sư phạm, không "sale", không quá hàn lâm)?
 - [ ] Format có dễ scan (heading, bullet, bold đúng chỗ)?
+- [ ] Kiến thức có tổng quát hóa, tóm gọn và đưa ra cách ghi nhớ nhanh, nhớ lâu.
 
 ## G. Bài tập mở rộng (nếu có)
 - [ ] 3 bài luyện có ĐÚNG độ khó tăng dần?

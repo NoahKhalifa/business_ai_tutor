@@ -120,10 +120,110 @@ Chiến lược là tập hợp các quyết định dài hạn...
 | Đối thủ hiện tại | Cạnh tranh trực tiếp về giá, sản phẩm |
 | Đối thủ tiềm ẩn | Rào cản gia nhập ngành |
 ```
+## 📌 Stage bổ sung: Tạo bản tóm tắt cho LECTURE
 
+> Chỉ áp dụng với `doc_type: "lecture"`. Không tạo summary cho exercise.
+
+### Khi nào tạo summary
+- **Tự động**: ngay sau khi convert thành công 1 file lecture PDF → MD đầy đủ.
+- **Chỉ khi đó là lecture**: file trong `subjects/*/lectures/pdf/`, không áp dụng cho `exercises/`.
+- **Cache-aware**: nếu `<tên>_summary.md` đã tồn tại VÀ `source_hash` của nó khớp với hash PDF gốc → SKIP.
+- **Force**: user nói "tóm tắt lại" / "regenerate summary" / "force" → tạo lại.
+
+### Quy ước đặt tên & vị trí
+Hậu tố `_summary.md` cố định, để Copilot và user dễ phân biệt.
+
+### Format file summary
+
+```markdown
+---
+source_pdf: "bai-1-tong-quan.pdf"
+source_hash: "sha256:<hash của PDF gốc, KHÔNG phải hash của file md đầy đủ>"
+parent_md: "bai-1-tong-quan.md"
+summary_of: "lecture"
+created_at: "2026-05-09T..."
+subject: "quan-tri-chien-luoc"
+---
+
+# Tóm tắt: [Tên bài giảng]
+
+> Bản tóm tắt cô đọng phục vụ ôn thi & tra cứu nhanh. Đọc bản đầy đủ tại [bai-1-tong-quan.md](./bai-1-tong-quan.md).
+
+## 🎯 Mục tiêu bài học
+- [3-5 mục tiêu chính, lấy từ phần đầu bài giảng]
+
+## 📚 Kiến thức cốt lõi cần nắm
+
+### 1. [Khái niệm chính 1]
+- **Định nghĩa**: [1-2 câu]
+- **Bản chất**: [Hiểu sâu thêm 1-2 câu]
+- **Vì sao quan trọng**: [1 câu]
+
+### 2. [Khái niệm chính 2]
+...
+
+(Chỉ liệt kê 5-10 khái niệm CỐT LÕI nhất, không phải mọi khái niệm trong bài. Dùng tiêu chí: cái này thi sẽ hỏi.)
+
+## 🧮 Công thức cần thuộc
+
+| STT | Công thức | Ý nghĩa | Khi nào dùng |
+|---|---|---|---|
+| 1 | $BEP = \dfrac{FC}{P - VC}$ | Điểm hòa vốn theo sản lượng | Khi cần biết bán bao nhiêu để hết lỗ |
+| 2 | $NPV = \sum_{t=0}^{n} \dfrac{CF_t}{(1+r)^t}$ | Giá trị hiện tại ròng | Đánh giá dự án đầu tư |
+| ... | ... | ... | ... |
+
+(Nếu bài giảng KHÔNG có công thức → ghi "Bài này không có công thức tính toán; tập trung vào khái niệm và mô hình định tính." và bỏ bảng này.)
+
+## 🗺️ Mô hình / Khung phân tích chính
+
+(Chỉ liệt kê mô hình QUAN TRỌNG: 5 Forces, SWOT, BCG, 4P, McKinsey 7S, Porter Diamond, v.v.)
+
+### [Tên mô hình 1]
+- **Mục đích**: ...
+- **Các thành phần**: [bullet ngắn]
+- **Cách áp dụng**: [1-2 câu]
+
+## 🔑 Thuật ngữ quan trọng (mini-glossary)
+
+| Thuật ngữ Việt | Tiếng Anh | Định nghĩa ngắn |
+|---|---|---|
+| Lợi thế cạnh tranh | Competitive advantage | ... |
+| Chuỗi giá trị | Value chain | ... |
+| ... | ... | ... |
+
+## ⚡ Câu hỏi tự kiểm tra nhanh
+1. [Câu hỏi 1 — kiểm tra hiểu khái niệm]
+2. [Câu hỏi 2 — kiểm tra áp dụng công thức]
+3. [Câu hỏi 3 — kiểm tra phân biệt khái niệm gần nhau]
+
+## 🔗 Liên kết
+- **Bài giảng đầy đủ**: [bai-1-tong-quan.md](./bai-1-tong-quan.md)
+- **Bài tiếp theo cần học**: [bai-2-...](./bai-2-...md) (nếu có trong `metadata.yaml`)
+- **Liên quan tới bài tập**: [đề ôn tập tương ứng] (nếu đã có trong `exercises/md/`)
+```
+
+### Quy tắc viết summary
+
+1. **Cô đọng nhưng đủ**: target ~1/4 đến 1/5 độ dài bản đầy đủ. Sinh viên đọc summary trong 10-15 phút phải nắm được khung kiến thức.
+2. **Lấy từ bản MD đầy đủ, không từ PDF**: tiết kiệm token và đảm bảo nhất quán.
+3. **Bám sát nội dung gốc**: KHÔNG bịa khái niệm/công thức không có trong bài giảng.
+4. **Công thức phải đúng định dạng LaTeX** trong `$...$` hoặc `$$...$$`.
+5. **Bảng glossary**: chỉ thuật ngữ thực sự xuất hiện trong bài, không tự thêm thuật ngữ ngoài.
+6. **Câu hỏi tự kiểm tra**: 3-5 câu, mở (không yes/no), trả lời được sau khi đọc summary.
+7. **Nếu bài giảng quá ngắn** (< 5 trang) → vẫn tạo summary nhưng có thể bỏ qua một số mục (vd: không có công thức).
+
+### Quy trình thực hiện
+1. Sau khi convert xong <tên>.md (đầy đủ):
+2. Kiểm tra file <tên>_summary.md đã tồn tại chưa
+→ Nếu có và source_hash khớp → SKIP
+3. Đọc <tên>.md (bản đầy đủ)
+4. Tạo <tên>_summary.md theo format trên
+5. Front-matter: source_hash COPY từ file <tên>.md (cùng PDF gốc)
+6. Báo user: "Đã tạo summary cho bai-1-tong-quan"
 ## Báo cáo cho user
 ```
 ✅ Convert hoàn tất môn: <slug>
-   • Lectures: 5 file (3 mới, 2 cache hit)
-   • Exercises: 2 file (1 mới, 1 cache hit)
+• Lectures: 5 file (3 mới, 2 cache hit)
+- Trong đó 5 file đã có summary (3 mới tạo, 2 cache hit)
+• Exercises: 2 file (1 mới, 1 cache hit) — không tạo summary
 ```

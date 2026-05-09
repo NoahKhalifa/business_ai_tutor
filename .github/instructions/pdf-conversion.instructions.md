@@ -26,6 +26,36 @@ doc_type: "lecture" | "exercise"
 pages: <số>
 ---
 ```
+## 📌 Bản tóm tắt cho lecture (BẮT BUỘC)
+
+Sau khi convert một file LECTURE PDF → MD đầy đủ, **luôn tạo thêm** một file tóm tắt:
+
+- **Tên**: `<tên>_summary.md` (cùng folder `lectures/md/`)
+- **Chỉ áp dụng với lecture**, KHÔNG tạo summary cho exercise
+- **Cache-aware**: nếu file summary đã có và `source_hash` khớp → SKIP
+- **Force**: khi user nói "tóm tắt lại" / "regenerate summary"
+
+### Nội dung file summary phải có:
+1. Mục tiêu bài học (3-5 ý)
+2. Kiến thức cốt lõi (5-10 khái niệm quan trọng nhất)
+3. Bảng công thức cần thuộc (LaTeX trong `$...$`)
+4. Mô hình/khung phân tích chính
+5. Mini-glossary thuật ngữ Việt-Anh
+6. 3-5 câu hỏi tự kiểm tra
+
+### Front-matter file summary
+```yaml
+---
+source_pdf: "<tên>.pdf"
+source_hash: "sha256:..."   # COPY từ file MD đầy đủ
+parent_md: "<tên>.md"
+summary_of: "lecture"
+created_at: "<ISO-8601>"
+subject: "<slug-môn>"
+---
+```
+
+Chi tiết format đầy đủ: xem section "Stage bổ sung: Tạo bản tóm tắt" trong [`skills/pdf-to-md/SKILL.md`](../../skills/pdf-to-md/SKILL.md).
 
 ## Tham chiếu chi tiết
 Đọc [`skills/pdf-to-md/SKILL.md`](../../skills/pdf-to-md/SKILL.md) để biết:

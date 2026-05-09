@@ -32,6 +32,7 @@
 
 ### ✅ Kết luận
 <đáp án cuối + ý nghĩa thực tiễn cho doanh nghiệp>
+<Nhắc lại các kiến thức nền liên quan, khái quát hóa, rút gọn>
 
 ### ⚠️ Sai lầm thường gặp
 - <Lỗi 1 SV hay mắc> — cách tránh: ...
@@ -39,6 +40,7 @@
 
 ### 💡 Mẹo / Ghi chú
 <nếu có>
+<Đưa ra cách ghi nhớ đơn giản, nhanh và nhớ được lâu>
 
 ### 🏢 Ví dụ thực tế (sẽ được example-generator thêm vào)
 <placeholder>
