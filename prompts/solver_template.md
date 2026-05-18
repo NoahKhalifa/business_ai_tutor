@@ -5,7 +5,15 @@
 ### 📋 Đề bài
 > <trích nguyên văn đề>
 
-### 🎯 Phân tích đề
+### � Nội dung Audio (chỉ khi bài có audio — xóa section này nếu không có)
+> **Nguồn**: [tên-file.mp3] | ⏱️ [M:SS]
+>
+> **[00:00] Speaker 1**: ...
+> **[00:05] Speaker 2**: ...
+> ...
+> *(In nguyên văn full transcript, giữ nguyên ngôn ngữ gốc, KHÔNG dịch)*
+
+### �🎯 Phân tích đề
 - **Dạng bài**: <VD: phân tích SWOT, tính NPV, hoạch định nhân sự...>
 - **Yêu cầu chính**: <tách thành các yêu cầu nhỏ>
 - **Dữ kiện đã cho**: <liệt kê>

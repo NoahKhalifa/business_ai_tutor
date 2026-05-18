@@ -28,6 +28,13 @@
 - [ ] Liên hệ giữa case và khái niệm có rõ ràng?
 - [ ] Có ưu tiên DN Việt Nam không?
 
+## F. Audio / Transcript (chỉ áp dụng khi bài có audio)
+- [ ] Transcript có đầy đủ, không bị cắt xén so với file gốc?
+- [ ] Đáp án listening khớp với nội dung transcript (tự đọc transcript để verify)?
+- [ ] Solver có trích dẫn đúng timestamp / speaker khi dẫn chứng?
+- [ ] Speaker được phân biệt rõ ràng trong transcript?
+- [ ] Transcript giữ nguyên ngôn ngữ gốc, KHÔNG bị dịch?
+
 ## F. Sư phạm
 - [ ] Sinh viên đọc lần đầu có hiểu được không?
 - [ ] Có phần "Sai lầm thường gặp"?

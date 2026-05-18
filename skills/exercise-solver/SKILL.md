@@ -135,6 +135,40 @@ Khi đọc bài giảng để có context giải bài, áp dụng chiến lượ
 - User yêu cầu "dẫn chiếu chính xác mục X.Y" → mở chính xác bài đó
 - Lời giải bị reviewer phát hiện sai → đọc lại bài đầy đủ liên quan để sửa
 
+## Xử lý bài tập có audio (listening / pronunciation)
+
+> **Section này CHỈ áp dụng khi môn có `media_types: ["audio"]` trong `metadata.yaml`.**
+> Các môn KHÔNG có cờ này → bỏ qua toàn bộ section, xử lý như bình thường.
+
+### Khi nào cần đọc transcript
+- Đề bài chứa từ khóa: "Listen", "nghe", "audio", "recording", "conversation", "dialogue", "speaker"
+- Đề bài tham chiếu file MP3 hoặc audio cụ thể
+- Phần hướng dẫn đề yêu cầu nghe trước khi trả lời
+
+### Cách tìm transcript
+1. Tên transcript = tên file audio (bỏ extension) + `_transcript.md`, nằm trong `exercises/md/` hoặc `lectures/md/`.
+   - VD: đề tham chiếu `unit-1-listening.mp3` → tìm `exercises/md/unit-1-listening_transcript.md`
+2. Nếu KHÔNG tìm thấy transcript → báo user chạy skill `audio-to-transcript` trước.
+
+### Strategy đọc transcript (tiết kiệm token)
+- **Transcript ngắn** (không có file `_transcript_summary.md`) → đọc trực tiếp full transcript.
+- **Transcript dài** (có file `_transcript_summary.md`) → đọc summary trước. Chỉ mở full transcript khi cần verify chi tiết câu nói cụ thể.
+
+### Cách tích hợp transcript vào lời giải
+- Coi transcript là **"dữ kiện đã cho"** trong phần `🎯 Phân tích đề`.
+- Thêm section `🎧 Nội dung Audio (Transcript)` ngay sau `📋 Đề bài` — in NGUYÊN VĂN full transcript.
+- Khi trích dẫn đáp án, ghi rõ: "Theo transcript [HH:MM], Speaker X nói: '...'"
+- Front-matter solution thêm 2 field:
+  ```yaml
+  transcript_file: "<tên>_transcript.md"
+  audio_file: "<tên>.mp3"
+  ```
+
+### Lưu ý
+- KHÔNG dịch transcript sang tiếng Việt trong phần `🎧` — giữ nguyên ngôn ngữ gốc.
+- Phần giải thích / lời giải vẫn viết bằng tiếng Việt, giữ thuật ngữ gốc trong ngoặc.
+- Nếu đề listening có nhiều phần (Part 1, Part 2...) → giải từng phần, trích đúng đoạn transcript liên quan.
+
 ## Khi nào dùng skill khác
 - Sau khi giải xong → CHUYỂN sang skill `example-generator` để thêm ví dụ thực tế.
 - Sau example-generator → `extension-builder` để thêm bài tập mở rộng.

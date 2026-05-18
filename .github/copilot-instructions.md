@@ -9,6 +9,7 @@ Hệ thống học liệu AI cho sinh viên ngành **Quản trị Kinh doanh** (
 | User yêu cầu | Đọc file này trước |
 |---|---|
 | Convert PDF / biên dịch / extract bài giảng | `skills/pdf-to-md/SKILL.md` |
+| Transcribe audio / chuyển MP3 / xử lý file nghe | `skills/audio-to-transcript/SKILL.md` |
 | Giải bài tập / hướng dẫn giải / phân tích case | `skills/exercise-solver/SKILL.md` |
 | Thêm ví dụ thực tế / DN Việt Nam nào | `skills/example-generator/SKILL.md` |
 | Bài luyện thêm / mở rộng / câu hỏi ôn thi | `skills/extension-builder/SKILL.md` |
@@ -19,8 +20,9 @@ Hệ thống học liệu AI cho sinh viên ngành **Quản trị Kinh doanh** (
 
 ## 🔄 Pipeline mặc định khi user nói "Giải đề X"
 
+0. **audio-to-transcript** *(chỉ khi môn có `media_types: ["audio"]` trong metadata.yaml)*: Transcribe MP3 (cache theo SHA-256 — skip nếu đã có)
 1. **pdf-to-md**: Convert PDF (cache theo SHA-256 — skip nếu đã có) + tạo `_summary.md` cho lecture
-2. **exercise-solver**: Giải đầy đủ, lưu `solutions/<đề>_solution.md`
+2. **exercise-solver**: Giải đầy đủ, lưu `solutions/<đề>_solution.md` (+ section 🎧 nếu có audio)
 3. **example-generator**: Thêm ví dụ DN Việt Nam
 4. **extension-builder**: Tạo `extensions/<đề>_extended.md`
 5. **answer-reviewer**: Chấm điểm, sửa nếu < 8.0/10. Đọc skill này khi review.
@@ -33,6 +35,7 @@ Hệ thống học liệu AI cho sinh viên ngành **Quản trị Kinh doanh** (
 4. **Tiếng Việt** là ngôn ngữ chính.
 5. **Công thức toán**: LaTeX trong `$...$` hoặc `$$...$$` — chi tiết tại `prompts/math-formatting.md`.
 6. **Front-matter YAML** ở đầu mọi MD sinh ra (format trong skill tương ứng).
+7. **Transcript nguyên văn**: KHÔNG tóm tắt, KHÔNG dịch, KHÔNG sửa nội dung audio gốc khi transcribe.
 
 ## 🎯 Mode bắt buộc
 
@@ -40,8 +43,8 @@ User phải ở **Agent mode** + model **Claude Sonnet 4.6** để đọc/ghi fi
 
 ## 📂 Cấu trúc nhanh
 ```
-skills/{pdf-to-md, exercise-solver, example-generator, extension-builder, answer-reviewer}/SKILL.md
-subjects/<slug>/{lectures, exercises}/{pdf, md}/  +  solutions/  +  extensions/
+skills/{pdf-to-md, audio-to-transcript, exercise-solver, example-generator, extension-builder, answer-reviewer}/SKILL.md
+subjects/<slug>/{lectures, exercises}/{pdf, md, audio}/  +  solutions/  +  extensions/
 prompts/{math-formatting, solver_template, reviewer_checklist}.md
 ```
 

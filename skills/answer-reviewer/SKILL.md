@@ -177,8 +177,23 @@ Khi đến bước review, Claude phải:
 
 Nếu user đang dùng cùng 1 chat từ stage 2 (solver) sang stage 5 (reviewer) → khuyến nghị user mở **chat mới** cho bước review để đảm bảo tính độc lập tối đa. Hoặc Claude đặt mình vào vai trò "giảng viên thứ hai" và chủ động quên thinking trước đó.
 
+## Tiêu chí bổ sung cho bài có audio / transcript
+
+> **Section này CHỈ áp dụng khi lời giải có section `🎧 Nội dung Audio`.**
+> Các bài KHÔNG có audio → bỏ qua, rubric 5 tiêu chí gốc giữ nguyên.
+
+Khi review bài listening, ngoài 5 tiêu chí chính, reviewer kiểm tra thêm:
+
+1. **Transcript đầy đủ**: So sánh section `🎧` trong solution với file `_transcript.md` gốc — có bị cắt xén / thiếu đoạn không?
+2. **Đáp án khớp transcript**: Reviewer TỰ ĐỌC transcript, tìm câu trả lời trong nội dung → đối chiếu với đáp án solver. Nếu solver trích sai hoặc bịa nội dung không có trong transcript → lỗi NẶNG.
+3. **Trích dẫn chính xác**: Solver có ghi rõ timestamp / speaker khi trích dẫn không?
+4. **Ngôn ngữ transcript**: Transcript phải giữ nguyên ngôn ngữ gốc, KHÔNG dịch.
+
+Các lỗi transcript ảnh hưởng đến tiêu chí 1 (Chính xác) và tiêu chí 2 (Logic) trong rubric chính.
+
 ## Edge cases
 - **Lời giải đã rất tốt** → vẫn phải review nghiêm túc, không cho điểm cao chỉ vì "trông ổn". Đặc biệt verify TÍNH TOÁN.
 - **Đề có nhiều đáp án đúng** (case study) → đánh giá CHẤT LƯỢNG LẬP LUẬN, không bắt phải khớp đáp án của reviewer.
 - **Reviewer không chắc** về một mảng kiến thức → ghi rõ "Cần chuyên gia ngành kiểm tra thêm" thay vì cho điểm bừa.
 - **Phát hiện solver đã bịa số liệu** (vd: "Vinamilk doanh thu 2024 đạt X tỷ") → trừ NẶNG ở tiêu chí 4, yêu cầu solver xóa hoặc đổi sang ngôn ngữ ước lượng.
+- **Transcript audio chất lượng kém** (có `[inaudible]`) → không trừ điểm solver nếu đáp án ghi "không rõ", nhưng yêu cầu ghi chú rõ ràng.

@@ -8,3 +8,8 @@ learning_outcomes:
 lectures_order: []
 related_subjects: []
 references: []
+
+# === Tùy chọn: Media mở rộng ===
+# Chỉ điền khi môn có file audio/video. Các môn không có media → để trống hoặc xóa.
+media_types: []            # ["audio"] nếu môn có MP3 listening, ["audio", "video"] nếu có cả video
+audio_language: ""         # "en", "vi", "ja"... — ngôn ngữ chính của audio, dùng cho Whisper --language
