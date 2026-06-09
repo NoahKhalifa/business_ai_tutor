@@ -1,0 +1,17 @@
+subject_code: "MM"
+subject_name: "Marketing management"
+credits: 3
+faculty: "Business Administration"
+description: "Introduces marketing planning, market analysis, segmentation, targeting, positioning, and marketing mix decisions."
+learning_outcomes:
+  - "Explain key concepts and frameworks in marketing management"
+  - "Analyze markets, customers, competitors, and marketing environments"
+  - "Design marketing strategies using segmentation, targeting, positioning, and the marketing mix"
+lectures_order: []
+related_subjects:
+  - "Business management psychology"
+  - "Purchasing and supply management"
+  - "Strategic management"
+references: []
+media_types: []
+audio_language: ""

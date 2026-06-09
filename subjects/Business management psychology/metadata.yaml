@@ -1,0 +1,17 @@
+subject_code: "BMP"
+subject_name: "Business management psychology"
+credits: 3
+faculty: "Business Administration"
+description: "Introduces psychological principles that help explain individual, group, and managerial behavior in business organizations."
+learning_outcomes:
+  - "Explain core psychological concepts relevant to management and organizational behavior"
+  - "Analyze motivation, perception, communication, leadership, and decision-making in business contexts"
+  - "Apply psychology-based approaches to improve teamwork, performance, and workplace well-being"
+lectures_order: []
+related_subjects:
+  - "Marketing management"
+  - "Business management"
+  - "Human resource management"
+references: []
+media_types: []
+audio_language: ""

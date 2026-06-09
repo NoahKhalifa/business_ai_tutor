@@ -24,6 +24,9 @@
 - `subjects/Quản trị chiến lược/` — Quản trị Chiến lược (3 tín chỉ, Khoa QTKD)
 - `subjects/Quản trị tài chính/` — Financial management (3 tín chỉ, Khoa QTTC)
 - `subjects/Tiếng Anh/` — Tiếng Anh (có audio listening, `media_types: ["audio"]`)
+- `subjects/Business management psychology/` — Business management psychology (3 tín chỉ, Khoa Business Administration)
+- `subjects/Purchasing and supply management/` — Purchasing and supply management (3 tín chỉ, Khoa Business Administration)
+- `subjects/Marketing management/` — Marketing management (3 tín chỉ, Khoa Business Administration)
 
 ## Cấu trúc 1 môn
 ```
