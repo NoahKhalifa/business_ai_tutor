@@ -18,6 +18,7 @@
 ## Docs
 - `README.md` — hướng dẫn cho user
 - `ARCHITECTURE.md` — sơ đồ luồng + rubric chi tiết
+- `TODO.md` — việc dang dở / handoff giữa các session (đọc đầu mỗi session)
 
 ## Subjects hiện có
 - `subjects/Khởi sự kinh doanh/` — Start up (3 tín chỉ, Khoa Khởi sự kinh doanh)

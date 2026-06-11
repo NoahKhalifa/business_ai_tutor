@@ -4,8 +4,11 @@
 
 ## Bắt buộc đọc trước
 
-1. [`../AGENTS.md`](../AGENTS.md) — TL;DR 60s, routing skill, pipeline 6 stage, quy tắc bất biến, naming convention, cấu trúc project.
-2. Skill tương ứng với task user yêu cầu (bảng routing trong AGENTS.md).
+1. [`../TODO.md`](../TODO.md) — **việc dang dở từ session trước** (lỗi đáp án cần sửa, lời giải cần viết lại, review cần làm lại…). Trước task mới, kiểm tra có mục `pending` nào liên quan môn/chương user đang nhắc tới — nếu có, ưu tiên xử lý hoặc warn user.
+2. [`../AGENTS.md`](../AGENTS.md) — TL;DR 60s, routing skill, pipeline 6 stage, quy tắc bất biến, naming convention, cấu trúc project.
+3. Skill tương ứng với task user yêu cầu (bảng routing trong AGENTS.md).
+
+Khi hoàn thành task có việc dang dở để lại → cập nhật [`../TODO.md`](../TODO.md). KHÔNG để việc dang dở chỉ tồn tại trong chat session.
 
 Trả lời và viết MD **bằng tiếng Việt**.
 

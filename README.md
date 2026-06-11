@@ -216,6 +216,7 @@ Chi tiết trong `skills/answer-reviewer/SKILL.md`. Tóm tắt:
 
 ## 📚 Đọc thêm
 
+- [`TODO.md`](TODO.md) — **Việc dang dở giữa các session** (lỗi đáp án cần sửa, lời giải cần viết lại…). Mọi agent đọc trước khi bắt đầu task mới.
 - [`AGENTS.md`](AGENTS.md) — **Canonical rules cho mọi AI agent** (Codex, Claude Code, Cursor, Copilot…). Single source of truth.
 - [`.github/copilot-instructions.md`](.github/copilot-instructions.md) — Chỉ phần khác biệt cho Copilot (Agent mode, settings, model picker). Trỏ về AGENTS.md cho mọi rule chung.
 - [`ARCHITECTURE.md`](ARCHITECTURE.md) — Sơ đồ luồng & rubric chi tiết

@@ -8,6 +8,7 @@ Project này là **Business AI Tutor**: hệ thống học liệu AI hỗ trợ 
 
 ## ⚡ TL;DR — Đọc trong 60 giây
 
+0. **Đọc [`TODO.md`](TODO.md) đầu tiên**: file này liệt kê việc dang dở từ session trước (lỗi đáp án cần sửa, lời giải cần viết lại, review cần làm lại…). Trước khi bắt đầu task mới, kiểm tra xem có mục `pending` nào liên quan đến môn/chương user đang nhắc tới không — nếu có, ưu tiên xử lý hoặc ít nhất warn user.
 1. **Trước khi bắt tay**: tra bảng [Routing theo yêu cầu](#routing-theo-yêu-cầu) → đọc skill tương ứng trong `skills/<tên>/SKILL.md`. Đừng đoán workflow.
 2. **Pipeline mặc định khi user nói "Giải đề X"**: audio→transcript *(nếu môn có audio)* → pdf→md → solver → example → extension → reviewer. Chi tiết: [Pipeline mặc định](#pipeline-mặc-định-khi-user-nói-giải-đề-x).
 3. **Cache-first**: nếu PDF/audio đã có MD/transcript và `source_hash` khớp thì SKIP, trừ khi user yêu cầu force.
@@ -47,6 +48,7 @@ Project này là **Business AI Tutor**: hệ thống học liệu AI hỗ trợ 
 | Checklist review | `prompts/reviewer_checklist.md` |
 | Sơ đồ pipeline và cache | `ARCHITECTURE.md` |
 | Định vị nhanh project | `INDEX.md` |
+| Việc dang dở / handoff giữa các session | `TODO.md` |
 
 ## Pipeline mặc định khi user nói "Giải đề X"
 
@@ -257,4 +259,5 @@ Không review theo kiểu "đọc và gật đầu". Mục tiêu là tìm lỗi 
 - Với lecture convert, có summary nếu cần không?
 - Với review, có điểm/verdict và tiêu chí rõ không?
 - `git status --short` có thay đổi nào ngoài phạm vi cần nhắc user không?
+- Nếu task vừa làm có việc dang dở để lại (vd sửa được 3/5 đáp án sai, hoặc phát hiện thêm vấn đề chưa fix) → **cập nhật [`TODO.md`](TODO.md)**: thêm mục mới, hoặc đánh dấu mục hiện có là `✅ Đã xong`. KHÔNG để việc dang dở chỉ tồn tại trong chat session.
 
