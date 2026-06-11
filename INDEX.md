@@ -20,13 +20,14 @@
 - `ARCHITECTURE.md` — sơ đồ luồng + rubric chi tiết
 
 ## Subjects hiện có
-- `subjects/Khởi nghiệp/` — Start up (3 tín chỉ, Khoa Khởi sự kinh doanh)
+- `subjects/Khởi sự kinh doanh/` — Start up (3 tín chỉ, Khoa Khởi sự kinh doanh)
 - `subjects/Quản trị chiến lược/` — Quản trị Chiến lược (3 tín chỉ, Khoa QTKD)
 - `subjects/Quản trị tài chính/` — Financial management (3 tín chỉ, Khoa QTTC)
 - `subjects/Tiếng Anh/` — Tiếng Anh (có audio listening, `media_types: ["audio"]`)
-- `subjects/Business management psychology/` — Business management psychology (3 tín chỉ, Khoa Business Administration)
-- `subjects/Purchasing and supply management/` — Purchasing and supply management (3 tín chỉ, Khoa Business Administration)
-- `subjects/Marketing management/` — Marketing management (3 tín chỉ, Khoa Business Administration)
+- `subjects/Tâm lý quản trị kinh doanh/` — Tâm lý quản trị kinh doanh (3 tín chỉ, Khoa Business Administration)
+- `subjects/Mua và quản trị nguồn cung/` — Mua và quản trị nguồn cung (3 tín chỉ, Khoa Business Administration)
+- `subjects/Quản trị marketing/` — Quản trị marketing (3 tín chỉ, Khoa Business Administration)
+- `subjects/Chủ nghĩa xã hội khoa học/` — CNXHKH (2 tín chỉ, Khoa Lý luận chính trị)
 
 ## Cấu trúc 1 môn
 ```

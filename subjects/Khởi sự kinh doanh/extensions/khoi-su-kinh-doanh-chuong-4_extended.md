@@ -181,7 +181,7 @@ Khi khởi sự kinh doanh **dịch vụ**, 4P chưa đủ. Cần thêm:
 
 ## 📚 Đọc thêm
 
-- **Sách**: *Marketing Management* — Philip Kotler & Kevin Keller — Chương về Pricing Strategy & Product Levels
+- **Sách**: *Quản trị marketing* — Philip Kotler & Kevin Keller — Chương về Pricing Strategy & Product Levels
 - **Sách**: *The Lean Startup* — Eric Ries — Phương pháp MVP & validated learning
 - **Sách VN**: *Khởi sự doanh nghiệp* — NXB Đại học Kinh tế Quốc dân
 - **Blog/Media VN**: Brands Vietnam (brandsvietnam.com) — phân tích chiến lược marketing các thương hiệu VN; Vietcetera Business — podcast & bài viết về startup Việt Nam

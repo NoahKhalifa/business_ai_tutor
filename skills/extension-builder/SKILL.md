@@ -105,7 +105,7 @@ created_at: "2026-05-09T..."
 
 ### Khi giới thiệu nguồn đọc:
 - CHỈ ghi sách/bài thực sự tồn tại và uy tín.
-- An toàn: Strategic Management (Hill & Jones), Marketing Management (Kotler), Principles of Corporate Finance (Brealey & Myers), Operations Management (Heizer & Render), Human Resource Management (Dessler).
+- An toàn: Strategic Management (Hill & Jones), Quản trị marketing (Kotler), Principles of Corporate Finance (Brealey & Myers), Operations Management (Heizer & Render), Human Resource Management (Dessler).
 - Sách Việt Nam: NXB Trẻ, NXB Lao động, NXB Đại học Kinh tế Quốc dân.
 - KHÔNG bịa tên sách hoặc DOI.
 

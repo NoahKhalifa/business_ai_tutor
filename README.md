@@ -4,6 +4,8 @@ Hệ thống học liệu AI hỗ trợ học chuyên ngành **Quản trị Kinh
 
 > **Cách dùng**: Project hoạt động qua **VS Code + GitHub Copilot Chat (Agent mode)** với model **Claude Sonnet 4.6**. Không cần code Python, không cần API key trực tiếp (Copilot đã tích hợp).
 
+> 👋 **Bạn là AI agent (Codex, Claude Code, Cursor, Aider, Copilot)?** → đọc [`AGENTS.md`](AGENTS.md). Đó là single source of truth cho mọi quy tắc, pipeline, naming convention, skill routing. README này dành cho người dùng.
+
 ---
 
 ## 🚀 Setup nhanh
@@ -112,8 +114,9 @@ business_ai_tutor/
 ├── README.md                           ← File này
 ├── ARCHITECTURE.md                     ← Sơ đồ luồng + rubric chi tiết
 │
-├── skills/                             ← 5 skill cốt lõi (Copilot đọc khi cần)
+├── skills/                             ← 6 skill cốt lõi (Copilot đọc khi cần)
 │   ├── pdf-to-md/SKILL.md
+│   ├── audio-to-transcript/SKILL.md    ← chỉ dùng cho môn có media_types: ["audio"]
 │   ├── exercise-solver/SKILL.md
 │   ├── example-generator/SKILL.md
 │   ├── extension-builder/SKILL.md
@@ -213,8 +216,21 @@ Chi tiết trong `skills/answer-reviewer/SKILL.md`. Tóm tắt:
 
 ## 📚 Đọc thêm
 
-- [`.github/copilot-instructions.md`](.github/copilot-instructions.md) — Hướng dẫn cho Copilot (tự đọc)
+- [`AGENTS.md`](AGENTS.md) — **Canonical rules cho mọi AI agent** (Codex, Claude Code, Cursor, Copilot…). Single source of truth.
+- [`.github/copilot-instructions.md`](.github/copilot-instructions.md) — Chỉ phần khác biệt cho Copilot (Agent mode, settings, model picker). Trỏ về AGENTS.md cho mọi rule chung.
 - [`ARCHITECTURE.md`](ARCHITECTURE.md) — Sơ đồ luồng & rubric chi tiết
+- [`INDEX.md`](INDEX.md) — Bản đồ subject + skill
 - [`skills/*/SKILL.md`](skills/) — Logic của từng skill
+- [`scripts/check-project.ps1`](scripts/check-project.ps1) — Audit trạng thái project, sinh `STATUS.md` cho mỗi môn
 - [VS Code Copilot Customization docs](https://code.visualstudio.com/docs/copilot/customization/custom-instructions)
 - [Git LFS docs](https://git-lfs.com)
+
+### Kiểm tra trạng thái project
+
+```powershell
+pwsh scripts/check-project.ps1                    # toàn project
+pwsh scripts/check-project.ps1 -Subject "<tên>"   # 1 môn
+pwsh scripts/check-project.ps1 -WriteStatus       # đè STATUS.md cho mỗi môn
+```
+
+Script phát hiện: PDF chưa convert, solution chưa review, `exercise_file` trỏ về file không tồn tại, môn thiếu folder/metadata. Exit 1 nếu có issues.
