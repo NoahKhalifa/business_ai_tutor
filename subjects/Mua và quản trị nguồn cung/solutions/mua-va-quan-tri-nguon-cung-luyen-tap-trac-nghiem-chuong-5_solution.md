@@ -2,7 +2,7 @@
 exercise_file: "Mua và quản trị nguồn cung_Luyện tập trắc nghiệm Chương 5.md"
 solved_at: "2026-06-11T22:00:00+07:00"
 status: "draft"
-review_round: 0
+review_round: 1
 total_questions: 30
 examples_added: true
 extensions_file: "../extensions/mua-va-quan-tri-nguon-cung-luyen-tap-trac-nghiem-chuong-5_extended.md"
@@ -28,7 +28,7 @@ extensions_file: "../extensions/mua-va-quan-tri-nguon-cung-luyen-tap-trac-nghiem
 | 10 | A | "Tìm kiếm thông tin NCC" không phải bước độc lập trong quy trình 6 bước. |
 | 11 | C | Mục tiêu chi phí trong chiến lược mua là tổng chi phí sở hữu thấp nhất. |
 | 12 | B | VMI giúp giảm đặt hàng, giao đúng nhu cầu, tránh thiếu và ứ đọng dự trữ. |
-| 13 | A | Thanh toán thuộc kiểm soát tài chính/kế toán sau mua, không phải vai trò cốt lõi trong chức năng mua. |
+| 13 | C | "Người phê duyệt quyết định" KHÔNG nằm trong 4 chức trách SOD (Xin phê duyệt / Mua / Nhận hàng / Thanh toán). |
 | 14 | B | JIT giải phóng vốn/kho, tối ưu lịch trình sản xuất và giảm sai hỏng. |
 | 15 | A | Mặt hàng chiến lược cần chiến lược cốt lõi, liên minh chặt với NCC. |
 | 16 | C | Chi phí cao do không đảm bảo quyền lợi từ NCC là hậu quả chiến lược yếu. |
@@ -336,13 +336,15 @@ Chương 5 trình bày chiến lược mua, ma trận Kraljic, tổ chức bộ 
 Chương 5 trình bày chiến lược mua, ma trận Kraljic, tổ chức bộ phận mua, JIT, VMI, ESI và liên kết chiến lược với nhà cung cấp. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
 
 ### Lời giải chi tiết
-- A đúng vì Thanh toán thuộc kiểm soát tài chính/kế toán sau mua, không phải vai trò cốt lõi trong chức năng mua.
-- B sai vì "Người nhận hàng" không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 5.
-- C sai vì "Người phê duyệt quyết định" không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 5.
-- D sai vì "Người xin phê duyệt" không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 5.
+Bài giảng (`TXBLOG3041_MVQTNC_Baigiangtext.md`, dòng 4792–4802) nêu nguyên tắc **Separation of Duties (SOD) – "bốn chia"** trong chức năng mua: phải tách biệt 4 chức trách liên quan gồm **Người xin phê duyệt / Người mua / Người nhận hàng / Người thanh toán**. Đề bài hỏi phương án KHÔNG thuộc 4 chức trách này.
+
+- A sai (KHÔNG phải đáp án cần chọn) vì "Người thanh toán" CHÍNH là 1 trong 4 chức trách SOD (xem dòng 4797).
+- B sai (KHÔNG phải đáp án cần chọn) vì "Người nhận hàng" cũng là 1 trong 4 chức trách SOD (xem dòng 4796).
+- **C đúng (đáp án cần chọn)** vì "Người phê duyệt quyết định" KHÔNG nằm trong 4 chức trách SOD. Trong danh mục bài giảng chỉ có "Người **xin** phê duyệt" (người đề xuất nhu cầu mua), không có vai trò "phê duyệt quyết định" tách riêng — chức năng phê duyệt được gộp vào cấp quản lý chứ không thuộc SOD của chức năng mua.
+- D sai (KHÔNG phải đáp án cần chọn) vì "Người xin phê duyệt" là chức trách đầu tiên trong 4 chức trách SOD (xem dòng 4794).
 
 ### Kết luận
-**Đáp án: A.** Thanh toán thuộc kiểm soát tài chính/kế toán sau mua, không phải vai trò cốt lõi trong chức năng mua.
+**Đáp án: C.** "Người phê duyệt quyết định" không nằm trong 4 chức trách SOD của chức năng mua.
 
 ### Sai lầm thường gặp
 - Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.

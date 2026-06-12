@@ -1,0 +1,475 @@
+## CHƯƠNG 4
+## PHÂN TÍCH VÀ LỰA CHỌN CHIẾN LƯỢC CẠNH TRANH
+
+Mục tiêu nghiên cứu của chương.
+- Nắm vững các cách tiếp cận cạnh tranh trong môi trường kinh doanh hiện đại,
+cung cấp những hiểu biết cơ bản để nhận diện cạnh tranh một cách toàn diện
+- Nghiên cứu và nắm vững các nội dung phân tích đối thủ cạnh tranh cần thiết
+để đối mặt với bối cảnh cạnh tranh ngày càng phức tạp
+- Nắm vững cách xây dựng hệ thống điều tra cạnh tranh để thu thập các thông
+tin cạnh tranh cần thiết nhằm lựa chọn đối thủ cạnh tranh tấn công hoặc né
+tránh
+- Hiểu được vị thế cạnh tranh của DN và việc hoạch định chiến lược cạnh tranh
+phù hợp với vị thế đó
+- Hiểu được cách lực chọn định hướng theo khách hàng và theo đối thủ cạnh
+tranh một cách phù hợpNếu tỷ lệ chiết khấu là 15%, thừa số giá trị (FVIF_{i,n}) của một khoản tiền trong 2 năm xấp xỉ là:
+## 4.1.  CÁC  LỰC LƯỢNG  CẠNH  TRANH  VÀ  NHẬN  DIỆN ĐỐI  THỦ
+## CẠNH TRANH
+4.1.1. Năm lực lượng cạnh tranh.
+Để có thể phân tích và đưa ra đối sách phù hợp đối với các đối thủ cạnh tranh
+thì việc đầu tiên chúng ta cần làm là phải tìm ra đối thủ của chúng ta là ai? Trước
+tiên chúng ta xem xét mô hình Năm lực lượng quyết định mức độ hấp dẫn của thị
+trường - Micheal Porter
+Nếu tỷ lệ chiết khấu là 15%, thừa số giá trị (FVIF_{i,n}) của một khoản tiền trong 2 năm xấp xỉ là:
+
+Hình 1: Năm lực lượng  quyết định  mức độ hấp  dẫn  của  thị trường (nguồn
+Quản trị marketing của Ph.Kotler )
+4.1.1-1. Đe dọa từ mức độ cạnh tranh trên phân đoạn.
+Đầu tiên và quan trọng nhất vẫn là là những đối thủ cạnh tranh trực tiếp của
+DN. Đây là những đối thủ dễ nhận biết nhất ví dụ như Pepsi và Cocacola.
+Những đối thủ này bán các sản phẩm có cùng chức năng, đặc tính và có thể
+thay thế hoàn toàn sản phẩm của doanh nghiệp hay còn gọi là đối thủ cạnh tranh trên
+cùng phân đoạn.
+Một phân đoạn thị trường có thể được coi là không hấp dẫn khi có quá nhiều
+đối thủ cạnh tranh như vậy, bởi điều này sẽ chia nhỏ thị phần và làm giảm lợi nhuận
+biên của doanh nghiệp.
+4.1.1-2. Đe dọa từ những người thâm nhập tiềm năng.
+Họ là những đối thủ tiềm ẩn có thể gia nhập trong tương lai và có ảnh hưởng
+đến mức độ cạnh tranh của phân đoạn trong tương lai.
+Vì vậy các DN phải thường xuyên theo dõi thị trường để sớm phát hiện những
+mối nguy hiểm tiềm tàng và có biện pháp ứng phó.
+Ngoài ra, những nhóm DN mạnh còn có thể liên kết để dựng lên những rào
+cản ngăn sự thâm nhập của đối thủ mới. Những rào cản có thể ngăn chặn, hạn chế
+sự gia nhập thị trường của các DN mới được liệt kê trong nghiên cứu của Porter bao
+gồm:
+
+- Quy mô kinh tế
+- Mức độ phân biệt hóa sản phẩm
+- Yêu cầu về vốn
+- Bất lợi về chi phí không phụ thuộc vào quy mô
+- Cơ hội thâm nhập các kênh phân phối
+- Các quy định của chính phủ
+4.1.1-3. Đe dọa từ các sản phẩm thay thế.
+Sự tồn tại của sản phẩm thay thế luôn là rào cản hạn chế mức lợi nhuận tiềm
+năng của ngành với một ngưỡng giá tối đa mà các DN trong ngành đó có thể đặt ra.
+Vì vậy chúng cũng đe dọa và có khả năng làm tăng mức độ cạnh tranh trong phân
+đoạn thị trường mà doanh nghiệp nhắm đến.
+Sản phẩm thay thế cần được đặc biệt chú trọng trong phân tích lực lượng cạnh
+tranh khi xảy ra 2 tình thế sau:
+- Xuất hiện những công nghệ mới sẽ làm cho những công nghệ hiện tại lỗi thời.
+- Sự thay đổi sản phẩm nhanh chóng, liên tục xuất hiện những sản phẩm mới.
+Như CD bây giờ gần như đã bị thay thế hoàn toàn ở nhiều khu vực bởi công
+nghệ lưu trữ đám mây và các thiết bị lưu trữ siêu nhỏ.
+4.1.1-4. Đe dọa từ sức mạnh thương lượng của người mua
+Khách hàng/hay người mua là một trong những lực lượng ít được xem xét đến
+khi nhắc tới các lực lượng và yếu tố ảnh hưởng đến cạnh tranh. Họ dĩ nhiên không
+phải là đối  thủ trực  diện  của  doanh  nghiệp nhưng lại  có ảnh hưởng  lớn đến  môi
+trường và mức độ khốc liệt của sự cạnh tranh trong phân đoạn.
+Thông thường, người mua có 3 loại quyền lực: Họ có thể đòi hỏi sản phẩm
+chất lượng cao – đòi hỏi giá mua thấp – và họ chính là nguồn gốc sâu xa gây nên
+cạnh tranh trong phân đoạn (vì các daonh nghiệp đều phải cố gắng cung ứng những
+giá trị tốt nhất mà khách hàng cần).
+Chính vì vậy, phân đoạn sẽ có mức cạnh tranh cao hơn và kém hấp dẫn hơn
+khi người mua có nhiều quyền lực thương lượng và ngày càng tăng => Doanh nghiệp
+
+phải xây dựng chiến lược phòng thủ: phải luôn phát triển những chào hàng thị trường
+mới và vượt trội mà khách hàng không thể từ chối.
+4.1.1-5. Đe dọa từ sức mạnh thương lượng của người cung ứng.
+Cũng tương tự như đối với khách hàng, nếu nhà cung ứng nắm được quá nhiều
+quyền lực thương lượng thì doanh nghiệp sẽ bị chịu sự đe dọa và những hành động
+như tăng giá cung ứng sẽ làm ảnh hưởng đến lợi nhuận của doanh nghiệp.
+Thông thường, Quyền lực của nhà cung ứng thể hiện trên 3 khía cạnh: họ có
+thể tăng giá, giảm chất lượng cung ứng hoặc chia nhỏ phần cung ứng cho nhiều DN
+khác nhau và từ đó có khả năng ảnh hưởng xấu đến doanh nghiệp
+4.1.2. Nhận diện các đối thủ cạnh tranh.
+4.1.2-1. Cách tiếp cận ngành về cạnh tranh
+Khái niệm Ngành có thể hiểu một nhóm những doanh nghiệp chào bán một
+sản phẩm hay một lớp sản phẩm có thể hoàn toàn thay thế được nhau. Ví dụD, các
+doanh nghiệp có thể đặt mình trong ngành dầu mỏ, công nghiệp dược phẩm, hoặc
+ngành nước giải khát.
+Về cách  tiếp  cận  này,  doanh  nghiệp  muốn  hoạt động  hiệu  quả trong
+ngành cần phải thấu hiểu các mô hình cạnh tranh trong ngành của họ.
+Tùy thuộc vào đặc điểm các yếu tố định dạng ngành mà một doanh nghiệp
+trong ngành có thể nhận diện mức độ cạnh tranh của mình phải đối mặt và trên cơ
+sở đó phát triển các chiến lược thích hợp.
+Một  số yếu  tố chính định  dạng cơ cấu  cạnh  tranh  của ngành mà  các  doanh
+nghiệp cần chú ý: (1) Số lượng người bán và mức độ khác biệt; (2) Các rào cản xuất,
+nhập và rào cản thay đổi; (3) Cấu trúc chi phí ngành; (4) Mức độ tích hợp dọc; (5)
+Mức độ toàn cầu hóa.
+4.1.2-2. Cách tiếp cận thị trường về cạnh tranh.
+Theo hướng tiếp cận này, các đối thủ cạnh tranh là những doanh nghiệp thỏa
+mãn cùng nhu cầu của khách hàng. Họ có thể bán những sản phẩm rất khác, thuộc
+ngành sản xuất khác nhưng sản phẩm của họ có thể thay thế một phần/hoặc hoàn
+
+toàn sản phẩm của doanh nghiệp. Ví dụ, một doanh nghiệp dịch vụ đường sắt cũng
+là đối thủ của một doanh nghiệp sản xuất xe hơi.
+Cách tiếp cận thị trường về cạnh tranh có 2 đặc điểm:
+- Là cách tiếp cận mới khi doanh nghiệp thực sự xem xét xem khách hàng muốn
+gì và những sản phẩm thỏa mãn cùng một nhu cầu này, từ đó gợi mở một tập
+hợp các đối thủ cạnh tranh tiềm năng và hiện tại rộng hơn.
+- Nó cũng kích thích việc lập kế hoạch chiến lược marketing dài hạn của doanh
+nghiệp. Tuy nhiên, nó cũng có thể khiến doanh nghiệp mất tập trung dẫn đến
+dàn trải nguồn lực quá mức. Vì vậy các doanh nghiệp cẩn trọng khi đưa ra lựa
+chọn cho cách tiếp cận của mình.
+## 4.2. PHÂN TÍCH CÁC ĐỐI THỦ CẠNH TRANH
+4.2.1. Nhận dạng chiến lược của đối thủ cạnh tranh.
+Nhóm chiến lược. gồm các doanh nghiệp áp dụng cùng một chiến lược giống
+nhau trên một thị trường mục tiêu nhất định
+Để làm sáng tỏ hơn về khái niệm này chúng ta có thể nghiên cứu ví dụ trong
+cuốn tài liệu Quản trị marrketing.
+Khi nhận dạng chiến lược của các đối thủ cạnh tranh, Marketers của DN cần
+qua tâm đến 2 vấn đề.
+- Phân tích và tiên lượng các chiến lược của đối thủ (phản ứng của đối thủ
+ở trong cùng một nhóm chiến lược nào đó).
+. Trong thực tế, xác định nhóm chiến lược cạnh tranh trong ngành có thể doanh
+nghiệp có  rất  nhiều  tham  biến  (Mức độ tinh  vi  của  công  nghệ;  Phạm vi địa  lý;
+Phương pháp sản  xuất...)  và  mỗi doanh  nghiệp tham  gia  nhóm  chiến lược  lại  có
+những định hướng chuyên môn khác nhau.
+. Trên cơ sở các thông tin về đối thủ qua đó doanh nghiệp tiên lượng
+chiến lược của mình trên cơ sở xem xét sự phản ứng chiến lược (có thể có) của đối
+thủ trong cùng một nhóm chiến lược nào đó. Về bản chất, doanh nghiệp phải hiểu
+cách thức mỗi đối thủ cạnh tranh mang lại giá trị cho khách hàng của họ.
+- Doanh nghiệp thường xuyên xem xét chiến lược của đối thủ.
+
+Những đối thủ cạnh tranh giàu tiềm lực luôn thay đổi chiến lược sau một thời
+gian. Các doanh nghiệp phải nhạy bén với thay đổi mong muốn của khách hàng và
+cách thức mà các đối thủ thay đổi chiến lược để đáp ứng những nhu cầu mới xuất
+hiện này. Ví dụ, Hãng Ford ô tô là người chiến thắng đầu tiên, vì DN này đảm bảo
+chi phí thấp. Sau đó GM đã vượt lên trên Ford -  vì nó đáp ứng được mong muốn
+mới của thị trường là sự đa dạng hoá. Về sau các hãng ô tô Nhật chiếm vị trí dẫn
+đầu, vì cung ứng các kiểu xe tiết kiệm nhiên liệu. Tiếp đến, các hãng ô tô Nhật lại
+tiến lên, sản xuất những kiểu xe có độ tin cậy cao. Khi các nhà sản xuất ô tô của Mỹ
+còn đang loay hoay với chất lượng – thì các nhà sản xuất ô tô Nhật đã chuyển sang
+chất lượng cảm giác, những điều nhìn thấy và cảm thấy của chiếc xe và các bộ phận
+khác nhau của nó
+4.2.2. Xác định mục tiêu của đối thủ.
+Marketers của doanh nghiệp cần phải giải quyết 3 vấn đề sau:
+▪ Đặt doanh nghiệp vào vị trí của đối thủ cạnh tranh.
+. Khi phân tích các đối thủ cạnh tranh, đều cảm nhận đầu tiên là các đối thủ
+đều muốn tối đa hoá lợi nhuận của mình. Tuy nhiên, trong vấn đề này quan điểm
+của các doanh nghiệp cũng khác nhau về tâm quan trọng của lợi nhuận trước mắt và
+lợi nhuận lâu dài.
+. Hơn nữa, một số doanh nghiệp định hướng ở mức độ thoả mãn mục tiêu lợi
+nhuận dự kiến hơn là tìm cách tối đa hoá lợi nhuận. Do vậy, lý giải điều này cho
+thấy cần đặt doanh nghiệp vào vị trí của đối thủ cạnh tranh.
+▪ Đánh giá tầm quan trọng tương đối các mục tiêu của đối thủ.
+. Mỗi đối thủ cạnh tranh đều có một tập hợp các mục tiêu. Do vậy, các doanh
+nghiệp muốn biết tầm quan trọng mà đối thủ cạnh tranh đặt ra về lợi nhuận hiện tại,
+tăng trưởng thị phần, dòng tiền, dẫn đầu về công nghệ, dịch vụ và các mục tiêu khác.
+. Việc biết được tập hợp các mục tiêu của đối thủ cạnh tranh sẽ giúp cho doanh
+nghiệp nắm được khả năng hài lòng của đối thủ với tình thế hiện thời của họ và cách
+thức phản ứng của đối thủ với những hành động cạnh tranh khác nhau.
+
+. Các mục tiêu của mỗi doanh nghiệp thường hình thành trên cơ sở phân tích
+có hệ thống thông qua quy mô kinh doanh, quá trình lịch sử, bộ máy quản lý, tình
+trạng tài chính, SBU/công ty mẹ.
+▪ Kiểm soát kế hoạch mở rộng của các đối thủ.
+. Doanh nghiệp phải theo dõi mục tiêu của các đối thủ cạnh tranh trên những
+phân đoạn thị trường khác nhau
+. Nếu doanh nghiệp phát hiện ra một đối thủ cạnh tranh đã tìm được một phân
+đoạn mới, đây có thể là một cơ hội.
+. Nếu phát hiện ra đối thủ cạnh tranh đang dự định chuyển sang phân đoạn
+mới mà tại đó doanh nghiệp đang tập trung hoạt động giúp cho doanh nghiệp được
+cảnh báo trước và có thể đối phó với những cuộc tấn công như vậy
+4.2.3. Xác định điểm mạnh và điểm yếu của đối thủ.
+Xác định điểm mạnh và điểm yếu của đối thủ cần giải quyết 3 nội dung chính
+sau:
+(1) Thu thập thông tin.
+Việc đầu tiên doanh nghiệp cần thu thập thông tin của các đối thủ. Các thông
+tin này có thể bao gồm: Mức tiêu thụ, thị phần, lợi nhuận trên vốn đầu tư, đầu tư
+mới và mức sử dụng năng lực... (và nhiều thông tin khác).
+Doanh nghiệp có thể được thu thập qua: (i) Thu thập các dữ liệu thứ cấp, (qua)
+trải nghiệm cá nhân hay thông tin truyền miệng/dư luận; và (ii) Doanh nghiệp tự tổ
+chức các cuộc nghiên cứu trực tiếp với khách hàng, nhà cung cấp và đại lý của họ.
+Ngày này, nhiều doanh nghiệp Sử dụng Chuẩn so sánh (benchmarking) như là 1
+chỉ dẫn tốt để cải thiện thành quả cạnh tranh (tìm hiểu thêm trong tài liệu).
+(2) Đánh giá vị thế mỗi đối thủ trên các yếu tố thành công then chốt (Key
+Success Factor – KSF).
+(3) Kiểm soát ba biến số (khi phân tích các đối thủ cạnh tranh)
+- Thị phần: phần khối lượng bán ra của đối thủ cạnh tranh trên thị trường mục
+tiêu
+
+- Phần tâm trí: Tỷ lệ khách hàng định rõ đối thủ cạnh tranh để đáp ứng tuyên
+bố: “Gọi  tên  doanh  nghiệp đầu  tiên  xuất  hiện  trong  tâm  trí  trong lĩnh vực
+này”
+- Phần trái tim: Tỷ lệ khách hàng định rõ đối thủ cạnh tranh để đáp ứng tuyên
+bố:  “Gọi tên doanh nghiệp mà tôi muốn mua sản phẩm”
+o Ba biến số/thước đo trên có mối quan hệ với nhau. Minh hoạ qua ví dụ
+sau:
+
+Thị phần
+Thị phần
+tâm trí
+Thị phần
+trái tim
+
+## 2
+## 011
+## 2
+## 012
+## 2
+## 013
+## 2
+## 011
+## 2
+## 012
+## 2
+## 013
+## 2
+## 011
+## 2
+## 012
+## 2
+## 013
+## Đ
+## TCT A
+## 5
+## 0%
+## 4
+## 7%
+## 4
+## 6%
+## 6
+## 0%
+## 5
+## 8%
+## 5
+## 4%
+## 4
+## 5%
+## 4
+## 2%
+## 3
+## 9%
+## Đ
+## TCT B
+## 3
+## 0%
+## 3
+## 4%
+## 3
+## 7%
+## 3
+## 0%
+## 3
+## 1%
+## 3
+## 5%
+## 4
+## 4%
+## 4
+## 7%
+## 5
+## 3%
+## Đ
+## TCT C
+## 2
+## 0%
+## 1
+## 9%
+## 1
+## 9%
+## 1
+## 0%
+## 1
+## 1%
+## 1
+## 1%
+## 1
+## 1%
+## 1
+## 1%
+## 8
+## %
+
+4.2.4. Đánh giá phản ứng của đối thủ cạnh tranh.
+Có 4 dạng phản ứng phổ biến của đối thủ cạnh tranh
+- Đối thủ cạnh tranh điềm tĩnh. là các đối thủ không có phản ứng nhanh chóng
+hay mạnh mẽ.
+- Họ có  thể quá  tự tin  về doanh  nghiệp  mình,  về sự trung thành  của khách
+hàng
+- Họ có thể chậm phát hiện hành động của đối thủ hoặc thiếu nguồn lực để
+phản ứng.
+Do vậy, Marketers của doanh nghiệp cần phát hiện lý do
+cho hành vi điềm tĩnh của đối thủ này.
+
+- Đối thủ cạnh tranh chọn lọc/kén chọn. là các đối thủ (có thể) chỉ phản ứng
+với những kiểu tấn công nhất định mà không có phản ứng gì với những kiểu
+tấn công khác.
+- Phản ứng với việc giảm giá để báo hiệu rằng việc đó không có nghĩa
+lý gì
+- Có thể không phản ứng việc tăng chi phí quảng cáo, vì nghĩ nó ít de
+dọa
+Doanh nghiệp  cần  nhận biết  những  phản ứng  của  một đối thủ
+cạnh tranh chủ chốt, qua đó làm căn cứ để hoạch định hướng chiến lược tấn công
+khả thi nhất.
+-  Đối thủ cạnh tranh quyết liệt/hung dữ. Những doanh nghiệp thuộc nhóm này
+phản ứng mau lẹ và mạnh mẽ với mọi cuộc đột kích vào lãnh địa của mình.
+- Đối thủ cạnh tranh này luôn cảnh báo rằng những doanh nghiệp khác tốt nhất
+không  nên  tấn công  họ vì  họ sẽ chiến đấu đến  cùng. Ví  dụ,  Milo  của  Nestle  và
+Ovaltine là 2 đối  thủ cạnh  tranh  quyết  liệt  với  nhau.  Khi  Milo  ra  sản  phẩm  mới,
+Ovaltine cũng cho ra mắt sản phẩm tương tự để cạnh tranh, thậm chí còn đặt slogan
+“đá xoáy” slogan của Milo và đặt banner ngay cạnh đối thủ trên các ngã tư lớn.
+Milo cũng không phải dạng vừa khi tiếp tục cập nhật banner to hơn ngay cạnh. Cạnh
+tranh gay gắt đến mức vào năm 2018 Milo đã đâm đơn kiện Ovaltine hành vi “chế
+giễu đối thủ”, cạnh tranh không lành mạnh.
+- Đối thủ cạnh tranh khôn ngoan. Đối thủ  này không để lộ sự tính toán, và
+không thể đoán trước được phản ứng của họ sẽ ra sao. Không thể đoán trước
+được sự phản ứng dù căn cứ vào tình trạng kinh tế, quá trình lịch sử, hay bất
+kỳ điều khác.
+## 4.3. THIẾT KẾ HỆ THỐNG ĐIỀU TRA CẠNH TRANH
+4.3.1. Thiết kế các hệ thống liên quan.
+-  Mục đích: việc thiết kế hệ thống này nhằm thu thập, diễn dịch, phân
+phối và sử dụng thông tin cạnh tranh hiệu quả và tiết kiệm. Có 4 bước chủ yếu
+
+Bước  1.  Hình  thành  hệ thống. Doanh  nghiệp  cần  giải
+quyết ba vấn đề chính:
+- Phát hiện những kiểu thông tin cạnh tranh quan trọng
+- Xác định những nguồn tốt nhất cho những thông tin quan trọng đã được xuất
+định.
+-  Cử ra 1 người quản trị hệ thống và các dịch vụ của nó.
+Bước 2. Thu thập thông tin. Doanh nghiệp có thể thu thập thông tin về đối
+thủ qua hai nguồn chính:
+- Các số liệu được thu thập liên tục từ hiện trường (lực lượng bán hàng, những
+công ty nghiên cứu thị trường)
+- Các số liệu đã được công bố (ấn phẩm của chính phủ, bài phát biểu, các cơ
+sở dữ liệu trực tuyến)
+Đôi khi các doanh nghiệp có thể bị cám dỗ bởi việc mua các dữ liệu từ
+các nguồn không chính thống. Tuy nhiên, doanh nghiệp cần xây dựng những cách
+mua thông tin cần thiết về đối thủ mà không vi phạm đạo đức và pháp luật.
+Bước 3. Đánh giá và phân tích dữ liệu. Các  số liệu đã được thu  thập  cần
+được kiểm tra về giá trị và độ tin cậy, giải thích ý nghĩa và sắp xếp lại một cách thích
+hợp.
+Các marketer phải hiểu rằng không phải số liệu nào thu thập được cũng có giá
+trị sử dụng, đó có thể là những thông tin sai lệch vô tình hoặc được số ý đưa ra thị
+trường. Bên cạnh đó, để sử dụng những dữ liệu này một cách hiệu quả nhất, doanh
+nghiệp cần có hệ thống lưu trữ logic sao cho khi cần sử dụng dữ liệu họ có thể nhanh
+chóng truy cập, trích xuất thông tin cần dùng và phục vụ cho việc cập nhật, nâng cấp
+trong tương lai.
+Bước 4. Phổ biến thông tin và giải đáp các thắc mắc. sau khi đã có được
+thông tin dĩ nhiên các marketer cần phân tích chúng để đưa ra câu trả lời cho những
+vấn đề hiện có của doanh nghiệp.
+4.3.2. Chọn các đối thủ cạnh tranh để tấn công và né tránh.
+4.3.2-1. Phân tích giá trị khách hàng
+
+- Mục đích: Xác định những lợi ích nào khách hàng mục tiêu coi trọng và cách
+thức họ đánh giá giá trị của các đối thủ.
+Năm bước trong phân tích giá trị khách hàng:
+- Xác định thuộc tính quan trọng và lợi ích của giá trị khách hàng
+- Đánh giá tầm quan trọng về định lượng (các thuộc tính và lợi ích khác nhau)
+- Đánh giá kết quả của doanh nghiệp và đối thủ dựa trên sự khác biệt giá trị
+khách hàng và tầm quan trọng được đánh giá
+- Xác định cách thức khách hàng trong một phân đoạn cụ thể đánh giá hiệu quả
+giữa doanh nghiệp và đối thủ chính trên cơ sở thuộc tính và lợi ích cá nhân
+- Quản trị giá trị khách hàng qua thời gian (định kỳ xem xét giá trị khách hàng
+và vị thế đối thủ thay đổi của kinh tế và công nghệ)
+4.3.2-2. Các loại đối thủ cạnh tranh.
+-  Đối thủ cạnh tranh mạnh hoặc yếu.
+- Doanh nghiệp có thể nhắm mục tiêu cạnh tranh với các doanh nghiệp yếu
+(tiết kiệm chi phí và thời gian). Tuy nhiên, vẫn có thể cạnh tranh các điểm yếu của
+doanh nghiệp mạnh để tạo ra vị thế.
+- Mặt khác, có thể cạnh tranh đối với doanh nghiệp có sản phẩm tương tự/
+doanh nghiệp có sản phẩm hơi khác biệt
+- Đối thủ cạnh tranh gần hoặc xa.
+- Doanh nghiệp có thể nhắm mục tiêu cạnh tranh với các doanh nghiệp gần
+giống mình. Đồng thời, doanh nghiệp nên tránh không “phá rối” đối thủ cạnh tranh
+gần.
+- Mỗi trường hợp thắng lợi của doanh nghiệp trước đối thủ gần đều dẫn đến
+phải đương đầu với đối thủ cạnh tranh mạnh hơn
+- Đối thủ cạnh tranh “tốt” hoặc “xấu”.
+- Nên ủng hộ đối thủ cạnh tranh tốt. Tuân thủ theo quy tắc trong ngành kinh
+doanh, ấn định giá hợp lý, ủng hộ giảm chi phí/tạo sự khác biệt hóa, chấp nhận mặt
+bằng chung về thị phần và lợi nhuận.
+
+- Nên tấn công đối thủ xấu. Thường cố gắng chiếm thị phần, thay vì tạo ra thị
+phần, chấp nhận rủi ro cao và đầu tư công suất quá mức, phá vỡ cân bằng của ngành
+## 4.4. THIẾT KẾ CHIẾN LƯỢC CẠNH TRANH
+4.4.1. Chiến lược dẫn đạo thị trường.
+4.4.1-1. Mở rộng tổng cầu thị trường.
+Để trụ vững ở vị trí số 1 doanh nghiệp trước hết phải tìm cách Mở rộng tổng
+cầu thị trường - qua 2 giải pháp chính:
+(1) Tìm  kiếm  khách  hàng  mới. Doanh  nghiệp có  thể tìm  kiếm  các  khách
+hàng mới theo 1 trong 3 chiến lược
+o Chiến lược thâm nhập thị trường (những người có thể sử dụng SP
+nhưng không  chọn). Có  thể ứng  dụng  một  số biện pháp như truyền
+thông sản phẩm theo hướng mới, hiệu quả hơn, giảm giá, khuyến mãi...
+để thu hút thêm khách hàng mới, thâm nhập sâu hơn, tận dụng tốt hơn
+thị trường mà họ nhắm tới.
+o Chiến lược phân đoạn  thị trường  mới (những người chưa từng  sử
+dụng SP). Doanh nghiệp (có thể) phân đoạn lại thị trường, mở ra những
+thị trường ngách hoặc xem xét lại những phân đoạn mà trước đó doanh
+nghiệp chưa nhắm tới để biến thành thị trường mục tiêu của mình.
+o Chiến lược mở rộng về mặt địa lý (những người sống ở nơi khác).
+Doanh nghiệp có thể mở rộng thị trường sang các tỉnh/vùng/quốc gia
+khác cũng có nhu cầu mà sản phẩm của doanh nghiệp có thể đáp ứng.
+(2) Khai thác nhiều hơn từ khách hàng hiện có. Trong khi tìm kiếm các
+khách hàng mới, doanh nghiệp cũng đồng thời nên giữ khách hàng hiện hữu và tìm
+cách khai thách nhiều hơn từ họ bằng một số phương cách sau:
+o Gia tăng khối lượng:  Các  marketer  có  thể gia tăng khối lượng  tiêu
+dùng  sản  phẩm  bằng cách đóng gói lại  với  khối lượng  lớn hơn. Với
+những sản phẩm tiêu dùng nhất thời như nước ngọt, để người tiêu dùng
+tiếp xúc với sản phẩm nhiều hơn cũng khiến họ sử dụng sản phẩm nhiều
+hơn.
+
+o Tăng mức độ/hay tần suất tiêu dùng: phương cách này đòi hỏi - yêu
+cầu nhiều sự sáng tạo hơn. Marketers có thể:
+(a) Tìm cơ hội tăng thêm việc sử dụng thương hiệu theo cùng cách thức cơ
+bản. Ví dụ, cung cấp cho các KH đầy đủ thông tin về thời điểm họ sử dụng
+SP lần đầu/khi nào cần thay mới; hoặc cung cấp thông tin về Mức giảm
+hiệu  quả của việc  sử dụng  SP ở thời điểm  hiện  tại  sao  với ban đầu
+(Gillette)
+(b) Tìm ra những tình huống khác để sử dụng thương hiệu hoặc nghĩ ra những
+các thức mới mẻ khác để sử dụng sản phẩm. Ví dụ, bột baking soda để làm nở bánh
+trong những năm gần đây còn được quảng cáo như một sản phẩm tuyệt vời để làm
+trắng răng và được rất nhiều người ưa chuộng để sử dụng với mục đích này.
+4.4.1-2. Bảo vệ thị phần.
+Song song việc Mở rộng tổng cầu thị trường, doanh nghiệp dẫn đạo thị trường
+cần tích cực bảo vệ thị phần hiện tại của mình, nếu DN quá chú trọng mở rộng thị
+trường mà làm mất thị phần đang có thì đôi khi đây chính là một trong những việc
+lợi bất cập hại vì họ sẽ đối mặt với nguy cơ bị đối thủ thôn tính.
+Để bảo vệ thị phần doanh nghiệp có thể triển khai 2 hoạt động chính hoặc tấn
+công hoặc phòng thủ như sau:
+(1) Marketing tiên phong: Đây là chiến lược marketing tạo ra các chào hàng
+mới nhằm phục vụ những nhu cầu chưa được đáp ứng và có thể còn chưa được biết
+đến của khách hàng. Những doanh nghiệp thực hiện marketing tiên phong trên thị
+trường cần có 2 kỹ năng nổi trội sau:
+o (kỹ năng) dự báo để đáp ứng: doanh nghiệp dự đoán trước những nhu
+cầu mà người tiêu dùng có thể có trong tương lai gần và chuẩn bị cho
+những nhu cầu đó. Ví dụ, vào những năm 90 của thế kỷ trước, IBM đã
+nhìn thấy rằng trong tương lai gần công nghệ sẽ phát triển rất nhanh,
+việc sản xuất phần cứng sẽ không còn mang lại lợi nhuận như trước,
+trong khi đó sẽ có rất nhiều công ty cần các giải pháp về IT. Chính vì
+
+vậy IBM đã kịp thời chuyển dịch từ một doanh nghiệp sản xuất phần
+cứng máy tính sang doanh nghiệp cung cấp dịch vụ giải pháp IT.
+o (kỹ năng) Dự báo để sáng tạo: là chiến lược tìm kiếm những giải pháp mặc
+dù KH không có nhu cầu nhưng vẫn có phản hồi tích cực. Đây chính là những
+doanh nghiệp có thể vượt lên đi đầu, dẫn dắt thị trường. Ví dụ, Apple chính là
+một ví dụ điển hình cho những doanh nghiệp đi theo marketing sáng tạo. Khi
+họ đưa ra iphone, một chiếc điện thoại chỉ có một nút bấm duy nhất, không
+có công ty hay khách hàng nào nghĩ đến việc này. Tuy nhiên, họ đã tạo ra một
+cuộc cách mạng và từ đó tất cả những thương hiệu điện thoại khác phải chạy
+theo xu hướng mà họ tạo ra.
+(2) Marketing phòng thủ: Ngay cả khi không đưa ra được biện pháp tấn công
+nào, kẻ dẫn đạo thị trường cũng không được để lộ bất cứ sơ hở nào đáng kể. Mục
+tiêu của marketing phòng thủ là giảm thiểu khả năng bị tấn công, chuyển hướng các
+cuộc tấn công sang những khu vực ít bị đe dọa hơn, đồng thời hạn chế mức độ thiệt
+hại
+Các doanh nghiệp có thể sử dụng 1 trong 6 chiến lược phòng thủ:
+(1) Phòng thủ vị thế (xây dựng thành trì bảo vệ cho vị thế); (2) Phòng thủ mạn sườn
+(bảo vệ các lĩnh vực yếu kém); (3) Phòng thủ chặn trước (chủ động tấn công đối thủ
+trước khi bị tấn công lại); (4) Phòng thủ phản công (phản công lại khi bị đối thủ tấn
+công); (5) Phòng thủ cơ động (đa dạng hóa sản phẩm và mở rộng thị trường làm cơ
+sở tương lai để phòng  vệ và  tấn  công/tạo  ra  khả năng tiến  công  liên  tục/tung  ra
+những đòn trả đũa);  và  (6)  Phòng  thủ co  cụm (rút  lui  chiến lược,  từ bỏ đoạn  thị
+trường yếu kém, tập trung nguồn lực vào đoạn thị trường mạnh hơn)
+4.4.1-3. Phát triển thị phần.
+Việc  cố gắng gia tăng thị phần  có  thể tiêu  tốn  rất  nhiều
+nguồn lực trong thời đại cạnh tranh như ngày nay. Nhiều khi việc phát triển thị phần
+chưa chắc mang lại hiệu quả tương xứng, chính vì vậy, trước khi cố gắng phát triển
+thị phần, các nhà quản trị cần xem xét 4 yếu tố:
+(1) Xác suất châm ngòi cho hành động chống độc quyền:
+
+o Nếu một doanh nghiệp vốn đã có thị phần lớn - nay lại lấn tới/gia tăng, các
+đối thủ bị chọc tức rất có thể sẽ buộc tội doanh nghiệp này là độc quyền và
+khởi kiện.

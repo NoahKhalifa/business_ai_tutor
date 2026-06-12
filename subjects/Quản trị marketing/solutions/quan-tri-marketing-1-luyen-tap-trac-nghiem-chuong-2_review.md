@@ -1,48 +1,72 @@
-﻿---
+---
 reviewed_file: "quan-tri-marketing-1-luyen-tap-trac-nghiem-chuong-2_solution.md"
-reviewed_at: "2026-06-11T22:50:00+07:00"
-review_round: 1
-overall_score: 8.0
-verdict: "PASS_WITH_OCR_NOTE"
+reviewed_at: "2026-06-13T11:00:00+07:00"
+review_round: 2
+overall_score: 6.4
+verdict: "REVISE"
 criteria:
   correctness: 8
-  logic: 8
-  calculation: 10
-  vn_context: 8
-  pedagogy: 8
+  logic: 5
+  calculation: 8
+  vn_context: 7
+  pedagogy: 4.5
 ---
 
 # Báo cáo Rà soát: Quản trị marketing 1 - Chương 2
 
+> Review độc lập round 2 (2026-06-13), thay thế bản round 1 (8.0 PASS_WITH_OCR_NOTE) đã được phát hiện là **bản clone của 5 chương QT Marketing**. Reviewer tự giải 8 câu trước khi đọc lời giải.
+
 ## 📊 Điểm tổng quan
 
-**Tổng: 8.0 / 10** — Verdict: PASS_WITH_OCR_NOTE
+**Tổng: 6.4 / 10** — Verdict: **REVISE**
 
 | Tiêu chí | Điểm | Ghi chú nhanh |
 |---|---:|---|
-| Chính xác khái niệm/công thức | 8 | Đáp án bám bài giảng, nhưng đề gốc là OCR tiếng Việt không dấu nên còn rủi ro nhận dạng ở vài câu. |
-| Logic lập luận | 8 | Có giải thích đáp án đúng và loại trừ phương án sai theo từng câu. |
-| Tính toán | 10 | Không có bài tính. |
-| Phù hợp ngữ cảnh VN | 8 | Có ví dụ doanh nghiệp Việt Nam, không bịa số liệu. |
-| Sư phạm & chi tiết | 8 | Có bảng đáp án nhanh và lời giải chi tiết 35 câu. |
+| Chính xác khái niệm/công thức | 8 | 8/8 câu mẫu khớp đáp án; nhưng Q4, Q11 OCR ghép chưa verify. |
+| Logic lập luận | 5 | Boilerplate "không khớp trọng tâm" lặp 35 câu; không phân biệt khái niệm giá trị cảm nhận vs thỏa mãn vs CRM. |
+| Tính toán | 8 | Không có tính toán; bảng đáp án rõ. |
+| Phù hợp ngữ cảnh VN | 7 | Có ví dụ Thoát A, Kun, Viettel nhưng không sâu. |
+| Sư phạm & chi tiết | 4.5 | "Sai lầm thường gặp" giống nhau 35/35 câu. |
 
-## 🔍 Phát hiện chi tiết
+## 🔍 Tự giải lại 8 câu mẫu (độc lập)
 
-### Phạm vi review
+| Câu | Đáp án độc lập | Solver | Khớp | Bằng chứng bài giảng |
+|---:|:---:|:---:|:---:|---|
+| 1 | A (chi phí quảng cáo = chi phí DN, không phải KH) | A | ✓ | Tổng chi phí KH gồm: tiền/thời gian/năng lượng/tâm lý |
+| 5 | B (cung cấp giá trị KH tốt nhất) | B | ✓ | Chìa khóa giữ KH = thỏa mãn liên tục |
+| 6 | D (3 lý do: tăng CP→giảm LN, có nhiều bên hữu quan, phân bổ LN) | D | ✓ | Lý do không nên chỉ tập trung thỏa mãn cao |
+| 7 | A (chương trình tích điểm, CLB thành viên = lợi ích tài chính) | A | ✓ | Mục 2.4.1 công cụ marketing |
+| 12 | B ("điểm tiếp xúc" = bất cứ khi nào KH tiếp xúc thương hiệu) | B | ✓ | Định nghĩa CRM |
+| 20 | A (thỏa mãn = mối tương quan hiệu suất – kỳ vọng) | A | ✓ | Mục 2.1.2 |
+| 26 | D (tổng lợi ích = kinh tế + chức năng + tâm lý) | D | ✓ | Tổng lợi ích cảm nhận |
+| 33 | C (giá trị = chênh lệch tổng lợi ích – tổng chi phí) | C | ✓ | Định nghĩa giá trị cảm nhận |
 
-- Đã kiểm tra cấu trúc file solution, đủ 35 câu và có phần giải thích A/B/C/D.
-- Do PDF là ảnh/form Onschool và OCR tiếng Việt bị suy giảm dấu, một số câu cần đối chiếu PDF gốc nếu dùng để nộp điểm tuyệt đối.
+**Kết quả: 8/8 khớp đáp án.**
 
-### Điểm tốt
+## ⚠️ Vấn đề hệ thống
 
-- Lời giải bám các chương trong `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-- Có ghi chú rõ `ocr_uncertain: true`, tránh trình bày như dữ liệu gốc hoàn hảo.
+### 1. Boilerplate "lời giải chi tiết" lặp 35 câu
+Mọi câu dùng cùng cấu trúc "A đúng vì khớp nhất / B,C,D sai vì không khớp trọng tâm". Không phân biệt câu về **giá trị cảm nhận** (Q1, 5, 33) với câu về **sự thỏa mãn** (Q6, 20) với câu về **CRM/điểm tiếp xúc** (Q12).
 
-### Vấn đề phát hiện
+### 2. Kết luận cũng boilerplate
+Mỗi câu kết luận dạng "Đáp án X bám đúng logic giá trị cảm nhận, kỳ vọng–hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2" — y nguyên cho Q1 và Q33.
 
-- **OCR** — mức độ: VỪA. Một số câu bị ghép trang hoặc thiếu dấu, đặc biệt các câu có từ khóa phủ định. Đề xuất: khi có công cụ OCR tiếng Việt tốt hơn, convert lại để rà đáp án lần hai.
+### 3. Q4, Q11 bị ghép OCR — chưa được verify
+Solver ghi nhận "bị ghép" nhưng vẫn đưa đáp án.
 
-## 🎯 Đề xuất tổng thể cho solver
+### 4. "Sai lầm thường gặp" lặp 35/35 câu
+Hai dòng cố định không liên quan đến câu cụ thể.
 
-1. Có thể dùng bản hiện tại để ôn tập và học khái niệm.
-2. Nếu cần đáp án nộp chính thức, nên mở PDF gốc kiểm lại các câu bị OCR ghép.
+### 5. Thiếu trích dòng bài giảng và ví dụ riêng
+Không câu nào trích dòng bài giảng cụ thể; ví dụ "Thoát A, Kun" trong đề mà không phân tích minh họa khái niệm.
+
+## 🎯 Đề xuất cho solver
+
+1. **Mở rộng "Lời giải chi tiết"** từ 4 dòng generic thành 8–12 dòng giải thích từng phương án dựa khái niệm bài giảng cụ thể. VD Q1: "A sai vì tổng chi phí KH không bao gồm chi phí quảng cáo của DN — đó là chi phí của DN. Tổng chi phí KH theo bài giảng gồm: tiền, thời gian, năng lượng, tâm lý."
+2. **Verify Q4, Q11** từ PDF gốc.
+3. **Phân nhóm câu theo chủ đề** (giá trị / thỏa mãn / CRM) và viết ngắn gọn khung cho từng nhóm ở đầu solution.
+4. **Trích dòng bài giảng** cho mọi câu.
+5. **"Sai lầm thường gặp"** cụ thể: Q1 "Nhầm chi phí quảng cáo DN với chi phí KH"; Q6 "Nghĩ thỏa mãn cao = tối ưu lợi nhuận".
+
+## ✅ Đánh giá tổng kết
+Đáp án chính xác nhưng boilerplate khắp nơi → SV không học sâu. **REVISE bắt buộc**.

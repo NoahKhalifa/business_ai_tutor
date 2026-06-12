@@ -2,7 +2,7 @@
 exercise_file: "Quản trị marketing 1_Luyện tập trắc nghiệm Chương 5.md"
 solved_at: "2026-06-11T22:45:00+07:00"
 status: "draft"
-review_round: 0
+review_round: 1
 total_questions: 35
 examples_added: true
 ocr_uncertain: true
@@ -20,7 +20,7 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 |---:|:---:|---|
 | 1 | C | Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
 | 2 | A | Đáp án A đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 3 | C | Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
+| 3 | B | Giai đoạn phát triển (growth) cần đẩy mạnh truyền thông giữ thị phần khi đối thủ vào; A/C là chiến lược suy thoái, D là niche/harvest. |
 | 4 | D | Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
 | 5 | D | Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
 | 6 | C | Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
@@ -104,22 +104,28 @@ Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, l
 
 ---
 
-## Câu 3: Trong giai doqn phåt trién, doanh nghi#p thu'öng: O A. Sån xuät cåc häng hoå cö mäu mä 16i...
+## Câu 3: Trong giai đoạn phát triển, doanh nghiệp thường:
 
 ### Đề bài
-> Trong giai doqn phåt trién, doanh nghi#p thu'öng: O A. Sån xuät cåc häng hoå cö mäu mä 16i möt. O B. Khöng quan tam nhiéu dén canh tranh. C. Sü' dung chién luqc marketing dé kéo dåi mü'C täng truöng nhanh cüa thi O truöng cang Iäu cång töt. O D. Dinh giå sån phåm cao hon dé khång dinh vi thé. Câu Cöng ty X kinh doanh måy tinh xåch tay. Mét trong cåc sån phåm Chü IV'C cüa cöng ty, "Laptop Pro 15", dä dén giai doqn suy thoåi trong chu ky söng sån phäm. Doanh Sö giåm mqnh do Céc sån phäm tü' döi thü cenh tranh cö Câu hinh cao hon vä giå thåp h0'n. Néu bqn Iä nhä quån IY sån phåm, ben sé ép dung chién ILPQ'C näo dé töi da höa giå tri tü' "Laptop Pro 15"? O A. Chåm dü't hoän toån sån phåm vä tap trung väo sån phåm ké nhiém O B. Täng cuöng quång cåo dé duy tri nhän dién thuong hiéu O C. Giåm giå säu dé xå hång tbn kho nhanh chöng D. Chuyén huöng bån hång cho cåc doanh nghiép nhö hoäc tb choc giåo duc cän sån phäm giå ré Q
+> Trong giai đoạn phát triển, doanh nghiệp thường:
+> - A. Chấm dứt hoàn toàn sản phẩm và tập trung vào sản phẩm kế nhiệm
+> - B. Tăng cường quảng cáo để duy trì nhận diện thương hiệu
+> - C. Giảm giá sâu để xả hàng tồn kho nhanh chóng
+> - D. Chuyển hướng bán hàng cho các doanh nghiệp nhỏ hoặc tổ chức giáo dục cần sản phẩm giá rẻ
 
 ### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md` mục 5.4.2 (giai đoạn phát triển).
 
 ### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
+Đề bài hỏi chiến lược của **giai đoạn phát triển (growth)** trong chu kỳ sống sản phẩm. Bài giảng (`TXMAGM0411_QTMKT1_Baigiangtext.md`, dòng 3741–3770) nêu mục tiêu growth stage là *tối đa hóa thị phần*; đặc trưng là đối thủ cạnh tranh mới gia nhập; các chiến lược gợi ý gồm nâng cao chất lượng, bổ sung mẫu mã, mở rộng phân phối, **chuyển từ quảng cáo mức độ biết đến sang mức độ yêu thích** và giảm giá nhẹ để thu hút khách nhạy cảm.
+
+- A sai vì "Chấm dứt hoàn toàn sản phẩm, tập trung sản phẩm kế nhiệm" là chiến lược **suy thoái** (divest/withdraw). Growth stage còn đang tăng trưởng mạnh, không có lý do chấm dứt sản phẩm.
+- **B đúng** vì "Tăng cường quảng cáo để duy trì nhận diện thương hiệu" khớp wording bài giảng về chiến lược truyền thông growth stage: khi đối thủ cạnh tranh mới gia nhập, doanh nghiệp phải đẩy mạnh quảng cáo để giữ và mở rộng thị phần, đồng thời xây dựng/duy trì nhận diện thương hiệu trước khách hàng mới.
+- C sai vì "Giảm giá sâu để xả hàng tồn kho" là đặc trưng giai đoạn **suy thoái** (decline/harvest) — đây là hành động xả lô cuối, không phù hợp với giai đoạn doanh số đang tăng nhanh. Lưu ý growth stage cũng có thể giảm giá nhưng chỉ giảm nhẹ, không phải "giảm sâu để xả hàng tồn".
+- D sai vì "Chuyển bán cho DN nhỏ/giáo dục giá rẻ" là chiến lược **niche/harvest** ở cuối maturity hoặc đầu decline; growth stage cần mở rộng phạm vi thị trường, không thu hẹp về phân khúc ngách giá rẻ.
 
 ### Kết luận
-**Đáp án: C.** Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
+**Đáp án: B.** Tăng cường quảng cáo duy trì/mở rộng nhận diện thương hiệu — chiến lược marketing tiêu biểu của giai đoạn phát triển khi đối thủ cạnh tranh mới gia nhập.
 
 ### Sai lầm thường gặp
 - Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.

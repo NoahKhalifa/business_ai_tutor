@@ -2,7 +2,7 @@
 exercise_file: "Quản trị marketing 1_Luyện tập trắc nghiệm Chương 3.md"
 solved_at: "2026-06-11T22:45:00+07:00"
 status: "draft"
-review_round: 0
+review_round: 1
 total_questions: 35
 examples_added: true
 ocr_uncertain: true
@@ -37,7 +37,7 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 | 17 | A | Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
 | 18 | B | Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
 | 19 | D | Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 20 | A | Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
+| 20 | C | "Môi trường vi mô" = yếu tố xung quanh DN, mạng lưới phân phối giá trị, ảnh hưởng phục vụ KH (định nghĩa Kotler). Lưu ý: trong OCR cũ A đã bị sai dấu thành "vi mô"; sau khi sửa MD đề (PDF gốc: A=vĩ mô), đáp án dịch chuyển sang C. |
 | 21 | C | Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
 | 22 | D | Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
 | 23 | D | Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
@@ -46,11 +46,11 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 | 26 | C | Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
 | 27 | C | Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
 | 28 | C | Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 29 | B | Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
+| 29 | B | "Môi trường cạnh tranh" thuộc vi mô (đối thủ cạnh tranh), không nằm trong 6 lực lượng vĩ mô; 3 phương án còn lại đều là vĩ mô. |
 | 30 | D | Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
 | 31 | C | Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
 | 32 | C | Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 33 | D | Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
+| 33 | D | ⚠️ Đề lỗi thiết kế: cả C ("Người quản lý") và D ("Người giám sát") đều KHÔNG thuộc 7 vai trò trung tâm mua. Giữ D theo nhiều bộ đáp án mẫu, nhưng C cũng có thể đúng. |
 | 34 | D | Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
 | 35 | B | Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
 
@@ -495,22 +495,30 @@ Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi 
 
 ---
 
-## Câu 20: Dién väo trong khåi ni#m sau: bao göm cåc yéu tö xung quanh doanh nghi#p du'Q'C két hep dé...
+## Câu 20: Điền vào khái niệm "… bao gồm các yếu tố xung quanh doanh nghiệp…"
 
 ### Đề bài
-> Dién väo trong khåi ni#m sau: bao göm cåc yéu tö xung quanh doanh nghi#p du'Q'C két hep dé hinh thänh nén mqng Iu'ö'i phän phöi giå tri hoäc tåc déng dén khå näng phyc vv khåch häng cüa doanh nghlep O A. Möi truöng vi mö O B. Möi truöng kinh té O C. Möi truöng vi mö O D. Möi truöng nöi bö a
+> Điền vào "…" trong khái niệm sau: "… bao gồm các yếu tố xung quanh doanh nghiệp được kết hợp để hình thành nên mạng lưới phân phối giá trị hoặc tác động đến khả năng phục vụ khách hàng của doanh nghiệp"
+> - A. Môi trường vĩ mô
+> - B. Môi trường kinh tế
+> - C. Môi trường vi mô
+> - D. Môi trường nội bộ
 
 ### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+Theo Kotler, **môi trường vi mô** (micro) gồm các tác nhân gần DN ảnh hưởng trực tiếp đến khả năng phục vụ khách hàng: doanh nghiệp, nhà cung cấp, trung gian marketing, đối thủ cạnh tranh, khách hàng, công chúng. Trong khi đó **môi trường vĩ mô** (macro) gồm 6 lực lượng xã hội rộng (nhân khẩu, kinh tế, tự nhiên, công nghệ, chính trị-luật pháp, văn hóa-xã hội). Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+
+> ⚠️ **Lưu ý lỗi OCR đã sửa**: Trước 2026-06-13, đề OCR có A = "vi mô" trùng với C → đáp án cũ ghi A. Sau khi soi PDF gốc (Trang 11) và sửa MD đề về đúng wording (A = vĩ mô, C = vi mô), đáp án chính xác là **C**.
 
 ### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
+Đề mô tả "các yếu tố xung quanh DN, mạng lưới phân phối giá trị, ảnh hưởng phục vụ KH" — đây là wording trực tiếp của định nghĩa **môi trường vi mô** trong bài giảng.
+
+- A sai vì "Môi trường vĩ mô" gồm các lực lượng xã hội rộng (nhân khẩu/kinh tế/tự nhiên/công nghệ/chính trị/văn hóa-xã hội), không phải "yếu tố xung quanh DN".
+- B sai vì "Môi trường kinh tế" là 1 trong 6 lực lượng vĩ mô, không phải toàn bộ vi mô.
+- **C đúng** — "Môi trường vi mô" khớp định nghĩa Kotler về yếu tố trực tiếp tạo mạng lưới phân phối giá trị, ảnh hưởng khả năng phục vụ khách hàng.
+- D sai vì "Môi trường nội bộ" chỉ DN bên trong (nguồn lực, văn hóa nội bộ), không phải "yếu tố xung quanh DN".
 
 ### Kết luận
-**Đáp án: A.** Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
+**Đáp án: C.** Môi trường vi mô — các yếu tố gần DN tạo mạng lưới phân phối giá trị và ảnh hưởng trực tiếp đến phục vụ khách hàng.
 
 ### Sai lầm thường gặp
 - Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
@@ -702,22 +710,26 @@ Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi 
 
 ---
 
-## Câu 29: Däu KHÖNG phåi yéu tö thuéc möi tru'öng vi mö? O A. Möi truöng nhän khåu hoc O B. Möi truö...
+## Câu 29: Đâu KHÔNG phải yếu tố thuộc môi trường vĩ mô?
 
 ### Đề bài
-> Däu KHÖNG phåi yéu tö thuéc möi tru'öng vi mö? O A. Möi truöng nhän khåu hoc O B. Möi truöng canh tranh O C. Möi truöng kinh té O D. Möi truöng cöng nghé a
+> Đâu KHÔNG phải yếu tố thuộc môi trường vĩ mô?
+> - A. Môi trường nhân khẩu học
+> - B. Môi trường cạnh tranh
+> - C. Môi trường kinh tế
+> - D. Môi trường công nghệ
 
 ### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+Theo Kotler, **môi trường vĩ mô** của marketing gồm 6 lực lượng: nhân khẩu học, kinh tế, tự nhiên, công nghệ, chính trị - luật pháp, văn hóa - xã hội. **Môi trường vi mô** gồm: doanh nghiệp, nhà cung cấp, trung gian marketing, **đối thủ cạnh tranh**, khách hàng, công chúng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
 
 ### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
+- A sai (KHÔNG phải đáp án cần chọn) vì "Môi trường nhân khẩu học" CHÍNH LÀ 1 trong 6 lực lượng vĩ mô.
+- **B đúng** vì "Môi trường cạnh tranh" (đối thủ cạnh tranh) thuộc **vi mô**, KHÔNG nằm trong 6 lực lượng vĩ mô. Đây là đáp án "đâu KHÔNG phải vĩ mô".
+- C sai vì "Môi trường kinh tế" là 1 trong 6 lực lượng vĩ mô.
+- D sai vì "Môi trường công nghệ" là 1 trong 6 lực lượng vĩ mô.
 
 ### Kết luận
-**Đáp án: B.** Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
+**Đáp án: B.** "Môi trường cạnh tranh" thuộc môi trường vi mô, không nằm trong các lực lượng của môi trường vĩ mô.
 
 ### Sai lầm thường gặp
 - Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
@@ -794,22 +806,29 @@ Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi 
 
 ---
 
-## Câu 33: Däu KHÖNG phåi Iä vai trö cüa thänh vién trung tam mua? O A. Nguöi quyét dinh O B. Nguöi k...
+## Câu 33: Đâu KHÔNG phải là vai trò của thành viên trung tâm mua?
 
 ### Đề bài
-> Däu KHÖNG phåi Iä vai trö cüa thänh vién trung tam mua? O A. Nguöi quyét dinh O B. Nguöi khöi xuÖng O C. Nguöi quån IY O D. Nguöi giåm såt n
+> Đâu KHÔNG phải là vai trò của thành viên trung tâm mua?
+> - A. Người quyết định
+> - B. Người khởi xướng
+> - C. Người quản lý
+> - D. Người giám sát
 
 ### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+Mô hình trung tâm mua (buying center) gồm **7 vai trò** điển hình (Webster & Wind): **người khởi xướng** (initiator), **người sử dụng** (user), **người mua** (buyer), **người ảnh hưởng** (influencer), **người quyết định** (decider), **người gác cổng** (gatekeeper), **người phê duyệt** (approver). Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+
+### ⚠️ Ghi chú đề thiết kế tồi
+**Đề này có 2 đáp án hợp lệ.** Theo PDF gốc (đã đối chiếu ngày 2026-06-12, TODO mục [T-20260611-07]) đề thực sự có cả "Người quản lý" và "Người giám sát" — cả hai đều KHÔNG nằm trong 7 vai trò chuẩn của trung tâm mua.
 
 ### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
+- A sai (KHÔNG phải đáp án cần chọn) vì "Người quyết định" (decider) là 1 trong 7 vai trò trung tâm mua.
+- B sai (KHÔNG phải đáp án cần chọn) vì "Người khởi xướng" (initiator) là 1 trong 7 vai trò trung tâm mua.
+- **C cũng đúng theo lý thuyết** — "Người quản lý" không nằm trong 7 vai trò (vai trò quản lý chung không tách riêng trong mô hình trung tâm mua).
+- **D đúng (giữ làm đáp án chính)** — "Người giám sát" cũng không nằm trong 7 vai trò trung tâm mua.
 
 ### Kết luận
-**Đáp án: D.** Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
+**Đáp án: D** (theo đáp án phổ biến). Tuy nhiên C cũng là đáp án hợp lệ vì cả hai đều không thuộc 7 vai trò chuẩn của trung tâm mua. Khi đi thi, nếu được chọn nhiều → chọn cả C và D; nếu chỉ chọn 1 → ưu tiên D theo đáp án bộ.
 
 ### Sai lầm thường gặp
 - Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.

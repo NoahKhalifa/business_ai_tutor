@@ -2,7 +2,7 @@
 exercise_file: "Mua và quản trị nguồn cung_Luyện tập trắc nghiệm Chương 4.md"
 solved_at: "2026-06-11T21:50:00+07:00"
 status: "draft"
-review_round: 0
+review_round: 1
 total_questions: 30
 examples_added: true
 extensions_file: "../extensions/mua-va-quan-tri-nguon-cung-luyen-tap-trac-nghiem-chuong-4_extended.md"
@@ -27,7 +27,7 @@ extensions_file: "../extensions/mua-va-quan-tri-nguon-cung-luyen-tap-trac-nghiem
 | 9 | A | SRM không trực tiếp gia tăng doanh số bán; nó tác động gián tiếp qua chất lượng, chi phí, giá trị. |
 | 10 | B | Tạo bầu không khí thân thiện thuộc bước tiếp xúc, không phải trọng tâm bước thương lượng. |
 | 11 | D | Các tiêu thức phân loại gồm quyền sở hữu, vị trí địa lý, thời điểm cung ứng và loại hình quan hệ. |
-| 12 | A | NCC thực hiện nhiệm vụ chuyên môn liên quan sản xuất kinh doanh là quan hệ hợp tác. |
+| 12 | B | Đề bài nhấn mạnh "chuyên môn **cao**, liên quan **nhiều**" — đặc trưng của quan hệ đồng bộ (chiến lược), không phải quan hệ hợp tác (chiến thuật). |
 | 13 | D | Quan hệ giao dịch thường là gói công việc riêng biệt, ít tích hợp. |
 | 14 | D | Tính sẵn có hàng hóa và linh hoạt đáp ứng đơn hàng gắn với mức dự trữ. |
 | 15 | A | NCC tạm thời/ngắn hạn thường chỉ được đánh giá khi nhận hàng. |
@@ -37,7 +37,7 @@ extensions_file: "../extensions/mua-va-quan-tri-nguon-cung-luyen-tap-trac-nghiem
 | 19 | C | Muốn thoát thế người bán thống trị cần tìm thay thế, tiêu chuẩn hóa, giảm chi phí tìm kiếm. |
 | 20 | C | Tìm NCC mới không phải một trong 5 phong cách xử lý bất đồng Thomas-Kilmann. |
 | 21 | D | NCC đặc biệt/chiến lược có tích hợp cao, chia sẻ thông tin tối đa, tham gia từ thiết kế. |
-| 22 | B | Quy trình quản trị rủi ro: nhận dạng, đánh giá, đo lường, xử lý, giám sát. |
+| 22 | A | Bài giảng liệt kê 5 công đoạn: **Xác định – Đánh giá – Phân tích – Xử lý – Giám sát** rủi ro. |
 | 23 | A | Thiết lập ZOPA cần nghiên cứu thị trường và mức giá NCC có thể chấp nhận. |
 | 24 | B | Quan hệ NCC cần đan xen, cộng tác và cùng có lợi. |
 | 25 | A | Phát triển nguồn cung là hoạt động quản trị, không phải loại rủi ro nguồn cung. |
@@ -313,13 +313,19 @@ Chương 4 tập trung vào quan hệ nhà cung cấp, đánh giá và phát tri
 Chương 4 tập trung vào quan hệ nhà cung cấp, đánh giá và phát triển nhà cung cấp, đàm phán, quyền lực và quản trị rủi ro nguồn cung. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
 
 ### Lời giải chi tiết
-- A đúng vì NCC thực hiện nhiệm vụ chuyên môn liên quan sản xuất kinh doanh là quan hệ hợp tác.
-- B sai vì "Quan hệ đồng bộ" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 4, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- C sai vì "Quan hệ chiến thuật" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 4, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- D sai vì "Quan hệ giao dịch" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 4, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
+Bài giảng (`TXBLOG3041_MVQTNC_Baigiangtext.md`, dòng 2580–2592) phân biệt rõ 2 mức:
+- **Quan hệ hợp tác (chiến thuật)**: NCC thực hiện dịch vụ chuyên môn, **có liên quan** tới quá trình SXKD (xử lý nước thải, trung tâm DVKH, thiết kế hệ thống thông tin…).
+- **Quan hệ đồng bộ (chiến lược)**: NCC thực hiện dịch vụ chuyên môn **cao**, liên quan **nhiều** tới quá trình SXKD (gia công, lắp ráp, đóng gói, logistics…).
+
+Đề bài dùng đúng cụm "chuyên môn **cao**, liên quan **nhiều** tới quá trình SXKD" — khớp định nghĩa quan hệ đồng bộ.
+
+- A sai vì "Quan hệ hợp tác" chỉ ứng với mức "chuyên môn, có liên quan" — không có chữ "cao/nhiều" như đề.
+- **B đúng** vì cụm từ trong đề là wording trực tiếp của định nghĩa quan hệ đồng bộ (chiến lược).
+- C sai vì "Quan hệ chiến thuật" thực chất là tên gọi khác của quan hệ hợp tác — vẫn ở mức thấp hơn so với mô tả trong đề.
+- D sai vì "Quan hệ giao dịch" là mức thấp nhất (mua/bán đơn giản, ngắn hạn), không có yếu tố chuyên môn cao.
 
 ### Kết luận
-**Đáp án: A.** NCC thực hiện nhiệm vụ chuyên môn liên quan sản xuất kinh doanh là quan hệ hợp tác.
+**Đáp án: B.** Quan hệ đồng bộ (chiến lược) — NCC chuyên môn cao, gắn nhiều với SXKD.
 
 ### Sai lầm thường gặp
 - Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
@@ -543,13 +549,15 @@ Chương 4 tập trung vào quan hệ nhà cung cấp, đánh giá và phát tri
 Chương 4 tập trung vào quan hệ nhà cung cấp, đánh giá và phát triển nhà cung cấp, đàm phán, quyền lực và quản trị rủi ro nguồn cung. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
 
 ### Lời giải chi tiết
-- A sai vì "Xác định rủi ro, đánh giá rủi ro, phân tích rủi ro, xử lý rủi ro, giám sát rủi ro." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 4, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- B đúng vì Quy trình quản trị rủi ro: nhận dạng, đánh giá, đo lường, xử lý, giám sát.
-- C sai vì "Xác định rủi ro, nhận dạng rủi ro, phân tích rủi ro, giám sát rủi ro, xử lý rủi ro." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 4, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- D sai vì "Phân tích rủi ro, xác định rủi ro, xác định nguyên nhân, xử lý nguyên nhân, giám sát rủi ro." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 4, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
+Bài giảng (`TXBLOG3041_MVQTNC_Baigiangtext.md`, dòng 3470–3472) viết nguyên văn: *"DN thường xây dựng và triển khai quy trình quản trị rủi ro gồm 5 công đoạn: **Xác định rủi ro; Đánh giá rủi ro; Phân tích rủi ro; Xử lý rủi ro và Giám sát rủi ro**."* Đề bài yêu cầu liệt kê đúng 5 công đoạn theo thứ tự — chỉ A khớp wording.
+
+- **A đúng** vì khớp hoàn toàn 5 công đoạn và thứ tự bài giảng: Xác định → Đánh giá → Phân tích → Xử lý → Giám sát.
+- B sai vì dùng "nhận dạng" thay cho "Xác định" và thêm "đo lường" — không có trong bài giảng. Đo lường rủi ro nằm trong nội bộ bước "Đánh giá", không phải công đoạn riêng.
+- C sai vì lặp 2 bước cùng nghĩa ("xác định" và "nhận dạng") và đảo thứ tự "Giám sát" lên trước "Xử lý" — không khớp quy trình bài giảng.
+- D sai vì đưa "xác định nguyên nhân, xử lý nguyên nhân" thay cho "Đánh giá / Xử lý rủi ro" — đi sai phạm vi (quản trị rủi ro chứ không phải quản trị nguyên nhân).
 
 ### Kết luận
-**Đáp án: B.** Quy trình quản trị rủi ro: nhận dạng, đánh giá, đo lường, xử lý, giám sát.
+**Đáp án: A.** 5 công đoạn quản trị rủi ro nguồn cung theo bài giảng: Xác định – Đánh giá – Phân tích – Xử lý – Giám sát rủi ro.
 
 ### Sai lầm thường gặp
 - Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
