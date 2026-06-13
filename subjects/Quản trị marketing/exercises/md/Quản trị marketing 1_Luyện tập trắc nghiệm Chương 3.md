@@ -1,295 +1,332 @@
-﻿---
+---
 source_pdf: "Quản trị marketing 1_Luyện tập trắc nghiệm Chương 3.pdf"
 source_hash: "sha256:9cbbd1fe0bfd5f87248d93631d482624c902e68069931457fd3cf75fe70b7a59"
 converted_at: "2026-06-11T22:33:38+07:00"
+recleaned_at: "2026-06-13T20:00:00+07:00"
 subject: "quan-tri-marketing"
 doc_type: "exercise"
 pages: 19
 ocr_used: true
 ocr_language: "en-US (Vietnamese OCR unavailable; accents may be degraded)"
+confusables_flagged: 5
+recleaned_note: "Re-extract toàn bộ 35 câu từ PDF gốc bằng vision (PDF text-based, hash khớp). Sửa các đoạn OCR mangled ở Q3, Q14, Q20, Q26, Q33. Áp dụng skill mới: flag [VERIFY_OCR] cho cụm vi/vĩ mô đã bị OCR nhầm trong các lần convert trước."
 ---
 
 # Quản trị marketing 1_Luyện tập trắc nghiệm Chương 3
 
-> Bản này đã được làm sạch từ OCR PDF ảnh/form Onschool: bỏ header/footer/URL, tách câu hỏi và phương án A-D để dễ học. Một số dấu tiếng Việt vẫn có thể chưa hoàn hảo vì máy không có OCR tiếng Việt.
+> Bản này đã được làm sạch từ OCR PDF ảnh/form Onschool: bỏ header/footer/URL, tách câu hỏi và phương án A-D để dễ học. Lần re-clean 2026-06-13 đã đối chiếu trực tiếp với PDF gốc (text-based, không phải scan); các từ confusable tiếng Việt được flag `[VERIFY_OCR]` để skill exercise-solver cần verify khi giải.
 
-## Câu hỏi trắc nghiệm
+## Câu 1
 
-### Câu 1
+Sự phát triển của mô hình hộ gia đình phi truyền thống là một xu hướng trong môi trường nào?
 
-Thoät SV' phåt trién cüa mö hinh hé gia dinh phi truyền thông là mét xu hu•'öng trong môi trường nào?
+- **A.** Môi trường nhân khẩu học
+- **B.** Môi trường công nghệ
+- **C.** Môi trường kinh tế
+- **D.** Môi trường văn hóa-xã hội
 
-- **A.** Möi truöng nhän khåu hoc
-- **B.** Möi truöng công nghệ
-- **C.** Möi truöng kinh té
-- **D.** Möi truöng vän höa-xã hội
-### Câu 2
+## Câu 2
 
-Môi trường nhän khäu hQC cé ånh hu•'öng nhu' thé nào dén nghiên cứu marketing?
+Môi trường nhân khẩu học có ảnh hưởng như thế nào đến nghiên cứu marketing?
 
-- **A.** Tåc döng dén khả năng sån xuät cüa doanh nghiệp
-- **B.** Cung cåp thông tin vé co Câu dän sö, thöi quen tiéu đúng cüa khåch häng tiém näng
-- **C.** Quyét dinh chính sách giå cüa doanh nghiệp
-- **D.** Anh hướng đến mü'C dé Iam phåt trong nén kinh té
-### Câu 3
+- **A.** Tác động đến khả năng sản xuất của doanh nghiệp
+- **B.** Cung cấp thông tin về cơ cấu dân số, thói quen tiêu dùng của khách hàng tiềm năng
+- **C.** Quyết định chính sách giá của doanh nghiệp
+- **D.** Ảnh hưởng đến mức độ lạm phát trong nền kinh tế
 
-Đâu là KHÔNG phải là nhiệm vụ cüa he th6ng thông tin marketing?
+## Câu 3
 
-- **A.** Xåc dinh däc diém, tinh chät cüa sản phẩm må doanh nghiệp cung l.:png.
-- **B.** Dåm båo cåc thông tin chän xåc cho việc Ivc chơn vå hi$u Chinh trong suöt tiền trinh Quản trị marketing cüa doanh nghiệp kinh doanh.
-- **C.** Cung cäp cåc phåt hi$n låm diéu ki$n định hướng mục tiêu diéu hänh tåc nghi$p marketing.
-- **D.** Cung cäp cåc kién thü'C khåch quan, tiền dé ph6i hep giüa cåc bé phän marketing vöi cåc chipc näng khåc cüa doanh nghiệp.
-### Câu 4
+Đâu là KHÔNG phải là nhiệm vụ của hệ thống thông tin marketing?
 
-> Ghi chú OCR: câu này bị ghép với câu/trang lân cận trong bản OCR thô; xem PDF gốc hoặc solution tương ứng để đối chiếu.
+- **A.** Thu thập thông tin
+- **B.** Phát triển thông tin
+- **C.** Phân phối thông tin
+- **D.** Đánh giá nhu cầu thông tin
 
-### Câu 5
+## Câu 4
 
-Đâu KHÔNG phải là cåch mä mét doanh nghi#p dép ü'ng lei môi trường marketing?
+Hoạt động Phân tích marketing KHÔNG giúp doanh nghiệp:
 
-- **A.** Doanh nghiép Iäm cho sv viéc dién ra.
-- **B.** Doanh nghiép quan träc möi truöng marketing.
-- **C.** Doanh nghiép Iuön tv höi cåi gi dä dién ra.
-- **D.** Doanh nghiép dong nhin sự viéc dién ra.
-### Câu 6
+- **A.** Xác định đặc điểm, tính chất của sản phẩm mà doanh nghiệp cung ứng.
+- **B.** Đảm bảo các thông tin chân xác cho việc lựa chọn và hiệu chỉnh trong suốt tiến trình quản trị marketing của doanh nghiệp kinh doanh.
+- **C.** Cung cấp các phát hiện làm điều kiện định hướng mục tiêu điều hành tác nghiệp marketing.
+- **D.** Cung cấp các kiến thức khách quan, tiền đề phối hợp giữa các bộ phận marketing với các chức năng khác của doanh nghiệp.
 
-Yéu tö nào du'&i đây KHÔNG THUQC nhóm yếu tố cá nhân ånh hu'öng dén hänh vi mua sắm cüa người tiêu dùng?
+## Câu 5
 
-- **A.** Nghé nghiép
-- **B.** Tuöi tåc vå giai doen söng
-- **C.** Åp luc nhóm ban bé
-- **D.** Thu nhäp
-### Câu 7
+Đâu KHÔNG phải là cách mà một doanh nghiệp đáp ứng lại môi trường marketing?
 
-Phän tich marketing giúp doanh nghi#p được Ipi ich nào sau đây?
+- **A.** Doanh nghiệp làm cho sự việc diễn ra.
+- **B.** Doanh nghiệp quan trắc môi trường marketing.
+- **C.** Doanh nghiệp luôn tự hỏi cái gì đã diễn ra.
+- **D.** Doanh nghiệp đứng nhìn sự việc diễn ra.
 
-- **A.** Dua ra cåc phåt hién giúp doanh nghiệp diéu Chinh cåc hoạt động marketing möt cåch chính xåc vå hiéu quå hơn.
-- **B.** Dv doån cåc xu huöng thị trường må KHÔNG cän phåi thu thäp dCp liéu thuc té.
-- **C.** Chi h6 trp cåc quyét dinh vb tài chính vå nhän sv trong doanh nghiệp.
-- **D.** Cung cäp cåc két Iuän Chü quan dựa trên kinh nghiém cá nhân.
-### Câu 8
+## Câu 6
+
+Yếu tố nào dưới đây KHÔNG THUỘC nhóm yếu tố cá nhân ảnh hưởng đến hành vi mua sắm của người tiêu dùng?
+
+- **A.** Nghề nghiệp
+- **B.** Tuổi tác và giai đoạn sống
+- **C.** Áp lực nhóm bạn bè
+- **D.** Thu nhập
+
+## Câu 7
+
+Phân tích marketing giúp doanh nghiệp đạt được lợi ích nào sau đây?
+
+- **A.** Đưa ra các phát hiện giúp doanh nghiệp điều chỉnh các hoạt động marketing một cách chính xác và hiệu quả hơn.
+- **B.** Dự đoán các xu hướng thị trường mà không cần phải thu thập dữ liệu thực tế.
+- **C.** Chỉ hỗ trợ các quyết định về tài chính và nhân sự trong doanh nghiệp.
+- **D.** Cung cấp các kết luận chủ quan dựa trên kinh nghiệm cá nhân.
+
+## Câu 8
 
 Theo Ph. Kotler, môi trường marketing bao gồm:
 
-- **A.** Möi truöng vi mô vä cåc nguön luc bén trong doanh nghi$p tåc döng dén hoạt động sån xuät kinh doanh cüa doanh nghiöp.
-- **B.** Möi truöng ngành vä co Sö vät chät cüa doanh nghi$p trong cung (png giá trị cho khåch häng.
-- **C.** Cåc yếu tố vä cåc nguön luc marketing bén ngoäi cö thé tåc döng dén khả năng Quản trị marketing trong viéc xäy dvng vä duy trì möi quan thänh cöng vöi khách hàng mục tiêu.
-- **D.** Céc bén tham gia väo mang Iuöi cung I-:png giá trị cüa doanh nghiệp.
-### Câu 9
+- **A.** Môi trường vĩ mô [VERIFY_OCR: vi/vĩ — PDF gốc trang 4 là "vĩ"] và các nguồn lực bên trong doanh nghiệp tác động đến hoạt động sản xuất kinh doanh của doanh nghiệp.
+- **B.** Môi trường ngành và cơ sở vật chất của doanh nghiệp trong cung ứng giá trị cho khách hàng.
+- **C.** Các yếu tố và các nguồn lực marketing bên ngoài có thể tác động đến khả năng quản trị marketing trong việc xây dựng và duy trì mối quan hệ thành công với khách hàng mục tiêu.
+- **D.** Các bên tham gia vào mạng lưới cung ứng giá trị của doanh nghiệp.
 
-Dién väo trong khåi ni#m sau: là he thöng båo déng som vé nhü'ng Ivc Iu'Q'ng môi trường cé thé tåc déng dén sån phäm vä thi tru'öng cüa doanh nghi#p trong tupong Iai"
+## Câu 9
 
-- **A.** Nghién cü'u marketing
-- **B.** Diéu tra marketing
-- **C.** Nghién cü'u thị trường
-- **D.** Quan träc möi truöng marketing
-### Câu 10
+Điền vào "…" trong khái niệm sau: "… là hệ thống báo động sớm về những lực lượng môi trường có thể tác động đến sản phẩm và thị trường của doanh nghiệp trong tương lai"
 
-Đâu KHÔNG phải là nhiệm vụ cüa quan träc môi trường marketing?
+- **A.** Nghiên cứu marketing
+- **B.** Điều tra marketing
+- **C.** Nghiên cứu thị trường
+- **D.** Quan trắc môi trường marketing
 
-- **A.** Gia tăng Chung thug dåi hen cüa khách hàng cho doanh nghiệp
-- **B.** Chuån bi cåc du bå
-- **C.** Kiểm soát cåc xu huöng
-- **D.** Tu vän nöi bö
-### Câu 11
+## Câu 10
 
-các yếu tố nào gäy cån tro người tiêu dùng chuyén tü' giai doqn "Dånh giå thé vi" sang giai doqn "Quyét dinh mua"?
+Đâu KHÔNG phải là nhiệm vụ của quan trắc môi trường marketing?
 
-- **A.** Cåc đối thủ cạnh tranh
-- **B.** Céc nhän t6 tinh hu6ng KHÔNG tham dv
-- **C.** Cåc nhän t6 khåch quan
-- **D.** Céc nhän t6 Chü quan
-### Câu 12
+- **A.** Gia tăng sự chung thuỷ dài hạn của khách hàng cho doanh nghiệp
+- **B.** Chuẩn bị các dự báo
+- **C.** Kiểm soát các xu hướng
+- **D.** Tư vấn nội bộ
 
-Môi trường cöng ngh# cé thé ånh hu•'öng dén doanh nghi#p nhu' thé nào?
+## Câu 11
 
-- **A.** Cåi thién möi truöng tv nhién cho sån xuät
-- **B.** Thay dbi luật pháp vb kinh doanh
-- **C.** Giảm chi phi sån xuät vöi công nghệ töi tan
-- **D.** Tăng truöng nhanh chöng trong thị trường tiéu đúng
-### Câu 13
+Các yếu tố nào gây cản trở người tiêu dùng chuyển từ giai đoạn "Đánh giá thế vị" sang giai đoạn "Quyết định mua"?
 
-Mö hinh dép ü'ng möi trwöng marketing cé mäy giai doen:
+- **A.** Các đối thủ cạnh tranh
+- **B.** Các nhân tố tình huống không tham dự
+- **C.** Các nhân tố khách quan
+- **D.** Các nhân tố chủ quan
 
-- **A.** 2 giai doen
-- **B.** 5 giai doen
-- **C.** 4 giai doen
-- **D.** 3 giai doen
-### Câu 14
+## Câu 12
 
-Yéu tö nào được xem là ånh hu'öng säu reng nhät dén hänh vi ngwö'i tiéu đúng?
+Môi trường công nghệ có thể ảnh hưởng đến doanh nghiệp như thế nào?
 
-- **A.** Yéu t6 xã hội
-- **B.** Yéu tö vän höa
-- **C.** Yéu tö cá nhân
-- **D.** Yéu t6 tam IY
-### Câu 15
+- **A.** Cải thiện môi trường tự nhiên cho sản xuất
+- **B.** Thay đổi luật pháp về kinh doanh
+- **C.** Giảm chi phí sản xuất với công nghệ tối tân
+- **D.** Tăng trưởng nhanh chóng trong thị trường tiêu dùng
 
-Môi trường tv nhién cé ånh hwöng nhu' thé nào dén doanh nghi#p?
+## Câu 13
 
-- **A.** Dua ra quy dinh phåp IY vb ngubn täi nguyén thién nhién
-- **B.** Anh hướng đến cåc yếu tố däu våo vå Iå Ipi thé cạnh tranh trong mét Sö ngånh
-- **C.** Tao ra cơ hội phåt trién công nghệ möi
-- **D.** Giöi hen sự phåt trién cüa cåc sản phẩm dịch vụ
-### Câu 16
+Mô hình đáp ứng lại môi trường marketing có mấy giai đoạn:
 
-trong khåi ni#m sau: là hep cåc ky thu#t th6ng ké vä cåc mö hinh Dién väo dé phân tích Céc dü' lieu dä được thu th#p vé Céc vän dé marketing nhằm co so' cho cåc quyét dinh vä diéu hänh kinh doanh hü'u hi#u h0'n".
+- **A.** 2 giai đoạn
+- **B.** 5 giai đoạn
+- **C.** 4 giai đoạn
+- **D.** 3 giai đoạn
 
-- **A.** Phän tich marketing
-- **B.** Diéu tra marketing
-- **C.** Quan tråc marketing
-- **D.** Nghién cü'u marketing
-### Câu 17
+## Câu 14
 
-Yéu tö "vän höa" tåc déng dén quyét dinh mua sắm cüa người tiêu dùng nhu' thé nào?
+Yếu tố nào được xem là ảnh hưởng sâu rộng nhất đến hành vi người tiêu dùng?
 
-- **A.** Quy dinh cåc chuän muc hänh vi vä giá trị må nguöi tiéu đúng tuän theo.
-- **B.** Dinh hinh cåch nguöi tiéu đúng phån (png vöi cåc chién dich quảng cáo.
-- **C.** Tao ra döng co mua såm thöng qua åp luc xã hội.
-- **D.** Anh hướng đến sở thích cá nhân vå quyét dinh thuong hiöu.
-### Câu 18
+- **A.** Yếu tố xã hội
+- **B.** Yếu tố văn hóa
+- **C.** Yếu tố cá nhân
+- **D.** Yếu tố tâm lý
 
-Hänh vi nào sau đây KHÔNG phải hänh vi mua cüa người tiêu dùng?
+## Câu 15
 
-- **A.** Hånh vi mua Iäm giåm tråi nghich
-- **B.** Hänh vi mua läp lei
-- **C.** Hånh vi mua phi-jc tap
-- **D.** Hänh vi mua định hướng da dang höa
-### Câu 19
+Môi trường tự nhiên có ảnh hưởng như thế nào đến doanh nghiệp?
 
-Trong chiến lược marketing, néu mét doanh nghi#p phåi diéu chính chiến lược sản phẩm dé phi hep nhCpng thay döi vé vän höa vä thöi quen tiéu ding & mét thi tru'öng möi, doanh nghi#p cän Iäm gi?
+- **A.** Đưa ra quy định pháp lý về nguồn tài nguyên thiên nhiên
+- **B.** Ảnh hưởng đến các yếu tố đầu vào và là lợi thế cạnh tranh trong một số ngành
+- **C.** Tạo ra cơ hội phát triển công nghệ mới
+- **D.** Giới hạn sự phát triển của các sản phẩm dịch vụ
 
-- **A.** Thvc hiän chién Iuqc dinh giå cao dé tao än tuqng vb chåt luqng
-- **B.** Cải tiến cåc chién luqc phän ph6i dé giåm chi phi
-- **C.** Tăng cuöng cåc hoạt động truyền thông trén nén tång ky thuät s6
-- **D.** Phát triển cåc sản phẩm däc biét dé dåp Ong nhu cầu cüa thị trường mục tiêu
-### Câu 20
+## Câu 16
+
+Điền vào "…" trong khái niệm sau: "… là tập hợp các kỹ thuật thống kê và các mô hình để phân tích các dữ liệu đã được thu thập về các vấn đề marketing nhằm tạo cơ sở cho các quyết định và điều hành kinh doanh hữu hiệu hơn".
+
+- **A.** Phân tích marketing
+- **B.** Điều tra marketing
+- **C.** Quan trắc marketing
+- **D.** Nghiên cứu marketing
+
+## Câu 17
+
+Yếu tố "văn hóa" tác động đến quyết định mua sắm của người tiêu dùng như thế nào?
+
+- **A.** Quy định các chuẩn mực hành vi và giá trị mà người tiêu dùng tuân theo.
+- **B.** Định hình cách người tiêu dùng phản ứng với các chiến dịch quảng cáo.
+- **C.** Tạo ra động cơ mua sắm thông qua áp lực xã hội.
+- **D.** Ảnh hưởng đến sở thích cá nhân và quyết định thương hiệu.
+
+## Câu 18
+
+Hành vi nào sau đây KHÔNG phải hành vi mua của người tiêu dùng?
+
+- **A.** Hành vi mua làm giảm trái nghịch
+- **B.** Hành vi mua lặp lại
+- **C.** Hành vi mua phức tạp
+- **D.** Hành vi mua định hướng đa dạng hóa
+
+## Câu 19
+
+Trong chiến lược marketing, nếu một doanh nghiệp phải điều chỉnh chiến lược sản phẩm để phù hợp với những thay đổi về văn hóa và thói quen tiêu dùng ở một thị trường mới, doanh nghiệp cần làm gì?
+
+- **A.** Thực hiện chiến lược định giá cao để tạo ấn tượng về chất lượng
+- **B.** Cải tiến các chiến lược phân phối để giảm chi phí
+- **C.** Tăng cường các hoạt động truyền thông trên nền tảng kỹ thuật số
+- **D.** Phát triển các sản phẩm đặc biệt để đáp ứng nhu cầu của thị trường mục tiêu
+
+## Câu 20
 
 Điền vào "…" trong khái niệm sau: "… bao gồm các yếu tố xung quanh doanh nghiệp được kết hợp để hình thành nên mạng lưới phân phối giá trị hoặc tác động đến khả năng phục vụ khách hàng của doanh nghiệp"
 
-- **A.** Môi trường vĩ mô
+- **A.** Môi trường vĩ mô [VERIFY_OCR: vi/vĩ — PDF gốc trang 11 là "vĩ"]
 - **B.** Môi trường kinh tế
-- **C.** Môi trường vi mô
+- **C.** Môi trường vi mô [VERIFY_OCR: vi/vĩ — PDF gốc trang 11 là "vi"]
 - **D.** Môi trường nội bộ
-### Câu 21
 
-Dién väo trong khåi ni#m sau: ... bao gồm con ngu'ö'i, thiét bi vä Céc thü tyc dé thu th#p, phän 10?i, phân tích, ILPQ'ng giå vä phän ph6i thông tin chính xåc, đúng thöi gian vä đúng nhu cầu cho nhCpng ngu'ö'i ra quyét dinh marketing."
+## Câu 21
 
-- **A.** Hé h6 trp quyét dinh
-- **B.** Hé nghiên cứu marketing
-- **C.** Hé th6ng thông tin marketing
-- **D.** Hé diéu tra marketing
-### Câu 22
+Điền vào "…" trong khái niệm sau: "… bao gồm con người, thiết bị và các thủ tục để thu thập, phân loại, phân tích, lượng giá và phân phối thông tin chính xác, đúng thời gian và đúng nhu cầu cho những người ra quyết định marketing."
 
-Xu hw&ng nào dưới đây KHÔNG phải là mét trong nhü'ng yếu tố cüa môi trường chính tri - luet phåp?
+- **A.** Hệ hỗ trợ quyết định
+- **B.** Hệ nghiên cứu marketing
+- **C.** Hệ thống thông tin marketing
+- **D.** Hệ điều tra marketing
 
-- **A.** Thüc dåy sv phåt trién ngånh cöng nghiép möi
-- **B.** Gia tăng luät dinh kinh doanh
-- **C.** Tăng cuöng sv tap trung väo hänh döng cö tråch nhiém xã hội vå deo dlfrc
-- **D.** Quản lý cåc thay đổi trong công nghệ
-### Câu 23
+## Câu 22
 
-Khi khåch häng dånh giå cao dịch vụ sau bån cüa doanh nghi#p, h? thu'öng cö xu hu'&ng:
+Xu hướng nào dưới đây KHÔNG phải là một trong những yếu tố của môi trường chính trị - luật pháp?
 
-- **A.** Chuyén sang thương hiệu đối thủ
-- **B.** Tim kiém sản phẩm thay thé
-- **C.** Giảm chi tiéu cho cåc sản phẩm khåc cüa doanh nghiệp
-- **D.** Tiép tuc mua häng vå giới thiệu thương hiệu cho nguöi khåc
-### Câu 24
+- **A.** Thúc đẩy sự phát triển ngành công nghiệp mới
+- **B.** Gia tăng luật định kinh doanh
+- **C.** Tăng cường sự tập trung vào hành động có trách nhiệm xã hội và đạo đức
+- **D.** Quản lý các thay đổi trong công nghệ
 
-Môi trường vĩ mô KHÔNG bao gồm IV'C Iwpng nào?
+## Câu 23
+
+Khi khách hàng đánh giá cao dịch vụ sau bán của doanh nghiệp, họ thường có xu hướng:
+
+- **A.** Chuyển sang thương hiệu đối thủ
+- **B.** Tìm kiếm sản phẩm thay thế
+- **C.** Giảm chi tiêu cho các sản phẩm khác của doanh nghiệp
+- **D.** Tiếp tục mua hàng và giới thiệu thương hiệu cho người khác
+
+## Câu 24
+
+Môi trường vĩ mô [VERIFY_OCR: vi/vĩ — PDF gốc trang 13 là "vĩ"] KHÔNG bao gồm lực lượng nào?
 
 - **A.** Kinh tế
-- **B.** Ngånh kinh doanh
-- **C.** Chinh tri - luật pháp
+- **B.** Ngành kinh doanh
+- **C.** Chính trị - luật pháp
 - **D.** Nhân khẩu học
-### Câu 25
 
-Mét doanh nghi#p cöng ngh# muön phåt trién sån phäm möi vä nh#n thü'C được räng sv döi trong cöng ngh# vä nhu cầu thay döi nhanh chöng trong hänh vi người tiêu dùng là yếu tố quyét dinh. Để d6i phö vöi yếu tố näy, công ty cän:
+## Câu 25
 
-- **A.** Chi tap trung våo viéc töi uu höa quy trình sån xuät
-- **B.** Tăng cuöng nghiên cứu vä phåt trién (R&D) dé nhanh chöng båt kip xu huöng
-- **C.** Tăng cuöng quan he vöi cåc döi tåc chién luqc dé chia sé rüi r
-- **D.** Dinh giå sản phẩm thåp hơn dé thu hüt nguöi tiéu đúng
-### Câu 26
+Một doanh nghiệp công nghệ muốn phát triển sản phẩm mới và nhận thức được rằng sự đổi mới trong công nghệ và nhu cầu thay đổi nhanh chóng trong hành vi người tiêu dùng là yếu tố quyết định. Để đối phó với yếu tố này, công ty cần:
 
-Dién väo trong khåi ni#m sau: ... là cöng cv giúp xác định möi quan he bén trong mét tep hep dü' lieu, dé tin cey vé mét th6ng ké cüa chüng"
+- **A.** Chỉ tập trung vào việc tối ưu hóa quy trình sản xuất
+- **B.** Tăng cường nghiên cứu và phát triển (R&D) để nhanh chóng bắt kịp xu hướng
+- **C.** Tăng cường quan hệ với các đối tác chiến lược để chia sẻ rủi ro
+- **D.** Định giá sản phẩm thấp hơn để thu hút người tiêu dùng
 
-- **A.** Cåc mö hinh hbi quy tuyén tinh
-- **B.** Cöng cu mö hinh
-- **C.** Cöng cu th6ng ké
-- **D.** Cåc bién Sö
-### Câu 27
+## Câu 26
 
-Trong tiền trinh ra quyét dinh mua häng, bu'&c nào giúp người tiêu dùng hinh thänh y kién vé thupong hi#u?
+Điền vào "…" trong khái niệm sau: "… là công cụ giúp xác định mối quan hệ bên trong một tập hợp dữ liệu, độ tin cậy về mặt thống kê của chúng"
 
-- **A.** Nhän dién vän dé
-- **B.** Tim kiém thông tin
-- **C.** Dånh giá cảc Iva chơn
-- **D.** Quyét dinh mua
-### Câu 28
+- **A.** Các mô hình hồi quy tuyến tính
+- **B.** Công cụ mô hình
+- **C.** Công cụ thống kê
+- **D.** Các biến số
 
-Đâu là myc dich cüa quan träc marketing?
+## Câu 27
 
-- **A.** Giüp doanh nghiệp Iåm ra sản phẩm cö chåt Iuqng cao hơn.
-- **B.** Giüp doanh nghiệp sån xuät duec nhiéu hơn.
-- **C.** Cåi thi$n khả năng dåp (png cüa doanh nghi$p vöi nhCpng thay d6i nhanh chöng cüa möi truöng.
-- **D.** Cåi thién khả năng thanh toån.
-### Câu 29
+Trong tiến trình ra quyết định mua hàng, bước nào giúp người tiêu dùng hình thành ý kiến về thương hiệu?
 
-Đâu KHÔNG phải yếu tố thuộc môi trường vĩ mô?
+- **A.** Nhận diện vấn đề
+- **B.** Tìm kiếm thông tin
+- **C.** Đánh giá các lựa chọn
+- **D.** Quyết định mua
+
+## Câu 28
+
+Đâu là mục đích của quan trắc marketing?
+
+- **A.** Giúp doanh nghiệp làm ra sản phẩm có chất lượng cao hơn.
+- **B.** Giúp doanh nghiệp sản xuất được nhiều hơn.
+- **C.** Cải thiện khả năng đáp ứng của doanh nghiệp với những thay đổi nhanh chóng của môi trường.
+- **D.** Cải thiện khả năng thanh toán.
+
+## Câu 29
+
+Đâu KHÔNG phải yêu tố thuộc môi trường vĩ mô [VERIFY_OCR: vi/vĩ — PDF gốc trang 15 là "vĩ" (TODO T-20260611-06 đã xác nhận)]?
 
 - **A.** Môi trường nhân khẩu học
 - **B.** Môi trường cạnh tranh
 - **C.** Môi trường kinh tế
 - **D.** Môi trường công nghệ
-### Câu 30
 
-819737 Mét công ty thö'i trang cao cäp muön bén sản phẩm cho nhóm người tiêu dùng thuếc phän doqn "sän säng chi tiéu cao". Yéu tö nào dwö'i đây cö khả năng tåc déng mqnh nhåt dén quyét dinh mua cüa h??
+## Câu 30
 
-- **A.** Quảng cáo tap trung våo tinh näng thuät.
-- **B.** Céc chương trình khuyén mäi giåm giå.
-- **C.** Giå cå sản phẩm hợp lý hơn đối thủ.
-- **D.** Giå tri cåm xüc lién quan dén thương hiệu.
-### Câu 31
+Một công ty thời trang cao cấp muốn bán sản phẩm cho nhóm người tiêu dùng thuộc phân đoạn "sẵn sàng chi tiêu cao". Yếu tố nào dưới đây có khả năng tác động mạnh nhất đến quyết định mua của họ?
 
-Hänh vi ngu'ö'i tiéu đúng được dinh nghra là g)?
+- **A.** Quảng cáo tập trung vào tính năng kỹ thuật.
+- **B.** Các chương trình khuyến mãi giảm giá.
+- **C.** Giá cả sản phẩm hợp lý hơn đối thủ.
+- **D.** Giá trị cảm xúc liên quan đến thương hiệu.
 
-- **A.** Hånh döng cüa khách hàng khi lua chơn giữa cåc nhän hiéu khåc nhau.
-- **B.** Quå trinh phân tích dữ liệu mua sắm cüa khåch häng.
-- **C.** Toän bé hänh döng chơn Iva, mua sắm, sip dung vå loqi bå sản phẩm, dịch vụ dé thỏa mãn nhu cầu vå mong muốn.
-- **D.** Toån bö hånh döng cüa cå nhån hoäc tö chi-'pc nhằm töi uu höa lợi nhuận.
-### Câu 32
+## Câu 31
 
-819737 bao häm cåc IV'C Iu'Q'ng xã hội réng lön dang ånh Dién väo trong khåi ni#m sau: hu'&ng dén toän cvc, môi trường vi mô vä teo ra thöi co' cüng nhu' möi de dpa doanh nghlep
+Hành vi người tiêu dùng được định nghĩa là gì?
 
-- **A.** Möi truöng vi mô
-- **B.** Möi truöng kinh té
-- **C.** Möi truöng vĩ mô
-- **D.** Möi truöng nöi bö
-### Câu 33
+- **A.** Hành động của khách hàng khi lựa chọn giữa các nhãn hiệu khác nhau.
+- **B.** Quá trình phân tích dữ liệu mua sắm của khách hàng.
+- **C.** Toàn bộ hành động chọn lựa, mua sắm, sử dụng và loại bỏ sản phẩm, dịch vụ để thỏa mãn nhu cầu và mong muốn.
+- **D.** Toàn bộ hành động của cá nhân hoặc tổ chức nhằm tối ưu hóa lợi nhuận.
 
-Đâu KHÔNG phải là vai trò cüa thänh vién trung tam mua?
+## Câu 32
 
-- **A.** Nguöi quyét dinh
-- **B.** Nguöi khöi xuÖng
-- **C.** Nguöi quån IY
-- **D.** Nguöi giåm såt
-### Câu 34
+Điền vào "…" trong khái niệm sau: "… bao hàm các lực lượng xã hội rộng lớn đang ảnh hưởng đến toàn cục, môi trường vi mô và tạo ra thời cơ cũng như mối đe dọa với doanh nghiệp"
 
-Đâu KHÔNG phải đặc điểm cüa thi tru'öng khåch häng td chü'c?
+- **A.** Môi trường vi mô [VERIFY_OCR: vi/vĩ — PDF gốc trang 17 là "vi"]
+- **B.** Môi trường kinh tế
+- **C.** Môi trường vĩ mô [VERIFY_OCR: vi/vĩ — PDF gốc trang 17 là "vĩ"]
+- **D.** Môi trường nội bộ
 
-- **A.** Khåch häng vä nhå cung cap thän thién, gän güi.
-- **B.** S6 luqng khách hàng it nhung mua vöi Sö Iuqng lön, thuöng täp trung theo vüng dia l'.
-- **C.** Nhu cầu mua phu thuöc våo hoạt động däu ra.
-- **D.** Chi cé mét nguöi tham gia thực hiện quá trình mua häng.
-### Câu 35
+## Câu 33
 
-• "Möi ... Dién väo trong khåi ni#m sau. thwc nào dö"
+Đâu KHÔNG phải là vai trò của thành viên trung tâm mua?
 
-- **A.** dia diém
-- **B.** phuong trinh
-- **C.** bién Sö
-- **D.** công cụ mö hinh Câu dien cho he th6ng, tiền trinh, hay két quå
+- **A.** Người quyết định
+- **B.** Người khởi xướng
+- **C.** Người quản lý
+- **D.** Người giám sát
 
+## Câu 34
 
+Đâu KHÔNG phải đặc điểm của thị trường khách hàng tổ chức?
+
+- **A.** Khách hàng và nhà cung cấp thân thiện, gần gũi.
+- **B.** Số lượng khách hàng ít nhưng mua với số lượng lớn, thường tập trung theo vùng địa lý.
+- **C.** Nhu cầu mua phụ thuộc vào hoạt động đầu ra.
+- **D.** Chỉ có một người tham gia thực hiện quá trình mua hàng.
+
+## Câu 35
+
+Điền vào "…" trong khái niệm sau: "Mỗi … đại diện cho hệ thống, tiến trình, hay kết quả thực nào đó"
+
+- **A.** địa điểm
+- **B.** phương trình
+- **C.** biến số
+- **D.** công cụ mô hình

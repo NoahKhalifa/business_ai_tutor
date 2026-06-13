@@ -10,7 +10,7 @@
 > - **KHÔNG xóa mục `pending` mà chưa làm.** Nếu không định làm nữa → mark `❌ Bỏ qua` + lý do.
 > - Cập nhật `Cập nhật lần cuối:` ở đầu file mỗi khi thay đổi.
 
-**Cập nhật lần cuối:** 2026-06-13
+**Cập nhật lần cuối:** 2026-06-13 tối (Mua & QTNC Ch1-Ch4 rewrite xong + skill thêm rule Critical engagement)
 
 ---
 
@@ -57,32 +57,33 @@
 
 ---
 
-## 🔥 Ưu tiên CAO — Nghi vấn lỗi đáp án mới phát hiện (từ T-10)
+## 📝 Ưu tiên TRUNG BÌNH — Rewrite MCQ solutions theo skill mới
 
-### [T-20260613-01] Mua & QTNC — Ch3 Q16/Q17/Q21 nghi vấn lỗi
-- **Trạng thái:** pending — cần verify thủ công
-- **File:** `subjects/Mua và quản trị nguồn cung/solutions/mua-va-quan-tri-nguon-cung-luyen-tap-trac-nghiem-chuong-3_solution.md`
-- **Vấn đề** (do reviewer độc lập phát hiện trong vòng review 2026-06-13):
-  - **Q16**: Solver chọn **A** "NCC chịu trách nhiệm duy trì dự trữ". Reviewer cho rằng đây là đặc trưng riêng của mô hình **VMI** (bài giảng dòng 2039–2044), không phải tiêu chí lựa chọn mô hình chung. Đáp án đúng có thể là **B** hoặc **D** theo bài giảng dòng 2073–2078.
-  - **Q21**: Solver giải thích C "cải thiện giao tiếp nội bộ" là lợi ích **vô hình** của TCO, nhưng vẫn xếp vào "không khớp loại trừ" khi đề hỏi lợi ích **hữu hình**. Tự mâu thuẫn — nếu vô hình thì C chính là đáp án "hữu hình KHÔNG có".
-  - **Q17**: Solver dựa vào suy đoán hữu hình/vô hình không có dòng bài giảng cụ thể chứng minh.
-- **Hành động:**
-  1. Mở `lectures/md/TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 1620–2250 (TCO, mô hình mua, VMI).
-  2. Tìm chính xác phần nào liệt kê (a) lợi ích hữu hình vs vô hình của TCO, (b) tiêu chí lựa chọn giữa các mô hình mua.
-  3. Nếu xác định Q16 sai → sửa đáp án + cập nhật `_review.md`. Tương tự Q17, Q21.
+### [T-20260613-04] Mua & QTNC — Rewrite 6 file solution Ch1-Ch6 theo template MCQ mới
+- **Trạng thái:** in-progress (Ch1+Ch2+Ch3+Ch4 ĐÃ HOÀN THÀNH 2026-06-13, còn **Ch5+Ch6**)
+- **Files còn lại (2):**
+  - `subjects/Mua và quản trị nguồn cung/solutions/mua-va-quan-tri-nguon-cung-luyen-tap-trac-nghiem-chuong-5_solution.md`
+  - `subjects/Mua và quản trị nguồn cung/solutions/mua-va-quan-tri-nguon-cung-luyen-tap-trac-nghiem-chuong-6_solution.md`
+- **Tiến độ chi tiết:**
+  - **Ch1 (pilot - format uniform dài)**: 30 câu, boilerplate x78 → x5 (~95% giảm). Cite-line còn lặp x5 là quote định nghĩa "mua sắm" lecture dòng 30-32, hợp pháp. Q3 flag tranh luận đáp án (C/B).
+  - **Ch2 (format adaptive verbosity)**: 30 câu, **boilerplate = 0**. 9 câu dài (~30%) + 21 câu ngắn (~70%). Q21 flag đề kém (2 phương án A/B đều có thể "không phải").
+  - **Ch3 (adaptive + critical engagement)**: 30 câu, **boilerplate = 0**. 8 câu dài + 22 câu ngắn. Q16/Q17/Q21 giữ đáp án A (T-20260613-01 verified). Critical notes: Q15 (lecture wording mơ hồ), Q17 (terminology hữu/vô hình so với Monczka direct/strategic), Q26 (lecture sai fact EOQ: "Ford W. Ham 1915" → thực tế **Ford W. Harris 1913** theo Erlenkotter 1990).
+  - **Ch4 (adaptive + critical engagement)**: 30 câu, top phrase x6 là cấu trúc "Ghi chú critical engagement" intentional (không phải boilerplate xấu). 10 câu dài + 20 câu ngắn. Critical notes: Q10 (lecture mâu thuẫn "Phá vỡ bế tắc"), Q19/Q26/Q28 (bổ sung Porter 5 Forces), Q20 (Thomas-Kilmann gốc — "Hòa giải" ≠ Accommodating), Q22 (so với ISO 31000:2018 / COSO ERM + 4Ts), Q23 (bổ sung BATNA của Fisher & Ury).
+- **2 lần skill upgrade trong 2026-06-13 tối:**
+  - **Lần 1 (trước Ch2)**: thêm rule "Adaptive verbosity" — câu khó kỹ + mở rộng (~250-400 từ), câu định nghĩa thuần ngắn gọn (~80-150 từ). Tỷ lệ ~30% dài / ~70% ngắn.
+  - **Lần 2 (trước Ch3)**: thêm rule "Critical engagement với lecture" vào `skills/exercise-solver/SKILL.md` + `skills/answer-reviewer/SKILL.md` — solver KHÔNG mù quáng theo lecture, phải flag (a) thiếu ý, (b) gây nhầm lẫn, (c) viết sai/lạc hậu khi đối chiếu với chuẩn ngành (Kotler/Porter/Monczka/Heizer/...). Format flag mới: "⚠️ Ghi chú về tài liệu (critical engagement)" với 4 dòng: Phát hiện / Chi tiết / Nguồn chuẩn / Khuyến nghị cho SV.
+- **Hành động cho Ch5-Ch6:** áp dụng format adaptive verbosity + critical engagement như Ch3-Ch4. Giữ đáp án. Tham khảo:
+  - **Ch5**: cần đọc lecture dòng 3510-4839 (chiến lược nguồn cung: Kraljic Matrix, JIT/VMI/ESI, 6 bước chiến lược, mô hình tổ chức tập trung/phân quyền). Critical engagement candidates: bổ sung **Kraljic Matrix nguồn gốc (HBR 1983)** + **SOD = Segregation of Duties** (chuẩn kế toán nội kiểm), **8 lãng phí JIT** so với 7 lãng phí gốc của Toyota (Taiichi Ohno) — lecture có 8 lãng phí, khác bản gốc.
+  - **Ch6**: cần đọc lecture dòng 4840+ (mua quốc tế, mua trực tuyến, trách nhiệm xã hội). Critical engagement candidates: lý thuyết Adam Smith/Ricardo (lecture đã trích), bổ sung **ESG framework** + **B-Corp certification** cho CSR; **e-procurement** so với chuẩn Monczka.
+- **Lưu ý**: KHÔNG đổi đáp án so với bộ đáp án trường (T-20260613-01 đã verify Ch3 đáp án đúng).
 
-### [T-20260613-02] QT Marketing 1 — Ch3 Q20 (OCR sai "vĩ"→"vi") — *đã sửa 2026-06-13*
-- Soi MD đề: A và C đều là "vi mô" (OCR sai). Đối chiếu PDF gốc (Trang 11): A thực tế là **"vĩ mô"**, C là **"vi mô"**. Giống pattern lỗi Q29.
-- Đã sửa MD đề (Ch3 Q20: A → "vĩ mô"). Đã cập nhật đáp án solver **A → C** (vì sau khi sửa OCR, "vi mô" đúng wording đề chuyển sang option C). Cleanup luôn solution Q20.
-- **Còn lại**: cần soi toàn bộ MD đề Ch3 (35 câu) để tìm các câu khác cùng pattern lỗi "vĩ → vi" (gợi ý: tìm các câu có nhắc môi trường vi/vĩ mô).
+---
 
 ---
 
 ## 💡 Việc khác — Ý tưởng/đề xuất
 
-### [T-20260612-01] Bổ sung check trùng lặp cho `check-project.ps1`
-- **Trạng thái:** idea (chưa schedule)
-- **Đề xuất:** Thêm cảnh báo khi nhiều file `_review.md` trong cùng môn có body giống nhau (so hash sau khi normalize tên chương). Mục tiêu: bắt sớm pattern "review template copy-paste" như đã thấy ở QT Marketing.
+_(Trống — T-20260612-01 đã hoàn thành 2026-06-13.)_
 
 ---
 
@@ -116,6 +117,37 @@
 ### [T-20260611-07] QT Marketing 1 — Ch3 Q33 (vai trò trung tâm mua) — *hoàn thành 2026-06-12*
 - Soi PDF gốc (Trang 17) → đề thực sự có cả C "Người quản lý" và D "Người giám sát" — **OCR đúng, đề thiết kế tồi** (2 đáp án "không phải" 7 vai trò).
 - Solution Q33 giữ đáp án **D** theo bộ đáp án mẫu, nhưng đã thêm ghi chú ⚠️ rằng cả C và D đều không nằm trong 7 vai trò trung tâm mua (initiator/user/buyer/influencer/decider/gatekeeper/approver). Cleanup phần đề OCR mangled. Khi đi thi: chọn nhiều → cả C+D; chọn 1 → ưu tiên D.
+
+### [T-20260613-01] Mua & QTNC Ch3 Q16/Q17/Q21 verify — *hoàn thành 2026-06-13*
+- **Kết quả: KHÔNG có lỗi đáp án.** Cả 3 câu solver đã chọn **A**, sau verify với lecture đều ĐÚNG.
+  - **Q16**: Lecture dòng 2073-2078 liệt kê 3 yếu tố lựa chọn mô hình (mục tiêu, lợi thế so sánh, năng lực NCC) → B/C/D. A "NCC chịu trách nhiệm duy trì dự trữ" là đặc trưng VMI (dòng 2039-2044), không nằm trong list → đề "KHÔNG bao gồm" → A đúng.
+  - **Q17**: Lecture dòng 2378-2389 list 4 lợi ích hữu hình + 3 vô hình của TCO; "Cải thiện chiến lược mua" KHÔNG có ở cả 2 nhóm → đề "KHÔNG bao gồm" → A đúng.
+  - **Q21**: "Cải thiện giao tiếp nội bộ" thuộc vô hình (dòng 2387), không thuộc hữu hình → đề "hữu hình KHÔNG có" → A đúng.
+- **Nguyên nhân nghi vấn ở round 2**: phần "Lời giải chi tiết" boilerplate không trích dòng → reviewer không tìm thấy bằng chứng nên nghi sai. Sau verify trực tiếp: vấn đề thực tế là chất lượng lập luận, không phải đáp án.
+- Đã update `_review.md` Ch3 Mua & QTNC (round 3, score 7.0 REVISE_MINOR thay vì 6.1 REVISE).
+
+### [T-20260613-02] QT Marketing 1 — Ch3 OCR confusables — *hoàn thành 2026-06-13*
+- **Mở rộng từ scope cũ**: không chỉ Q20 mà re-extract toàn bộ 35 câu từ PDF gốc bằng vision (PDF Ch3 text-based, hash khớp). Sửa các đoạn OCR mangled ở Q3, Q14, Q20, Q26, Q33.
+- Đã áp dụng skill mới: flag `[VERIFY_OCR: vi/vĩ — PDF gốc trang N]` cho **5 câu** chứa cặp vi/vĩ mô (Q8, Q20, Q24, Q29, Q32). Front-matter ghi `confusables_flagged: 5`.
+- File: `subjects/Quản trị marketing/exercises/md/Quản trị marketing 1_Luyện tập trắc nghiệm Chương 3.md`.
+- Solver tương lai khi giải Ch3 sẽ thấy các flag này → phải dừng verify với PDF gốc trước khi chọn đáp án. Cycle quá trình lỗi đã đóng.
+
+### [T-20260613-03] Nâng cấp skill MCQ + OCR confusables + dup detection — *hoàn thành 2026-06-13*
+- **Mục tiêu**: fix root-cause cho 3 pattern lỗi lặp lại (boilerplate giải MCQ, OCR nhầm dấu tiếng Việt, không có cơ chế tự phát hiện template clone). Không retroactive sửa solution cũ.
+- **Skill upgrade**:
+  - `skills/exercise-solver/SKILL.md`: thêm "Cấu trúc bắt buộc cho TRẮC NGHIỆM (MCQ)" — override template 8 phần, bắt buộc per-option analysis A/B/C/D + trích `dòng X-Y` mỗi câu + "Sai lầm thường gặp" riêng cho từng câu + check OCR confusables.
+  - `skills/answer-reviewer/SKILL.md`: cập nhật rubric tiêu chí 2 (Logic) + thêm "Tiêu chí bổ sung cho bài MCQ" (4 check: per-option, cite-line, sai lầm riêng, OCR verify).
+  - `skills/pdf-to-md/SKILL.md`: thêm "Bước 3.1: Cảnh báo OCR confusables tiếng Việt" — danh sách 9 cặp confusable (vi/vĩ, sỉ/sĩ, lý/ly, lỗ/lô, hoàn/hoàng, nhặt/nhật, chỉ/chí, sản/sàn, mã/mả) + rule chèn flag inline `[VERIFY_OCR: ...]` + tín hiệu 2 phương án MCQ trùng chữ → flag.
+  - `prompts/solver_template.md` + `prompts/reviewer_checklist.md`: thêm note + section MCQ tương ứng.
+- **Script upgrade**: `scripts/check-project.ps1` thêm 2 detector boilerplate:
+  - **Cross-file**: Jaccard 5-gram ≥85% giữa các `_review.md` / `_solution.md` cùng môn.
+  - **Intra-file**: 10-gram lặp ≥5 lần trong cùng 1 file (pattern phổ biến nhất ở solver MCQ).
+  - Verify chạy thực tế: bắt đúng QT Marketing (top phrase x96-105) + Mua & QTNC (x45-78), không false-positive ở các môn template-rich khác (Khởi sự kinh doanh).
+- **Còn lại sau update này**: việc viết lại solution cũ (T-20260611-08, T-20260611-09) vẫn pending — skill mới sẽ áp dụng khi rewrite, không tự sửa cũ.
+
+### [T-20260612-01] Dup detection cho check-project.ps1 — *hoàn thành 2026-06-13 (gộp với T-20260613-03)*
+- Đã implement trong `scripts/check-project.ps1` (functions: `Get-NormalizedBody`, `Get-ShingleSet`, `Get-JaccardSimilarity`, `Find-BoilerplateDuplicates`, `Get-IntraFileRepetition`, `Find-IntraFileBoilerplate`).
+- Audit toàn project lần đầu sau khi enable: 6 môn x ~5 chương = 11 file MCQ solution bị flag là boilerplate nặng. Khớp pattern đã ghi nhận trong T-20260611-08 và T-20260611-10.
 
 ### [T-20260611-10] Viết lại 11 file _review.md theo rubric thực sự — *hoàn thành 2026-06-13*
 - Đã rewrite hoàn chỉnh 11 file `_review.md` (review_round 2) — không còn là clone template:

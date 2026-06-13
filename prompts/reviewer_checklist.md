@@ -49,6 +49,15 @@
 - [ ] Phần đào sâu có đề cập mô hình nâng cao liên quan?
 - [ ] Nguồn đọc thêm có thật & uy tín?
 
+## H. Trắc nghiệm MCQ (chỉ áp dụng khi solution là bài MCQ)
+
+> **MCQ = Multiple Choice Question = câu hỏi trắc nghiệm 4 lựa chọn A/B/C/D**. Section này chỉ check khi solution có format "Câu N → Đáp án X → Phân tích A/B/C/D". KHÔNG áp dụng cho bài tự luận, case study, tính toán.
+- [ ] Mỗi câu có phân tích RIÊNG cho A/B/C/D (không dùng 1 câu generic cho mọi phương án/mọi câu)?
+- [ ] Có ít nhất 1 trích dẫn `lectures/md/<file>.md dòng X-Y` mỗi câu? Mở lecture verify dòng đúng?
+- [ ] "Sai lầm thường gặp" có RIÊNG cho từng câu (không copy-paste khắp các câu)?
+- [ ] So 5 câu liên tiếp ngẫu nhiên: phần phân tích/giải thích có giống nhau >70% không? (Nếu có → flag là boilerplate, LỖI NẶNG)
+- [ ] Có câu nào dùng confusable (vi/vĩ, sỉ/sĩ, lý/ly, lỗ/lô, hoàn/hoàng) hoặc flag `[VERIFY_OCR]` mà chưa verify PDF gốc không?
+
 ## Kết luận:
 - Tổng điểm theo trọng số: __/10
 - Verdict: PASS / REVISE / ESCALATE

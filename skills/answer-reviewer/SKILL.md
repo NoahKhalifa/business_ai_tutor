@@ -29,10 +29,12 @@ description: Rà soát, kiểm tra và chấm điểm lời giải bài tập Qu
 
 ## Rubric chấm điểm (thang 10)
 
+> **Lưu ý thuật ngữ**: **MCQ = Multiple Choice Question = câu hỏi trắc nghiệm 4 lựa chọn A/B/C/D**. Trong rubric dưới đây và section "Tiêu chí bổ sung cho bài MCQ" (cuối skill), khi thấy chữ "MCQ" tức là chỉ riêng các bài trắc nghiệm — KHÔNG áp dụng cho bài tự luận, case study, tính toán.
+
 | # | Tiêu chí | Trọng số | Mô tả |
 |---|---|---|---|
 | 1 | **Chính xác khái niệm/công thức** | 30% | Khái niệm dùng đúng định nghĩa? Công thức đúng dạng? Đơn vị đúng? |
-| 2 | **Logic lập luận** | 20% | Các bước nối tiếp hợp lý? Có bước nhảy không? Có giả định nào ngầm chưa nói? |
+| 2 | **Logic lập luận** | 20% | Các bước nối tiếp hợp lý? Có bước nhảy không? Có giả định nào ngầm chưa nói? **MCQ:** từng phương án A/B/C/D có lý do RIÊNG (không boilerplate)? Có dẫn dòng bài giảng mỗi câu? |
 | 3 | **Tính toán** | 20% | Reviewer TỰ TÍNH LẠI. Sai số > 1% với kết quả không tròn → trừ điểm. |
 | 4 | **Phù hợp ngữ cảnh VN & ví dụ thực tế** | 15% | Ví dụ có thực tế? Có hợp với DN VN? Không bịa số liệu? |
 | 5 | **Sư phạm & độ chi tiết** | 15% | SV đọc có hiểu không? Có dẫn chiếu bài giảng? Có "sai lầm thường gặp"? |
@@ -190,6 +192,27 @@ Khi review bài listening, ngoài 5 tiêu chí chính, reviewer kiểm tra thêm
 4. **Ngôn ngữ transcript**: Transcript phải giữ nguyên ngôn ngữ gốc, KHÔNG dịch.
 
 Các lỗi transcript ảnh hưởng đến tiêu chí 1 (Chính xác) và tiêu chí 2 (Logic) trong rubric chính.
+
+## Tiêu chí bổ sung cho bài TRẮC NGHIỆM (MCQ)
+
+> **Section này CHỈ áp dụng khi solution là MCQ** (template "Câu N → Đáp án X → Phân tích A/B/C/D"). Áp dụng SONG SONG với rubric 5 tiêu chí gốc.
+
+Khi review bài MCQ, ngoài 5 tiêu chí chính, reviewer kiểm tra thêm 5 điểm dưới đây. Lỗi ở các điểm này quy về tiêu chí 1 (Chính xác), 2 (Logic), 5 (Sư phạm):
+
+1. **Per-option analysis (lỗi nặng nhất, hay xảy ra)**: Mỗi câu PHẢI có phân tích RIÊNG cho A/B/C/D — không dùng cùng 1 câu generic ("không khớp trọng tâm khái niệm", "lệch khái niệm") cho mọi phương án/mọi câu. **Cách check nhanh**: đọc lướt 5 câu bất kỳ, nếu phần phân tích phương án sai giống nhau >70% → **LỖI NẶNG**, trừ 3 điểm tiêu chí 2 (Logic). Đây là pattern boilerplate đã thấy lặp lại khắp 11 chương QT Marketing/Mua & QTNC.
+2. **Cite-line**: Mỗi câu có ít nhất 1 reference dạng `lectures/md/<file>.md dòng X-Y`. Reviewer **mở file lecture verify số dòng đúng**. Trích sai dòng → **LỖI VỪA**, trừ 1-2 điểm tiêu chí 1. Không có reference dòng nào trong cả bài → **LỖI NẶNG**.
+3. **"Sai lầm thường gặp" riêng cho từng câu**: Không copy-paste cùng 1 đoạn cho mọi câu. Reviewer scan ≥5 câu liên tiếp — nếu giống nhau → **LỖI NẶNG** tiêu chí 5 (Sư phạm), trừ 3 điểm.
+4. **OCR verify**: Nếu đề/phương án chứa confusable (vi/vĩ, sỉ/sĩ, lý/ly, lỗ/lô, hoàn/hoàng, nhặt/nhật, chỉ/chí) HOẶC có flag inline `[VERIFY_OCR: ...]` → solver PHẢI đã verify với PDF gốc. Reviewer mở PDF check ngẫu nhiên 2-3 câu nghi vấn. Nếu MD đề sai PDF mà solver chưa flag/sửa → **LỖI NẶNG** tiêu chí 1.
+5. **Critical engagement với lecture**: Solver KHÔNG được mù quáng theo lecture. Reviewer check:
+   - Có câu nào lecture **thiếu ý** quan trọng mà solver bỏ qua không bổ sung? (vd: lecture chỉ liệt kê 4 chữ P, solver không nhắc 4C của Lauterborn nếu đề có hint về customer-centric → thiếu)
+   - Có câu nào lecture **gây nhầm lẫn** (wording 2 nghĩa, thuật ngữ trùng tên khác nghĩa) mà solver không flag cho SV?
+   - Có câu nào lecture **viết sai/lạc hậu** so với kiến thức chuẩn ngành (Kotler/Porter/Brealey-Myers/sách chuẩn) mà solver không cảnh báo?
+   - Solver có lạm dụng "Critical engagement" để chê bừa lecture không? (over-flagging cũng là lỗi — chỉ flag khi có nguồn chuẩn đối chiếu cụ thể)
+   - **Cách chấm**: 
+     - Solver flag chuẩn (có bằng chứng) → cộng điểm tiêu chí 1 (Chính xác) và 5 (Sư phạm).
+     - Solver bỏ sót khi lecture rõ ràng có vấn đề (reviewer phát hiện) → **LỖI VỪA**, trừ 1-2 điểm tiêu chí 1.
+     - Solver flag bừa (không có nguồn) → **LỖI VỪA**, trừ 1-2 điểm tiêu chí 1.
+   - Reviewer mở 1-2 nguồn chuẩn của ngành (sách giáo khoa, Wikipedia tiếng Anh) khi cần verify khía cạnh này.
 
 ## Edge cases
 - **Lời giải đã rất tốt** → vẫn phải review nghiêm túc, không cho điểm cao chỉ vì "trông ổn". Đặc biệt verify TÍNH TOÁN.

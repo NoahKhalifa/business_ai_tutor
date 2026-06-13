@@ -65,6 +65,151 @@ function Get-FrontMatterField {
     return $null
 }
 
+# Normalize body content for boilerplate detection:
+# strip front-matter, chapter/question numbers, dates, scores → so 2 file khác chương vẫn so được phần lập luận chung.
+function Get-NormalizedBody {
+    param([string]$FilePath)
+    if (-not (Test-Path $FilePath)) { return '' }
+    $raw = Get-Content $FilePath -Raw -Encoding UTF8
+    if (-not $raw) { return '' }
+    # Strip front-matter giữa 2 dòng ---
+    $body = $raw -replace '(?s)^---\s*\r?\n.*?\r?\n---\s*\r?\n', ''
+    # Strip markdown headings (### Heading...) - structure lặp lại không phải boilerplate explanation
+    $body = $body -replace '(?m)^#{1,6}\s+.*$', ''
+    # Strip "Chương N" / "chương N" (mọi dấu)
+    $body = $body -replace '(?i)Ch(ư|u)(ơ|o)ng\s*\d+', 'CHX'
+    # Strip "Câu N" / "QN" / "Q.N"
+    $body = $body -replace '(?i)(Câu|Q\.?)\s*\d+', 'QX'
+    # Strip dates YYYY-MM-DD
+    $body = $body -replace '\d{4}-\d{2}-\d{2}', 'DATE'
+    # Strip scores X.X/10 hoặc X/10
+    $body = $body -replace '\d+(\.\d+)?\s*/\s*10', 'SCORE'
+    # Strip line/page refs "dòng X-Y", "trang N"
+    $body = $body -replace '(?i)d(ò|o)ng\s*\d+(-\d+)?', 'LINE'
+    $body = $body -replace '(?i)trang\s*\d+', 'PAGE'
+    # Collapse whitespace
+    $body = $body -replace '\s+', ' '
+    return $body.Trim()
+}
+
+# Tách body đã normalize thành 5-gram shingles (5 từ liên tiếp) để Jaccard bắt boilerplate
+# tốt hơn split-by-sentence (vốn fail khi text bị collapse whitespace).
+function Get-ShingleSet {
+    param(
+        [string]$Text,
+        [int]$N = 5
+    )
+    if (-not $Text) { return @() }
+    $tokens = $Text -split '\s+' | Where-Object { $_.Length -gt 0 }
+    if ($tokens.Count -lt $N) { return @() }
+    $set = New-Object 'System.Collections.Generic.HashSet[string]'
+    for ($i = 0; $i -le $tokens.Count - $N; $i++) {
+        $shingle = ($tokens[$i..($i + $N - 1)] -join ' ').ToLowerInvariant()
+        [void]$set.Add($shingle)
+    }
+    return @($set)
+}
+
+function Get-JaccardSimilarity {
+    param(
+        [string[]]$SetA,
+        [string[]]$SetB
+    )
+    if ($SetA.Count -eq 0 -or $SetB.Count -eq 0) { return 0.0 }
+    $a = New-Object 'System.Collections.Generic.HashSet[string]' (,[string[]]$SetA)
+    $b = New-Object 'System.Collections.Generic.HashSet[string]' (,[string[]]$SetB)
+    $intersect = New-Object 'System.Collections.Generic.HashSet[string]' (,[string[]]$SetA)
+    $intersect.IntersectWith($b)
+    $union = New-Object 'System.Collections.Generic.HashSet[string]' (,[string[]]$SetA)
+    $union.UnionWith($b)
+    if ($union.Count -eq 0) { return 0.0 }
+    return [double]$intersect.Count / [double]$union.Count
+}
+
+# Đếm số shingle N-gram lặp lại >= MinRepeat lần trong cùng 1 file.
+# Pattern boilerplate phổ biến nhất: solver giải MCQ dùng cùng 1 cụm explain cho mọi câu.
+function Get-IntraFileRepetition {
+    param(
+        [string]$FilePath,
+        [int]$N = 10,
+        [int]$MinRepeat = 5
+    )
+    $body = Get-NormalizedBody -FilePath $FilePath
+    $tokens = $body -split '\s+' | Where-Object { $_.Length -gt 0 }
+    if ($tokens.Count -lt $N) { return @() }
+    $counts = @{}
+    for ($i = 0; $i -le $tokens.Count - $N; $i++) {
+        $sh = ($tokens[$i..($i + $N - 1)] -join ' ').ToLowerInvariant()
+        if ($counts.ContainsKey($sh)) { $counts[$sh] += 1 } else { $counts[$sh] = 1 }
+    }
+    $hits = @()
+    foreach ($k in $counts.Keys) {
+        if ($counts[$k] -ge $MinRepeat) {
+            $hits += [pscustomobject]@{ Phrase = $k; Count = $counts[$k] }
+        }
+    }
+    return @($hits | Sort-Object Count -Descending)
+}
+
+function Find-IntraFileBoilerplate {
+    param(
+        [string]$Folder,
+        [string]$Pattern,
+        [int]$N = 10,
+        [int]$MinRepeat = 5
+    )
+    $result = New-Object System.Collections.Generic.List[pscustomobject]
+    if (-not (Test-Path $Folder)) { return $result }
+    foreach ($f in @(Get-ChildItem $Folder -Filter $Pattern -ErrorAction SilentlyContinue)) {
+        $hits = Get-IntraFileRepetition -FilePath $f.FullName -N $N -MinRepeat $MinRepeat
+        if ($hits.Count -gt 0) {
+            $top = $hits[0]
+            $result.Add([pscustomobject]@{
+                File           = $f.Name
+                UniquePhrases  = $hits.Count
+                TopPhraseCount = $top.Count
+                TopPhrase      = $top.Phrase.Substring(0, [Math]::Min(80, $top.Phrase.Length))
+            })
+        }
+    }
+    return $result
+}
+
+# Trả về list các cặp file có Jaccard >= Threshold → flag template copy-paste cross-file
+function Find-BoilerplateDuplicates {
+    param(
+        [string]$Folder,
+        [string]$Pattern,
+        [double]$Threshold = 0.85
+    )
+    $result = New-Object System.Collections.Generic.List[pscustomobject]
+    if (-not (Test-Path $Folder)) { return $result }
+    $files = @(Get-ChildItem $Folder -Filter $Pattern -ErrorAction SilentlyContinue)
+    if ($files.Count -lt 2) { return $result }
+
+    $sigs = @{}
+    foreach ($f in $files) {
+        $body = Get-NormalizedBody -FilePath $f.FullName
+        $sigs[$f.Name] = Get-ShingleSet -Text $body -N 5
+    }
+
+    for ($i = 0; $i -lt $files.Count; $i++) {
+        for ($j = $i + 1; $j -lt $files.Count; $j++) {
+            $a = $files[$i].Name
+            $b = $files[$j].Name
+            $sim = Get-JaccardSimilarity -SetA $sigs[$a] -SetB $sigs[$b]
+            if ($sim -ge $Threshold) {
+                $result.Add([pscustomobject]@{
+                    FileA      = $a
+                    FileB      = $b
+                    Similarity = [math]::Round($sim * 100, 1)
+                })
+            }
+        }
+    }
+    return $result
+}
+
 function Invoke-AuditSubject {
     param([System.IO.DirectoryInfo]$SubjectDir)
 
@@ -147,6 +292,25 @@ function Invoke-AuditSubject {
             if ($status -eq 'draft' -and -not $hasReview) {
                 $issues.Add("Draft solution without review: $($sol.Name)")
             }
+        }
+
+        # Boilerplate detection - cross-file: 2 file trong cùng folder >=85% giống nhau (Jaccard 5-gram)
+        $reviewDupes = Find-BoilerplateDuplicates -Folder $solDir -Pattern '*_review.md' -Threshold 0.85
+        foreach ($d in $reviewDupes) {
+            $issues.Add("BOILERPLATE review (~$($d.Similarity)% similar): '$($d.FileA)' ~ '$($d.FileB)' --possible template copy-paste, verify reviewer independence")
+        }
+        $solutionDupes = Find-BoilerplateDuplicates -Folder $solDir -Pattern '*_solution.md' -Threshold 0.85
+        foreach ($d in $solutionDupes) {
+            $issues.Add("BOILERPLATE solution (~$($d.Similarity)% similar): '$($d.FileA)' ~ '$($d.FileB)' --possible boilerplate solver output")
+        }
+
+        # Boilerplate detection - intra-file: cùng 1 cụm 10 từ lặp >=5 lần trong cùng file
+        # (pattern phổ biến nhất ở solver MCQ: cùng 1 đoạn explain cho mọi câu)
+        foreach ($b in (Find-IntraFileBoilerplate -Folder $solDir -Pattern '*_solution.md' -N 10 -MinRepeat 5)) {
+            $issues.Add("INTRA-FILE boilerplate in '$($b.File)': $($b.UniquePhrases) phrase(s) repeated, top phrase x$($b.TopPhraseCount): ""$($b.TopPhrase)...""")
+        }
+        foreach ($b in (Find-IntraFileBoilerplate -Folder $solDir -Pattern '*_review.md' -N 10 -MinRepeat 5)) {
+            $issues.Add("INTRA-FILE boilerplate in '$($b.File)': $($b.UniquePhrases) phrase(s) repeated, top phrase x$($b.TopPhraseCount): ""$($b.TopPhrase)...""")
         }
     }
 

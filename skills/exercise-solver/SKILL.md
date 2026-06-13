@@ -58,12 +58,135 @@ Sinh lời giải chuẩn sư phạm: không phải chỉ ra đáp án, mà DẪ
 [Nếu có]
 ```
 
+### Cấu trúc bắt buộc cho TRẮC NGHIỆM (MCQ) — override template 8 phần
+
+> **Định nghĩa**: **MCQ = Multiple Choice Question = câu hỏi trắc nghiệm có nhiều lựa chọn** (trong project này luôn là 4 phương án A/B/C/D, chọn 1 đáp án đúng). Section này áp dụng cho mọi đề trắc nghiệm trong `subjects/<môn>/exercises/`.
+>
+> **Tại sao có template riêng**: dùng template 8 phần ở trên cho 30-35 câu MCQ là quá nặng → solver thường sinh boilerplate ("không khớp trọng tâm khái niệm" lặp khắp các câu, "Sai lầm thường gặp" copy-paste). Template MCQ dưới đây bắt buộc per-option analysis + cite-line để tránh tình trạng này.
+
+```markdown
+## Câu N: [tóm tắt đề ngắn 1 dòng]
+
+**Đề:** [trích nguyên văn đề + 4 phương án A/B/C/D]
+
+**Đáp án: X**
+
+**Phân tích từng phương án:**
+- **A.** [nội dung A] — [Đúng/Sai] vì [LÝ DO CỤ THỂ cho câu này — KHÔNG dùng câu generic chung]. Theo `lectures/md/<file>.md` dòng [X-Y].
+- **B.** [nội dung B] — [Đúng/Sai] vì [...]. Theo `lectures/md/<file>.md` dòng [X-Y].
+- **C.** [...]
+- **D.** [...]
+
+**Trích bài giảng (chứng minh đáp án đúng):**
+> [Quote nguyên văn đoạn quan trọng nhất, kèm số dòng]
+
+**Sai lầm thường gặp ở CÂU NÀY:** [Phải phản ánh nội dung cụ thể của câu N — không phải template áp dụng cho mọi câu]
+
+**(Tùy chọn) Mẹo phân biệt:** [Nếu khái niệm dễ nhầm với khái niệm khác trong bài]
+```
+
+**Bắt buộc khi giải MCQ:**
+
+1. **Phân tích RIÊNG từng phương án A/B/C/D** — không dùng cùng 1 câu generic ("không khớp trọng tâm khái niệm") cho mọi phương án/mọi câu.
+2. **Trích số dòng bài giảng** (`dòng X-Y`) **ít nhất 1 lần/câu**. Mở file MD lecture đếm/tìm dòng chính xác.
+3. **"Sai lầm thường gặp" RIÊNG cho câu đó** — phản ánh khái niệm cụ thể của câu N, không phải template.
+4. **Cảnh báo OCR confusables**: nếu đề/phương án chứa từ trong danh sách OCR confusables (vi/vĩ, sỉ/sĩ, lý/ly, lỗ/lô, hoàn/hoàng — xem `skills/pdf-to-md/SKILL.md`) HOẶC có flag inline `[VERIFY_OCR: ...]` → **DỪNG**, mở PDF gốc verify. Nếu MD đề khác PDF → sửa MD đề trước, rồi giải lại.
+
+### Adaptive verbosity — viết DÀI cho câu khó, viết NGẮN cho câu định nghĩa thuần
+
+Không phải câu MCQ nào cũng đáng giải dài. Phân loại trước, điều chỉnh độ dài:
+
+**Câu KHÓ / QUAN TRỌNG → giải kỹ + mở rộng (~250-400 từ/câu).** Triệu chứng:
+- Case study, scenario, suy luận chiến lược (vd "Một DN công nghệ muốn... cần làm gì?")
+- Khái niệm nền tảng cần khắc sâu (TCO, EOQ, VMI, 5 lực Porter, BCG, NPV...)
+- Wording dễ nhầm / confusables / nghi vấn đáp án — flag rõ cho reviewer
+- Phương án nhiễu phức tạp (≥2 phương án có vẻ đúng, cần phân biệt tinh)
+- Câu có nhiều khía cạnh liên quan tới các chương khác → cần liên hệ mở rộng
+
+Với câu khó: giữ đầy đủ template (per-option + trích + sai lầm) + thêm **"💡 Mở rộng / Liên hệ"** (1-2 đoạn nối với khái niệm khác trong môn hoặc thực tiễn DN VN).
+
+**Câu định nghĩa THUẦN / thuộc lòng → ngắn gọn (~80-150 từ/câu).** Triệu chứng:
+- "Theo X, ___ được định nghĩa là gì?" / "X là khái niệm liên quan đến hoạt động nào?"
+- Đề trích nguyên văn 1 câu từ lecture → match 1:1 với 1 đáp án
+- Phương án nhiễu chỉ là tên khái niệm khác cùng chủ đề (3-4 thuật ngữ song song)
+- Câu cặp đôi với câu khác (cross-reference) — đã viết kỹ ở câu trước
+
+Format câu ngắn (compact):
+```markdown
+### Câu N: [tóm tắt]
+**Đáp án: X** — [trích 1 dòng wording lecture quyết định + dòng X-Y]
+- **A.** [tên]. ✗ — [1 cụm ngắn vì sao sai + dòng]
+- **B.** [tên]. ✗ — [...]
+- **C.** [tên]. ✓ — [...]
+- **D.** [tên]. ✗ — [...]
+
+**Lưu ý**: [1 dòng — mẹo phân biệt, hoặc "Cặp với Câu M" nếu cross-reference]
+```
+
+**Bắt buộc giữ ngay cả ở câu ngắn:**
+- Per-option analysis A/B/C/D (không bỏ option nào)
+- Cite-line `dòng X-Y` cho ít nhất đáp án đúng
+- 1 dòng "Lưu ý" thay cho "Sai lầm thường gặp" đầy đủ
+
+**Bỏ ở câu ngắn:**
+- Section "Trích bài giảng" tách riêng (đã inline trong đáp án)
+- "Sai lầm thường gặp" đầy đủ → rút thành "Lưu ý" 1 dòng
+- "Mẹo phân biệt" → gộp vào "Lưu ý"
+
+**Tỷ lệ tham khảo cho 1 file MCQ 30 câu:** ~30% câu khó (dài), ~70% câu định nghĩa (ngắn). Nếu tất cả đều dài → tốn token vô ích; nếu tất cả đều ngắn → mất giá trị sư phạm ở câu khó.
+
+**Tự kiểm tra trước khi xuất MCQ solution:**
+- [ ] Mỗi câu có 4 dòng phân tích A/B/C/D riêng (kể cả ở format ngắn)?
+- [ ] Có ít nhất 1 reference `dòng X-Y` mỗi câu?
+- [ ] Đọc lướt 5 câu liên tiếp — phần "Sai lầm thường gặp" / "Lưu ý" có giống nhau không? (Nếu giống → viết lại)
+- [ ] Có flag `[VERIFY_OCR]` nào trong đề chưa verify không?
+- [ ] Tỷ lệ câu dài vs ngắn có hợp lý không (gợi ý: ~30% dài / ~70% ngắn cho file 30 câu)?
+
 ## Quy tắc nội dung
 
-### 1. Bám sát bài giảng
+### 1. Bám sát bài giảng — nhưng KHÔNG mù quáng
+
 - LUÔN đọc các file `lectures/md/*.md` của môn trước khi giải.
 - Khi dùng khái niệm/công thức → dẫn chiếu rõ: "(theo Mục 2.3 — Bài 1)".
-- Không tự bịa lý thuyết ngoài bài giảng nếu môn đã cung cấp.
+- KHÔNG tự bịa lý thuyết ngoài bài giảng nếu môn đã cung cấp.
+- **NHƯNG**: lecture là nguồn ưu tiên cho **đáp án thi**, KHÔNG phải nguồn duy nhất cho **kiến thức**. Sinh viên cần học khái niệm đúng, không chỉ học để thi.
+
+### 1b. Critical engagement với lecture (BẮT BUỘC, đặc biệt khi giải MCQ)
+
+Khi đọc lecture, đối chiếu với **kiến thức chuẩn ngành QTKD** (Kotler cho marketing, Porter cho chiến lược, Brealey/Myers cho tài chính, các sách giáo khoa Anh-Mỹ-VN uy tín). Nếu phát hiện 1 trong 3 vấn đề sau, PHẢI flag rõ trong solution:
+
+**(a) Lecture THIẾU ý quan trọng** — khái niệm/khía cạnh cốt lõi không được nhắc đến.
+- VD: lecture định nghĩa SWOT chỉ nói 4 ô mà không nói SWOT phải xuất phát từ phân tích nội bộ + ngoại bộ — đây là thiếu.
+- Hành động: bổ sung phần thiếu trong "💡 Mở rộng / Bổ sung" và dẫn nguồn chuẩn.
+
+**(b) Lecture GÂY NHẦM LẪN** — wording không rõ, 2 cách hiểu, hoặc khái niệm cùng tên với 2 nghĩa khác nhau trong tài liệu khác.
+- VD: lecture dùng "hợp đồng giao sau" mơ hồ giữa "forward contract" (kỳ hạn OTC) và "futures contract" (giao sau tiêu chuẩn hóa trên sàn) — 2 khái niệm khác nhau trong tài chính.
+- Hành động: nêu cả 2 cách hiểu trong "💡 Mở rộng", note đáp án theo lecture nhưng cảnh báo SV về sự khác biệt.
+
+**(c) Lecture VIẾT SAI hoặc LẠC HẬU** — thông tin sai về khoa học/fact, định nghĩa không chuẩn, dữ liệu lỗi thời, hoặc framework đã được cập nhật/thay thế.
+- VD: lecture nói "ECRS phát minh bởi Toyota" nhưng đúng là Frank & Lillian Gilbreth (1900s) trước Toyota; lecture trích Porter "5 Forces" nhưng list sai 1 trong 5 lực.
+- Hành động: trong "⚠️ Ghi chú về tài liệu" cuối câu, nêu rõ sự sai sót + dẫn nguồn đúng. **Vẫn giữ đáp án theo lecture** (vì SV thi theo lecture) NHƯNG cảnh báo SV "khi học hoặc đi làm thực tế, cần biết phiên bản đúng là...".
+
+**Nguyên tắc cân bằng:**
+- 80%+ câu: lecture đúng và đầy đủ → không cần critical note, viết bình thường.
+- ~10-20% câu khó/quan trọng: có thể cần bổ sung kiến thức ngoài lecture (mở rộng từ Kotler/Porter/sách chuẩn).
+- ~5% câu: có thể có vấn đề lecture (thiếu/nhầm/sai) → flag theo (a)/(b)/(c).
+- KHÔNG flag bừa bãi — chỉ flag khi có bằng chứng rõ ràng từ ≥1 nguồn chuẩn khác. Solver không được tự cho mình quyền "đúng hơn lecture" nếu chỉ là cảm tính.
+
+**Format flag trong solution:**
+```markdown
+**⚠️ Ghi chú về tài liệu (critical engagement):**
+- **Phát hiện**: [thiếu ý / gây nhầm lẫn / viết sai — chọn 1]
+- **Chi tiết**: [giải thích cụ thể]
+- **Nguồn chuẩn**: [tên sách/tác giả/link]
+- **Khuyến nghị cho SV**: [khi đi thi: theo lecture; khi học/đi làm: theo nguồn chuẩn]
+```
+
+**Khi nào KHÔNG flag (tránh over-engineering):**
+- Khác biệt nhỏ về wording không ảnh hưởng nội dung.
+- Lecture đơn giản hóa cho mục đích sư phạm — không phải sai.
+- Khái niệm có nhiều biến thể trong ngành — lecture chọn 1 biến thể hợp lý.
+- Cảm tính của solver mà không có nguồn đối chiếu cụ thể.
 
 ### 2. Chuyên ngành Quản trị Kinh doanh
 Các dạng bài thường gặp & cách xử lý:

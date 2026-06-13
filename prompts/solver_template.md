@@ -1,5 +1,7 @@
 # Template lời giải (sư phạm)
 
+> **Lưu ý quan trọng**: Template 8 phần này dành cho **bài tự luận, case study, tính toán**. Với **trắc nghiệm MCQ** (**M**ultiple **C**hoice **Q**uestion = câu hỏi trắc nghiệm 4 lựa chọn A/B/C/D) → dùng template MCQ riêng trong `skills/exercise-solver/SKILL.md` mục "Cấu trúc bắt buộc cho TRẮC NGHIỆM (MCQ)". Áp dụng template 8 phần cho 30-35 câu MCQ dễ tạo boilerplate; template MCQ ngắn hơn nhưng bắt buộc per-option analysis + cite-line.
+
 ## Câu N: <tóm tắt đề trong 1 dòng>
 
 ### 📋 Đề bài

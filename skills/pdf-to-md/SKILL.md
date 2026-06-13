@@ -75,6 +75,41 @@ Sau front-matter là nội dung MD theo nguyên tắc:
 6. Nếu là đề bài → đánh số "### Câu N" rõ ràng, mỗi câu là 1 block.
 7. Loại bỏ header/footer template lặp đi lặp lại.
 
+### Bước 3.1: Cảnh báo OCR confusables tiếng Việt (BẮT BUỘC với PDF tiếng Việt)
+
+OCR engine tiếng Anh — mặc định trên hầu hết PDF VN — thường nhầm dấu thanh tiếng Việt. Các cặp confusable đã ghi nhận lỗi thực tế trong project:
+
+| Cặp confusable | Ví dụ ngữ cảnh | Lỗi đã thấy |
+|---|---|---|
+| **vi / vĩ** | "môi trường **vi** mô" vs "môi trường **vĩ** mô" | QT Marketing Ch3 Q29, Q20 (đáp án sai vì OCR nhầm) |
+| **sỉ / sĩ** | "bán **sỉ**" (wholesale) vs "**sĩ** diện" | |
+| **lý / ly** | "**lý** thuyết" vs "**ly** hôn" / "**ly** giác" | |
+| **lỗ / lô** | "cổ phiếu **lỗ**" / "**lỗ** hổng" vs "**lô** đất" / "**lô** hàng" | |
+| **hoàn / hoàng** | "**hoàn** thành" / "**hoàn** vốn" vs "**hoàng** gia" | |
+| **nhặt / nhật** | "**nhặt** rác" vs "**nhật** ký" / "**nhật** trình" | |
+| **chỉ / chí** | "**chỉ** số" / "**chỉ** tiêu" vs "**chí** hướng" / "**chí** lý" | |
+| **sản / sàn** | "**sản** xuất" / "**sản** phẩm" vs "**sàn** giao dịch" | |
+| **mã / mả** | "**mã** số" / "**mã** hóa" vs "**mả** mẹ" | |
+
+**Quy tắc khi convert PDF có khả năng chứa confusable:**
+
+1. Sau khi OCR/extract text, scan kết quả tìm các từ trong danh sách trên.
+2. Nếu gặp từ confusable trong **đề bài trắc nghiệm** (đặc biệt câu hỏi và 4 phương án A/B/C/D) → **chèn flag inline ngay sau từ**:
+   `[VERIFY_OCR: vi/vĩ — check PDF trang N]`
+3. **KHÔNG tự ý sửa** "vi" thành "vĩ" hay ngược lại nếu không chắc — chỉ flag, để skill `exercise-solver` verify với PDF gốc khi giải.
+4. Trong front-matter, thêm field `confusables_flagged: <số lượng>` để solver biết bài này cần verify.
+5. **Tín hiệu nghi vấn cao**: 2 phương án A/B/C/D trong cùng 1 câu có chữ giống hệt nhau (vd cả A và C đều "vi mô") → gần như chắc chắn OCR nhầm 1 trong 2.
+
+Ví dụ output sau khi flag:
+```markdown
+### Câu 29
+"... yếu tố nào KHÔNG thuộc môi trường vi mô [VERIFY_OCR: vi/vĩ — check PDF trang 15]?"
+- **A.** Đối thủ cạnh tranh
+- **B.** Khách hàng
+- **C.** Tỷ giá hối đoái
+- **D.** Nhà cung cấp
+```
+
 ### Bước 4: Ghi file
 - Tạo folder `md/` nếu chưa có.
 - Ghi file `<tên>.md` với front-matter đầy đủ.
@@ -83,6 +118,8 @@ Sau front-matter là nội dung MD theo nguyên tắc:
 ### Bước 5: Verify
 - File MD không rỗng (> 200 ký tự với mỗi 5 trang PDF).
 - Nếu là đề bài: số `### Câu` ≥ số câu mong đợi.
+- **Scan confusables** (vi/vĩ, sỉ/sĩ, lý/ly, lỗ/lô, hoàn/hoàng, nhặt/nhật, chỉ/chí, sản/sàn, mã/mả): nếu có và chưa có flag `[VERIFY_OCR]` → thêm flag.
+- **Kiểm tra trùng phương án** (chỉ áp dụng cho đề **MCQ = Multiple Choice Question = trắc nghiệm 4 lựa chọn**): nếu trong cùng 1 câu MCQ có 2+ phương án A/B/C/D với nội dung giống hệt → flag `[VERIFY_OCR: phương án trùng, có thể nhầm dấu]`.
 - Lỗi → thử lại lần 2, sau đó báo user.
 
 ## Edge cases
