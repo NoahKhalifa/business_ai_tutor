@@ -10,7 +10,7 @@
 > - **KHÔNG xóa mục `pending` mà chưa làm.** Nếu không định làm nữa → mark `❌ Bỏ qua` + lý do.
 > - Cập nhật `Cập nhật lần cuối:` ở đầu file mỗi khi thay đổi.
 
-**Cập nhật lần cuối:** 2026-06-13 tối (Mua & QTNC Ch1-Ch4 rewrite xong + skill thêm rule Critical engagement)
+**Cập nhật lần cuối:** 2026-06-14 00:05 (Mua & QTNC Ch1-Ch6 rewrite xong)
 
 ---
 
@@ -59,23 +59,7 @@
 
 ## 📝 Ưu tiên TRUNG BÌNH — Rewrite MCQ solutions theo skill mới
 
-### [T-20260613-04] Mua & QTNC — Rewrite 6 file solution Ch1-Ch6 theo template MCQ mới
-- **Trạng thái:** in-progress (Ch1+Ch2+Ch3+Ch4 ĐÃ HOÀN THÀNH 2026-06-13, còn **Ch5+Ch6**)
-- **Files còn lại (2):**
-  - `subjects/Mua và quản trị nguồn cung/solutions/mua-va-quan-tri-nguon-cung-luyen-tap-trac-nghiem-chuong-5_solution.md`
-  - `subjects/Mua và quản trị nguồn cung/solutions/mua-va-quan-tri-nguon-cung-luyen-tap-trac-nghiem-chuong-6_solution.md`
-- **Tiến độ chi tiết:**
-  - **Ch1 (pilot - format uniform dài)**: 30 câu, boilerplate x78 → x5 (~95% giảm). Cite-line còn lặp x5 là quote định nghĩa "mua sắm" lecture dòng 30-32, hợp pháp. Q3 flag tranh luận đáp án (C/B).
-  - **Ch2 (format adaptive verbosity)**: 30 câu, **boilerplate = 0**. 9 câu dài (~30%) + 21 câu ngắn (~70%). Q21 flag đề kém (2 phương án A/B đều có thể "không phải").
-  - **Ch3 (adaptive + critical engagement)**: 30 câu, **boilerplate = 0**. 8 câu dài + 22 câu ngắn. Q16/Q17/Q21 giữ đáp án A (T-20260613-01 verified). Critical notes: Q15 (lecture wording mơ hồ), Q17 (terminology hữu/vô hình so với Monczka direct/strategic), Q26 (lecture sai fact EOQ: "Ford W. Ham 1915" → thực tế **Ford W. Harris 1913** theo Erlenkotter 1990).
-  - **Ch4 (adaptive + critical engagement)**: 30 câu, top phrase x6 là cấu trúc "Ghi chú critical engagement" intentional (không phải boilerplate xấu). 10 câu dài + 20 câu ngắn. Critical notes: Q10 (lecture mâu thuẫn "Phá vỡ bế tắc"), Q19/Q26/Q28 (bổ sung Porter 5 Forces), Q20 (Thomas-Kilmann gốc — "Hòa giải" ≠ Accommodating), Q22 (so với ISO 31000:2018 / COSO ERM + 4Ts), Q23 (bổ sung BATNA của Fisher & Ury).
-- **2 lần skill upgrade trong 2026-06-13 tối:**
-  - **Lần 1 (trước Ch2)**: thêm rule "Adaptive verbosity" — câu khó kỹ + mở rộng (~250-400 từ), câu định nghĩa thuần ngắn gọn (~80-150 từ). Tỷ lệ ~30% dài / ~70% ngắn.
-  - **Lần 2 (trước Ch3)**: thêm rule "Critical engagement với lecture" vào `skills/exercise-solver/SKILL.md` + `skills/answer-reviewer/SKILL.md` — solver KHÔNG mù quáng theo lecture, phải flag (a) thiếu ý, (b) gây nhầm lẫn, (c) viết sai/lạc hậu khi đối chiếu với chuẩn ngành (Kotler/Porter/Monczka/Heizer/...). Format flag mới: "⚠️ Ghi chú về tài liệu (critical engagement)" với 4 dòng: Phát hiện / Chi tiết / Nguồn chuẩn / Khuyến nghị cho SV.
-- **Hành động cho Ch5-Ch6:** áp dụng format adaptive verbosity + critical engagement như Ch3-Ch4. Giữ đáp án. Tham khảo:
-  - **Ch5**: cần đọc lecture dòng 3510-4839 (chiến lược nguồn cung: Kraljic Matrix, JIT/VMI/ESI, 6 bước chiến lược, mô hình tổ chức tập trung/phân quyền). Critical engagement candidates: bổ sung **Kraljic Matrix nguồn gốc (HBR 1983)** + **SOD = Segregation of Duties** (chuẩn kế toán nội kiểm), **8 lãng phí JIT** so với 7 lãng phí gốc của Toyota (Taiichi Ohno) — lecture có 8 lãng phí, khác bản gốc.
-  - **Ch6**: cần đọc lecture dòng 4840+ (mua quốc tế, mua trực tuyến, trách nhiệm xã hội). Critical engagement candidates: lý thuyết Adam Smith/Ricardo (lecture đã trích), bổ sung **ESG framework** + **B-Corp certification** cho CSR; **e-procurement** so với chuẩn Monczka.
-- **Lưu ý**: KHÔNG đổi đáp án so với bộ đáp án trường (T-20260613-01 đã verify Ch3 đáp án đúng).
+> [T-20260613-04] đã hoàn thành 2026-06-14. Xem chi tiết ở section `✅ Đã xong`.
 
 ---
 
@@ -88,6 +72,20 @@ _(Trống — T-20260612-01 đã hoàn thành 2026-06-13.)_
 ---
 
 ## ✅ Đã xong (giữ 30 ngày)
+
+### [T-20260613-04] Mua & QTNC — Rewrite 6 file solution Ch1-Ch6 theo template MCQ mới — *hoàn thành 2026-06-14*
+- Đã rewrite xong toàn bộ 6 file solution Ch1-Ch6 theo template MCQ mới: phân tích riêng A/B/C/D, có dẫn dòng bài giảng, giảm boilerplate, thêm critical engagement khi lecture thiếu/gây nhầm/sai so với chuẩn ngành.
+- Tiến độ:
+  - Ch1: 30 câu, boilerplate x78 → x5 (~95% giảm). Q3 flag tranh luận đáp án C/B.
+  - Ch2: 30 câu, boilerplate = 0. Q21 flag đề kém.
+  - Ch3: 30 câu, boilerplate = 0. Giữ Q16/Q17/Q21 đáp án A theo verify T-20260613-01.
+  - Ch4: 30 câu; detector còn flag top phrase x6 do cấu trúc "Ghi chú critical engagement" intentional, không phải boilerplate lập luận.
+  - Ch5: rewrite 30 câu ngày 2026-06-14, 68 dẫn dòng, không bị `check-project` flag boilerplate.
+  - Ch6: rewrite 30 câu ngày 2026-06-14, 44 dẫn dòng, không bị `check-project` flag boilerplate.
+- File Ch5/Ch6 đã sửa:
+  - `subjects/Mua và quản trị nguồn cung/solutions/mua-va-quan-tri-nguon-cung-luyen-tap-trac-nghiem-chuong-5_solution.md`
+  - `subjects/Mua và quản trị nguồn cung/solutions/mua-va-quan-tri-nguon-cung-luyen-tap-trac-nghiem-chuong-6_solution.md`
+- Verify: `powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\check-project.ps1 -Subject "Mua và quản trị nguồn cung"` hiện chỉ còn 2 flag cũ: Ch1 quote lặp x5 và Ch4 critical engagement x6; Ch5/Ch6 sạch boilerplate.
 
 ### [T-20260611-01] Mua & QTNC — Ch2 Q15 — *hoàn thành 2026-06-12*
 - Đổi đáp án Q15 từ **A** → **C** ("Xây dựng quan hệ với nhà cung cấp").

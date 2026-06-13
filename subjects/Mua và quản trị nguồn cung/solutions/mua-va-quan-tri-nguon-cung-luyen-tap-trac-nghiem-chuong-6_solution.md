@@ -1,8 +1,8 @@
-﻿---
+---
 exercise_file: "Mua và quản trị nguồn cung_Luyện tập trắc nghiệm Chương 6.md"
-solved_at: "2026-06-11T22:00:00+07:00"
+solved_at: "2026-06-14T00:10:00+07:00"
 status: "draft"
-review_round: 0
+review_round: 1
 total_questions: 30
 examples_added: true
 extensions_file: "../extensions/mua-va-quan-tri-nguon-cung-luyen-tap-trac-nghiem-chuong-6_extended.md"
@@ -10,7 +10,7 @@ extensions_file: "../extensions/mua-va-quan-tri-nguon-cung-luyen-tap-trac-nghiem
 
 # Lời giải: Luyện tập trắc nghiệm Chương 6
 
-> Dẫn chiếu bài giảng: `TXBLOG3041_MVQTNC_Baigiangtext.md` - Chương 6: Một số xu hướng phát triển trong mua và QTNC.
+> Dẫn chiếu bài giảng: `TXBLOG3041_MVQTNC_Baigiangtext.md` - Chương 6: Một số xu hướng phát triển trong mua và quản trị nguồn cung.
 
 ## Bảng đáp án nhanh
 
@@ -51,701 +51,356 @@ extensions_file: "../extensions/mua-va-quan-tri-nguon-cung-luyen-tap-trac-nghiem
 
 ## Lời giải chi tiết
 
-## Câu 1: Một trong những thách thức lớn nhất trong việc kiểm soát chất lượng khi mua quốc tế là gì?
+### Câu 1: Thách thức kiểm soát chất lượng khi mua quốc tế
 
-### Đề bài
-> Một trong những thách thức lớn nhất trong việc kiểm soát chất lượng khi mua quốc tế là gì?
+**Đáp án: C** — Bài giảng nêu khác biệt tiêu chuẩn công nghệ/kỹ thuật giữa các quốc gia là thách thức; bên mua phải thống nhất bộ tiêu chuẩn và vẫn có rủi ro lô hàng chính thức khác mẫu (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5040-5046).
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+- **A. Khó tìm NCC đáng tin cậy** — Sai. Đây là khó khăn chung khi mở rộng nguồn cung, nhưng câu hỏi nhấn vào kiểm soát chất lượng.
+- **B. Khác biệt giá cả giữa các NCC** — Sai. Khác biệt giá liên quan chi phí/tổng chi phí, không trực tiếp là kiểm soát chất lượng.
+- **C. Khác biệt tiêu chuẩn công nghệ và kỹ thuật giữa các quốc gia** — Đúng.
+- **D. Chậm trễ giao hàng** — Sai. Đây là rủi ro thời gian/logistics, không phải bản chất của kiểm soát chất lượng.
 
-### Lời giải chi tiết
-- A sai vì "Khó khăn trong việc tìm kiếm nhà cung cấp đáng tin cậy." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- B sai vì "Khác biệt về giá cả giữa các nhà cung cấp." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- C đúng vì Mua quốc tế khó kiểm soát chất lượng do khác biệt tiêu chuẩn công nghệ/kỹ thuật giữa quốc gia.
-- D sai vì "Sự chậm trễ trong quy trình giao hàng." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
+**Lưu ý**: Trong mua quốc tế, "hàng mẫu đạt" chưa bảo đảm "lô hàng chính thức đạt"; cần tiêu chuẩn, kiểm định và điều khoản chất lượng rõ.
 
-### Kết luận
-**Đáp án: C.** Mua quốc tế khó kiểm soát chất lượng do khác biệt tiêu chuẩn công nghệ/kỹ thuật giữa quốc gia.
+### Câu 2: Yếu tố không phải thách thức môi trường mua quốc tế
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+**Đáp án: B** — Các thách thức được nêu gồm tiêu chuẩn/chất lượng, pháp lý/thủ tục và văn hóa; các khác biệt này làm tăng rủi ro, phức tạp, thời gian giao nhận và tổng chi phí (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5037-5066).
 
----
+- **A. Khác biệt về tiêu chuẩn và khó kiểm soát chất lượng** — Sai nếu chọn, vì là thách thức trực tiếp.
+- **B. Khác biệt về lượng hàng dự trữ** — Đúng trong câu hỏi phủ định. Đây có thể là vấn đề vận hành, nhưng không nằm trong nhóm thách thức môi trường kinh doanh quốc tế bài giảng liệt kê.
+- **C. Khác biệt về văn hóa** — Sai nếu chọn, vì được nêu ở dòng 5056-5061.
+- **D. Khác biệt về pháp lý, thủ tục, tập quán thương mại** — Sai nếu chọn, vì được nêu ở dòng 5047-5053.
 
-## Câu 2: Có rất nhiều thách thức đến từ môi trường kinh doanh quốc tế mà nếu bộ phận mua không nghi...
+**Lưu ý**: Phân biệt "thách thức quốc tế" với "quyết định tồn kho nội bộ".
 
-### Đề bài
-> Có rất nhiều thách thức đến từ môi trường kinh doanh quốc tế mà nếu bộ phận mua không nghiên cứu và tìm hiểu kỹ càng thì  chúng có thể tác động tiêu cực đến kết quả hoạt động và lợi nhuận của doanh nghiệp khi quyết định tìm nguồn cung ứng quốc tế/toàn cầu. Hãy chỉ ra đâu KHÔNG phải là thách thức trong mua quốc tế?
+### Câu 3: Nội dung không thuộc mua sắm xanh trực tiếp
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+**Đáp án: C** — Mua sắm xanh là cân nhắc yếu tố môi trường trong quy trình mua, gồm chọn NCC xanh, vật liệu tái chế/thân thiện, thiết bị ít tiêu hao nhiên liệu, nhiên liệu xanh và xem xét vòng đời (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5657-5673).
 
-### Lời giải chi tiết
-- A sai vì "Khác biệt về tiêu chuẩn và khó kiểm soát chất lượng" không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- B đúng vì Khác biệt về lượng hàng dự trữ không phải thách thức môi trường kinh doanh quốc tế điển hình.
-- C sai vì "Khác biệt về văn hóa" không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- D sai vì "Khác biệt về pháp lý, thủ tục, tập quán thương mại" không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
+- **A. Mua và sử dụng tối đa vật liệu tái chế, thân thiện môi trường** — Sai nếu chọn, vì nằm trong nội dung mua sắm xanh.
+- **B. Sử dụng nhiên liệu xanh** — Sai nếu chọn, vì được nêu trực tiếp.
+- **C. Tái chế sản phẩm từ phế liệu** — Đúng trong câu hỏi phủ định. Đây thuộc logic chuỗi cung ứng tuần hoàn rộng hơn, không phải hành động mua sắm xanh trực tiếp.
+- **D. Lựa chọn thiết bị, máy móc ít tiêu hao nhiên liệu** — Sai nếu chọn, vì nằm trong danh sách.
 
-### Kết luận
-**Đáp án: B.** Khác biệt về lượng hàng dự trữ không phải thách thức môi trường kinh doanh quốc tế điển hình.
+**Lưu ý**: Mua sắm xanh nằm ở quyết định mua; chuỗi tuần hoàn mở rộng sang thu hồi, tái sử dụng, tái chế và xử lý sau sử dụng.
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+### Câu 4: Mô hình sàn giao dịch điện tử
 
----
+**Đáp án: C** — Sàn giao dịch điện tử do trung gian điều khiển; trung gian tập hợp sản phẩm/thông tin, chuẩn bị giao dịch, hợp nhất chào hàng và cho phép bên mua so sánh (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5329-5353).
 
-## Câu 3: Hãy chỉ ra đâu KHÔNG phải là nội dung của mua sắm xanh trong chuỗi cung ứng bền vững?
+- **A. Mô hình do bên bán làm trung tâm** — Sai. Ở mô hình này, nhà cung cấp thiết kế catalog và hỗ trợ mua hàng (dòng 5391-5413).
+- **B. Mô hình do bên mua làm trung tâm** — Sai. Bên mua cài đặt/vận hành phần mềm và kiểm soát quy trình đặt hàng (dòng 5360-5390).
+- **C. Mô hình sàn giao dịch điện tử** — Đúng.
+- **D. Mô hình tích hợp chiến lược** — Sai. Đây là mô hình hai bên cùng đầu tư, thiết kế và vận hành hệ thống (dòng 5414-5422).
 
-### Đề bài
-> Hãy chỉ ra đâu KHÔNG phải là nội dung của mua sắm xanh trong chuỗi cung ứng bền vững?
+**Lưu ý**: Từ khóa "đơn vị trung gian" gần như chắc chắn là sàn giao dịch điện tử.
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+### Câu 5: Khái niệm CSR
 
-### Lời giải chi tiết
-- A sai vì "Mua và sử dụng tối đa vật liệu tái chế, thân thiện môi trường." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- B sai vì "Sử dụng nhiên liệu xanh." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- C đúng vì Tái chế sản phẩm từ phế liệu thuộc chuỗi tuần hoàn rộng hơn, không phải nội dung mua sắm xanh trực tiếp.
-- D sai vì "Lựa chọn thiết bị, máy móc ít tiêu hao nhiên liệu." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
+**Đáp án: D** — CSR là cam kết của DN về đạo đức kinh doanh và đóng góp vào phát triển kinh tế bền vững, nâng cao chất lượng cuộc sống cho người lao động, cộng đồng địa phương và xã hội (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5517-5522).
 
-### Kết luận
-**Đáp án: C.** Tái chế sản phẩm từ phế liệu thuộc chuỗi tuần hoàn rộng hơn, không phải nội dung mua sắm xanh trực tiếp.
+- **A. Lợi nhuận** — Sai. Lợi nhuận thuộc trách nhiệm kinh tế, không phải chỗ trống định nghĩa CSR.
+- **B. Giá trị** — Sai vì quá chung.
+- **C. Lợi ích xã hội** — Sai vì gần nghĩa nhưng không khớp wording bài giảng.
+- **D. Đạo đức kinh doanh** — Đúng.
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+**Lưu ý**: CSR không phủ nhận lợi nhuận, nhưng định nghĩa ở câu này nhấn vào đạo đức kinh doanh và phát triển bền vững.
 
----
+### Câu 6: Phát biểu không đúng về mua trực tuyến
 
-## Câu 4: Phương thức mua trực tuyến nào sau đây do đơn vị trung gian có nhiệm vụ tập hợp sản phẩm (...
+**Đáp án: C** — Bài giảng mô tả mua trực tuyến giúp tự động hóa nhiều tác nghiệp, tiết kiệm thời gian/chi phí, tăng độ chính xác và hỗ trợ ra quyết định (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5183-5193, 5222-5241).
 
-### Đề bài
-> Phương thức mua trực tuyến nào sau đây do đơn vị trung gian có nhiệm vụ tập hợp sản phẩm (thông tin) và chuẩn bị sẵn sàng giao dịch điện tử?
+- **A. Internet thúc đẩy thương mại điện tử và mua trực tuyến** — Sai nếu chọn, vì phù hợp bối cảnh bài giảng.
+- **B. Mua trực tuyến mang lại lợi ích tiết kiệm chi phí/thời gian** — Sai nếu chọn, vì bài giảng nêu rõ.
+- **C. DN không nên sử dụng vì tốn kém/lãng phí** — Đúng trong câu hỏi phủ định. Mua trực tuyến có hạn chế, nhưng không phải kết luận "không nên sử dụng".
+- **D. Mua trực tuyến tạo dữ liệu chính xác hơn để phân tích/ra quyết định** — Sai nếu chọn, vì đúng với lợi ích dữ liệu thời gian thực.
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+**Lưu ý**: Mua trực tuyến không áp dụng cho mọi mặt hàng/NCC, nhưng vẫn là xu hướng có giá trị khi chọn đúng trường hợp.
 
-### Lời giải chi tiết
-- A sai vì "Mô hình do bên bán làm trung tâm" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- B sai vì "Mô hình do bên mua làm trung tâm" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- C đúng vì Sàn giao dịch điện tử do trung gian tập hợp thông tin/sản phẩm và hỗ trợ giao dịch.
-- D sai vì "Mô hình tích hợp chiến lược" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
+### Câu 7: Lợi ích không trực tiếp của mô hình chuỗi tuần hoàn cây chuối
 
-### Kết luận
-**Đáp án: C.** Sàn giao dịch điện tử do trung gian tập hợp thông tin/sản phẩm và hỗ trợ giao dịch.
+**Đáp án: A** — Chuỗi cung ứng tuần hoàn tạo giá trị từ tái sử dụng phế liệu, giảm phát thải và phát triển bền vững; ví dụ sợi chuối Phú Xuyên tận dụng thân chuối làm hàng thủ công mỹ nghệ (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5691-5700, 5721-5723).
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+- **A. Yêu cầu NCC đảm nhận vai trò lớn hơn trong quản lý giá trị và chi phí** — Đúng trong câu hỏi phủ định. Đây là xu hướng mua/QTNC rộng hơn, không phải lợi ích trực tiếp của mô hình cây chuối tuần hoàn.
+- **B. Tối ưu hóa phế phẩm nông nghiệp** — Sai nếu chọn, vì đúng tinh thần tận dụng thân chuối.
+- **C. Thân thiện môi trường** — Sai nếu chọn, vì chuỗi tuần hoàn hướng tới giảm phát thải và bảo vệ môi trường.
+- **D. Tạo chuỗi giá trị khép kín** — Sai nếu chọn, vì mô hình tuần hoàn nhấn mạnh chu trình khép kín.
 
----
+**Lưu ý**: Câu này hỏi case cây chuối, không hỏi toàn bộ danh sách xu hướng cuối chương.
 
-## Câu 5: Điền vào chỗ trống hoàn thiện khái niệm trách nhiệm xã hội của doanh nghiệp: Trách nhiệm x...
+### Câu 8: Nội dung không thuộc thách thức pháp lý/thủ tục
 
-### Đề bài
-> Điền vào chỗ trống hoàn thiện khái niệm trách nhiệm xã hội của doanh nghiệp: Trách nhiệm xã hội của doanh nghiệp (Corporate social responsibility=CSR) là cam kết của doanh nghiệp về  …… và đóng góp vào phát triển kinh tế bền vững, nâng cao chất lượng cuộc sống cho người lao động, cho cộng đồng địa phương nói riêng và cho toàn xã hội nói chung.
+**Đáp án: C** — Thách thức pháp lý/thủ tục gồm hợp đồng ngoại thương, khác biệt hệ thống pháp luật, tập quán thương mại, nguồn luật quốc gia/quốc tế, hải quan, thông quan và kiểm dịch (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5047-5053).
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+- **A. Khó khăn thực hiện hợp đồng quốc tế, cần hiểu luật đối tác** — Sai nếu chọn, vì thuộc pháp lý.
+- **B. Thủ tục hải quan phức tạp, cần chuyên gia/logistics xử lý thông quan** — Sai nếu chọn, vì thuộc thủ tục.
+- **C. Rủi ro thời gian giao hàng, kiểm tra mẫu trước giao hàng** — Đúng trong câu hỏi phủ định. Kiểm tra mẫu nghiêng về chất lượng/thời gian, không phải pháp lý/thủ tục.
+- **D. Nguy cơ tranh chấp pháp lý, cần luật sư thương mại quốc tế** — Sai nếu chọn, vì thuộc pháp lý.
 
-### Lời giải chi tiết
-- A sai vì "lợi nhuận" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- B sai vì "giá trị" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- C sai vì "lợi ích xã hội" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- D đúng vì CSR là cam kết về đạo đức kinh doanh và đóng góp phát triển bền vững.
+**Lưu ý**: "Kiểm tra mẫu" là công cụ kiểm soát chất lượng; "hải quan/hợp đồng/luật sư" mới là cụm pháp lý-thủ tục.
 
-### Kết luận
-**Đáp án: D.** CSR là cam kết về đạo đức kinh doanh và đóng góp phát triển bền vững.
+### Câu 9: Khái niệm eProcurement
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+**Đáp án: B** — eProcurement là việc sử dụng Internet, giao diện web hoặc hệ thống được nối mạng khác để thực hiện mua vật liệu, thiết bị, dịch vụ và đầu vào trong kết nối DN-NCC (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5168-5174).
 
----
+- **A. Sử dụng các thiết bị tự động** — Sai vì quá hẹp, không nhấn vào mạng/web.
+- **B. Sử dụng mạng internet (giao diện web hoặc hệ thống được nối mạng khác)** — Đúng.
+- **C. Sử dụng công nghệ số** — Sai vì gần nghĩa nhưng quá chung, không khớp định nghĩa.
+- **D. Sử dụng công nghệ IoT** — Sai. IoT có thể hỗ trợ chuỗi cung ứng nhưng không phải định nghĩa eProcurement.
 
-## Câu 6: Phát biểu nào sau đây KHÔNG đúng về mua trực tuyến giữa các doanh nghiệp trong chuỗi cung...
+**Lưu ý**: Từ khóa của eProcurement là kết nối Internet/web/network giữa doanh nghiệp và nhà cung cấp.
 
-### Đề bài
-> Phát biểu nào sau đây KHÔNG đúng về mua trực tuyến giữa các doanh nghiệp trong chuỗi cung ứng?
+### Câu 10: Khái niệm mua toàn cầu
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+**Đáp án: B** — Mua toàn cầu là sự tích hợp và điều phối các yêu cầu mua sắm của các đơn vị ở các vị trí địa lý khác nhau trên thế giới, xét điểm chung về mặt hàng, thiết kế, quy trình, công nghệ và NCC (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 4922-4933).
 
-### Lời giải chi tiết
-- A sai vì "Sự bùng nổ của internet tạo động lực phát triển mạnh mẽ của các loại hình thương mại điện tử, trong đó mua trực tuyến đang ngày càng được doanh nghiệp quan tâm." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- B sai vì "Mua trực tuyến là phương thức mua mang lại nhiều lợi ích cho doanh nghiệp trong chuỗi cung ứng, ví dụ như tiết kiệm chi phí và tiết kiệm thời gian" không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- C đúng vì Mua trực tuyến có nhiều lợi ích, nên phát biểu "không nên sử dụng" là sai.
-- D sai vì "Mua trực tuyến giúp doanh nghiệp có nhiều dữ liệu hơn, với tính chính xác cao hơn, từ đó có thể tiến hành các phân tích có ý nghĩa hơn và ra quyết định chính xác hơn." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
+- **A. Địa điểm các quốc gia** — Sai vì diễn đạt thiếu ý "vị trí địa lý khác nhau trên thế giới" và chưa rõ đơn vị của DN.
+- **B. Vị trí địa lý khác nhau trên thế giới** — Đúng.
+- **C. Vị trí nhà cung cấp** — Sai vì trọng tâm là các đơn vị/chi nhánh của DN, không chỉ NCC.
+- **D. Điểm mua hàng** — Sai vì quá hẹp.
 
-### Kết luận
-**Đáp án: C.** Mua trực tuyến có nhiều lợi ích, nên phát biểu "không nên sử dụng" là sai.
+**Lưu ý**: Mua toàn cầu là điều phối hệ thống mua đa địa điểm, không chỉ "mua ở nước ngoài".
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+### Câu 11: Vì sao nhiều DN Việt Nam vẫn chọn nguồn cung nội địa
 
----
+**Đáp án: A** — Bài giảng nêu rào cản chủ quan của DN gồm thiếu kiến thức, kinh nghiệm, vốn, thông tin, năng lực quản lý và nhạy bén; DN Việt Nam còn hạn chế trong thương mại quốc tế (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5104-5113).
 
-## Câu 7: Trong mô hình chuỗi cung ứng tuần hoàn với cây chuối, khi thân chuối được tận dụng làm ngu...
+- **A. Do thiếu kinh nghiệm và kiến thức về mua quốc tế** — Đúng.
+- **B. Do thiếu hụt nguồn cung nội địa** — Sai. Thiếu nguồn cung nội địa lại là lý do đi mua quốc tế.
+- **C. Do yêu cầu từ phía nhà cung cấp** — Sai. Bài giảng nói yêu cầu từ khách hàng có thể thúc đẩy mua quốc tế, không phải lý do ở lại nội địa.
+- **D. Do muốn giảm phụ thuộc vào nhà cung cấp địa phương** — Sai. Đây cũng là lý do tìm nguồn quốc tế (dòng 5026-5030).
 
-### Đề bài
-> Trong mô hình chuỗi cung ứng tuần hoàn với cây chuối, khi thân chuối được tận dụng làm nguyên liệu để se sợi, từ đó làm các mặt hàng thủ công mỹ nghệ để bán ra thị trường nội địa và quốc tế. Hãy chỉ ra đâu KHÔNG phải lợi ích của mô hình này?
+**Lưu ý**: Với DN Việt Nam, rào cản năng lực quốc tế nhiều khi thực tế hơn rào cản "không có cơ hội".
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+### Câu 12: Việc DN cần làm trong bối cảnh chuỗi cung ứng biến đổi
 
-### Lời giải chi tiết
-- A đúng vì Vai trò lớn hơn của NCC trong quản lý giá trị/chi phí không phải lợi ích trực tiếp của mô hình cây chuối tuần hoàn.
-- B sai vì "Tối ưu hóa các phế phẩm trong nông nghiệp" không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- C sai vì "Thân thiện môi trường" không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- D sai vì "Tạo ra chuỗi giá trị khép kín" không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
+**Đáp án: C** — Bài giảng nêu dưới sức ép khách hàng, phát triển bền vững và cạnh tranh, nhiều DN sắp xếp lại chiến lược nguồn cung, tìm NCC quy mô toàn cầu và đặt quan hệ hợp tác đa dạng (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 4864-4873).
 
-### Kết luận
-**Đáp án: A.** Vai trò lớn hơn của NCC trong quản lý giá trị/chi phí không phải lợi ích trực tiếp của mô hình cây chuối tuần hoàn.
+- **A. Chỉ tập trung nội địa và bỏ qua quốc tế** — Sai vì trái với xu hướng tìm nguồn toàn cầu.
+- **B. Giảm giá mà không cải thiện chất lượng dịch vụ** — Sai vì khách hàng đòi hỏi tốt hơn, rẻ hơn, nhanh hơn và độc đáo hơn.
+- **C. Sắp xếp lại chiến lược nguồn cung, tìm NCC toàn cầu và xây dựng quan hệ hợp tác đa dạng** — Đúng.
+- **D. Tăng sản xuất truyền thống mà không đổi chiến lược** — Sai vì bối cảnh đòi hỏi tái cấu trúc và thích nghi.
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+**Lưu ý**: Chuỗi cung ứng toàn cầu không chỉ là giảm giá; đó là tái thiết kế nguồn cung để đáp ứng thị trường.
 
----
+### Câu 13: Biện pháp không trực tiếp tiết kiệm thời gian trong mua quốc tế/trực tuyến
 
-## Câu 8: Khi thực hiện mua quốc tế, sự khác biệt về pháp lý và thủ tục KHÔNG tạo ra những thách thứ...
+**Đáp án: B** — Mua trực tuyến tiết kiệm thời gian nhờ xử lý nhanh RFQ/chào hàng, mua lặp lại dễ hơn và dữ liệu hàng hóa/NCC có sẵn trực tuyến (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5222-5227).
 
-### Đề bài
-> Khi thực hiện mua quốc tế, sự khác biệt về pháp lý và thủ tục KHÔNG tạo ra những thách thức nào cho doanh nghiệp?
+- **A. Thực hiện mua hàng lặp lại dễ dàng hơn** — Sai nếu chọn, vì là biện pháp tiết kiệm thời gian.
+- **B. Duy trì giám sát chất lượng để đảm bảo tiêu chuẩn** — Đúng trong câu hỏi phủ định. Đây là việc cần làm, nhưng mục tiêu chính là kiểm soát chất lượng, không phải tiết kiệm thời gian.
+- **C. Dữ liệu hàng hóa và NCC có sẵn trực tuyến** — Sai nếu chọn, vì giúp xử lý nhanh.
+- **D. Xử lý nhanh yêu cầu báo giá và đề xuất chào hàng** — Sai nếu chọn, vì là lợi ích thời gian trực tiếp.
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+**Lưu ý**: Một biện pháp "cần thiết" chưa chắc là biện pháp "tiết kiệm thời gian".
 
-### Lời giải chi tiết
-- A sai vì "Khó khăn trong việc thực hiện hợp đồng quốc tế, doanh nghiệp cần tìm hiểu luật pháp và các quy định của quốc gia đối tác." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- B sai vì "Sự phức tạp trong thủ tục hải quan, doanh nghiệp cần hợp tác với các chuyên gia hoặc công ty logistics để xử lý hồ sơ thông quan." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- C đúng vì Kiểm tra mẫu trước giao hàng liên quan chất lượng/thời gian, không phải thách thức pháp lý thủ tục.
-- D sai vì "Nguy cơ tranh chấp pháp lý, doanh nghiệp cần có sự tư vấn của luật sư có kinh nghiệm trong thương mại quốc tế." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
+### Câu 14: Lợi ích nổi bật ở giai đoạn đầu chuyển đổi số
 
-### Kết luận
-**Đáp án: C.** Kiểm tra mẫu trước giao hàng liên quan chất lượng/thời gian, không phải thách thức pháp lý thủ tục.
+**Đáp án: C** — Ở mức chuyển đổi số thấp, mua trực tuyến nổi bật ở việc tìm nguồn giá thấp, giảm thủ tục hành chính, giảm thời gian thanh toán/chuyển tiền (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5248-5255).
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+- **A. Giảm rủi ro và tăng năng lực đổi mới** — Sai. Đây là lợi ích dài hạn/khó đo lường hơn, không phải giai đoạn đầu.
+- **B. Khai thác big data để phân tích thị trường/dự báo rủi ro/tích hợp NCC** — Sai vì thuộc mức trưởng thành số cao hơn.
+- **C. Tìm nguồn giá thấp, giảm chi phí thủ tục hành chính, giảm thời gian thanh toán/chuyển tiền** — Đúng.
+- **D. Giảm tổng ngân sách mua do dùng nhiều công nghệ số** — Sai vì nói quá rộng, không đúng trọng tâm giai đoạn đầu.
 
----
+**Lưu ý**: Chuyển đổi số thấp thường thu được "quick wins" về thao tác và chi phí hành chính trước.
 
-## Câu 9: Điền vào chỗ trống để hoàn thiện khái niệm mua trực tuyến: Mua trực tuyến (eProcurement =...
+### Câu 15: Cấp độ 2 của mua quốc tế
 
-### Đề bài
-> Điền vào chỗ trống để hoàn thiện khái niệm mua trực tuyến: Mua trực tuyến (eProcurement = electronic/online procurement) được định nghĩa là việc …… để thực hiện hoạt động mua vật liệu, thiết bị và dịch vụ cùng các yếu tố đầu vào khác trong các quá trình kết nối giữa doanh nghiệp với các nhà cung cấp”.
+**Đáp án: B** — Cấp độ 2 là mua quốc tế khi có nhu cầu; quyết định mua thường ngắn hạn, riêng lẻ và chỉ tìm NCC quốc tế khi DN có nhu cầu (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 4958-4964).
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+- **A. Khi muốn giảm chi phí vận chuyển** — Sai vì mua quốc tế thường làm logistics phức tạp hơn.
+- **B. Khi có nhu cầu ngắn hạn và riêng lẻ** — Đúng.
+- **C. Khi cần sản phẩm độc quyền từ nước ngoài** — Sai. Có thể là lý do mua quốc tế, nhưng không phải mô tả cấp độ 2.
+- **D. Khi đã xây dựng quan hệ lâu dài với NCC** — Sai. Đây gần cấp độ 3 hơn (dòng 4965-4969).
 
-### Lời giải chi tiết
-- A sai vì "sử dụng các thiết bị tự động" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- B đúng vì eProcurement là sử dụng internet/giao diện web/hệ thống nối mạng để mua đầu vào.
-- C sai vì "sử dụng công nghệ số" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- D sai vì "sử dụng công nghệ IoT Gắờ" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
+**Lưu ý**: Cấp độ 2 còn mang tính "ad hoc"; cấp độ cao hơn mới ổn định và tích hợp.
 
-### Kết luận
-**Đáp án: B.** eProcurement là sử dụng internet/giao diện web/hệ thống nối mạng để mua đầu vào.
+### Câu 16: Cấp độ 4 của mua quốc tế/toàn cầu
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+**Đáp án: C** — Cấp độ 4 là mua tích hợp và kết nối tập trung từ các đơn vị kinh doanh trên toàn cầu; các yêu cầu mua được kết nối để mua chung, tăng quyền lực đàm phán và lợi thế quy mô (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 4970-4975).
 
----
+- **A. Tích hợp và điều phối trong chiến lược cạnh tranh toàn cầu** — Sai vì đây là cấp độ 5 (dòng 4976-4980).
+- **B. Mua thuần nội địa** — Sai vì là cấp độ 1.
+- **C. Mua tích hợp và kết nối tập trung từ các đơn vị kinh doanh trên toàn cầu** — Đúng.
+- **D. Mua quốc tế khi có nhu cầu** — Sai vì là cấp độ 2.
 
-## Câu 10: Điền vào chỗ trống đáp án đúng để hoàn thiện khái niệm mua toàn cầu: Mua toàn cầu (Global...
+**Lưu ý**: Cấp độ 4 tập trung vào kết nối các đơn vị; cấp độ 5 đưa mua vào chiến lược cạnh tranh toàn cầu.
 
-### Đề bài
-> Điền vào chỗ trống đáp án đúng để hoàn thiện khái niệm mua toàn cầu: Mua toàn cầu (Global  Sourcing) là sự tích hợp và điều phối  các yêu cầu mua sắm của các đơn vị ở các ………. của doanh nghiệp, xem xét những đặc điểm chung về mặt hàng, thiết kế, quy trình, công nghệ và nhà cung cấp trong chiến lược mua và quản trị nguồn cung tổng thể.
+### Câu 17: Mô hình mua trực tuyến tích hợp chiến lược
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+**Đáp án: B** — Mô hình tích hợp chiến lược là hai đối tác cùng thống nhất đầu tư, thiết kế và vận hành hệ thống; hai bên cùng chủ động, linh hoạt trong đầu tư và thiết kế (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5414-5422).
 
-### Lời giải chi tiết
-- A sai vì "địa điểm các quốc gia" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- B đúng vì Mua toàn cầu điều phối yêu cầu mua của các đơn vị ở vị trí địa lý khác nhau trên thế giới.
-- C sai vì "vị trí nhà cung cấp" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- D sai vì "điểm mua hàng" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
+- **A. Bên mua cài đặt và vận hành phần mềm** — Sai. Đây là mô hình do bên mua làm trung tâm.
+- **B. Cả hai bên cùng chủ động và linh hoạt trong đầu tư, thiết kế hệ thống mua trực tuyến** — Đúng.
+- **C. Bên bán kiểm soát, thiết kế catalog và phần mềm** — Sai. Đây là mô hình do bên bán làm trung tâm.
+- **D. Trung gian điều khiển giao dịch** — Sai. Đây là mô hình sàn giao dịch điện tử.
 
-### Kết luận
-**Đáp án: B.** Mua toàn cầu điều phối yêu cầu mua của các đơn vị ở vị trí địa lý khác nhau trên thế giới.
+**Lưu ý**: "Tích hợp chiến lược" đòi hỏi niềm tin, chia sẻ thông tin và đầu tư chung, không phải một bên áp hệ thống cho bên kia.
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+### Câu 18: Phát biểu không đúng về lợi ích mua trực tuyến
 
----
+**Đáp án: B** — Lợi ích mua trực tuyến gồm tiết kiệm thời gian, tiết kiệm chi phí, đúng thời điểm với dữ liệu cập nhật và giảm sai sót hành chính (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5222-5237).
 
-## Câu 11: Lý do và lợi ích của mua quốc tế và toàn cầu khá đa dạng và rõ rệt. Tuy nhiên nhiều doanh...
+- **A. Đúng thời điểm, độ chính xác cao nhờ xử lý thông tin tốt hơn** — Sai nếu chọn, vì là lợi ích mua trực tuyến.
+- **B. Không lo hết hàng, không ứ đọng hàng dự trữ** — Đúng trong câu hỏi phủ định. Đây là lợi ích đặc trưng của VMI ở chương 5, không phải lợi ích chung của mua trực tuyến.
+- **C. Tiết kiệm thời gian do xử lý nhanh báo giá/dữ liệu trực tuyến** — Sai nếu chọn, vì là lợi ích.
+- **D. Tiết kiệm chi phí do tự động hóa thao tác thủ công** — Sai nếu chọn, vì là lợi ích.
 
-### Đề bài
-> Lý do và lợi ích của mua quốc tế và toàn cầu khá đa dạng và rõ rệt. Tuy nhiên nhiều doanh nghiệp Việt Nam vẫn lựa chọn các nguồn cung nội địa, vì sao?
+**Lưu ý**: VMI có thể dùng dữ liệu điện tử, nhưng "không lo hết hàng/ứ đọng" không phải định nghĩa lợi ích cốt lõi của eProcurement.
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+### Câu 19: Thách thức lớn trong chuỗi cung ứng toàn cầu
 
-### Lời giải chi tiết
-- A đúng vì DN Việt Nam vẫn chọn nội địa một phần do thiếu kinh nghiệm và kiến thức mua quốc tế.
-- B sai vì "Do thiếu hụt nguồn cung nội địa" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- C sai vì "Do yêu cầu từ phía nhà cung cấp" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- D sai vì "Do muốn giảm bớt sự phụ thuộc vào nhà cung cấp địa phương" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
+**Đáp án: B** — Bài giảng mô tả khách hàng nội địa và quốc tế ngày càng muốn sản phẩm/dịch vụ tốt hơn, rẻ hơn, nhanh hơn, độc đáo hơn, cùng yêu cầu trách nhiệm xã hội và bền vững (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 4864-4873).
 
-### Kết luận
-**Đáp án: A.** DN Việt Nam vẫn chọn nội địa một phần do thiếu kinh nghiệm và kiến thức mua quốc tế.
+- **A. Giảm chi phí mà không đổi chất lượng** — Sai vì chỉ nêu một khía cạnh nội bộ.
+- **B. Khách hàng yêu cầu ngày càng cao về sản phẩm và dịch vụ** — Đúng.
+- **C. Sự giảm sút nhu cầu nội địa** — Sai vì bài giảng nói áp lực từ thị trường rộng hơn, không riêng suy giảm nội địa.
+- **D. Thiếu hụt lao động ngành sản xuất** — Sai vì không phải trọng tâm đoạn này.
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+**Lưu ý**: Áp lực khách hàng là lực kéo khiến DN phải tái cấu trúc nguồn cung, không chỉ tối ưu chi phí.
 
----
+### Câu 20: Khái niệm mua quốc tế
 
-## Câu 12: Trong bối cảnh cạnh tranh toàn cầu và sự biến đổi nhanh chóng của chuỗi cung ứng, doanh ng...
+**Đáp án: B** — Mua quốc tế là quá trình tìm kiếm và lựa chọn nguồn cung bên ngoài biên giới quốc gia đặt trụ sở chính của DN (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 4910-4914).
 
-### Đề bài
-> Trong bối cảnh cạnh tranh toàn cầu và sự biến đổi nhanh chóng của chuỗi cung ứng, doanh nghiệp cần thực hiện điều gì để đáp ứng nhu cầu của thị trường?
+- **A. Doanh nghiệp** — Sai vì không hoàn thành ý về phạm vi địa lý.
+- **B. Bên ngoài biên giới quốc gia** — Đúng.
+- **C. Nhà cung cấp toàn cầu** — Sai vì mua quốc tế không nhất thiết là toàn cầu hóa/đa địa điểm.
+- **D. Thị trường** — Sai vì quá chung.
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+**Lưu ý**: Quốc tế = vượt biên giới quốc gia của DN; toàn cầu = tích hợp/điều phối quy mô thế giới.
 
-### Lời giải chi tiết
-- A sai vì "Tập trung vào thị trường nội địa và bỏ qua cơ hội quốc tế." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- B sai vì "Giảm giá sản phẩm mà không cần cải thiện chất lượng dịch vụ." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- C đúng vì Cần sắp xếp chiến lược nguồn cung, tìm NCC toàn cầu và quan hệ hợp tác đa dạng.
-- D sai vì "Tăng cường sản xuất hàng hóa truyền thống mà không thay đổi chiến lược." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
+### Câu 21: Lý do không phải để sắp xếp lại chiến lược nguồn cung
 
-### Kết luận
-**Đáp án: C.** Cần sắp xếp chiến lược nguồn cung, tìm NCC toàn cầu và quan hệ hợp tác đa dạng.
+**Đáp án: B** — DN cần sắp xếp lại nguồn cung vì áp lực khách hàng, trách nhiệm xã hội/bền vững, tìm NCC toàn cầu, nền kinh tế mới nổi và quan hệ hợp tác đa dạng (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 4869-4873).
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+- **A. Tìm nguồn từ các nền kinh tế mới nổi** — Sai nếu chọn, vì là lý do đúng.
+- **B. Cạnh tranh với DN nội địa mà không cần thay đổi** — Đúng trong câu hỏi phủ định. "Không cần thay đổi" trái với tinh thần tái cấu trúc.
+- **C. Tăng cường quan hệ với NCC toàn cầu** — Sai nếu chọn, vì là hướng bài giảng nêu.
+- **D. Đáp ứng trách nhiệm xã hội và phát triển bền vững** — Sai nếu chọn, vì là áp lực quan trọng.
 
----
+**Lưu ý**: Nếu môi trường thay đổi nhanh mà DN "không cần thay đổi", đó gần như chắc chắn là phương án sai.
 
-## Câu 13: Để tiết kiệm thời gian trong mua quốc tế có nhiều biện pháp, hay chỉ ra đâu KHÔNG phải là...
+### Câu 22: Bốn cấp độ kim tự tháp CSR
 
-### Đề bài
-> Để tiết kiệm thời gian trong mua quốc tế có nhiều biện pháp, hay chỉ ra đâu KHÔNG phải là các biện pháp này?
+**Đáp án: D** — Kim tự tháp trách nhiệm xã hội của Carroll gồm bốn cấp độ: kinh tế, pháp lý, đạo đức và từ thiện (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5523-5533).
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+- **A. Kinh tế, pháp lý, đạo đức, môi trường** — Sai. Môi trường thuộc phát triển bền vững/3P, không phải tầng trong kim tự tháp Carroll.
+- **B. Xã hội, môi trường, kinh tế, con người** — Sai vì trộn với tư duy 3P.
+- **C. Xã hội, kinh tế, lợi nhuận, môi trường** — Sai, không đúng mô hình.
+- **D. Kinh tế, pháp lý, đạo đức, từ thiện** — Đúng.
 
-### Lời giải chi tiết
-- A sai vì "Thực hiện mua hàng lặp lại một cách dễ dàng hơn." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- B đúng vì Giám sát chất lượng là cần thiết nhưng không phải biện pháp tiết kiệm thời gian.
-- C sai vì "Dữ liệu hàng hóa và nhà cung cấp có sẵn trực tuyến để khai thác." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- D sai vì "Xử lý nhanh các yêu cầu báo giá và đề xuất chào hàng." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
+**Lưu ý**: Carroll = economic, legal, ethical, philanthropic.
 
-### Kết luận
-**Đáp án: B.** Giám sát chất lượng là cần thiết nhưng không phải biện pháp tiết kiệm thời gian.
+**⚠️ Ghi chú về tài liệu (critical engagement):**
+- **Phát hiện**: Bổ sung khung hiện đại.
+- **Chi tiết**: Bài giảng dùng Carroll và 3P. Trong thực hành mua hiện nay, DN còn hay dùng ESG để đánh giá nhà cung cấp theo môi trường, xã hội và quản trị.
+- **Nguồn chuẩn**: Carroll (1991) về CSR Pyramid; ESG reporting frameworks như GRI Standards và IFRS Sustainability Disclosure Standards.
+- **Khuyến nghị cho SV**: Khi thi nhớ bốn tầng Carroll; khi đi làm nên liên hệ CSR với ESG supplier assessment.
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+### Câu 23: Điểm không thuộc thách thức tiêu chuẩn/chất lượng
 
----
+**Đáp án: D** — Khác biệt tiêu chuẩn và kiểm soát chất lượng bao gồm tiêu chuẩn kỹ thuật khác nhau, cần thống nhất tiêu chuẩn, đánh giá chất lượng trước giao hàng và rủi ro lô chính thức khác mẫu (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5040-5046).
 
-## Câu 14: Lợi ích của mua trực tuyến thay đổi tùy theo mức độ trưởng thành trong quá trình chuyển đổ...
+- **A. Thời gian giao hàng dài, kiểm tra mẫu trước giao hàng** — Sai nếu chọn. Thời gian dài là thách thức mua quốc tế, kiểm tra mẫu liên quan kiểm soát chất lượng.
+- **B. Chi phí cao hơn dự kiến, xem xét giá và chất lượng trước ký hợp đồng** — Sai nếu chọn, vì tổng chi phí và chất lượng đều là vấn đề phải kiểm soát.
+- **C. Hàng hóa không đạt tiêu chuẩn, cần bộ tiêu chuẩn rõ ràng** — Sai nếu chọn, vì khớp trực tiếp với thách thức chất lượng.
+- **D. Đa dạng nguồn cung quốc tế, bổ sung nguồn cung thiếu hụt trong nước** — Đúng trong câu hỏi phủ định. Đây là lợi ích/lý do mua quốc tế, không phải đặc điểm của thách thức chất lượng.
 
-### Đề bài
-> Lợi ích của mua trực tuyến thay đổi tùy theo mức độ trưởng thành trong quá trình chuyển đổi số tại doanh nghiệp. Ở giai đoạn đầu, khi mức độ chuyển đổi số của doanh nghiệp còn thấp, ưu điểm nổi bật của mua trực tuyến trong chuỗi cung ứng là gì?
+**Lưu ý**: Một ý nghe "quốc tế" chưa chắc là thách thức; có thể là lợi ích của mở rộng nguồn cung.
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+### Câu 24: Phát biểu không đúng về xu hướng mua và QTNC
 
-### Lời giải chi tiết
-- A sai vì "Có tiềm năng giảm rủi ro và gia tăng năng lực đổi mới trong doanh nghiệp" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- B sai vì "Đủ năng lực khai thác công nghệ dữ liệu lớn để phân tích thị trường, dự báo rủi ro trong tương lai, đồng thời tích hợp tốt hơn với nhà cung cấp." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- C đúng vì Giai đoạn đầu chuyển đổi số: lợi ích nổi bật là giảm chi phí hành chính, tìm nguồn giá thấp, thanh toán nhanh.
-- D sai vì "Giúp giảm tổng chi tiêu (ngân sách mua) do ứng dụng nhiều công nghệ số" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
+**Đáp án: D** — Xu hướng cuối chương gồm thuê ngoài và cân bằng toàn cầu/khu vực, quản lý rủi ro, hợp tác với NCC chiến lược, chia sẻ thông tin, chuyển đổi số, minh bạch, tích hợp chức năng và tăng nguồn cung quốc tế/toàn cầu (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5731-5756).
 
-### Kết luận
-**Đáp án: C.** Giai đoạn đầu chuyển đổi số: lợi ích nổi bật là giảm chi phí hành chính, tìm nguồn giá thấp, thanh toán nhanh.
+- **A. Tăng cường nguồn cung quốc tế, toàn cầu** — Sai nếu chọn, vì là xu hướng đúng.
+- **B. Tăng hợp tác/tích hợp với NCC chiến lược qua chia sẻ thông tin** — Sai nếu chọn, vì là xu hướng đúng (dòng 5740-5741).
+- **C. Tiếp tục thuê ngoài, phân tích địa điểm/vị trí trong mạng lưới nguồn cung** — Sai nếu chọn, vì là xu hướng đúng (dòng 5734-5735).
+- **D. Hạn chế đầu tư CNTT, chuyển đổi số** — Đúng trong câu hỏi phủ định. Bài giảng nói tăng chia sẻ thông tin, chuyển đổi sang hệ thống kỹ thuật số và minh bạch.
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+**Lưu ý**: Xu hướng hiện đại là số hóa mua, không hạn chế công nghệ thông tin.
 
----
+### Câu 25: Cách khắc phục khó khăn mua quốc tế
 
-## Câu 15: Trong 5 cấp độ mua quốc tế, ở cấp độ 2 (mua quốc tế khi có nhu cầu), doanh nghiệp thường t...
+**Đáp án: D** — DN cần chuẩn bị nguồn lực nhân sự, ngân sách và lượng hàng dự trữ để vượt khó; đồng thời đào tạo nhân sự, hiểu Incoterms, chứng từ, hải quan, ngoại ngữ và thử nghiệm từng bước (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5067-5070, 5114-5132).
 
-### Đề bài
-> Trong 5 cấp độ mua quốc tế, ở cấp độ 2 (mua quốc tế khi có nhu cầu), doanh nghiệp thường tìm nhà cung cấp quốc tế trong bối cảnh nào?
+- **A. Tập trung mua nội địa** — Sai. Đây là né tránh chứ không phải khắc phục năng lực mua quốc tế.
+- **B. Để mỗi phòng ban hoạt động độc lập** — Sai vì mua quốc tế cần phối hợp và năng lực tổ chức.
+- **C. Chỉ cần ngân sách lớn** — Sai vì còn cần nhân sự, thông tin, quản trị rủi ro và quy trình.
+- **D. Chuẩn bị đầy đủ nhân sự, ngân sách và lượng hàng dự trữ** — Đúng.
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+**Lưu ý**: Mua quốc tế đòi hỏi năng lực hệ thống; tiền nhiều không thay thế được hiểu biết thương mại quốc tế.
 
-### Lời giải chi tiết
-- A sai vì "Khi họ muốn giảm thiểu chi phí vận chuyển." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- B đúng vì Cấp độ 2 là mua quốc tế khi có nhu cầu ngắn hạn, riêng lẻ.
-- C sai vì "Khi họ cần sản phẩm độc quyền từ nước ngoài." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- D sai vì "Khi họ đã xây dựng mối quan hệ lâu dài với nhà cung cấp." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
+### Câu 26: Khác biệt mua quốc tế và mua toàn cầu
 
-### Kết luận
-**Đáp án: B.** Cấp độ 2 là mua quốc tế khi có nhu cầu ngắn hạn, riêng lẻ.
+**Đáp án: A** — Bài giảng phân biệt "quốc tế" liên quan hai hoặc nhiều quốc gia, còn "toàn cầu" bao trùm/liên quan cả thế giới; mua toàn cầu là tích hợp điều phối các đơn vị ở vị trí địa lý khác nhau trên thế giới (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 4915-4935).
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+- **A. Mua quốc tế ở các quốc gia khác nhau, mua toàn cầu có phạm vi toàn thế giới** — Đúng theo tinh thần phân biệt.
+- **B. Sự phức tạp ở mỗi thị trường khác nhau** — Sai vì là hệ quả, không phải ranh giới khái niệm.
+- **C. Số nhà cung cấp khác nhau** — Sai vì số NCC không quyết định quốc tế hay toàn cầu.
+- **D. Số lượng hàng hóa mua khác nhau** — Sai vì quy mô hàng hóa không phải tiêu chí phân biệt.
 
----
+**Lưu ý**: Quốc tế có thể là một giao dịch vượt biên; toàn cầu là năng lực điều phối mạng lưới mua ở quy mô thế giới.
 
-## Câu 16: Mua quốc tế và toàn cầu có thể chia thành 5 cấp độ (5 bậc), được phát triển từ thấp đến ca...
+**⚠️ Ghi chú về tài liệu (critical engagement):**
+- **Phát hiện**: Bổ sung sắc thái.
+- **Chi tiết**: Trong thực hành, "international sourcing" và "global sourcing" đôi khi bị dùng lẫn. Điểm phân biệt hữu ích không chỉ là phạm vi địa lý mà còn là mức độ tích hợp chiến lược và điều phối xuyên đơn vị.
+- **Nguồn chuẩn**: Monczka et al., Purchasing and Supply Chain Management; Trent & Monczka về global sourcing.
+- **Khuyến nghị cho SV**: Khi thi theo bài giảng chọn phạm vi quốc tế/toàn cầu; khi phân tích case, thêm tiêu chí mức độ tích hợp và điều phối.
 
-### Đề bài
-> Mua quốc tế và toàn cầu có thể chia thành 5 cấp độ (5 bậc), được phát triển từ thấp đến cao, từ đơn giản đến phức tạp, từ riêng lẻ đến tích hợp, hãy chỉ ra đâu là cấp độ 4 của mua quốc tế và toàn cầu?
+### Câu 27: Phát biểu không chính xác về nguyên nhân/lợi ích mua quốc tế
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+**Đáp án: A** — Bài giảng nêu lý do mua quốc tế gồm yêu cầu khách hàng, thiếu hụt nguồn cung nội địa, toàn cầu hóa, giảm chi phí, công nghệ/chất lượng cao hơn, dịch vụ tốt hơn và giảm phụ thuộc NCC địa phương (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 4984-5030).
 
-### Lời giải chi tiết
-- A sai vì "Tích hợp và điều phối hoạt động mua trong chiến lược cạnh tranh toàn cầu." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- B sai vì "Mua thuần nội địa." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- C đúng vì Cấp độ 4 là mua tích hợp và kết nối tập trung từ các đơn vị kinh doanh toàn cầu.
-- D sai vì "Mua quốc tế khi có nhu cầu." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
+- **A. Trong toàn cầu hóa, DN thường chọn nguồn cung nội địa có chất lượng tốt để cạnh tranh** — Đúng trong câu hỏi phủ định. Phát biểu này đi ngược logic tìm nguồn quốc tế/toàn cầu.
+- **B. Khách hàng có thể chỉ định nguồn cung quốc tế để đảm bảo chất lượng** — Sai nếu chọn, vì là lý do đúng (dòng 4987-4991).
+- **C. Khai thác lợi thế tuyệt đối/tương đối giữa quốc gia để tìm NCC chi phí/chất lượng/điều khoản tốt hơn** — Sai nếu chọn, vì bài giảng dẫn Adam Smith/Ricardo và lợi thế thương mại quốc tế (dòng 4887-4908).
+- **D. Nguồn lao động/vật liệu rẻ, tỷ giá thuận lợi giúp giảm chi phí/giá thành** — Sai nếu chọn, vì là lợi ích trực tiếp (dòng 5003-5005).
 
-### Kết luận
-**Đáp án: C.** Cấp độ 4 là mua tích hợp và kết nối tập trung từ các đơn vị kinh doanh toàn cầu.
+**Lưu ý**: Mua nội địa vẫn có giá trị, nhưng câu A sai vì nói đó là xu hướng đặc trưng của toàn cầu hóa.
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+### Câu 28: Đơn hàng phù hợp nhất với mua trực tuyến
 
----
+**Đáp án: C** — Mua trực tuyến ứng dụng nhiều nhất với đơn hàng rủi ro thấp, vật tư đơn giản/phụ trợ, tần suất mua lớn, giá trị thấp, tiêu chuẩn cao và nhiều NCC B2B (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5200-5215).
 
-## Câu 17: Mô hình mua trực tuyến tích hợp chiến lược có đặc điểm nào sau đây?
+- **A. Phát triển nguồn cung truyền thống** — Sai vì không nói loại đơn hàng.
+- **B. Tối thiểu hóa chi phí sản xuất/kinh doanh** — Sai vì là mục tiêu chung, không phải điều kiện ứng dụng.
+- **C. Rủi ro thấp, vật tư đơn giản, tần số mua lớn và tiêu chuẩn cao** — Đúng.
+- **D. Duy trì kinh doanh truyền thống, tối ưu chi phí và dịch vụ** — Sai vì không nêu đặc điểm hàng hóa phù hợp với online procurement.
 
-### Đề bài
-> Mô hình mua trực tuyến tích hợp chiến lược có đặc điểm nào sau đây?
+**Lưu ý**: Mua trực tuyến phát huy mạnh với hàng tiêu chuẩn hóa; hàng đặc chủng/rủi ro cao cần kiểm soát quan hệ và kỹ thuật chặt hơn.
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
+### Câu 29: Yếu tố không giúp giảm chi phí mua trực tuyến
 
-### Lời giải chi tiết
-- A sai vì "Bên mua cài đặt và vận hành phần mềm" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- B đúng vì Mô hình tích hợp chiến lược: hai bên cùng đầu tư, thiết kế và vận hành hệ thống.
-- C sai vì "Bên bán kiểm soát, nhà cung cấp thiết kế catalog điện từ và cài đặt phần mềm hỗ trợ mua hàng" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- D sai vì "Hệ thống do trung gian phối hợp nhịp nhàng hai bên để điều khiển giao dịch" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
+**Đáp án: C** — Lợi ích tiết kiệm chi phí gồm phần mềm tự động hóa thao tác thủ công, dễ so sánh/lựa chọn giá và NCC tốt nhất, mua tập trung/kết hợp để có giá ưu đãi (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5228-5232).
 
-### Kết luận
-**Đáp án: B.** Mô hình tích hợp chiến lược: hai bên cùng đầu tư, thiết kế và vận hành hệ thống.
+- **A. Phần mềm tự động hóa giảm chi phí lao động** — Sai nếu chọn, vì là lợi ích chi phí.
+- **B. Dễ so sánh giá và chọn NCC tốt nhất** — Sai nếu chọn, vì là lợi ích chi phí.
+- **C. Nguồn cung trực tuyến thiếu tin cậy, nhiều hàng không kiểm duyệt** — Đúng trong câu hỏi phủ định. Đây là rủi ro chất lượng/kiểm soát, có thể làm tăng chi phí.
+- **D. Mua tập trung để đạt giá ưu đãi** — Sai nếu chọn, vì là lợi ích chi phí.
 
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+**Lưu ý**: Nền tảng số chỉ giúp giảm chi phí nếu dữ liệu và NCC đáng tin; nếu không, chi phí lỗi/chất lượng có thể tăng.
 
----
+### Câu 30: Đặc trưng khác biệt của mua trực tuyến
 
-## Câu 18: Những phát biểu nào sau đây KHÔNG đúng về lợi ích của mua trực tuyến của doanh nghiệp tron...
+**Đáp án: C** — Từ đặc điểm 3I của Internet, mua trực tuyến nổi bật ở tính minh bạch, hiệu suất, linh hoạt và tối ưu (`TXBLOG3041_MVQTNC_Baigiangtext.md` dòng 5175-5199).
 
-### Đề bài
-> Những phát biểu nào sau đây KHÔNG đúng về lợi ích của mua trực tuyến của doanh nghiệp trong chuỗi cung ứng?
+- **A. Tự động hóa mọi hoạt động mua với mọi hàng hóa/NCC** — Sai. Bài giảng cảnh báo mua trực tuyến không áp dụng cho tất cả hàng hóa/dịch vụ và mọi NCC (dòng 5200-5202).
+- **B. Tiếp cận hàng hóa trực tiếp, thuận lợi lựa chọn** — Sai vì chỉ là lợi ích riêng lẻ, chưa đủ bộ đặc trưng.
+- **C. Tính hiệu suất, minh bạch, linh hoạt và tối ưu** — Đúng.
+- **D. Tính ổn định thời gian tìm kiếm/lựa chọn tại NCC** — Sai, không phải bộ đặc trưng bài giảng nêu.
 
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì "Đúng thời điểm với độ chính xác cao nhờ xử lý thông tin tốt hơn, dữ liệu được cập nhật nhanh chóng theo thời gian thực." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- B đúng vì "Không lo hết hàng, không ứ đọng" là lợi ích VMI, không phải lợi ích chung của mua trực tuyến.
-- C sai vì "Tiết kiệm thời gian cho cả bên mua và bên bán do xử lý nhanh chóng về báo giá, dữ liệu có sẵn trực tuyến." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- D sai vì "Tiết kiệm chi phí do phần mềm ứng dụng tự động hóa được nhiều thao tác thủ công." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-
-### Kết luận
-**Đáp án: B.** "Không lo hết hàng, không ứ đọng" là lợi ích VMI, không phải lợi ích chung của mua trực tuyến.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
-
----
-
-## Câu 19: Điều gì là một thách thức lớn mà các doanh nghiệp phải đối mặt trong bối cảnh chuỗi cung ứ...
-
-### Đề bài
-> Điều gì là một thách thức lớn mà các doanh nghiệp phải đối mặt trong bối cảnh chuỗi cung ứng toàn cầu hiện nay?
-
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì "Giảm thiểu chi phí sản xuất mà không thay đổi chất lượng" không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- B đúng vì Khách hàng ngày càng yêu cầu cao về sản phẩm/dịch vụ là thách thức lớn của chuỗi cung ứng toàn cầu.
-- C sai vì "Sự giảm sút nhu cầu của thị trường nội địa." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- D sai vì "Thiếu hụt lao động trong ngành sản xuất." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-
-### Kết luận
-**Đáp án: B.** Khách hàng ngày càng yêu cầu cao về sản phẩm/dịch vụ là thách thức lớn của chuỗi cung ứng toàn cầu.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
-
----
-
-## Câu 20: Điền vào chỗ trống đáp án đúng để hoàn thiện khái niệm mua quốc tế: Mua quốc tế (internati...
-
-### Đề bài
-> Điền vào chỗ trống đáp án đúng để hoàn thiện khái niệm mua quốc tế: Mua quốc tế (international sourcing) là quá trình tìm kiếm và lựa chọn nguồn cung ……… đặt trụ sở chính của doanh nghiệp trong hoạt động sản xuất – kinh doanh.
-
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì "doanh nghiệp" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- B đúng vì Mua quốc tế là tìm nguồn cung bên ngoài biên giới quốc gia đặt trụ sở DN.
-- C sai vì "nhà cung cấp toàn cầu" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- D sai vì "thị trường" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-
-### Kết luận
-**Đáp án: B.** Mua quốc tế là tìm nguồn cung bên ngoài biên giới quốc gia đặt trụ sở DN.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
-
----
-
-## Câu 21: Trong bối cảnh chuỗi cung ứng toàn cầu đang thay đổi nhanh chóng, điều nào sau đây không p...
-
-### Đề bài
-> Trong bối cảnh chuỗi cung ứng toàn cầu đang thay đổi nhanh chóng, điều nào sau đây không phải là lý do doanh nghiệp cần sắp xếp lại chiến lược nguồn cung của mình?
-
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì "Tìm kiếm các nguồn cung ứng từ các nền kinh tế mới nổi." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- B đúng vì Không thay đổi để cạnh tranh với DN nội địa không phải lý do tái cấu trúc nguồn cung.
-- C sai vì "Tăng cường mối quan hệ với các nhà cung cấp toàn cầu." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- D sai vì "Đáp ứng yêu cầu về trách nhiệm xã hội và phát triển bền vững." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-
-### Kết luận
-**Đáp án: B.** Không thay đổi để cạnh tranh với DN nội địa không phải lý do tái cấu trúc nguồn cung.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
-
----
-
-## Câu 22: Kim tự tháp trách nhiệm xã hội của doanh nghiệp gợi ý rằng doanh nghiệp phải thực hiện trá...
-
-### Đề bài
-> Kim tự tháp trách nhiệm xã hội của doanh nghiệp gợi ý rằng doanh nghiệp phải thực hiện trách nhiệm xã hội ở bốn cấp độ bao gồm:
-
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì "Kinh tế, pháp lý, đạo đức, môi trường" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- B sai vì "Xã hội, môi trường, kinh tế, con người" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- C sai vì "Xã hội, kinh tế, lợi nhuận, môi trường" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- D đúng vì Kim tự tháp CSR gồm kinh tế, pháp lý, đạo đức, từ thiện.
-
-### Kết luận
-**Đáp án: D.** Kim tự tháp CSR gồm kinh tế, pháp lý, đạo đức, từ thiện.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
-
----
-
-## Câu 23: Trong bối cảnh mua quốc tế, sự khác biệt về tiêu chuẩn và kiểm soát chất lượng hàng hóa ở...
-
-### Đề bài
-> Trong bối cảnh mua quốc tế, sự khác biệt về tiêu chuẩn và kiểm soát chất lượng hàng hóa ở các quốc gia là một trong những thách thức trong mua quốc tế, hãy chỉ ra đâu KHÔNG phải là đặc điểm của thách thức này?
-
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì "Thời gian giao hàng dài, cần có các biện pháp kiểm tra hàng mẫu trước khi giao hàng chính thức." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- B sai vì "Chi phí cao hơn so với mức dự kiến, cần xem xét giá cả và chất lượng hàng hóa trước khi ký hợp đồng." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- C sai vì "Hàng hóa không đạt tiêu chuẩn, cần thiết lập bộ tiêu chuẩn rõ ràng và thống nhất giữa bên mua và bên bán." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- D đúng vì Đa dạng nguồn cung quốc tế là lợi ích, không phải thách thức kiểm soát chất lượng.
-
-### Kết luận
-**Đáp án: D.** Đa dạng nguồn cung quốc tế là lợi ích, không phải thách thức kiểm soát chất lượng.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
-
----
-
-## Câu 24: Phát biểu nào sau đây KHÔNG đúng về xu hướng và triển vọng trong mua và quản trị nguồn cun...
-
-### Đề bài
-> Phát biểu nào sau đây KHÔNG đúng về xu hướng và triển vọng trong mua và quản trị nguồn cung?
-
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì "Tăng cường nguồn cung quốc tế, toàn cầu." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- B sai vì "Tăng cường hợp tác và tích hợp với nhà cung cấp chiến lược, thông qua việc chia sẻ thông tin." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- C sai vì "Tiếp tục xu hướng thuê ngoài, phân tích kỹ yếu tố địa điểm và vị trí trong mạng lưới nguồn cung." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- D đúng vì Xu hướng đúng là tăng đầu tư CNTT/chuyển đổi số, không phải hạn chế.
-
-### Kết luận
-**Đáp án: D.** Xu hướng đúng là tăng đầu tư CNTT/chuyển đổi số, không phải hạn chế.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
-
----
-
-## Câu 25: Để khắc phục khó khăn, thách thức trong mua quốc tế, doanh nghiệp cần làm gì sau đây?
-
-### Đề bài
-> Để khắc phục khó khăn, thách thức trong mua quốc tế, doanh nghiệp cần làm gì sau đây?
-
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì "Tập trung vào việc mua hàng nội địa" không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- B sai vì "Đảm bảo mỗi phòng ban hoạt động độc lập" không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- C sai vì "Chỉ cần ngân sách lớn" không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- D đúng vì Khắc phục thách thức mua quốc tế cần chuẩn bị nhân sự, ngân sách và dự trữ phù hợp.
-
-### Kết luận
-**Đáp án: D.** Khắc phục thách thức mua quốc tế cần chuẩn bị nhân sự, ngân sách và dự trữ phù hợp.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
-
----
-
-## Câu 26: Trong nhiều trường hợp, hai thuật ngữ mua quốc tế và mua toàn cầu có thể được sử dụng thay...
-
-### Đề bài
-> Trong nhiều trường hợp, hai thuật ngữ mua quốc tế và mua toàn cầu có thể được sử dụng thay thế cho nhau, tuy nhiên có sự khác biệt khá rõ ở điểm nào sau đây?
-
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì Mua quốc tế vượt biên giới quốc gia; mua toàn cầu có phạm vi và điều phối toàn thế giới.
-- B sai vì "Sự phức tạp ở mỗi thị trường khác nhau." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- C sai vì "Số nhà cung cấp khác nhau." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- D sai vì "Số lượng hàng hóa mua khác nhau." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-
-### Kết luận
-**Đáp án: A.** Mua quốc tế vượt biên giới quốc gia; mua toàn cầu có phạm vi và điều phối toàn thế giới.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
-
----
-
-## Câu 27: Phát biểu nào sau đây về nguyên nhân và lợi ích của mua quốc tế và toàn cầu là KHÔNG chính...
-
-### Đề bài
-> Phát biểu nào sau đây về nguyên nhân và lợi ích của mua quốc tế và toàn cầu là KHÔNG chính xác?
-
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì Toàn cầu hóa thường thúc đẩy tìm nguồn quốc tế, nên chỉ chọn nội địa để cạnh tranh là không chính xác.
-- B sai vì "Trong nhiều tình huống, quyết định mua vật liệu hoặc dịch vụ quốc tế được xuất phát từ yêu cầu của khách hàng, khi họ chủ động chỉ định và áp đặt nguồn cung, đảm bảo chất lượng nguyên liệu đạt chuẩn của họ." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- C sai vì "Từ lâu, các doanh nghiệp đã biết khai thác những lợi thế tuyệt đối và tương đối giữa các quốc gia để tìm kiếm nhà cung cấp ở nước ngoài, có chi phí hấp dẫn hơn, chất lượng cao hơn và các điều khoản thương mại thuận lợi hơn so với nhà cung cấp địa phương." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- D sai vì "Lợi thế trực tiếp nhất của nguồn cung ứng quốc tế và toàn cầu là có được nguồn lao động rẻ hơn, vật liệu có giá thấp hơn, cơ hội khai thác tỷ giá hối đoái thuận lợi,… dẫn đến giảm chi phí và giảm giá thành sản phẩm." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-
-### Kết luận
-**Đáp án: A.** Toàn cầu hóa thường thúc đẩy tìm nguồn quốc tế, nên chỉ chọn nội địa để cạnh tranh là không chính xác.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
-
----
-
-## Câu 28: Trong bối cảnh công nghệ hiện nay với sự bùng nổ của các loại hình thương mại điện tử, trê...
-
-### Đề bài
-> Trong bối cảnh công nghệ hiện nay với sự bùng nổ của các loại hình thương mại điện tử, trên nền tảng internet như Website, mạng xã hội, sàn giao dịch điện tử và app điện thoại, mua trực tuyến đặc biệt hữu dụng và có thể ứng dụng nhiều nhất đối với các đơn hàng:
-
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì "Phát triển các nguồn cung truyền thống" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- B sai vì "Tối thiểu hóa chi phí sản xuất, kinh doanh, giảm chi phí mua hàng thấp nhất." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- C đúng vì Mua trực tuyến phù hợp đơn hàng rủi ro thấp, vật tư đơn giản, tần suất cao, tiêu chuẩn hóa.
-- D sai vì "Duy trì hoạt động kinh doanh truyền thống, tối ưu hóa chi phí và nâng cao dịch vụ." không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-
-### Kết luận
-**Đáp án: C.** Mua trực tuyến phù hợp đơn hàng rủi ro thấp, vật tư đơn giản, tần suất cao, tiêu chuẩn hóa.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
-
----
-
-## Câu 29: Một trong những lợi ích của mua trực tuyến là tiết kiệm chi phí. Hãy phân tích các yếu tố...
-
-### Đề bài
-> Một trong những lợi ích của mua trực tuyến là tiết kiệm chi phí. Hãy phân tích các yếu tố nào trong mua trực tuyến KHÔNG thể giúp doanh nghiệp giảm chi phí và nâng cao hiệu quả?
-
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì "Sử dụng phần mềm tự động hóa giúp giảm chi phí lao động." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- B sai vì "Dễ dàng so sánh giá và lựa chọn nhà cung cấp tốt nhất." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-- C đúng vì Nguồn cung thiếu tin cậy/không kiểm duyệt là rủi ro, không giúp giảm chi phí.
-- D sai vì "Khả năng mua tập trung để đạt được mức giá ưu đãi." không khớp yêu cầu loại trừ của câu hỏi. Với câu có từ khóa phủ định, ta phải chọn phương án không thuộc nội dung đúng của Chương 6.
-
-### Kết luận
-**Đáp án: C.** Nguồn cung thiếu tin cậy/không kiểm duyệt là rủi ro, không giúp giảm chi phí.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
-
----
-
-## Câu 30: Xuất phát từ các tính chất ưu việt của môi trường Internet như tính thông tin, tính tương...
-
-### Đề bài
-> Xuất phát từ các tính chất ưu việt của môi trường Internet như tính thông tin, tính tương tác và tính cá nhân hóa, mua hàng trực tuyến của doanh nghiệp trong chuỗi cung ứng có nhiều đặc trưng khác biệt hơn so với mua truyền thống, các đặc điểm đó là gì?
-
-### Kiến thức nền cần dùng
-Chương 6 trình bày mua quốc tế, mua toàn cầu, eProcurement, mua xanh, CSR và các thách thức của chuỗi cung ứng toàn cầu. Dẫn chiếu: `TXBLOG3041_MVQTNC_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì "Khả năng tự động hóa hoạt động mua đối với tất cả các loại hàng hóa và dịch vụ, với tất cả các nhà cung cấp" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- B sai vì "Khả năng tiếp cận hàng hóa trực tiếp, thuận lợi việc lựa chọn và ra quyết định mua" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-- C đúng vì Đặc trưng mua trực tuyến: hiệu suất, minh bạch, linh hoạt và tối ưu.
-- D sai vì "Tính ổn định về thời gian tìm kiếm và lựa chọn các nguồn hàng tại nhà cung cấp. 1 Nộp bài" không trả lời đúng trọng tâm khái niệm đang hỏi hoặc chỉ nêu một ý gần liên quan. Theo Chương 6, phương án đúng phải khớp đầy đủ dấu hiệu/định nghĩa trong đề.
-
-### Kết luận
-**Đáp án: C.** Đặc trưng mua trực tuyến: hiệu suất, minh bạch, linh hoạt và tối ưu.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt mà không đọc kỹ câu hỏi đang hỏi phương án đúng hay phương án không đúng.
-- Nhầm khái niệm gần nhau trong cùng chương; hãy đối chiếu định nghĩa trước rồi mới loại trừ đáp án.
+**Lưu ý**: Hãy nhớ bộ 4 đặc trưng bằng logic: thông tin minh bạch hơn, quy trình hiệu suất hơn, lựa chọn linh hoạt hơn, quyết định tối ưu hơn.
 
 ---
 
 ## Ghi nhớ
 
 - Mua quốc tế là vượt biên giới; mua toàn cầu là điều phối tích hợp nhiều đơn vị trên toàn thế giới.
-- eProcurement phát huy tốt nhất với vật tư tiêu chuẩn, rủi ro thấp, tần suất mua lớn.
-- CSR trong mua không chỉ là giá thấp, mà còn pháp lý, đạo đức, môi trường và trách nhiệm cộng đồng.
+- eProcurement phát huy tốt nhất với vật tư tiêu chuẩn, rủi ro thấp, tần suất mua lớn; không phải mọi mặt hàng đều nên đưa lên online procurement.
+- CSR trong mua không chỉ là giá thấp, mà còn pháp lý, đạo đức, môi trường, lao động và trách nhiệm cộng đồng.
+- Khi mua quốc tế, phải tính TCO thực tế: thuế, hải quan, bảo hiểm, kiểm định, lưu kho, tỷ giá, rủi ro và chi phí phối hợp.
 
 ## Ví dụ thực tế
 
@@ -760,4 +415,3 @@ Một tập đoàn sản xuất đa quốc gia cần điều phối nguồn cung
 Các nền tảng thương mại điện tử cho thấy lợi ích của quy trình số: minh bạch thông tin, xử lý nhanh và dữ liệu giao dịch rõ hơn. Tuy vậy, nếu nhà cung cấp không được kiểm duyệt hoặc tiêu chuẩn sản phẩm không rõ, rủi ro chất lượng và trách nhiệm với khách hàng vẫn rất lớn.
 
 **Liên hệ với bài**: Gắn với eProcurement, sàn giao dịch điện tử và kiểm soát nguồn cung.
-
