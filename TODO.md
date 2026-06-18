@@ -10,7 +10,7 @@
 > - **KHÔNG xóa mục `pending` mà chưa làm.** Nếu không định làm nữa → mark `❌ Bỏ qua` + lý do.
 > - Cập nhật `Cập nhật lần cuối:` ở đầu file mỗi khi thay đổi.
 
-**Cập nhật lần cuối:** 2026-06-14 00:05 (Mua & QTNC Ch1-Ch6 rewrite xong)
+**Cập nhật lần cuối:** 2026-06-14 00:30 (QTCL chapter-review xong; thêm T-20260614-01 cho các môn còn lại)
 
 ---
 
@@ -62,6 +62,31 @@
 > [T-20260613-04] đã hoàn thành 2026-06-14. Xem chi tiết ở section `✅ Đã xong`.
 
 ---
+
+---
+
+## 📚 Ưu tiên TRUNG BÌNH — Thêm "Đáp án ôn tập chương" cho các môn còn lại
+
+### [T-20260614-01] Tạo file `_chapter-review.md` trả lời câu hỏi ôn tập chương trong lecture summary — các môn còn lại
+- **Trạng thái:** pending
+- **Bối cảnh:** Ngày 2026-06-14 đã tạo file mẫu cho QTCL: `subjects/Quản trị chiến lược/lectures/md/quan-tri-chien-luoc_chapter-review.md` (42 câu × 7 chương). Cần áp dụng pattern tương tự cho 7 môn còn lại — *với điều kiện* lecture summary của môn đó có sẵn các mục "Câu hỏi ôn tập chương".
+- **Pattern áp dụng:**
+  - Đặt file ở `subjects/<môn>/lectures/md/<slug>_chapter-review.md`
+  - Front-matter: `source_lecture`, `created_at`, `subject`, `doc_type: "chapter_review"`, `chapters`, `total_questions`, `language: "vi"`
+  - Cấu trúc: 1 section/chương → mỗi câu trả lời gồm định nghĩa + bảng/khung + ví dụ DN VN (không bịa số liệu)
+  - Cross-link tới lecture summary đầu file
+- **Danh sách môn cần kiểm tra & xử lý:**
+  - [ ] Quản trị marketing — kiểm tra summary có Q ôn tập không, nếu có thì làm
+  - [ ] Mua và quản trị nguồn cung
+  - [ ] Quản trị tài chính
+  - [ ] Khởi sự kinh doanh
+  - [ ] Tâm lý quản trị kinh doanh
+  - [ ] Chủ nghĩa xã hội khoa học
+  - [ ] Tiếng Anh (nếu phù hợp — môn ngôn ngữ có thể không có Q ôn tập theo chương)
+- **Lưu ý khi triển khai:**
+  - Nếu summary không có sẵn "Câu hỏi ôn tập chương" → cần xem lecture gốc hoặc bỏ qua (warn user).
+  - Bám sát bài giảng của môn đó, không kéo công thức/khái niệm từ QTCL sang.
+  - Ưu tiên DN VN trong ví dụ, không bịa số liệu doanh thu/lợi nhuận cụ thể.
 
 ---
 
