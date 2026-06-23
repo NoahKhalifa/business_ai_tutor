@@ -5,6 +5,12 @@ description: Biên dịch tài liệu PDF (bài giảng, đề bài, câu hỏi 
 
 # Skill: PDF → Markdown converter (có cache)
 
+> ⚡ **ƯU TIÊN dùng local Python CLI trước** — xem [`skills/pdf-extract-cli/SKILL.md`](../pdf-extract-cli/SKILL.md). Tool ở `tools/pdf_extract/` extract text/tables/images/math hoàn toàn local, không tốn token LLM. Skill này (`pdf-to-md`) chỉ dùng làm **fallback** khi:
+> - CLI tool báo lỗi sau 2 lần thử
+> - PDF là scan (không có text layer) — tool extract sẽ rỗng
+> - Cần phân tích sâu nội dung trong quá trình convert (vd hiệu chỉnh OCR phức tạp)
+> - Cần tạo summary cho lecture (stage cuối skill này, sau khi đã có MD đầy đủ)
+
 ## Mục tiêu
 Chuyển PDF học liệu (bài giảng, slide, đề kiểm tra, câu hỏi ôn tập) sang Markdown sạch, dễ đọc cho cả người và LLM ở các bước sau (solver, reviewer).
 
@@ -55,6 +61,16 @@ Sau front-matter là nội dung MD theo nguyên tắc:
 - Đánh số câu hỏi rõ ràng nếu là đề: `### Câu 1`, `### Câu 2`...
 
 ## Quy trình thực hiện
+
+### Bước 0: Thử CLI tool trước (token-saving)
+
+```powershell
+python -m tools.pdf_extract "<đường-dẫn-pdf>" -o "<thư-mục-md>"
+```
+
+Nếu thành công và MD output trông hợp lý → STOP. Chuyển sang Bước 5 (Verify) và optionally Bước summary (cho lecture). KHÔNG chạy các bước dưới đây.
+
+Nếu fail (exit code ≠ 0, MD rỗng, hoặc PDF là scan) → tiếp tục các bước 1-4 dưới đây (đọc bằng Claude).
 
 ### Bước 1: Inspect PDF
 - Dùng tool có sẵn (read PDF, view, hoặc bash với `pdfinfo`) để kiểm tra:

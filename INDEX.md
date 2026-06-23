@@ -3,12 +3,16 @@
 > Đọc file này nếu cần định vị nhanh trong project. ~200 token, rẻ hơn nhiều so với scan folder.
 
 ## Skills (đọc khi vào task tương ứng)
-- `skills/pdf-to-md/SKILL.md` — convert PDF, có cache, tạo summary
+- `skills/pdf-extract-cli/SKILL.md` — **ƯU TIÊN** convert PDF qua local Python CLI (token-free)
+- `skills/pdf-to-md/SKILL.md` — fallback convert PDF khi CLI fail / PDF scan; tạo summary lecture
 - `skills/audio-to-transcript/SKILL.md` — transcribe MP3 → transcript MD, có cache (chỉ môn có audio)
 - `skills/exercise-solver/SKILL.md` — giải bài 8 phần (+🎧 nếu có audio)
 - `skills/example-generator/SKILL.md` — ví dụ DN Việt Nam
 - `skills/extension-builder/SKILL.md` — bài luyện ★ ★★ ★★★
 - `skills/answer-reviewer/SKILL.md` — rubric chấm 5 tiêu chí
+
+## Local tools (không tốn token LLM)
+- `tools/pdf_extract/` — Python CLI extract PDF → MD + assets (text, tables, images, math). Component-based, có 26 unit tests. Xem [`tools/pdf_extract/README.md`](tools/pdf_extract/README.md).
 
 ## Templates & guides
 - `prompts/math-formatting.md` — quy ước công thức LaTeX

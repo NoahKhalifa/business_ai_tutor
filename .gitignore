@@ -29,3 +29,15 @@ secrets/
 
 # Copilot cache (nếu có)
 .copilot/
+
+# === Python (tools/pdf_extract) ===
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+.smoke_test/
+tools/pdf_extract/.smoke_test/
+
+# Quy ước assets/: COMMIT cùng MD (giống policy PDF qua LFS — cần reproducibility
+# khi clone trên máy khác chưa cài Python). Mỗi PDF convert tạo subjects/*/{lectures,exercises}/md/assets/
+# nhỏ (PNG nén). Nếu repo size phình quá, xét lại bằng `git lfs migrate import --include="**/assets/*.png"`.

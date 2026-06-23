@@ -377,7 +377,45 @@ function Format-StatusMd {
     return $sb.ToString()
 }
 
+# === Environment check (tools/pdf_extract dependencies) ===
+function Test-PdfExtractEnv {
+    $issues = @()
+    $pyExe = $null
+
+    # 1. Prefer user-level install (Python ≥3.10 installed via python.org installer)
+    $candidatePaths = @(
+        (Join-Path $env:LOCALAPPDATA 'Programs\Python\Python313\python.exe'),
+        (Join-Path $env:LOCALAPPDATA 'Programs\Python\Python312\python.exe'),
+        (Join-Path $env:LOCALAPPDATA 'Programs\Python\Python311\python.exe'),
+        (Join-Path $env:LOCALAPPDATA 'Programs\Python\Python310\python.exe')
+    )
+    foreach ($p in $candidatePaths) {
+        if (Test-Path $p) { $pyExe = $p; break }
+    }
+
+    # 2. Fall back to PATH — but skip Microsoft Store stub
+    if (-not $pyExe) {
+        $cmd = Get-Command python -ErrorAction SilentlyContinue
+        if ($cmd -and $cmd.Source -notmatch 'WindowsApps') {
+            $pyExe = $cmd.Source
+        }
+    }
+
+    if (-not $pyExe) {
+        $issues += "Python ≥3.10 not found (cần cho tools/pdf_extract). Cài từ https://www.python.org/downloads/windows/"
+        return $issues
+    }
+
+    $deps = & $pyExe -c "import fitz, pdfplumber" 2>&1
+    if ($LASTEXITCODE -ne 0) {
+        $issues += "Python deps missing: chạy ``& '$pyExe' -m pip install -r tools/pdf_extract/requirements.txt``"
+    }
+    return $issues
+}
+
 # === Main ===
+$envIssues = Test-PdfExtractEnv
+
 $allSubjects = @(Get-ChildItem $SubjectsDir -Directory | Where-Object { $_.Name -ne '_template' })
 if ($Subject) {
     $allSubjects = @($allSubjects | Where-Object { $_.Name -eq $Subject })
@@ -393,6 +431,15 @@ $report = New-Object System.Text.StringBuilder
 [void]$report.AppendLine("- Generated: $(Get-Date -Format 'yyyy-MM-ddTHH:mm:ssK')")
 [void]$report.AppendLine("- Subjects audited: $($allSubjects.Count)")
 [void]$report.AppendLine("")
+
+if ($envIssues.Count -gt 0) {
+    [void]$report.AppendLine("## Environment (tools/pdf_extract)")
+    foreach ($issue in $envIssues) {
+        [void]$report.AppendLine("- WARN: $issue")
+    }
+    [void]$report.AppendLine("")
+    $totalIssues += $envIssues.Count
+}
 
 foreach ($subj in $allSubjects) {
     $audit = Invoke-AuditSubject -SubjectDir $subj

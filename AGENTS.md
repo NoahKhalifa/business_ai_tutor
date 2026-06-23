@@ -12,6 +12,7 @@ Project này là **Business AI Tutor**: hệ thống học liệu AI hỗ trợ 
 1. **Trước khi bắt tay**: tra bảng [Routing theo yêu cầu](#routing-theo-yêu-cầu) → đọc skill tương ứng trong `skills/<tên>/SKILL.md`. Đừng đoán workflow.
 2. **Pipeline mặc định khi user nói "Giải đề X"**: audio→transcript *(nếu môn có audio)* → pdf→md → solver → example → extension → reviewer. Chi tiết: [Pipeline mặc định](#pipeline-mặc-định-khi-user-nói-giải-đề-x).
 3. **Cache-first**: nếu PDF/audio đã có MD/transcript và `source_hash` khớp thì SKIP, trừ khi user yêu cầu force.
+3b. **Convert PDF**: ƯU TIÊN dùng local Python CLI `python -m tools.pdf_extract <pdf>` (không tốn token) — xem [`skills/pdf-extract-cli/SKILL.md`](skills/pdf-extract-cli/SKILL.md). Chỉ fallback Claude đọc trực tiếp khi tool fail / PDF scan / cần phân tích sâu nội dung.
 4. **Tiếng Việt** là ngôn ngữ chính. Công thức toán dùng LaTeX (`$...$` / `$$...$$`).
 5. **Front-matter YAML bắt buộc** ở đầu mọi MD sinh ra (format trong skill tương ứng).
 6. **Không bịa** số liệu doanh nghiệp Việt Nam (doanh thu, lợi nhuận cụ thể). Chỉ dùng thông tin công khai.
@@ -37,7 +38,7 @@ Project này là **Business AI Tutor**: hệ thống học liệu AI hỗ trợ 
 
 | User yêu cầu | File cần đọc |
 |---|---|
-| Convert PDF, đọc PDF, biên dịch slide/de bài | `skills/pdf-to-md/SKILL.md` |
+| Convert PDF, đọc PDF, biên dịch slide/de bài | `skills/pdf-extract-cli/SKILL.md` (tool local, ưu tiên) → `skills/pdf-to-md/SKILL.md` (fallback) |
 | Transcribe audio, MP3, bài nghe | `skills/audio-to-transcript/SKILL.md` |
 | Giải bài tập, hướng dẫn giải, phân tích case | `skills/exercise-solver/SKILL.md` |
 | Thêm ví dụ thực tế, doanh nghiệp Việt Nam | `skills/example-generator/SKILL.md` |
@@ -79,8 +80,15 @@ business_ai_tutor/
 │   └── reviewer_checklist.md
 ├── scripts/
 │   └── check-project.ps1              # ← audit project, sinh STATUS.md
+├── tools/
+│   └── pdf_extract/                   # ← Python CLI convert PDF→MD (token-free)
+│       ├── extractors/ {text,tables,images,math}
+│       ├── utils/ {hash, frontmatter, confusables}
+│       ├── tests/                     # 26 unit + CLI tests
+│       └── README.md
 ├── skills/
-│   ├── pdf-to-md/SKILL.md
+│   ├── pdf-extract-cli/SKILL.md       # ← wrapper invoke tools/pdf_extract
+│   ├── pdf-to-md/SKILL.md             # ← fallback khi tool fail / PDF scan
 │   ├── audio-to-transcript/SKILL.md
 │   ├── exercise-solver/SKILL.md
 │   ├── example-generator/SKILL.md
