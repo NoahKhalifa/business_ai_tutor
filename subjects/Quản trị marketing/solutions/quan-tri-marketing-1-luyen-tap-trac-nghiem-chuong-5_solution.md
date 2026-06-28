@@ -1,878 +1,706 @@
-﻿---
+---
 exercise_file: "Quản trị marketing 1_Luyện tập trắc nghiệm Chương 5.md"
-solved_at: "2026-06-11T22:45:00+07:00"
+solved_at: "2026-06-27T01:25:00Z"
 status: "draft"
-review_round: 1
+review_round: 2
 total_questions: 35
 examples_added: true
-ocr_uncertain: true
+ocr_uncertain: false
+pdf_reverified: true
 extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuong-5_extended.md"
 ---
 
 # Lời giải: Quản trị marketing 1 - Luyện tập trắc nghiệm Chương 5
 
-> Dẫn chiếu bài giảng: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-> Ghi chú: đề được OCR từ PDF ảnh, một số dấu tiếng Việt trong đề gốc bị suy giảm; lời giải đã chuẩn hóa lại theo nội dung đọc được và bài giảng.
+> Dẫn chiếu bài giảng: `subjects/Quản trị marketing/lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md`. Đề Ch5 đã được đối chiếu lại với PDF gốc bằng `tools.pdf_extract` ngày 2026-06-27; Q3, Q4, Q15, Q16, Q23, Q24 và Q30 là các câu cần lưu ý vì solution cũ/OCR cũ có nội dung dễ gây nhầm.
 
 ## Bảng đáp án nhanh
 
-| Câu | Đáp án | Giải thích ngắn |
+| Câu | Đáp án | Căn cứ nhanh |
 |---:|:---:|---|
-| 1 | C | Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 2 | A | Đáp án A đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 3 | B | Giai đoạn phát triển (growth) cần đẩy mạnh truyền thông giữ thị phần khi đối thủ vào; A/C là chiến lược suy thoái, D là niche/harvest. |
-| 4 | D | Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 5 | D | Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 6 | C | Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 7 | D | Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 8 | C | Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 9 | A | Đáp án A đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 10 | D | Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 11 | A | Đáp án A đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 12 | A | Đáp án A đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 13 | A | Đáp án A đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 14 | B | Đáp án B đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 15 | C | Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 16 | D | Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 17 | A | Đáp án A đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 18 | D | Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 19 | C | Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 20 | B | Đáp án B đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 21 | D | Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 22 | C | Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 23 | B | Đáp án B đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 24 | D | Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 25 | B | Đáp án B đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 26 | B | Đáp án B đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 27 | A | Đáp án A đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 28 | B | Đáp án B đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 29 | C | Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 30 | C | Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 31 | C | Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 32 | B | Đáp án B đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 33 | C | Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 34 | B | Đáp án B đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
-| 35 | C | Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi. |
+| 1 | C | PLC growth; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3752-3769. |
+| 2 | A | định vị và khác biệt hóa; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3505-3516. |
+| 3 | C | giai đoạn phát triển của PLC; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3760-3770. |
+| 4 | D | giai đoạn suy thoái của PLC; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3802-3824. |
+| 5 | D | phân đoạn B2C; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3191-3215. |
+| 6 | B | phát triển chiến lược marketing; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3077-3098. |
+| 7 | D | mô thức BCG; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 395 và kiến thức BCG chuẩn. |
+| 8 | C | lựa chọn phân đoạn; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3101-3109. |
+| 9 | A | Ries & Trout; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3461-3468. |
+| 10 | D | kế hoạch chiến lược; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 4091-4102. |
+| 11 | A | thị trường mục tiêu; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3300-3304. |
+| 12 | A | kế hoạch chiến lược; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 4100-4115. |
+| 13 | A | dị biệt hóa kênh; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3545-3549. |
+| 14 | B | marketing phân đoạn; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3121-3129. |
+| 15 | A | tiến hóa thị trường; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3861-3865. |
+| 16 | D | mục tiêu giới thiệu và công cụ marketing; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3708-3713 và 3768-3770. |
+| 17 | B | marketing chiến lược; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3045-3048. |
+| 18 | D | yêu cầu phân đoạn hiệu quả; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3276-3279. |
+| 19 | C | định vị; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3441-3450. |
+| 20 | B | đánh giá phân đoạn; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3305-3334. |
+| 21 | D | marketing quốc tế thích ứng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3921-3935. |
+| 22 | C | cấu trúc chiến lược marketing; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3028-3035. |
+| 23 | B | mục tiêu và nguồn lực; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3330-3342. |
+| 24 | D | giai đoạn giới thiệu; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3702-3713. |
+| 25 | B | xâm nhập chớp nhoáng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3730-3734. |
+| 26 | B | chiến lược marketing; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3022-3037. |
+| 27 | A | quy mô phân đoạn; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3308-3316. |
+| 28 | B | phân đoạn B2B theo định hướng mua; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3216-3246. |
+| 29 | C | triển khai/thực thi; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3040-3044 và 3064-3066. |
+| 30 | C | loại bỏ trong suy thoái; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3820-3824. |
+| 31 | C | marketing ngách; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3141-3147. |
+| 32 | B | tập trung một phân đoạn; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3350-3367. |
+| 33 | C | đánh giá phân đoạn; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3305-3308. |
+| 34 | B | bão hòa; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3771-3801. |
+| 35 | C | xác định chiến lược; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 4127-4129. |
 
 ---
 
 ## Lời giải chi tiết
 
-## Câu 1: Thoät sao vi#c näng cao chät Iwpng sån phäm trong giai doqn phåt trién Iä mét chién ILI'Q'...
+### Câu 1: Tại sao việc nâng cao chất lượng sản phẩm trong giai đoạn phát triển lại là một chiến lược
+**Đáp án: C** — căn cứ: PLC growth, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3752-3769.
 
-### Đề bài
-> Thoät sao vi#c näng cao chät Iwpng sån phäm trong giai doqn phåt trién Iä mét chién ILI'Q'C quan trpng? O A. Dé giåm chi phi sån xuät trén m6i don vi sån phåm O B. Vi thi truöng dä dat moc bäo höa vä cän cåi tién dé kéo däi vöng döi O C. Dé d6i phö vöi sv gia nhäp cüa cåc döi thü canh tranh O D. Dé täng giå bån sån phåm nhåm t6i da höa Ipi nhuän
+**Đề:** Tại sao việc nâng cao chất lượng sản phẩm trong giai đoạn phát triển lại là một chiến lược quan trọng?
+- **A.** Để giảm chi phí sản xuất trên mỗi đơn vị sản phẩm
+- **B.** Vì thị trường đã đạt mức bão hòa và cần cải tiến để kéo dài vòng đời
+- **C.** Để đối phó với sự gia nhập của các đối thủ cạnh tranh
+- **D.** Để tăng giá bán sản phẩm nhằm tối đa hóa lợi nhuận
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Để giảm chi phí sản xuất trên mỗi đơn vị sản phẩm — **Sai.** Nhiễu: Để giảm chi phí sản.
+- **B.** Vì thị trường đã đạt mức bão hòa và cần cải tiến để kéo dài vòng đời — **Sai.** Nhiễu: Vì thị trường đã đạt.
+- **C.** Để đối phó với sự gia nhập của các đối thủ cạnh tranh — **Đúng** vì khớp trực tiếp với PLC growth; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3752-3769.
+- **D.** Để tăng giá bán sản phẩm nhằm tối đa hóa lợi nhuận — **Sai.** Nhiễu: Để tăng giá bán sản.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 2: Dinh vi thänh cöng trong marketing khöng chi Iä xäy dvng vä truyén cåc giå tri déc trwng c...
+### Câu 2: Định vị thành công trong marketing không chỉ là xây dựng và truyền đạt các giá trị đặc trư
+**Đáp án: A** — căn cứ: định vị và khác biệt hóa, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3505-3516.
 
-### Đề bài
-> Dinh vi thänh cöng trong marketing khöng chi Iä xäy dvng vä truyén cåc giå tri déc trwng cüa thwong hi#u mä cön cän phåi Iäm gi thém? O A. Tao ra sw' khåc biét rö ret giCpa thuong hiéu cüa ban vå cåc döi thü canh tranh. O B. Täp trung våo viéc giåm chi sån phåm xuöng moc t6i thiéu. O C. Xåc dinh mét thi truöng muc tiéu rong lön. O D. Cung cäp tåt cå cåc sån phåm vä dich vu ö mü'C giå thåp.
+**Đề:** Định vị thành công trong marketing không chỉ là xây dựng và truyền đạt các giá trị đặc trưng của thương hiệu mà còn cần phải làm gì thêm?
+- **A.** Tạo ra sự khác biệt rõ rệt giữa thương hiệu của bạn và các đối thủ cạnh tranh
+- **B.** Tập trung vào việc giảm chi phí sản phẩm xuống mức tối thiểu
+- **C.** Xác định một thị trường mục tiêu rộng lớn
+- **D.** Cung cấp tất cả các sản phẩm và dịch vụ ở mức giá thấp
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Tạo ra sự khác biệt rõ rệt giữa thương hiệu của bạn và các đối thủ cạnh tranh — **Đúng** vì khớp trực tiếp với định vị và khác biệt hóa; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3505-3516.
+- **B.** Tập trung vào việc giảm chi phí sản phẩm xuống mức tối thiểu — **Sai.** Nhiễu: Tập trung vào việc giảm.
+- **C.** Xác định một thị trường mục tiêu rộng lớn — **Sai.** Nhiễu: Xác định một thị trường.
+- **D.** Cung cấp tất cả các sản phẩm và dịch vụ ở mức giá thấp — **Sai.** Nhiễu: Cung cấp tất cả các.
 
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 3: Trong giai đoạn phát triển, doanh nghiệp thường:
+### Câu 3: Trong giai đoạn phát triển, doanh nghiệp thường:
+**Đáp án: C** — căn cứ: giai đoạn phát triển của PLC, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3760-3770.
 
-### Đề bài
-> Trong giai đoạn phát triển, doanh nghiệp thường:
-> - A. Chấm dứt hoàn toàn sản phẩm và tập trung vào sản phẩm kế nhiệm
-> - B. Tăng cường quảng cáo để duy trì nhận diện thương hiệu
-> - C. Giảm giá sâu để xả hàng tồn kho nhanh chóng
-> - D. Chuyển hướng bán hàng cho các doanh nghiệp nhỏ hoặc tổ chức giáo dục cần sản phẩm giá rẻ
+**Đề:** Trong giai đoạn phát triển, doanh nghiệp thường:
+- **A.** Sản xuất các hàng hoá có mẫu mã lỗi mốt
+- **B.** Không quan tâm nhiều đến cạnh tranh
+- **C.** Sử dụng chiến lược marketing để kéo dài mức tăng trưởng nhanh của thị trường càng lâu càng tốt
+- **D.** Định giá sản phẩm cao hơn để khẳng định vị thế
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md` mục 5.4.2 (giai đoạn phát triển).
+**Phân tích từng phương án:**
+- **A.** Sản xuất các hàng hoá có mẫu mã lỗi mốt — **Sai.** Nhiễu: Sản xuất các hàng hoá.
+- **B.** Không quan tâm nhiều đến cạnh tranh — **Sai.** Nhiễu: Không quan tâm nhiều đến.
+- **C.** Sử dụng chiến lược marketing để kéo dài mức tăng trưởng nhanh của thị trường càng lâu càng tốt — **Đúng** vì khớp trực tiếp với giai đoạn phát triển của PLC; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3760-3770.
+- **D.** Định giá sản phẩm cao hơn để khẳng định vị thế — **Sai.** Nhiễu: Định giá sản phẩm cao.
 
-### Lời giải chi tiết
-Đề bài hỏi chiến lược của **giai đoạn phát triển (growth)** trong chu kỳ sống sản phẩm. Bài giảng (`TXMAGM0411_QTMKT1_Baigiangtext.md`, dòng 3741–3770) nêu mục tiêu growth stage là *tối đa hóa thị phần*; đặc trưng là đối thủ cạnh tranh mới gia nhập; các chiến lược gợi ý gồm nâng cao chất lượng, bổ sung mẫu mã, mở rộng phân phối, **chuyển từ quảng cáo mức độ biết đến sang mức độ yêu thích** và giảm giá nhẹ để thu hút khách nhạy cảm.
 
-- A sai vì "Chấm dứt hoàn toàn sản phẩm, tập trung sản phẩm kế nhiệm" là chiến lược **suy thoái** (divest/withdraw). Growth stage còn đang tăng trưởng mạnh, không có lý do chấm dứt sản phẩm.
-- **B đúng** vì "Tăng cường quảng cáo để duy trì nhận diện thương hiệu" khớp wording bài giảng về chiến lược truyền thông growth stage: khi đối thủ cạnh tranh mới gia nhập, doanh nghiệp phải đẩy mạnh quảng cáo để giữ và mở rộng thị phần, đồng thời xây dựng/duy trì nhận diện thương hiệu trước khách hàng mới.
-- C sai vì "Giảm giá sâu để xả hàng tồn kho" là đặc trưng giai đoạn **suy thoái** (decline/harvest) — đây là hành động xả lô cuối, không phù hợp với giai đoạn doanh số đang tăng nhanh. Lưu ý growth stage cũng có thể giảm giá nhưng chỉ giảm nhẹ, không phải "giảm sâu để xả hàng tồn".
-- D sai vì "Chuyển bán cho DN nhỏ/giáo dục giá rẻ" là chiến lược **niche/harvest** ở cuối maturity hoặc đầu decline; growth stage cần mở rộng phạm vi thị trường, không thu hẹp về phân khúc ngách giá rẻ.
-
-### Kết luận
-**Đáp án: B.** Tăng cường quảng cáo duy trì/mở rộng nhận diện thương hiệu — chiến lược marketing tiêu biểu của giai đoạn phát triển khi đối thủ cạnh tranh mới gia nhập.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 4: Câu 4 trong đề OCR bị ghép với trang/câu lân cận; xem file đề MD/PDF gốc để đối chiếu nguy...
+### Câu 4: Công ty X kinh doanh máy tính xách tay. Một sản phẩm chủ lực, "Laptop Pro 15", đã ở giai đ
+**Đáp án: D** — căn cứ: giai đoạn suy thoái của PLC, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3802-3824.
 
-### Đề bài
-> Câu 4 trong đề OCR bị ghép với trang/câu lân cận; xem file đề MD/PDF gốc để đối chiếu nguyên văn.
+**Đề:** Công ty X kinh doanh máy tính xách tay. Một sản phẩm chủ lực, "Laptop Pro 15", đã ở giai đoạn suy thoái; doanh số giảm vì sản phẩm mới của đối thủ cấu hình cao hơn, giá thấp hơn. Nếu là nhà quản lý sản phẩm, bạn sẽ áp dụng chiến lược nào để tối đa hóa giá trị từ "Laptop Pro 15"?
+- **A.** Chấm dứt hoàn toàn sản phẩm và tập trung vào sản phẩm kế nhiệm
+- **B.** Tăng cường quảng cáo để duy trì nhận diện thương hiệu
+- **C.** Giảm giá sâu để xả hàng tồn kho nhanh chóng
+- **D.** Chuyển hướng bán hàng cho các doanh nghiệp nhỏ hoặc tổ chức giáo dục cần sản phẩm giá rẻ
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Chấm dứt hoàn toàn sản phẩm và tập trung vào sản phẩm kế nhiệm — **Sai.** Nhiễu: Chấm dứt hoàn toàn sản.
+- **B.** Tăng cường quảng cáo để duy trì nhận diện thương hiệu — **Sai.** Nhiễu: Tăng cường quảng cáo để.
+- **C.** Giảm giá sâu để xả hàng tồn kho nhanh chóng — **Sai.** Nhiễu: Giảm giá sâu để xả.
+- **D.** Chuyển hướng bán hàng cho các doanh nghiệp nhỏ hoặc tổ chức giáo dục cần sản phẩm giá rẻ — **Đúng** vì khớp trực tiếp với giai đoạn suy thoái của PLC; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3802-3824.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
 
-### Kết luận
-**Đáp án: D.** Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 5: Däu Iä mét trong nhü'ng yéu tö quan trpng dé phän doen thi tru'öng B2C hi#n nay? O A. Khön...
+### Câu 5: Đâu là một trong những yếu tố quan trọng để phân đoạn thị trường B2C hiện nay?
+**Đáp án: D** — căn cứ: phân đoạn B2C, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3191-3215.
 
-### Đề bài
-> Däu Iä mét trong nhü'ng yéu tö quan trpng dé phän doen thi tru'öng B2C hi#n nay? O A. Khöng cän thay dbi theo xu huöng tiéu düng O B. Phän doan chi dva trén dia IY vä nhän khåu hoc O C. Chi sü' dung mét yéu t6 phän doen duy nhåt O D. SW' thay dbi trong hänh vi vå tam IY cüa cåc thé hé, tång löp xä höi n
+**Đề:** Đâu là một trong những yếu tố quan trọng để phân đoạn thị trường B2C hiện nay?
+- **A.** Không cần thay đổi theo xu hướng tiêu dùng
+- **B.** Phân đoạn chỉ dựa trên địa lý và nhân khẩu học
+- **C.** Chỉ sử dụng một yếu tố phân đoạn duy nhất
+- **D.** Sự thay đổi trong hành vi và tâm lý của các thế hệ, tầng lớp xã hội
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Không cần thay đổi theo xu hướng tiêu dùng — **Sai.** Nhiễu: Không cần thay đổi theo.
+- **B.** Phân đoạn chỉ dựa trên địa lý và nhân khẩu học — **Sai.** Nhiễu: Phân đoạn chỉ dựa trên.
+- **C.** Chỉ sử dụng một yếu tố phân đoạn duy nhất — **Sai.** Nhiễu: Chỉ sử dụng một yếu.
+- **D.** Sự thay đổi trong hành vi và tâm lý của các thế hệ, tầng lớp xã hội — **Đúng** vì khớp trực tiếp với phân đoạn B2C; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3191-3215.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-
-### Kết luận
-**Đáp án: D.** Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 6: Dién väo trong khåi ni#m sau: "... Iä quå trinh trién khai cåc cöng cu, néi dung vä tåi Câ...
+### Câu 6: Điền vào “…”: “… là quá trình triển khai các công cụ, nội dung và tái cấu trúc chiến lược 
+**Đáp án: B** — căn cứ: phát triển chiến lược marketing, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3077-3098.
 
-### Đề bài
-> Dién väo trong khåi ni#m sau: "... Iä quå trinh trién khai cåc cöng cu, néi dung vä tåi Câu trüc chién ILPQ'C marketing du'Q'C hoqch dinh Chung cho Céc nh6m SBUs cüa Céc doanh nghi#p thuéc cing ngänh kinh doanh, xåc dinh dé löp cåc can bäng vä thich nghi nhäm näng cao hi#u suät thvc hi#n sü' mqng vä muc tiéu chién ILI'Q'C marketing dä du'Q'C xåc löp trong möi tru'öng marketing cüa doanh nghi#p thu'öng xuyén thay döi vä cé tinh dét bién chién lwec" O A. Hoech dinh chién luqc marketing O B. Phåt trién chién luqc marketing O C. Quån tri chién Iuqc marketing O D. Xäy dung chién Iuqc marketing
+**Đề:** Điền vào “…”: “… là quá trình triển khai các công cụ, nội dung và tái cấu trúc chiến lược marketing được hoạch định chung cho các nhóm SBUs... nhằm nâng cao hiệu suất thực hiện sứ mạng và mục tiêu chiến lược marketing...”
+- **A.** Hoạch định chiến lược marketing
+- **B.** Phát triển chiến lược marketing
+- **C.** Quản trị chiến lược marketing
+- **D.** Xây dựng chiến lược marketing
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Hoạch định chiến lược marketing — **Sai.** Nhiễu: Hoạch định chiến lược marketing.
+- **B.** Phát triển chiến lược marketing — **Đúng** vì khớp trực tiếp với phát triển chiến lược marketing; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3077-3098.
+- **C.** Quản trị chiến lược marketing — **Sai.** Nhiễu: Quản trị chiến lược marketing.
+- **D.** Xây dựng chiến lược marketing — **Sai.** Nhiễu: Xây dựng chiến lược marketing.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 7: Mö thü'C BCG dé phän tich hö so kinh doanh duvc xäy dvng dva trén hai yéu tö näo? O A. Khå...
+### Câu 7: Mô thức BCG để phân tích hồ sơ kinh doanh được xây dựng dựa trên hai yếu tố nào?
+**Đáp án: D** — căn cứ: mô thức BCG, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 395 và kiến thức BCG chuẩn.
 
-### Đề bài
-> Mö thü'C BCG dé phän tich hö so kinh doanh duvc xäy dvng dva trén hai yéu tö näo? O A. Khå näng canh tranh vå sv håp dän cüa thi truöng O B. Thi phån tuong d6i vä Ipi nhuän O C. Töc dé täng truöng thi truöng vå sü'C manh cüa doanh nghiép O D. T6c dé täng truöng thi truöng vä thi phån tuong d6i n
+**Đề:** Mô thức BCG để phân tích hồ sơ kinh doanh được xây dựng dựa trên hai yếu tố nào?
+- **A.** Khả năng cạnh tranh và sự hấp dẫn của thị trường
+- **B.** Thị phần tương đối và lợi nhuận
+- **C.** Tốc độ tăng trưởng thị trường và sức mạnh của doanh nghiệp
+- **D.** Tốc độ tăng trưởng thị trường và thị phần tương đối
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Khả năng cạnh tranh và sự hấp dẫn của thị trường — **Sai.** Nhiễu: Khả năng cạnh tranh và.
+- **B.** Thị phần tương đối và lợi nhuận — **Sai.** Nhiễu: Thị phần tương đối và.
+- **C.** Tốc độ tăng trưởng thị trường và sức mạnh của doanh nghiệp — **Sai.** Nhiễu: Tốc độ tăng trưởng thị.
+- **D.** Tốc độ tăng trưởng thị trường và thị phần tương đối — **Đúng** vì khớp trực tiếp với mô thức BCG; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 395 và kiến thức BCG chuẩn.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-
-### Kết luận
-**Đáp án: D.** Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 8: Doanh nghi#p cän phåt hi#n nhü'ng doqn thi tru'öng näo dé phyc vv hi#u quå? O A. Nhüng khå...
+### Câu 8: Doanh nghiệp cần phát hiện những đoạn thị trường nào để phục vụ hiệu quả?
+**Đáp án: C** — căn cứ: lựa chọn phân đoạn, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3101-3109.
 
-### Đề bài
-> Doanh nghi#p cän phåt hi#n nhü'ng doqn thi tru'öng näo dé phyc vv hi#u quå? O A. Nhüng khåch hång dé phuc vv nhåt O B. Tåt cå cåc doen thi truöng hién cö C. Nhüng doen thi truöng håp dän nhåt, phü hep vöi näng luc vä muc tiéu cüa doanh nghi$p O D. Tåt cå cåc khåch hång trén thi truöng rong lön Q
+**Đề:** Doanh nghiệp cần phát hiện những đoạn thị trường nào để phục vụ hiệu quả?
+- **A.** Những khách hàng dễ phục vụ nhất
+- **B.** Tất cả các đoạn thị trường hiện có
+- **C.** Những đoạn thị trường hấp dẫn nhất, phù hợp với năng lực và mục tiêu của doanh nghiệp
+- **D.** Tất cả các khách hàng trên thị trường rộng lớn
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Những khách hàng dễ phục vụ nhất — **Sai.** Nhiễu: Những khách hàng dễ phục.
+- **B.** Tất cả các đoạn thị trường hiện có — **Sai.** Nhiễu: Tất cả các đoạn thị.
+- **C.** Những đoạn thị trường hấp dẫn nhất, phù hợp với năng lực và mục tiêu của doanh nghiệp — **Đúng** vì khớp trực tiếp với lựa chọn phân đoạn; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3101-3109.
+- **D.** Tất cả các khách hàng trên thị trường rộng lớn — **Sai.** Nhiễu: Tất cả các khách hàng.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 9: Theo Ries & Trout, doanh nghi#p dinh vi bäng cåch näo sau däy: O A. Sån phåm vä dich vu du...
+### Câu 9: Theo Ries & Trout, doanh nghiệp định vị bằng cách nào sau đây?
+**Đáp án: A** — căn cứ: Ries & Trout, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3461-3468.
 
-### Đề bài
-> Theo Ries & Trout, doanh nghi#p dinh vi bäng cåch näo sau däy: O A. Sån phåm vä dich vu duec dinh vi trong tam tri khåch häng muc tiéu O B. Doanh nghiép vän hånh tuyét håo O C. Doanh nghiép thän thién vöi khåch hång O D. Doanh nghiép länh dao vé sån phåm n
+**Đề:** Theo Ries & Trout, doanh nghiệp định vị bằng cách nào sau đây?
+- **A.** Sản phẩm và dịch vụ được định vị trong tâm trí khách hàng mục tiêu
+- **B.** Doanh nghiệp vận hành tuyệt hảo
+- **C.** Doanh nghiệp thân thiện với khách hàng
+- **D.** Doanh nghiệp lãnh đạo về sản phẩm
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Sản phẩm và dịch vụ được định vị trong tâm trí khách hàng mục tiêu — **Đúng** vì khớp trực tiếp với Ries & Trout; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3461-3468.
+- **B.** Doanh nghiệp vận hành tuyệt hảo — **Sai.** Nhiễu: Doanh nghiệp vận hành tuyệt.
+- **C.** Doanh nghiệp thân thiện với khách hàng — **Sai.** Nhiễu: Doanh nghiệp thân thiện với.
+- **D.** Doanh nghiệp lãnh đạo về sản phẩm — **Sai.** Nhiễu: Doanh nghiệp lãnh đạo về.
 
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 10: HO?t déng näo sau däy KHÖNG Iä mét bu'Öc trong quå trinh hoqch dinh chién Iwpc: O A. Hoech...
+### Câu 10: Hoạt động nào sau đây KHÔNG là một bước trong quá trình hoạch định chiến lược?
+**Đáp án: D** — căn cứ: kế hoạch chiến lược, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 4091-4102.
 
-### Đề bài
-> HO?t déng näo sau däy KHÖNG Iä mét bu'Öc trong quå trinh hoqch dinh chién Iwpc: O A. Hoech dinh chién luqc marketing vå cåc chién lupc chi-Tc näng khåc O B. Xåc läp muc tiéu cüa doanh nghiép O C. Thiét ké danh muc däu tu kinh doanh O D. Hep tåc vöi cåc nhä cung cäp trén nhiéu phuong dién
+**Đề:** Hoạt động nào sau đây KHÔNG là một bước trong quá trình hoạch định chiến lược?
+- **A.** Hoạch định chiến lược marketing và các chiến lược chức năng khác
+- **B.** Xác lập mục tiêu của doanh nghiệp
+- **C.** Thiết kế danh mục đầu tư kinh doanh
+- **D.** Hợp tác với các nhà cung cấp trên nhiều phương diện
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Hoạch định chiến lược marketing và các chiến lược chức năng khác — **Sai.** Nhiễu: Hoạch định chiến lược marketing.
+- **B.** Xác lập mục tiêu của doanh nghiệp — **Sai.** Nhiễu: Xác lập mục tiêu của.
+- **C.** Thiết kế danh mục đầu tư kinh doanh — **Sai.** Nhiễu: Thiết kế danh mục đầu.
+- **D.** Hợp tác với các nhà cung cấp trên nhiều phương diện — **Đúng** vì khớp trực tiếp với kế hoạch chiến lược; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 4091-4102.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-
-### Kết luận
-**Đáp án: D.** Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 11: Dién väo trong khåi ni#m sau: ... Iä thi tru'öng bao göm cåc khåch häng cé cing nhu Câu ho...
+### Câu 11: Điền vào “…”: “… là thị trường bao gồm các khách hàng có cùng nhu cầu hoặc mong muốn mà do
+**Đáp án: A** — căn cứ: thị trường mục tiêu, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3300-3304.
 
-### Đề bài
-> Dién väo trong khåi ni#m sau: ... Iä thi tru'öng bao göm cåc khåch häng cé cing nhu Câu hoäc mong muön mä doanh nghi#p cé khå näng dép L'png; döng thö'i cé thé ra wu thé hon so döi thü cenh tranh vä du'Q'C cåc muc tiéu marketing dä dinh" O A. Thi truöng muc tiéu O B. Thi truöng tbng thé O C. Phän doen thi truöng O D. Thi truöng ngåch
+**Đề:** Điền vào “…”: “… là thị trường bao gồm các khách hàng có cùng nhu cầu hoặc mong muốn mà doanh nghiệp có khả năng đáp ứng; đồng thời có thể tạo ra ưu thế hơn so với đối thủ cạnh tranh và đạt được các mục tiêu marketing đã định”.
+- **A.** Thị trường mục tiêu
+- **B.** Thị trường tổng thể
+- **C.** Phân đoạn thị trường
+- **D.** Thị trường ngách
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Thị trường mục tiêu — **Đúng** vì khớp trực tiếp với thị trường mục tiêu; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3300-3304.
+- **B.** Thị trường tổng thể — **Sai.** Nhiễu: Thị trường tổng thể.
+- **C.** Phân đoạn thị trường — **Sai.** Nhiễu: Phân đoạn thị trường.
+- **D.** Thị trường ngách — **Sai.** Nhiễu: Thị trường ngách.
 
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 12: Vi#c däu tién khi löp ké hoqch chién ILI'Q'C mä doanh nghi#p cän Iäm dé Iä: O A. Xåc dinh...
+### Câu 12: Việc đầu tiên khi lập kế hoạch chiến lược mà doanh nghiệp cần làm là:
+**Đáp án: A** — căn cứ: kế hoạch chiến lược, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 4100-4115.
 
-### Đề bài
-> Vi#c däu tién khi löp ké hoqch chién ILI'Q'C mä doanh nghi#p cän Iäm dé Iä: O A. Xåc dinh sü' mang kinh doanh O B. Xåc dinh muc tiéu O C. Phän tich hö so kinh doanh O D. Lua chon cåc chién luoc canh tranh
+**Đề:** Việc đầu tiên khi lập kế hoạch chiến lược mà doanh nghiệp cần làm là:
+- **A.** Xác định sứ mạng kinh doanh
+- **B.** Xác định mục tiêu
+- **C.** Phân tích hồ sơ kinh doanh
+- **D.** Lựa chọn các chiến lược cạnh tranh
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Xác định sứ mạng kinh doanh — **Đúng** vì khớp trực tiếp với kế hoạch chiến lược; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 4100-4115.
+- **B.** Xác định mục tiêu — **Sai.** Nhiễu: Xác định mục tiêu.
+- **C.** Phân tích hồ sơ kinh doanh — **Sai.** Nhiễu: Phân tích hồ sơ kinh.
+- **D.** Lựa chọn các chiến lược cạnh tranh — **Sai.** Nhiễu: Lựa chọn các chiến lược.
 
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 13: Khi ép dung chién ILPQ'C di bi#t höa kénh phän phöi, doanh nghi#p näo dwöi däy cé thé gäp...
+### Câu 13: Khi áp dụng chiến lược dị biệt hóa kênh phân phối, doanh nghiệp nào có thể gặp thách thức 
+**Đáp án: A** — căn cứ: dị biệt hóa kênh, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3545-3549.
 
-### Đề bài
-> Khi ép dung chién ILPQ'C di bi#t höa kénh phän phöi, doanh nghi#p näo dwöi däy cé thé gäp phåi thåch thü'C nhät trong vi#c duy tri Ipi thé cqnh tranh? O O O O A. Doanh nghiép åp dung hé th6ng phän ph6i da kénh, bao göm cå truc tuyén vå ngoqi tuyén B. Doanh nghiép phän phöi sån phåm Chü yéu qua cåc kénh bån lé truc tiép vöi cåc cü'a hång chi nhånh C. Doanh nghiép sü' dung kénh phän ph6i truyén th6ng nhung duy tri chinh såch giå råt linh hoat D. Doanh nghiép chi tap trung våo mét kénh phän phöi duy nhåt, nhung phåt trién säu rong kénh dö
+**Đề:** Khi áp dụng chiến lược dị biệt hóa kênh phân phối, doanh nghiệp nào có thể gặp thách thức lớn nhất trong việc duy trì lợi thế cạnh tranh?
+- **A.** Doanh nghiệp áp dụng hệ thống phân phối đa kênh, bao gồm cả trực tuyến và ngoại tuyến
+- **B.** Doanh nghiệp phân phối sản phẩm chủ yếu qua các kênh bán lẻ trực tiếp với các cửa hàng chi nhánh
+- **C.** Doanh nghiệp sử dụng kênh phân phối truyền thống nhưng duy trì chính sách giá rất linh hoạt
+- **D.** Doanh nghiệp chỉ tập trung vào một kênh phân phối duy nhất, nhưng phát triển sâu rộng kênh đó
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Doanh nghiệp áp dụng hệ thống phân phối đa kênh, bao gồm cả trực tuyến và ngoại tuyến — **Đúng** vì khớp trực tiếp với dị biệt hóa kênh; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3545-3549.
+- **B.** Doanh nghiệp phân phối sản phẩm chủ yếu qua các kênh bán lẻ trực tiếp với các cửa hàng chi nhánh — **Sai.** Nhiễu: Doanh nghiệp phân phối sản.
+- **C.** Doanh nghiệp sử dụng kênh phân phối truyền thống nhưng duy trì chính sách giá rất linh hoạt — **Sai.** Nhiễu: Doanh nghiệp sử dụng kênh.
+- **D.** Doanh nghiệp chỉ tập trung vào một kênh phân phối duy nhất, nhưng phát triển sâu rộng kênh đó — **Sai.** Nhiễu: Doanh nghiệp chỉ tập trung.
 
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 14: Marketing phän doqn (segment marketing) xåc dinh nhöm khåch häng dva trén yéu tö O A. SW t...
+### Câu 14: Marketing phân đoạn xác định nhóm khách hàng dựa trên yếu tố nào?
+**Đáp án: B** — căn cứ: marketing phân đoạn, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3121-3129.
 
-### Đề bài
-> Marketing phän doqn (segment marketing) xåc dinh nhöm khåch häng dva trén yéu tö O A. SW thay dbi lién tuc cüa thi hiéu O B. Mong muön, soc mua, vi tri dia ly, thåi dé vä thöi quen mua hång giöng nhau O C. Sån phåm vä thöng diép truyén thöng khåc biét O D. Giå cå sån phåm n
+**Đề:** Marketing phân đoạn xác định nhóm khách hàng dựa trên yếu tố nào?
+- **A.** Sự thay đổi liên tục của thị hiếu
+- **B.** Mong muốn, sức mua, vị trí địa lý, thái độ và thói quen mua hàng giống nhau
+- **C.** Sản phẩm và thông điệp truyền thông khác biệt
+- **D.** Giá cả sản phẩm
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Sự thay đổi liên tục của thị hiếu — **Sai.** Nhiễu: Sự thay đổi liên tục.
+- **B.** Mong muốn, sức mua, vị trí địa lý, thái độ và thói quen mua hàng giống nhau — **Đúng** vì khớp trực tiếp với marketing phân đoạn; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3121-3129.
+- **C.** Sản phẩm và thông điệp truyền thông khác biệt — **Sai.** Nhiễu: Sản phẩm và thông điệp.
+- **D.** Giá cả sản phẩm — **Sai.** Nhiễu: Giá cả sản phẩm.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 15: Trong mö hinh chu ky söng cüa sån phäm, sv' khåc bi#t giü'a thi tru•'öng hep nhåt vä thi t...
+### Câu 15: Trong mô hình chu kỳ sống sản phẩm, sự khác biệt giữa thị trường hợp nhất và thị trường ch
+**Đáp án: A** — căn cứ: tiến hóa thị trường, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3861-3865.
 
-### Đề bài
-> Trong mö hinh chu ky söng cüa sån phäm, sv' khåc bi#t giü'a thi tru•'öng hep nhåt vä thi tru'öng chia cät trong giai doqn bäo höa Iä gi? A. Thi truöng hep nhåt läm giåm Sö luqng d6i thü canh tranh, cön thi truöng chia cät Iäm täng sw' phän höa giüa cåc doanh nghiép B. Thi truöng hep nhät tap trung väo giåm giå, cön thi truöng chia cåt tap trung väo döi möi sån phäm C. Thi truöng hep nhåt cö sv cqnh tranh gay gät, cön thi truöng chia cät cö cåc phän doen khåch häng riéng bi$t D. Thi truöng hep nhåt chi cö mét sån phåm Chü lvc, cön thi truöng chia cät cö nhiéu sån phåm thay thé a
+**Đề:** Trong mô hình chu kỳ sống sản phẩm, sự khác biệt giữa thị trường hợp nhất và thị trường chia cắt trong giai đoạn bão hòa là gì?
+- **A.** Thị trường hợp nhất làm giảm số lượng đối thủ cạnh tranh, còn thị trường chia cắt làm tăng sự phân hóa giữa các doanh nghiệp
+- **B.** Thị trường hợp nhất tập trung vào giảm giá, còn thị trường chia cắt tập trung vào đổi mới sản phẩm
+- **C.** Thị trường hợp nhất có sự cạnh tranh gay gắt, còn thị trường chia cắt có các phân đoạn khách hàng riêng biệt
+- **D.** Thị trường hợp nhất chỉ có một sản phẩm chủ lực, còn thị trường chia cắt có nhiều sản phẩm thay thế
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Thị trường hợp nhất làm giảm số lượng đối thủ cạnh tranh, còn thị trường chia cắt làm tăng sự phân hóa giữa các doanh nghiệp — **Đúng** vì khớp trực tiếp với tiến hóa thị trường; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3861-3865.
+- **B.** Thị trường hợp nhất tập trung vào giảm giá, còn thị trường chia cắt tập trung vào đổi mới sản phẩm — **Sai.** Nhiễu: Thị trường hợp nhất tập.
+- **C.** Thị trường hợp nhất có sự cạnh tranh gay gắt, còn thị trường chia cắt có các phân đoạn khách hàng riêng biệt — **Sai.** Nhiễu: Thị trường hợp nhất có.
+- **D.** Thị trường hợp nhất chỉ có một sản phẩm chủ lực, còn thị trường chia cắt có nhiều sản phẩm thay thế — **Sai.** Nhiễu: Thị trường hợp nhất chỉ.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
 
-### Kết luận
-**Đáp án: C.** Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 16: Trong giai doqn phåt trién cüa chu ky söng sån phäm, nhü'ng cöng cv näo thu'öng du'Q'C Céc...
+### Câu 16: Trong giai đoạn phát triển của chu kỳ sống sản phẩm, những công cụ nào thường được thực hi
+**Đáp án: D** — căn cứ: mục tiêu giới thiệu và công cụ marketing, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3708-3713 và 3768-3770.
 
-### Đề bài
-> Trong giai doqn phåt trién cüa chu ky söng sån phäm, nhü'ng cöng cv näo thu'öng du'Q'C Céc nhä quån tri marketing thvc hi#n nhäm det muc tiéu nh#n biét vä kich thich ding thü' döi vöi khåch häng muc tiéu? O A. Sån phåm vä giå cå O B. Kénh phän ph6i vå sån phåm O C. Giå cå vå kénh phän phöi O D. Giå cå vä xüc tién thuong mai
+**Đề:** Trong giai đoạn phát triển của chu kỳ sống sản phẩm, những công cụ nào thường được thực hiện nhằm đạt mục tiêu nhận biết và kích thích dùng thử đối với khách hàng mục tiêu?
+- **A.** Sản phẩm và giá cả
+- **B.** Kênh phân phối và sản phẩm
+- **C.** Giá cả và kênh phân phối
+- **D.** Giá cả và xúc tiến thương mại
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Sản phẩm và giá cả — **Sai.** Nhiễu: Sản phẩm và giá cả.
+- **B.** Kênh phân phối và sản phẩm — **Sai.** Nhiễu: Kênh phân phối và sản.
+- **C.** Giá cả và kênh phân phối — **Sai.** Nhiễu: Giá cả và kênh phân.
+- **D.** Giá cả và xúc tiến thương mại — **Đúng** vì khớp trực tiếp với mục tiêu giới thiệu và công cụ marketing; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3708-3713 và 3768-3770.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
 
-### Kết luận
-**Đáp án: D.** Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 17: Dién väo trong khåi ni#m sau: ... Iä mét xåc dinh cåc thi tru'öng trong diém, Iva chqn din...
+### Câu 17: Điền vào “…”: “… là một tập xác định các thị trường trọng điểm, lựa chọn định vị cạnh tran
+**Đáp án: B** — căn cứ: marketing chiến lược, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3045-3048.
 
-### Đề bài
-> Dién väo trong khåi ni#m sau: ... Iä mét xåc dinh cåc thi tru'öng trong diém, Iva chqn dinh vi cqnh tranh vä trién khai mét marketing-mix hü'u hi#u dé thu hüt vä thöa män duvc Céc khåch häng dä Iva chqn" O A. Marketing muc tiéu O B. Marketing chién Iuqc O C. Marketing mix O D. Marketing tåc nghiép a
+**Đề:** Điền vào “…”: “… là một tập xác định các thị trường trọng điểm, lựa chọn định vị cạnh tranh và triển khai một marketing-mix hữu hiệu để thu hút và thỏa mãn được các khách hàng đã lựa chọn”.
+- **A.** Marketing mục tiêu
+- **B.** Marketing chiến lược
+- **C.** Marketing mix
+- **D.** Marketing tác nghiệp
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Marketing mục tiêu — **Sai.** Nhiễu: Marketing mục tiêu.
+- **B.** Marketing chiến lược — **Đúng** vì khớp trực tiếp với marketing chiến lược; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3045-3048.
+- **C.** Marketing mix — **Sai.** Nhiễu: Marketing mix.
+- **D.** Marketing tác nghiệp — **Sai.** Nhiễu: Marketing tác nghiệp.
 
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 18: Dé phän doen thi tru'öng doanh nghi#p (B2B) hi#u quå, yéu tö näo du'ö'i däy Iä cän thiét?...
+### Câu 18: Để phân đoạn thị trường doanh nghiệp (B2B) hiệu quả, yếu tố nào là cần thiết?
+**Đáp án: D** — căn cứ: yêu cầu phân đoạn hiệu quả, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3276-3279.
 
-### Đề bài
-> Dé phän doen thi tru'öng doanh nghi#p (B2B) hi#u quå, yéu tö näo du'ö'i däy Iä cän thiét? O A. Khöng cän quan tam dén möi quan giCpa nguöi mua vä nguöi bån O B. Chi sü' dung cåc yéu t6 nhän khåu hoc O C. Phän doan chi dva trén quy mö doanh nghiép O D. Cän cö sw' phän biét rö rång vé khåi ni$rn vå dåp (png marketing mix khåc nhau
+**Đề:** Để phân đoạn thị trường doanh nghiệp (B2B) hiệu quả, yếu tố nào là cần thiết?
+- **A.** Không cần quan tâm đến mối quan hệ giữa người mua và người bán
+- **B.** Chỉ sử dụng các yếu tố nhân khẩu học
+- **C.** Phân đoạn chỉ dựa trên quy mô doanh nghiệp
+- **D.** Cần có sự phân biệt rõ ràng về khái niệm và đáp ứng marketing mix khác nhau
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Không cần quan tâm đến mối quan hệ giữa người mua và người bán — **Sai.** Nhiễu: Không cần quan tâm đến.
+- **B.** Chỉ sử dụng các yếu tố nhân khẩu học — **Sai.** Nhiễu: Chỉ sử dụng các yếu.
+- **C.** Phân đoạn chỉ dựa trên quy mô doanh nghiệp — **Sai.** Nhiễu: Phân đoạn chỉ dựa trên.
+- **D.** Cần có sự phân biệt rõ ràng về khái niệm và đáp ứng marketing mix khác nhau — **Đúng** vì khớp trực tiếp với yêu cầu phân đoạn hiệu quả; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3276-3279.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-
-### Kết luận
-**Đáp án: D.** Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 19: Dinh vi trong marketing cö thé hiéu Iä gi? O A. Thiét ké sån phåm sao cho dep måt. O B. Då...
+### Câu 19: Định vị trong marketing có thể hiểu là gì?
+**Đáp án: C** — căn cứ: định vị, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3441-3450.
 
-### Đề bài
-> Dinh vi trong marketing cö thé hiéu Iä gi? O A. Thiét ké sån phåm sao cho dep måt. O B. Dåm båo sån phåm luön cö chät luqng cao. C. Céc hånh döng teo dvng hinh ånh cüa doanh nghiép dé giånh ch6 déng trong täm tri khåch häng. O D. Cung cäp sån phåm vöi giå cå canh tranh. a
+**Đề:** Định vị trong marketing có thể hiểu là gì?
+- **A.** Thiết kế sản phẩm sao cho đẹp mắt
+- **B.** Đảm bảo sản phẩm luôn có chất lượng cao
+- **C.** Các hành động tạo dựng hình ảnh của doanh nghiệp để giành chỗ đứng trong tâm trí khách hàng
+- **D.** Cung cấp sản phẩm với giá cả cạnh tranh
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Thiết kế sản phẩm sao cho đẹp mắt — **Sai.** Nhiễu: Thiết kế sản phẩm sao.
+- **B.** Đảm bảo sản phẩm luôn có chất lượng cao — **Sai.** Nhiễu: Đảm bảo sản phẩm luôn.
+- **C.** Các hành động tạo dựng hình ảnh của doanh nghiệp để giành chỗ đứng trong tâm trí khách hàng — **Đúng** vì khớp trực tiếp với định vị; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3441-3450.
+- **D.** Cung cấp sản phẩm với giá cả cạnh tranh — **Sai.** Nhiễu: Cung cấp sản phẩm với.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 20: Néi dung dénh giå Céc phän doen thi tru'öng KHÖNG göm: O A. Quy mö vå täng truöng cüa phän...
+### Câu 20: Nội dung đánh giá các phân đoạn thị trường KHÔNG gồm:
+**Đáp án: B** — căn cứ: đánh giá phân đoạn, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3305-3334.
 
-### Đề bài
-> Néi dung dénh giå Céc phän doen thi tru'öng KHÖNG göm: O A. Quy mö vå täng truöng cüa phän doan O B. Muc tiéu phän doen thi truöng O C. Muc tiéu vä ngubn luc cüa doanh nghiép O D. Sü'C häp dän vé Câu trüc cüa phän doen
+**Đề:** Nội dung đánh giá các phân đoạn thị trường KHÔNG gồm:
+- **A.** Quy mô và sức tăng trưởng của phân đoạn
+- **B.** Mục tiêu phân đoạn thị trường
+- **C.** Mục tiêu và nguồn lực của doanh nghiệp
+- **D.** Sức hấp dẫn về cấu trúc của phân đoạn
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Quy mô và sức tăng trưởng của phân đoạn — **Sai.** Nhiễu: Quy mô và sức tăng.
+- **B.** Mục tiêu phân đoạn thị trường — **Đúng** vì khớp trực tiếp với đánh giá phân đoạn; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3305-3334.
+- **C.** Mục tiêu và nguồn lực của doanh nghiệp — **Sai.** Nhiễu: Mục tiêu và nguồn lực.
+- **D.** Sức hấp dẫn về cấu trúc của phân đoạn — **Sai.** Nhiễu: Sức hấp dẫn về cấu.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 21: Khi åp dung chién ILPQ'C marketing quöc té, doanh nghi#p nén Iäm gi dé töi upu höa chi phi...
+### Câu 21: Khi áp dụng chiến lược marketing quốc tế, doanh nghiệp nên làm gì để tối ưu hóa chi phí và
+**Đáp án: D** — căn cứ: marketing quốc tế thích ứng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3921-3935.
 
-### Đề bài
-> Khi åp dung chién ILPQ'C marketing quöc té, doanh nghi#p nén Iäm gi dé töi upu höa chi phi vä hi#u quå khi sån phäm vä dich vv cän phåi thich nghi vö'i tü'ng khu vv'c thi tru'öng? O A. Tiéu chuan höa sån phåm vå dich vv mpi thi truöng, giåm chi phi vå täng hi$u quå B. SO dung chién luqc marketing döng nhåt nhung thay dbi cåch thi.Tc phän ph6i tai m6i thi truöng C. Åp dung mét chién Iupc marketing hoån toån giöng nhau ö tät cå cåc thi truöng D. Tüy Chinh tü'ng yéu t6 trong marketing-mix cho tü'ng thi truöng cu thé
+**Đề:** Khi áp dụng chiến lược marketing quốc tế, doanh nghiệp nên làm gì để tối ưu hóa chi phí và hiệu quả khi sản phẩm/dịch vụ cần thích nghi với từng khu vực thị trường?
+- **A.** Tiêu chuẩn hóa sản phẩm và dịch vụ ở mọi thị trường
+- **B.** Sử dụng chiến lược marketing đồng nhất nhưng thay đổi cách thức phân phối tại mỗi thị trường
+- **C.** Áp dụng một chiến lược marketing hoàn toàn giống nhau ở tất cả thị trường
+- **D.** Tùy chỉnh từng yếu tố trong marketing-mix cho từng thị trường cụ thể
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Tiêu chuẩn hóa sản phẩm và dịch vụ ở mọi thị trường — **Sai.** Nhiễu: Tiêu chuẩn hóa sản phẩm.
+- **B.** Sử dụng chiến lược marketing đồng nhất nhưng thay đổi cách thức phân phối tại mỗi thị trường — **Sai.** Nhiễu: Sử dụng chiến lược marketing.
+- **C.** Áp dụng một chiến lược marketing hoàn toàn giống nhau ở tất cả thị trường — **Sai.** Nhiễu: Áp dụng một chiến lược.
+- **D.** Tùy chỉnh từng yếu tố trong marketing-mix cho từng thị trường cụ thể — **Đúng** vì khớp trực tiếp với marketing quốc tế thích ứng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3921-3935.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-
-### Kết luận
-**Đáp án: D.** Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 22: Câu trüc mét chién ILPQ'C Chung marketing KHÖNG göm néi dung näo sau däy: O A. Marketing m...
+### Câu 22: Cấu trúc một chiến lược chung marketing KHÔNG gồm nội dung nào sau đây?
+**Đáp án: C** — căn cứ: cấu trúc chiến lược marketing, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3028-3035.
 
-### Đề bài
-> Câu trüc mét chién ILPQ'C Chung marketing KHÖNG göm néi dung näo sau däy: O A. Marketing mix. O B. Marketing muc tiéu. O C. Chinh såch marketing. O D. Ngän såch marketing.
+**Đề:** Cấu trúc một chiến lược chung marketing KHÔNG gồm nội dung nào sau đây?
+- **A.** Marketing mix
+- **B.** Marketing mục tiêu
+- **C.** Chính sách marketing
+- **D.** Ngân sách marketing
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Marketing mix — **Sai.** Nhiễu: Marketing mix.
+- **B.** Marketing mục tiêu — **Sai.** Nhiễu: Marketing mục tiêu.
+- **C.** Chính sách marketing — **Đúng** vì khớp trực tiếp với cấu trúc chiến lược marketing; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3028-3035.
+- **D.** Ngân sách marketing — **Sai.** Nhiễu: Ngân sách marketing.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 23: Khi dånh giå sv phi hep giü'a myc tiéu vä nguön Ivc cüa doanh nghi#p vö'i mét phän doqn th...
+### Câu 23: Khi đánh giá sự phù hợp giữa mục tiêu và nguồn lực của doanh nghiệp với một phân đoạn thị 
+**Đáp án: B** — căn cứ: mục tiêu và nguồn lực, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3330-3342.
 
-### Đề bài
-> Khi dånh giå sv phi hep giü'a myc tiéu vä nguön Ivc cüa doanh nghi#p vö'i mét phän doqn thi tru'öng myc tiéu, yéu tö näo du'ö'i däy Iä quan trong nhåt? O A. Cåc yéu t6 vän höa vå xä höi ånh huöng dén nhu Câu cüa phän doen O B. Cåc yéu Câu vé tåi chinh, cöng nghé vå nhän luc cüa doanh nghiép O C. MI-Tc dé täng truöng cüa phän doan thi truöng O D. SW chénh löch vé quy mö giCpa doanh nghiöp vå phän doen thi truöng Câu Trong giai doen giöi thi#u, chién ILPQ'C marketing thu'öng KHÖNG tep trung väo myc tiéu näo: O A. Thöng tin cho nguöi tiéu düng vé sån phåm O B. Thu hüt cåc nhå phän ph6i tham gia kénh O C. Kich thich khåch häng düng thi-p sån phåm O D. Bån cåt 16 dé thu loi nhuän
+**Đề:** Khi đánh giá sự phù hợp giữa mục tiêu và nguồn lực của doanh nghiệp với một phân đoạn thị trường mục tiêu, yếu tố nào quan trọng nhất?
+- **A.** Các yếu tố văn hóa và xã hội ảnh hưởng đến nhu cầu của phân đoạn
+- **B.** Các yêu cầu về tài chính, công nghệ và nhân lực của doanh nghiệp
+- **C.** Mức độ tăng trưởng của phân đoạn thị trường
+- **D.** Sự chênh lệch về quy mô giữa doanh nghiệp và phân đoạn thị trường
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Các yếu tố văn hóa và xã hội ảnh hưởng đến nhu cầu của phân đoạn — **Sai.** Nhiễu: Các yếu tố văn hóa.
+- **B.** Các yêu cầu về tài chính, công nghệ và nhân lực của doanh nghiệp — **Đúng** vì khớp trực tiếp với mục tiêu và nguồn lực; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3330-3342.
+- **C.** Mức độ tăng trưởng của phân đoạn thị trường — **Sai.** Nhiễu: Mức độ tăng trưởng của.
+- **D.** Sự chênh lệch về quy mô giữa doanh nghiệp và phân đoạn thị trường — **Sai.** Nhiễu: Sự chênh lệch về quy.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 24: Câu 24 trong đề OCR bị ghép với trang/câu lân cận; xem file đề MD/PDF gốc để đối chiếu ngu...
+### Câu 24: Trong giai đoạn giới thiệu, chiến lược marketing thường KHÔNG tập trung vào mục tiêu nào?
+**Đáp án: D** — căn cứ: giai đoạn giới thiệu, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3702-3713.
 
-### Đề bài
-> Câu 24 trong đề OCR bị ghép với trang/câu lân cận; xem file đề MD/PDF gốc để đối chiếu nguyên văn.
+**Đề:** Trong giai đoạn giới thiệu, chiến lược marketing thường KHÔNG tập trung vào mục tiêu nào?
+- **A.** Thông tin cho người tiêu dùng về sản phẩm
+- **B.** Thu hút các nhà phân phối tham gia kênh
+- **C.** Kích thích khách hàng dùng thử sản phẩm
+- **D.** Bán cắt lỗ để thu lợi nhuận
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Thông tin cho người tiêu dùng về sản phẩm — **Sai.** Nhiễu: Thông tin cho người tiêu.
+- **B.** Thu hút các nhà phân phối tham gia kênh — **Sai.** Nhiễu: Thu hút các nhà phân.
+- **C.** Kích thích khách hàng dùng thử sản phẩm — **Sai.** Nhiễu: Kích thích khách hàng dùng.
+- **D.** Bán cắt lỗ để thu lợi nhuận — **Đúng** vì khớp trực tiếp với giai đoạn giới thiệu; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3702-3713.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
 
-### Kết luận
-**Đáp án: D.** Đáp án D đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 25: Chién ILPQ'C "xäm nh#p chöp nhoång'l trong giai doqn giöi thi#u sån phäm cé nhu'Q'C diém g...
+### Câu 25: Chiến lược “xâm nhập chớp nhoáng” trong giai đoạn giới thiệu sản phẩm có nhược điểm gì khi
+**Đáp án: B** — căn cứ: xâm nhập chớp nhoáng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3730-3734.
 
-### Đề bài
-> Chién ILPQ'C "xäm nh#p chöp nhoång'l trong giai doqn giöi thi#u sån phäm cé nhu'Q'C diém gi khi thi tru'öng khöng dü lön? O A. Khö thuyét phuc nhä phän ph6i chåp nhän sån phåm möi B. TY lé Ipi nhuän trén m6i don vi sån phåm thåp, dé gay 16 néu khöng dat dü O doanh Sö O C. Khöng dü khå näng döi phö vöi cåc döi thü tiém näng trén thi truöng O D. Chi phi quång cåo vä khuyén mäi cao dän dén khö thu hbi v6n däu tu a
+**Đề:** Chiến lược “xâm nhập chớp nhoáng” trong giai đoạn giới thiệu sản phẩm có nhược điểm gì khi thị trường không đủ lớn?
+- **A.** Khó thuyết phục nhà phân phối chấp nhận sản phẩm mới
+- **B.** Tỷ lệ lợi nhuận trên mỗi đơn vị sản phẩm thấp, dễ gây lỗ nếu không đạt đủ doanh số
+- **C.** Không đủ khả năng đối phó với các đối thủ tiềm năng trên thị trường
+- **D.** Chi phí quảng cáo và khuyến mãi cao dẫn đến khó thu hồi vốn đầu tư
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Khó thuyết phục nhà phân phối chấp nhận sản phẩm mới — **Sai.** Nhiễu: Khó thuyết phục nhà phân.
+- **B.** Tỷ lệ lợi nhuận trên mỗi đơn vị sản phẩm thấp, dễ gây lỗ nếu không đạt đủ doanh số — **Đúng** vì khớp trực tiếp với xâm nhập chớp nhoáng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3730-3734.
+- **C.** Không đủ khả năng đối phó với các đối thủ tiềm năng trên thị trường — **Sai.** Nhiễu: Không đủ khả năng đối.
+- **D.** Chi phí quảng cáo và khuyến mãi cao dẫn đến khó thu hồi vốn đầu tư — **Sai.** Nhiễu: Chi phí quảng cáo và.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 26: Dién väo trong khåi ni#m sau: ... Iä vi#c phän tich cåc co héi thi tru'öng vä xåc löp chié...
+### Câu 26: Điền vào “…”: “… là việc phân tích các cơ hội thị trường và xác lập chiến lược marketing d
+**Đáp án: B** — căn cứ: chiến lược marketing, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3022-3037.
 
-### Đề bài
-> Dién väo trong khåi ni#m sau: ... Iä vi#c phän tich cåc co héi thi tru'öng vä xåc löp chién ILI'Q'C marketing däi hen vä mét Câu trüc tupong hep cåc chién ILI'Q'C marketing myc tiéu, chién ILPQ'C chäo häng thi tru'öng, chién ILPQ'C kénh marketing, chién ILPQ'C xüc tién hön hep vä quy hoqch Céc nguön IV'C chién IL*'Q'C marketing dé dåm båo myc tiéu chién ILPQ'C dä du'Q'C xåc 14p cüa doanh nghlep . O A. Nghién cou marketing O B. Chién luqc marketing O C. Dibu tra marketing O D. Läp ké hoach marketing a
+**Đề:** Điền vào “…”: “… là việc phân tích các cơ hội thị trường và xác lập chiến lược marketing dài hạn... để đảm bảo đạt tới mục tiêu chiến lược đã được xác lập của doanh nghiệp”.
+- **A.** Nghiên cứu marketing
+- **B.** Chiến lược marketing
+- **C.** Điều tra marketing
+- **D.** Lập kế hoạch marketing
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Nghiên cứu marketing — **Sai.** Nhiễu: Nghiên cứu marketing.
+- **B.** Chiến lược marketing — **Đúng** vì khớp trực tiếp với chiến lược marketing; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3022-3037.
+- **C.** Điều tra marketing — **Sai.** Nhiễu: Điều tra marketing.
+- **D.** Lập kế hoạch marketing — **Sai.** Nhiễu: Lập kế hoạch marketing.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 27: Nh#n dinh näo sau däy KHÖNG DÜNG khi Iva chon thi tru'öng myc tiéu? O A. Cåc doanh nghiép...
+### Câu 27: Nhận định nào KHÔNG ĐÚNG khi lựa chọn thị trường mục tiêu?
+**Đáp án: A** — căn cứ: quy mô phân đoạn, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3308-3316.
 
-### Đề bài
-> Nh#n dinh näo sau däy KHÖNG DÜNG khi Iva chon thi tru'öng myc tiéu? O A. Cåc doanh nghiép lön thuöng tiép can doen thi truöng nhö. O B. Cåc doanh nghiép lön thuöng bö qua doen thi truöng cö quy mö nhö. C. Céc doanh nghiép nhö buöc däu tiép cän doen thi truöng nhö vä khöng döi höi quå nhiéu tåi lvc. O D. Céc doanh nghiép lön huöng töi doen thi truöng cé quy mö lön. n
+**Đề:** Nhận định nào KHÔNG ĐÚNG khi lựa chọn thị trường mục tiêu?
+- **A.** Các doanh nghiệp lớn thường tiếp cận đoạn thị trường nhỏ
+- **B.** Các doanh nghiệp lớn thường bỏ qua đoạn thị trường có quy mô nhỏ
+- **C.** Các doanh nghiệp nhỏ bước đầu tiếp cận đoạn thị trường nhỏ và không đòi hỏi quá nhiều tài lực
+- **D.** Các doanh nghiệp lớn hướng tới đoạn thị trường có quy mô lớn
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Các doanh nghiệp lớn thường tiếp cận đoạn thị trường nhỏ — **Đúng** vì khớp trực tiếp với quy mô phân đoạn; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3308-3316.
+- **B.** Các doanh nghiệp lớn thường bỏ qua đoạn thị trường có quy mô nhỏ — **Sai.** Nhiễu: Các doanh nghiệp lớn thường.
+- **C.** Các doanh nghiệp nhỏ bước đầu tiếp cận đoạn thị trường nhỏ và không đòi hỏi quá nhiều tài lực — **Sai.** Nhiễu: Các doanh nghiệp nhỏ bước.
+- **D.** Các doanh nghiệp lớn hướng tới đoạn thị trường có quy mô lớn — **Sai.** Nhiễu: Các doanh nghiệp lớn hướng.
 
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 28: Däu KHÖNG phåi Iä co' Sö dé phän doen thi tru'öng theo cåch tiép cüa Rackman & Vincentis?...
+### Câu 28: Đâu KHÔNG phải là cơ sở để phân đoạn thị trường theo cách tiếp cận của Rackman & Vincentis
+**Đáp án: B** — căn cứ: phân đoạn B2B theo định hướng mua, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3216-3246.
 
-### Đề bài
-> Däu KHÖNG phåi Iä co' Sö dé phän doen thi tru'öng theo cåch tiép cüa Rackman & Vincentis? O A. Khåch häng dinh huöng giå tri chién Iuqc O B. Khåch hång dinh huöng thi phån O C. Khåch hång dinh huöng giåi phåp O D. Khåch hång dinh huöng giå cå n
+**Đề:** Đâu KHÔNG phải là cơ sở để phân đoạn thị trường theo cách tiếp cận của Rackman & Vincentis?
+- **A.** Khách hàng định hướng giá trị chiến lược
+- **B.** Khách hàng định hướng thị phần
+- **C.** Khách hàng định hướng giải pháp
+- **D.** Khách hàng định hướng giá cả
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Khách hàng định hướng giá trị chiến lược — **Sai.** Nhiễu: Khách hàng định hướng giá.
+- **B.** Khách hàng định hướng thị phần — **Đúng** vì khớp trực tiếp với phân đoạn B2B theo định hướng mua; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3216-3246.
+- **C.** Khách hàng định hướng giải pháp — **Sai.** Nhiễu: Khách hàng định hướng giải.
+- **D.** Khách hàng định hướng giá cả — **Sai.** Nhiễu: Khách hàng định hướng giá.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 29: Quå trinh bién Céc chién ILPQ'C vä ké hoqch Marketing thänh cåc hänh déng cv thé nhäm hoän...
+### Câu 29: Quá trình biến các chiến lược và kế hoạch Marketing thành các hành động cụ thể nhằm hoàn t
+**Đáp án: C** — căn cứ: triển khai/thực thi, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3040-3044 và 3064-3066.
 
-### Đề bài
-> Quå trinh bién Céc chién ILPQ'C vä ké hoqch Marketing thänh cåc hänh déng cv thé nhäm hoän thänh cåc myc tiéu marketing chién ILPQ'C du'Q'C goi Iä: O A. Chién Iuqc Marketing O B. Kiém soåt Marketing O C. Thvc thi marketing O D. Phän tich marketing n
+**Đề:** Quá trình biến các chiến lược và kế hoạch Marketing thành các hành động cụ thể nhằm hoàn thành các mục tiêu marketing chiến lược được gọi là:
+- **A.** Chiến lược Marketing
+- **B.** Kiểm soát Marketing
+- **C.** Thực thi marketing
+- **D.** Phân tích marketing
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Chiến lược Marketing — **Sai.** Nhiễu: Chiến lược Marketing.
+- **B.** Kiểm soát Marketing — **Sai.** Nhiễu: Kiểm soát Marketing.
+- **C.** Thực thi marketing — **Đúng** vì khớp trực tiếp với triển khai/thực thi; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3040-3044 và 3064-3066.
+- **D.** Phân tích marketing — **Sai.** Nhiễu: Phân tích marketing.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 30: Trong giai doqn suy thoåi, néu buéc phåi 10?i bö sån phåm, doanh nghi#p thu'öng: O A. Loai...
+### Câu 30: Trong giai đoạn suy thoái, nếu buộc phải loại bỏ sản phẩm, doanh nghiệp thường:
+**Đáp án: C** — căn cứ: loại bỏ trong suy thoái, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3820-3824.
 
-### Đề bài
-> Trong giai doqn suy thoåi, néu buéc phåi 10?i bö sån phåm, doanh nghi#p thu'öng: O A. Loai bö ngay sån phåm khi doanh s6 sut giåm. O B. I-oei bö néu sån phåm khöng cön ch6 dong trén thi truöng. O C. Phåi can nhäc råt ky ånh huöng dén cåc bén hü'u quan truöc khi ra quyét dinh. O D. Chi loqi bö khi dä cö sån phåm thay thé. n
+**Đề:** Trong giai đoạn suy thoái, nếu buộc phải loại bỏ sản phẩm, doanh nghiệp thường:
+- **A.** Loại bỏ ngay sản phẩm khi doanh số sụt giảm
+- **B.** Loại bỏ nếu sản phẩm không còn chỗ đứng trên thị trường
+- **C.** Phải cân nhắc rất kỹ ảnh hưởng đến các bên hữu quan trước khi ra quyết định
+- **D.** Chỉ loại bỏ khi đã có sản phẩm thay thế
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Loại bỏ ngay sản phẩm khi doanh số sụt giảm — **Sai.** Nhiễu: Loại bỏ ngay sản phẩm.
+- **B.** Loại bỏ nếu sản phẩm không còn chỗ đứng trên thị trường — **Sai.** Nhiễu: Loại bỏ nếu sản phẩm.
+- **C.** Phải cân nhắc rất kỹ ảnh hưởng đến các bên hữu quan trước khi ra quyết định — **Đúng** vì khớp trực tiếp với loại bỏ trong suy thoái; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3820-3824.
+- **D.** Chỉ loại bỏ khi đã có sản phẩm thay thế — **Sai.** Nhiễu: Chỉ loại bỏ khi đã.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
 
-### Kết luận
-**Đáp án: C.** Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 31: Trong cåc cäp dé marketing myc tiéu, cap dé näo cé khå näng phåt hi#n co héi thi tru'öng c...
+### Câu 31: Trong các cấp độ marketing mục tiêu, cấp độ nào có khả năng phát hiện cơ hội thị trường ch
+**Đáp án: C** — căn cứ: marketing ngách, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3141-3147.
 
-### Đề bài
-> Trong cåc cäp dé marketing myc tiéu, cap dé näo cé khå näng phåt hi#n co héi thi tru'öng chupa du'Q'C khai thåc vä teo ra Ipi thé cqnh tranh cao nhåt? O A. Marketing phän doan O B. Marketing cå nhän O C. Marketing ngåch O D. Marketing dia phi-pong n
+**Đề:** Trong các cấp độ marketing mục tiêu, cấp độ nào có khả năng phát hiện cơ hội thị trường chưa được khai thác và tạo ra lợi thế cạnh tranh cao nhất?
+- **A.** Marketing phân đoạn
+- **B.** Marketing cá nhân
+- **C.** Marketing ngách
+- **D.** Marketing địa phương
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Marketing phân đoạn — **Sai.** Nhiễu: Marketing phân đoạn.
+- **B.** Marketing cá nhân — **Sai.** Nhiễu: Marketing cá nhân.
+- **C.** Marketing ngách — **Đúng** vì khớp trực tiếp với marketing ngách; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3141-3147.
+- **D.** Marketing địa phương — **Sai.** Nhiễu: Marketing địa phương.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 32: Phupong ån näo sau däy Iä rüi ro khi doanh nghi#p chon chién ILPQ'C "T@p trung väo mét phä...
+### Câu 32: Phương án nào là rủi ro khi doanh nghiệp chọn chiến lược “Tập trung vào một phân đoạn thị 
+**Đáp án: B** — căn cứ: tập trung một phân đoạn, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3350-3367.
 
-### Đề bài
-> Phupong ån näo sau däy Iä rüi ro khi doanh nghi#p chon chién ILPQ'C "T@p trung väo mét phän doqn thi tru'öng"? O A. Doanh nghiép cé thé chiém ITnh thi truöng nhanh chöng B. Rüi ro cao vi sv thånh bai cüa doanh nghiöp phu thuöc våo mét phän doan duy O nhåt C. Doanh nghiép cé thé dé dång xäy dvng möi quan vöi khåch hång trong O phän doen O D. Doanh nghiép cé thé dé dång mö rong quy mö sån xuät n
+**Đề:** Phương án nào là rủi ro khi doanh nghiệp chọn chiến lược “Tập trung vào một phân đoạn thị trường”?
+- **A.** Doanh nghiệp có thể chiếm lĩnh thị trường nhanh chóng
+- **B.** Rủi ro cao vì sự thành bại của doanh nghiệp phụ thuộc vào một phân đoạn duy nhất
+- **C.** Doanh nghiệp có thể dễ dàng xây dựng mối quan hệ với khách hàng trong phân đoạn
+- **D.** Doanh nghiệp có thể dễ dàng mở rộng quy mô sản xuất
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Doanh nghiệp có thể chiếm lĩnh thị trường nhanh chóng — **Sai.** Nhiễu: Doanh nghiệp có thể chiếm.
+- **B.** Rủi ro cao vì sự thành bại của doanh nghiệp phụ thuộc vào một phân đoạn duy nhất — **Đúng** vì khớp trực tiếp với tập trung một phân đoạn; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3350-3367.
+- **C.** Doanh nghiệp có thể dễ dàng xây dựng mối quan hệ với khách hàng trong phân đoạn — **Sai.** Nhiễu: Doanh nghiệp có thể dễ.
+- **D.** Doanh nghiệp có thể dễ dàng mở rộng quy mô sản xuất — **Sai.** Nhiễu: Doanh nghiệp có thể dễ.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 33: Mét trong nhü'ng yéu tö quan trpng nhåt khi Iva chon phän doqn thi trwö'ng myc tiéu Iä gi?...
+### Câu 33: Một trong những yếu tố quan trọng nhất khi lựa chọn phân đoạn thị trường mục tiêu là gì?
+**Đáp án: C** — căn cứ: đánh giá phân đoạn, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3305-3308.
 
-### Đề bài
-> Mét trong nhü'ng yéu tö quan trpng nhåt khi Iva chon phän doqn thi trwö'ng myc tiéu Iä gi? O A. Xem xét khå näng täi ch(nh vä cöng nghé cüa doanh nghiép O B. Dånh giå xem phän doen thi truöng cö döi thü canh tranh manh khöng O C. Dånh giå quy mö vä moc dé täng truöng cüa phän doen O D. Xåc dinh nhüng sån phåm cö sån trén thi truöng n
+**Đề:** Một trong những yếu tố quan trọng nhất khi lựa chọn phân đoạn thị trường mục tiêu là gì?
+- **A.** Xem xét khả năng tài chính và công nghệ của doanh nghiệp
+- **B.** Đánh giá xem phân đoạn thị trường có đối thủ cạnh tranh mạnh không
+- **C.** Đánh giá quy mô và mức độ tăng trưởng của phân đoạn
+- **D.** Xác định những sản phẩm có sẵn trên thị trường
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Xem xét khả năng tài chính và công nghệ của doanh nghiệp — **Sai.** Nhiễu: Xem xét khả năng tài.
+- **B.** Đánh giá xem phân đoạn thị trường có đối thủ cạnh tranh mạnh không — **Sai.** Nhiễu: Đánh giá xem phân đoạn.
+- **C.** Đánh giá quy mô và mức độ tăng trưởng của phân đoạn — **Đúng** vì khớp trực tiếp với đánh giá phân đoạn; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3305-3308.
+- **D.** Xác định những sản phẩm có sẵn trên thị trường — **Sai.** Nhiễu: Xác định những sản phẩm.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 34: Trong giai doqn bäo hoä, doanh nghi#p thu'öng: O A. Doanh nghiép Iuön tv höi cåi gi dä dié...
+### Câu 34: Trong giai đoạn bão hoà, doanh nghiệp thường:
+**Đáp án: B** — căn cứ: bão hòa, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3771-3801.
 
-### Đề bài
-> Trong giai doqn bäo hoä, doanh nghi#p thu'öng: O A. Doanh nghiép Iuön tv höi cåi gi dä dién ra. O B. Sü' dung cåc cöng cu xüc tién thuong mai dé duy tri doanh sö. O C. Doanh nghiép Iäm cho sv viéc dién ra. O D. Doanh nghiép dong nhin sw' viéc dién ra. n
+**Đề:** Trong giai đoạn bão hoà, doanh nghiệp thường:
+- **A.** Doanh nghiệp luôn tự hỏi cái gì đã diễn ra
+- **B.** Sử dụng các công cụ xúc tiến thương mại để duy trì doanh số
+- **C.** Doanh nghiệp làm cho sự việc diễn ra
+- **D.** Doanh nghiệp đứng nhìn sự việc diễn ra
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Doanh nghiệp luôn tự hỏi cái gì đã diễn ra — **Sai.** Nhiễu: Doanh nghiệp luôn tự hỏi.
+- **B.** Sử dụng các công cụ xúc tiến thương mại để duy trì doanh số — **Đúng** vì khớp trực tiếp với bão hòa; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 3771-3801.
+- **C.** Doanh nghiệp làm cho sự việc diễn ra — **Sai.** Nhiễu: Doanh nghiệp làm cho sự.
+- **D.** Doanh nghiệp đứng nhìn sự việc diễn ra — **Sai.** Nhiễu: Doanh nghiệp đứng nhìn sự.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
-## Câu 35: Myc tiéu quan trpng cüa vi#c xåc dinh Céc chién ILPQ'C trong quå trinh 14p ké hoech chién...
+### Câu 35: Mục tiêu quan trọng của việc xác định các chiến lược trong quá trình lập kế hoạch chiến lư
+**Đáp án: C** — căn cứ: xác định chiến lược, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 4127-4129.
 
-### Đề bài
-> Myc tiéu quan trpng cüa vi#c xåc dinh Céc chién ILPQ'C trong quå trinh 14p ké hoech chién IL*'Q'C Iä gi? O A. Dåm båo doanh nghiép cö dü ngubn luc tåi ch(nh. O B. Cåi thién cåc quy trinh nöi bö cüa doanh nghiép. O C. I-va chon cåc huöng di Chü yéu dé dat duqc muc tiéu dä dé ra. O D. Tao ra cåc sån phåm möi cho thi truöng hiön tai. n Câu TMI-J Nöp båi - Onschool
+**Đề:** Mục tiêu quan trọng của việc xác định các chiến lược trong quá trình lập kế hoạch chiến lược là gì?
+- **A.** Đảm bảo doanh nghiệp có đủ nguồn lực tài chính
+- **B.** Cải thiện các quy trình nội bộ của doanh nghiệp
+- **C.** Lựa chọn các hướng đi chủ yếu để đạt được mục tiêu đã đề ra
+- **D.** Tạo ra các sản phẩm mới cho thị trường hiện tại
 
-### Kiến thức nền cần dùng
-Chương 5: hoạch định chiến lược marketing, STP, định vị, BCG, lựa chọn thị trường mục tiêu và chiến lược theo chu kỳ sống sản phẩm. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
+**Phân tích từng phương án:**
+- **A.** Đảm bảo doanh nghiệp có đủ nguồn lực tài chính — **Sai.** Nhiễu: Đảm bảo doanh nghiệp có.
+- **B.** Cải thiện các quy trình nội bộ của doanh nghiệp — **Sai.** Nhiễu: Cải thiện các quy trình.
+- **C.** Lựa chọn các hướng đi chủ yếu để đạt được mục tiêu đã đề ra — **Đúng** vì khớp trực tiếp với xác định chiến lược; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 4127-4129.
+- **D.** Tạo ra các sản phẩm mới cho thị trường hiện tại — **Sai.** Nhiễu: Tạo ra các sản phẩm.
 
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 5.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C đúng theo STP, định vị, hoạch định chiến lược marketing hoặc chu kỳ sống sản phẩm ở Chương 5; các phương án còn lại không phù hợp với giai đoạn/khái niệm đang hỏi.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
 
 ---
 
 ## Ví dụ thực tế
 
-### Ví dụ 1: Highlands Coffee - STP và trải nghiệm khách hàng
-Highlands Coffee cho thấy marketing không chỉ là quảng cáo mà còn là chọn phân khúc, định vị, thiết kế sản phẩm, giá, kênh và trải nghiệm nhất quán.
+### Ví dụ 1: Highlands Coffee - STP và định vị
+Highlands Coffee minh họa rõ logic STP: chọn phân khúc khách hàng đô thị cần không gian gặp gỡ tiện lợi, định vị bằng trải nghiệm quen thuộc và độ phủ điểm bán. Ví dụ này gắn với các câu về phân đoạn, thị trường mục tiêu và định vị (Câu 8, 11, 14, 19).
 
-### Ví dụ 2: Thế Giới Di Động - CRM và giá trị cảm nhận
-Thế Giới Di Động duy trì quan hệ khách hàng bằng điểm chạm bán hàng, hậu mãi, tư vấn và xử lý khiếu nại, qua đó tăng giá trị cảm nhận và khả năng mua lại.
+### Ví dụ 2: Thế Giới Di Động - khác biệt hóa kênh và trải nghiệm
+Thế Giới Di Động dùng mạng lưới cửa hàng, tư vấn, hậu mãi và điểm chạm online/offline để tạo khác biệt kênh. Ví dụ này giúp phân biệt dị biệt hóa kênh với cạnh tranh giá thuần túy (Câu 13).
+
+### Ví dụ 3: Dòng sản phẩm công nghệ trong giai đoạn suy thoái
+Khi một mẫu laptop/điện thoại đời cũ bước vào suy thoái, doanh nghiệp thường cân nhắc thu hoạch, chuyển sang phân khúc còn nhạy cảm với giá, hoặc loại bỏ có kiểm soát. Bài học này gắn với Câu 4 và Câu 30: không nên chấm dứt vội nếu vẫn còn nhóm khách hàng có thể khai thác giá trị.

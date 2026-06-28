@@ -1,17 +1,18 @@
-﻿---
+---
 source_pdf: "Quản trị marketing 1_Luyện tập trắc nghiệm Chương 1.pdf"
 source_hash: "sha256:29d81048ac4fbafbc6d1ccd8f872caeeabb075b1d18bf65da5560c2881b43e20"
 converted_at: "2026-06-11T22:33:38+07:00"
+cleaned_at: "2026-06-27T01:55:00Z"
 subject: "quan-tri-marketing"
 doc_type: "exercise"
 pages: 19
 ocr_used: true
-ocr_language: "en-US (Vietnamese OCR unavailable; accents may be degraded)"
+ocr_verified_from_pdf_extract: true
 ---
 
 # Quản trị marketing 1_Luyện tập trắc nghiệm Chương 1
 
-> Bản này đã được làm sạch từ OCR PDF ảnh/form Onschool: bỏ header/footer/URL, tách câu hỏi và phương án A-D để dễ học. Một số dấu tiếng Việt vẫn có thể chưa hoàn hảo vì máy không có OCR tiếng Việt.
+> Bản này đã được làm sạch lại ngày 2026-06-27 từ PDF gốc bằng `python -m tools.pdf_extract`; Q3, Q4 và Q11 đã thay placeholder/OCR cũ bằng nội dung đọc được từ PDF.
 
 ## Câu hỏi trắc nghiệm
 
@@ -23,271 +24,310 @@ Môi trường vĩ mô KHÔNG bao gồm lực lượng nào?
 - **B.** Ngành kinh doanh
 - **C.** Chính trị - luật pháp
 - **D.** Nhân khẩu học
+
 ### Câu 2
 
-Giá trị cảm nhận được định nghĩa Iä: Thoät
+Giá trị cảm nhận được định nghĩa là:
 
-- **A.** Sự chénh löch giữa giá trị lợi ích trừ đi chi phí må khách hàng nhận được
-- **B.** Sự chénh löch giữa giá trị vå sự thỏa mãn cüa khách hàng
-- **C.** Chất lượng cüa sản phẩm
-- **D.** SW két hop giữa chất lượng, dịch vụ vå giá cả må sản phẩm chåo bån cho khách hàng
+- **A.** Sự chênh lệch giữa giá trị lợi ích trừ đi chi phí mà khách hàng nhận được
+- **B.** Sự chênh lệch giữa giá trị và sự thỏa mãn của khách hàng
+- **C.** Chất lượng của sản phẩm
+- **D.** Sự kết hợp giữa chất lượng, dịch vụ và giá cả mà sản phẩm chào bán cho khách hàng
+
 ### Câu 3
 
-Đâu KHÔNG phải là phương pháp nghiên cứu cüa học phần Quản trị Marketing 1?
+Đâu KHÔNG phải là phương pháp nghiên cứu của học phần Quản trị Marketing 1?
 
-- **A.** Giå cå, dịch vụ, loi (ch
-- **B.** Chåt lupng, dịch vụ, giá cả
-- **C.** Dich vu, thương hiệu, chi
-- **D.** Chåt lupng, thương hiệu, giá cả
+- **A.** Tiếp cận hệ thống, logic và lịch sử
+- **B.** Tiếp cận thực tiễn các vấn đề lý luận
+- **C.** Định lượng
+- **D.** Hiệu quả tối ưu
+
 ### Câu 4
 
-> Ghi chú OCR: câu này bị ghép với câu/trang lân cận trong bản OCR thô; xem PDF gốc hoặc solution tương ứng để đối chiếu.
+Bộ ba giá trị (QSP) trong marketing bao gồm các yếu tố nào?
+
+- **A.** Giá cả, dịch vụ, lợi ích
+- **B.** Chất lượng, dịch vụ, giá cả
+- **C.** Dịch vụ, thương hiệu, chi phí
+- **D.** Chất lượng, thương hiệu, giá cả
 
 ### Câu 5
 
-Néi dung nào sau đây KHÔNG nằm trong các cấp độ hoạch định chiến lược định hướng thị trường?
+Nội dung nào sau đây KHÔNG nằm trong các cấp độ hoạch định chiến lược định hướng thị trường?
 
-- **A.** cấp độ co Sö
-- **B.** Cấp độ sản phẩm.
-- **C.** Cấp độ đơn vị kinh doanh.
-- **D.** Cåp doanh nghiệp
+- **A.** Cấp độ cơ sở
+- **B.** Cấp độ sản phẩm
+- **C.** Cấp độ đơn vị kinh doanh
+- **D.** Cấp doanh nghiệp
+
 ### Câu 6
 
-Hoạt động mua sắm cüa người tiêu dùng cö thé diễn ra ở đâu?
+Hoạt động mua sắm của người tiêu dùng có thể diễn ra ở đâu?
 
 - **A.** Không gian thị trường
-- **B.** Địa điểm thị trường vå Không gian thị trường
+- **B.** Địa điểm thị trường và không gian thị trường
 - **C.** Cửa hàng giới thiệu sản phẩm, chợ, siêu thị
 - **D.** Địa điểm thị trường
+
 ### Câu 7
 
-Khái niệm nào dưới đây là đúng vé "Yêu cầu" trong Marketing?
+Khái niệm nào dưới đây là đúng về “Yêu cầu” trong Marketing?
 
-- **A.** Là sv cần thiết mong muốn cüa con người vé việc sü' dung sản phẩm, hàng hóa, dịch vụ, bị chế định böi sức mua vå cung ứng.
-- **B.** Là sv cảm giác thiếu hụt mét sv thỏa mãn cơ bản nào dö.
-- **C.** Là mét quá trình lập kế hoạch, thực hiện ké hoach dé thỏa mãn nhu cầu khách hàng
-- **D.** Là möt hình thức cüa nhu cầu, tương thích vöi trình độ văn hóa vå nhân cách cüa cá thể.
+- **A.** Là sự cần thiết mong muốn của con người về việc sử dụng sản phẩm, hàng hóa, dịch vụ, bị chế định bởi sức mua và cung ứng
+- **B.** Là sự cảm giác thiếu hụt một sự thỏa mãn cơ bản nào đó
+- **C.** Là một quá trình lập kế hoạch, thực hiện kế hoạch để thỏa mãn nhu cầu khách hàng
+- **D.** Là một hình thức của nhu cầu, tương thích với trình độ văn hóa và nhân cách của cá thể
+
 ### Câu 8
 
-Khái niệm "Nhu cầu" trong Marketing là gi?
+Khái niệm “Nhu cầu” trong Marketing là gì?
 
-- **A.** Những yêu cầu hoäc mong muốn cüa con người đối với sản phẩm, dịch vụ.
-- **B.** SW thiếu hụt sản phẩm hoäc dịch vụ trong thị trường.
-- **C.** Những yêu cầu cän duec thåa män dé duy trì sv söng.
-- **D.** Cåc mong muốn cụ thể cüa khách hàng cö thé duec thỏa mãn qua sản phẩm, dịch vụ.
+- **A.** Những yêu cầu hoặc mong muốn của con người đối với sản phẩm, dịch vụ
+- **B.** Sự thiếu hụt sản phẩm hoặc dịch vụ trong thị trường
+- **C.** Những yêu cầu cần được thỏa mãn để duy trì sự sống
+- **D.** Các mong muốn cụ thể của khách hàng có thể được thỏa mãn qua sản phẩm, dịch vụ
+
 ### Câu 9
 
-SV' thỏa mãn cüa khåch häng được xác định dựa trên điều gì?
+Sự thỏa mãn của khách hàng được xác định dựa trên điều gì?
 
-- **A.** Mức giå må khách hàng phải trả
-- **B.** Chi phí hữu hình vä vô hình cüa sản phẩm
-- **C.** Hiệu suất đáp ứng duec kỳ vọng cüa khách hàng
-- **D.** Giå tri thương hiệu cüa sản phẩm
+- **A.** Mức giá mà khách hàng phải trả
+- **B.** Chi phí hữu hình và vô hình của sản phẩm
+- **C.** Hiệu suất đáp ứng được kỳ vọng của khách hàng
+- **D.** Giá trị thương hiệu của sản phẩm
+
 ### Câu 10
 
-Đâu là cách thức dé doanh nghi#p cö thé näng cao sv thoå män cüa khåch häng?
+Đâu là cách thức để doanh nghiệp có thể nâng cao sự thoả mãn của khách hàng?
 
-- **A.** Tăng lợi ích nhiéu hơn täng chi phi
-- **B.** Cố gắng täng chi phivå giåm lợi ích
-- **C.** Giảm lợi ích cüa sản phẩm
-- **D.** Tăng lợi ích đồng thời täng chi phi
+- **A.** Tăng lợi ích nhiều hơn tăng chi phí
+- **B.** Cố gắng tăng chi phí và giảm lợi ích
+- **C.** Giảm lợi ích của sản phẩm
+- **D.** Tăng lợi ích đồng thời tăng chi phí
+
 ### Câu 11
 
-Cơ sở dé phân đoạn thi tru'öng người tiêu dùng là gi?
+Cơ sở để phân đoạn thị trường người tiêu dùng là gì?
 
-- **A.** Đặc điểm, tính chất vä công dụng cüa sản phẩm mà doanh nghiệp cung ü'ng.
-- **B.** SW khác biệt trong nhu cầu, hành vi, cåc däc diém nhân khẩu học, tâm lý, xã hội.
-- **C.** Nguồn vä Ipi thé cạnh tranh cüa doanh nghiệp trong ngånh.
-- **D.** Sự khác biệt vb khu vực địa lý vä nơi sinh sống.
+- **A.** Đặc điểm, tính chất và công dụng của sản phẩm mà doanh nghiệp cung ứng
+- **B.** Sự khác biệt trong nhu cầu, hành vi, các đặc điểm nhân khẩu học, tâm lý, xã hội
+- **C.** Nguồn lực và lợi thế cạnh tranh của doanh nghiệp trong ngành
+- **D.** Sự khác biệt về khu vực địa lý và nơi sinh sống
+
 ### Câu 12
 
-Trong phân tích SWOT, "nguy cơ' (threats) cé thé lién quan dén yếu tố nào trong môi trường vi mô? 819721
+Trong phân tích SWOT, “nguy cơ” (threats) có thể liên quan đến yếu tố nào trong môi trường vĩ mô?
 
-- **A.** Sự thay đổi trong chính sách thuế vå luật pháp.
-- **B.** Cải tiến công nghệ cüa công ty.
-- **C.** Thay dbi nhu cầu khåch häng.
-- **D.** Tăng truöng cüa đối thủ cạnh tranh trong ngành.
+- **A.** Sự thay đổi trong chính sách thuế và luật pháp
+- **B.** Cải tiến công nghệ của công ty
+- **C.** Thay đổi nhu cầu khách hàng
+- **D.** Tăng trưởng của đối thủ cạnh tranh trong ngành
+
 ### Câu 13
 
-Khi lập ké hoqch marketing chiến lược, mục tiêu chính cüa việc phân tích SWOT là gi?
+Khi lập kế hoạch marketing chiến lược, mục tiêu chính của việc phân tích SWOT là gì?
 
-- **A.** Để xác định cåc điểm mạnh, điểm yếu, cơ hội vä nguy co ảnh hưởng dén sản phẩm, dịch vụ hoäc thương hiệu.
-- **B.** Để dånh giå tinh trang tài chính cüa doanh nghiệp.
-- **C.** Để xác định cåc kênh phân phối hiéu quå.
-- **D.** Để xây dựng cåc chương trình quảng cáo vä xúc tiến bán.
+- **A.** Để xác định các điểm mạnh, điểm yếu, cơ hội và nguy cơ ảnh hưởng đến sản phẩm, dịch vụ hoặc thương hiệu
+- **B.** Để đánh giá tình trạng tài chính của doanh nghiệp
+- **C.** Để xác định các kênh phân phối hiệu quả
+- **D.** Để xây dựng các chương trình quảng cáo và xúc tiến bán
+
 ### Câu 14
 
-Trong nhü'ng điều kiện sau, điều kiện nào KHÔNG bắt buộc phåi cö dé h0?t déng trao đổi dién ra? 819721
+Trong những điều kiện sau, điều kiện nào KHÔNG bắt buộc phải có để hoạt động trao đổi diễn ra?
 
-- **A.** Ít nhất cö hai bên tham gia
-- **B.** Phåi cö sự trao đổi tiền giữa hai bên
-- **C.** M6i bén phåi cö khả năng giao tiếp vä giao hàng
-- **D.** M6i bén déu tin tưởng viéc giao dịch vöi bên còn lại lå hợp lý
+- **A.** Ít nhất có hai bên tham gia
+- **B.** Phải có sự trao đổi tiền giữa hai bên
+- **C.** Mỗi bên phải có khả năng giao tiếp và giao hàng
+- **D.** Mỗi bên đều tin tưởng việc giao dịch với bên còn lại là hợp lý
+
 ### Câu 15
 
-"Phân đoạn thị trường" là gi trong Marketing?
+“Phân đoạn thị trường” là gì trong Marketing?
 
-- **A.** Quå trinh tao ra cåc sản phẩm phü hqp vöi tü'ng nhóm khách hàng cụ thể.
-- **B.** Quå trinh xác định nhüng đối thủ cạnh tranh trong ngånh.
-- **C.** Quå trinh chia thị trường thånh cåc nhóm khách hàng cö nhu cầu, sở thích vå däc diém tương tự.
-- **D.** Quå trinh phân loại cåc sản phẩm theo däc diém vä tinh näng.
+- **A.** Quá trình tạo ra các sản phẩm phù hợp với từng nhóm khách hàng cụ thể
+- **B.** Quá trình xác định những đối thủ cạnh tranh trong ngành
+- **C.** Quá trình chia thị trường thành các nhóm khách hàng có nhu cầu, sở thích và đặc điểm tương tự
+- **D.** Quá trình phân loại các sản phẩm theo đặc điểm và tính năng
+
 ### Câu 16
 
-Khái niệm nào dw&i đây mö tå Marketing là mét quá trình xã hội trong dé cåc cé nhän vä nh6m det được mục tiêu thöng qua việc dvng, chäo häng vä trao đổi Céc sån phäm vä dịch vụ cé giá trị?
+Khái niệm nào mô tả Marketing là một quá trình xã hội trong đó các cá nhân và nhóm đạt mục tiêu thông qua tạo dựng, chào hàng và trao đổi các sản phẩm/dịch vụ có giá trị?
 
-- **A.** Marketing mang tính Quản trị
+- **A.** Marketing mang tính quản trị
 - **B.** Marketing mang tính xã hội
 - **C.** Marketing dựa trên giá trị
 - **D.** Quản trị Marketing
+
 ### Câu 17
 
-Vi dv nào dưới đây thé hi#n chiến lược täng tru'öng da d?ng höa?
+Ví dụ nào dưới đây thể hiện chiến lược tăng trưởng đa dạng hóa?
 
-- **A.** Mét häng di$n tü' mö rong danh muc sản phẩm til' dién thoqi sang måy tinh xåch tay.
-- **B.** Disney ra mät nén tång phåt trvc tuyén Disney+ dé cqnh tranh vöi Netflix vä Amazon Prime.
-- **C.** Mét công ty xe hoi mua lai mét häng xe hoi khåc trong cüng ngånh.
-- **D.** Möt chu6i siêu thị mua lei nhä cung ứng dé giåm chi phi nhäp häng.
+- **A.** Một hãng điện tử mở rộng danh mục sản phẩm từ điện thoại sang máy tính xách tay
+- **B.** Disney ra mắt nền tảng phát trực tuyến Disney+ để cạnh tranh với Netflix và Amazon Prime
+- **C.** Một công ty xe hơi mua lại một hãng xe hơi khác trong cùng ngành
+- **D.** Một chuỗi siêu thị mua lại nhà cung ứng để giảm chi phí nhập hàng
+
 ### Câu 18
 
-Thi tru'öng mục tiêu được hiéu là gi?
+Thị trường mục tiêu được hiểu là gì?
 
-- **A.** Những thị trường cö quy mô lớn nhất
-- **B.** NhCpng phân đoạn thị trường duec phục vụ böi cåc đối thủ cạnh tranh
-- **C.** Những phân đoạn thị trường duec phục vụ böi doanh nghiệp
-- **D.** Thi truöng trọng điểm må doanh nghiệp dang phuc vv
+- **A.** Những thị trường có quy mô lớn nhất
+- **B.** Những phân đoạn thị trường được phục vụ bởi các đối thủ cạnh tranh
+- **C.** Những phân đoạn thị trường được phục vụ bởi doanh nghiệp
+- **D.** Thị trường trọng điểm mà doanh nghiệp đang phục vụ
+
 ### Câu 19
 
-Chương trình marketing cüa doanh nghi#p nhằm myc dich gi?
+Chương trình marketing của doanh nghiệp nhằm mục đích gì?
 
-- **A.** Quản lý đội ngũ nhân viên marketing dé dat duec doanh thu cao nhåt
-- **B.** Xäy dung mối quan hệ khách hàng bằng cách bién chién luqc marketing thånh hành động
-- **C.** Tăng lợi nhuận cho doanh nghiệp thöng qua viöc näng cao giá bán sản phẩm
-- **D.** Chi tap trung väo viéc cung cấp sản phẩm cho khåch häng
+- **A.** Quản lý đội ngũ nhân viên marketing để đạt doanh thu cao nhất
+- **B.** Xây dựng mối quan hệ khách hàng bằng cách biến chiến lược marketing thành hành động
+- **C.** Tăng lợi nhuận thông qua nâng cao giá bán sản phẩm
+- **D.** Chỉ tập trung vào việc cung cấp sản phẩm cho khách hàng
+
 ### Câu 20
 
-Đâu là KHÔNG phải là nhiệm vụ nghiên cứu cüa học phần Quản trị Marketing 1?
+Đâu KHÔNG phải là nhiệm vụ nghiên cứu của học phần Quản trị Marketing 1?
 
-- **A.** Phát triển chién Iuqc marketing.
-- **B.** Kết nối vöi khách hàng.
-- **C.** Tao ra sv täng truöng trong ngắn hạn
-- **D.** Cung Ong giá trị.
+- **A.** Phát triển chiến lược marketing
+- **B.** Kết nối với khách hàng
+- **C.** Tạo ra sự tăng trưởng trong ngắn hạn
+- **D.** Cung ứng giá trị
+
 ### Câu 21
 
-Mong muốn cüa con ngu'ö'i sé duvc trö thänh yêu cầu khi cö:
+Mong muốn của con người sẽ trở thành yêu cầu khi có:
 
 - **A.** Khả năng thanh toán
 - **B.** Nhu cầu
-- **C.** Sån phåm
+- **C.** Sản phẩm
 - **D.** Động cơ mua sắm
+
 ### Câu 22
 
-Sự thoå män cüa khåch häng được định nghĩa Iä:
+Sự thoả mãn của khách hàng được định nghĩa là:
 
-- **A.** Là toän bé giá trị lợi ích vé sản phẩm mä khåch häng cö thé cåm nhận được
-- **B.** Là sự chénh löch giữa tbng giá trị khách hàng vå chi phi cüa khåch häng
-- **C.** Là khả năng thực hiện sản phẩm dåp ü'ng duec kỳ vọng cüa khåch häng
-- **D.** Là toån bé giá trị vät chät sản phẩm mang lai mä con người cåm nhän duqc
+- **A.** Là toàn bộ giá trị lợi ích về sản phẩm mà khách hàng có thể cảm nhận được
+- **B.** Là sự chênh lệch giữa tổng giá trị khách hàng và chi phí của khách hàng
+- **C.** Là khả năng thực hiện sản phẩm đáp ứng được kỳ vọng của khách hàng
+- **D.** Là toàn bộ giá trị vật chất sản phẩm mang lại mà con người cảm nhận được
+
 ### Câu 23
 
 Người làm marketing là ai?
 
-- **A.** Những nguöi tìm cách cung ü'ng giá trị cho khåch häng
+- **A.** Những người tìm cách cung ứng giá trị cho khách hàng
 - **B.** Những chuyên gia trong lĩnh vực truyền thông
-- **C.** Nguöi tìm kiếm sv dép ü'ng tü' thị trường
-- **D.** NhCpng nhân lực chåt lupng cao trong doanh nghiệp
+- **C.** Người tìm kiếm sự đáp ứng từ thị trường
+- **D.** Những nhân lực chất lượng cao trong doanh nghiệp
+
 ### Câu 24
 
-Chào hàng thi trwöng KHÔNG göm yếu tố nào sau đây?
+Chào hàng thị trường không gồm yếu tố nào sau đây?
 
-- **A.** Kinh nghiệm c6ng hién cho thị trường
-- **B.** Marketing - mix
-- **C.** Sån phåm, dịch vụ
-- **D.** Thöng tin
+- **A.** Kinh nghiệm cống hiến cho thị trường
+- **B.** Marketing-mix
+- **C.** Sản phẩm, dịch vụ
+- **D.** Thông tin
+
 ### Câu 25
 
-Giai đoạn nào sau đây KHÔNG nằm trong quá trình hoạch định chiến lược dinh hwöng thi trwöng?
+Giai đoạn nào sau đây KHÔNG nằm trong quá trình hoạch định chiến lược định hướng thị trường?
 
-- **A.** Kiểm soát.
-- **B.** Xác lập mục tiêu.
-- **C.** Hoach dinh.
-- **D.** Triển khai.
+- **A.** Kiểm soát
+- **B.** Xác lập mục tiêu
+- **C.** Hoạch định
+- **D.** Triển khai
+
 ### Câu 26
 
-Phän doqn thi tru'öng vä thi tru'öng mục tiêu cö möi quan he nhw thé nào?
+Phân đoạn thị trường và thị trường mục tiêu có mối quan hệ như thế nào?
 
-- **A.** Phän doen thị trường giúp xác định khách hàng mục tiêu mét cåch cụ thể hơn.
-- **B.** Thi truöng mục tiêu lä buöc däu tiền trong quy trình phân đoạn thị trường.
-- **C.** Thi truöng mục tiêu duec quyét dinh truöc khi thực hiện phän doan thị trường.
-- **D.** Phän doen thị trường Iå buÖc cuöi cüng dé xác định thị trường mục tiêu.
+- **A.** Phân đoạn thị trường giúp xác định khách hàng mục tiêu một cách cụ thể hơn
+- **B.** Thị trường mục tiêu là bước đầu tiên trong quy trình phân đoạn thị trường
+- **C.** Thị trường mục tiêu được quyết định trước khi thực hiện phân đoạn thị trường
+- **D.** Phân đoạn thị trường là bước cuối cùng để xác định thị trường mục tiêu
+
 ### Câu 27
 
-Triết lý Marketing toàn diện là sv' phối hợp đồng bộ giữa marketing nội bộ, marketing tích hợp, marketing quan he vä marketing xã hội nhằm:
+Triết lý Marketing toàn diện là sự phối hợp đồng bộ giữa marketing nội bộ, marketing tích hợp, marketing quan hệ và marketing xã hội nhằm:
 
-- **A.** Gia tăng sv Chung thug dài hạn cüa khåch häng cho doanh nghiệp
-- **B.** Tăng doanh số trong diéu kién cạnh tranh
-- **C.** Thoå män t6i da khåch häng cüa doanh nghiệp
-- **D.** Mang lei doanh số cao cho doanh nghiệp
+- **A.** Gia tăng sự chung thuỷ dài hạn của khách hàng cho doanh nghiệp
+- **B.** Tăng doanh số trong điều kiện cạnh tranh
+- **C.** Thoả mãn tối đa khách hàng của doanh nghiệp
+- **D.** Mang lại doanh số cao cho doanh nghiệp
+
 ### Câu 28
 
-Cụm từ nào KHÔNG xuất hiện trong khåi ni#m marketing mang tinh xã hội?
+Cụm từ nào KHÔNG xuất hiện trong khái niệm marketing mang tính xã hội?
 
-- **A.** Khåch häng mục tiêu
-- **B.** Là mét quy trình xã hội
-- **C.** Trao dbi cåc sản phẩm vä dịch vụ tuong xü'ng
-- **D.** Cåc cá nhân vä nhóm
+- **A.** Khách hàng mục tiêu
+- **B.** Là một quy trình xã hội
+- **C.** Trao đổi các sản phẩm và dịch vụ tương xứng
+- **D.** Các cá nhân và nhóm
+
 ### Câu 29
 
-Chào hàng thi tru'öng bao gồm nhü'ng yếu tố nào?
+Chào hàng thị trường bao gồm những yếu tố nào?
 
-- **A.** Quảng cáo, xúc tiến bán vä truyền thông
-- **B.** Giå cå, thương hiệu vå phän phöi
-- **C.** Sån phåm, dịch vụ, thông tin vä trải nghiệm
-- **D.** Thiết kế, chåt luqng vå hậu mãi
+- **A.** Quảng cáo, xúc tiến bán và truyền thông
+- **B.** Giá cả, thương hiệu và phân phối
+- **C.** Sản phẩm, dịch vụ, thông tin và trải nghiệm
+- **D.** Thiết kế, chất lượng và hậu mãi
+
 ### Câu 30
 
-Đối tượng cüa marketing KHÔNG chi là sån phäm vä dịch vụ, mä cön Iä:
+Đối tượng của marketing không chỉ là sản phẩm và dịch vụ, mà còn là:
 
-- **A.** Sự kién, trải nghiệm, vä cá nhân
-- **B.** Chi sản phẩm vå thông tin
-- **C.** Chi sv kién vå trải nghiệm
-- **D.** Chi sản phẩm vå dịch vụ
+- **A.** Sự kiện, trải nghiệm, và cá nhân
+- **B.** Chỉ sản phẩm và thông tin
+- **C.** Chỉ sự kiện và trải nghiệm
+- **D.** Chỉ sản phẩm và dịch vụ
+
 ### Câu 31
 
-Đâu KHÔNG phải là döi tuvng nghiên cứu cüa hQC phän Quản trị Marketing 1?
+Đâu KHÔNG phải là đối tượng nghiên cứu của học phần Quản trị Marketing 1?
 
-- **A.** Cåc quá trình, cåc khäu Quản trị marketing nhåm thöng dich cåc dữ liệu vé nhu cầu vå hành vi cüa thị trường mục tiêu.
-- **B.** Những ü'ng xü' cüa doanh nghi$p (vé mät chién luqc vä ké hoqch marketing, cåc công cụ marketing) nhåm thỏa mãn, dép I-leng hành vi vä dat töi mục tiêu cüa doanh nghiệp
-- **C.** Céc tåc nghiép marketing nhằm thöng dich cåc dữ liệu vé nhu cầu vå hành vi cüa thị trường mục tiêu.
-- **D.** Céc chính såch sån phäm, giå, phän phöi vä xüc tiền thương mại cüa doanh nghi$p
+- **A.** Các quá trình, các khâu quản trị marketing nhằm thông dịch dữ liệu về nhu cầu và hành vi của thị trường mục tiêu
+- **B.** Những ứng xử của doanh nghiệp về chiến lược, kế hoạch và công cụ marketing nhằm thỏa mãn thị trường
+- **C.** Các tác nghiệp marketing nhằm thông dịch dữ liệu về nhu cầu và hành vi của thị trường mục tiêu
+- **D.** Các chính sách sản phẩm, giá, phân phối và xúc tiến thương mại của doanh nghiệp
+
 ### Câu 32
 
-Yéu tö nào cö thé giúp duy trì sv trung thành cüa khåch häng tốt nhất?
+Yếu tố nào có thể giúp duy trì sự trung thành của khách hàng tốt nhất?
 
-- **A.** Chất lượng sản phẩm t6t nhåt
-- **B.** Giå cå hợp lý
-- **C.** Hé th6ng phän ph6i rong khåp
-- **D.** Cung Ong giá trị khách hàng tốt nhất
+- **A.** Chất lượng sản phẩm tốt nhất
+- **B.** Giá cả hợp lý
+- **C.** Hệ thống phân phối rộng khắp
+- **D.** Cung ứng giá trị khách hàng tốt nhất
+
 ### Câu 33
 
-Trong việc xác định mục tiêu chiến lược marketing, diéu nào dưới đây là yếu tố quan trong nhåt?
+Trong việc xác định mục tiêu chiến lược marketing, điều nào là yếu tố quan trọng nhất?
 
-- **A.** Täp trung våo viéc phåt trién sản phẩm möi må KHÔNG quan tam dén thị trường.
-- **B.** Xåc dinh cåc chién Iuqc truyền thông quång bå.
-- **C.** Xåc dinh cåc chi tiéu vé doanh số, thị phần vå lợi nhuận nhằm đo lường sự thành công cüa chién luqc.
-- **D.** Dua ra cåc chi tiéu tåi chính ngån hen.
+- **A.** Tập trung phát triển sản phẩm mới mà không quan tâm thị trường
+- **B.** Xác định các chiến lược truyền thông quảng bá
+- **C.** Xác định các chỉ tiêu về doanh số, thị phần và lợi nhuận nhằm đo lường thành công chiến lược
+- **D.** Đưa ra các chỉ tiêu tài chính ngắn hạn
+
 ### Câu 34
 
-Trong quá trình Quản trị marketing, khåi ni#m nào dưới đây mö tå việc phän chia thi tru'öng thänh cåc doen nhÖ h0'n dựa trên sv khåc bi#t trong nhu cầu, hänh vi h04c Céc đặc điểm nhân khẩu học/tâm lý xã hội?
+Trong quá trình quản trị marketing, khái niệm nào mô tả việc phân chia thị trường thành các đoạn nhỏ hơn dựa trên khác biệt trong nhu cầu, hành vi hoặc đặc điểm nhân khẩu học/tâm lý xã hội?
 
-- **A.** Phän doen thị trường
-- **B.** Mbi quan hé khåch häng
-- **C.** Thi truöng mục tiêu
+- **A.** Phân đoạn thị trường
+- **B.** Mối quan hệ khách hàng
+- **C.** Thị trường mục tiêu
 - **D.** Quản trị marketing
+
 ### Câu 35
 
-Đâu là vai trò cüa Marketing trong hoqch dinh chién IL*'Q'C dinh hw&ng thi tru'öng? O
+Đâu là vai trò của Marketing trong hoạch định chiến lược định hướng thị trường?
 
-- **A.** lå Câu nöi trung gian giữa hoạt động cüa doanh nghiệp vå thị trường, đảm bảo cho hoạt động cüa doanh nghiệp hướng đến thị trường, lấy thị trường låm mục tiêu kinh doanh.
-- **B.** Mang triết lý/định hướng, là đầu vào cüa hoach dinh
-- **C.** lå hinh thi-'pc quån l', trao dbi giüa khách hàng vå doanh nghiệp, lå công cụ giúp cho doanh nghiệp xây dựng vå duy trì möi quan vöi khách hàng.
-- **D.** bao gồm tät cå nhüng công việc hoạt động giúp cho nguöi tiéu đúng biết đến cüng nhu dua ra Iva chơn sản phẩm, dịch vụ hay thương hiệu.
+- **A.** Là cầu nối giữa hoạt động của doanh nghiệp và thị trường, đảm bảo hoạt động doanh nghiệp hướng đến thị trường, lấy thị trường làm mục tiêu kinh doanh
+- **B.** Mang triết lý/định hướng, là đầu vào của hoạch định
+- **C.** Là hình thức quản lý, trao đổi giữa khách hàng và doanh nghiệp, là công cụ giúp xây dựng quan hệ khách hàng
+- **D.** Bao gồm các hoạt động giúp người tiêu dùng biết đến và lựa chọn sản phẩm, dịch vụ hay thương hiệu
+

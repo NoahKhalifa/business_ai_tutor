@@ -10,7 +10,7 @@
 > - **KHÔNG xóa mục `pending` mà chưa làm.** Nếu không định làm nữa → mark `❌ Bỏ qua` + lý do.
 > - Cập nhật `Cập nhật lần cuối:` ở đầu file mỗi khi thay đổi.
 
-**Cập nhật lần cuối:** 2026-06-14 00:30 (QTCL chapter-review xong; thêm T-20260614-01 cho các môn còn lại)
+**Cập nhật lần cuối:** 2026-06-28 22:00 (T-20260614-01 hoàn thành: tạo file cho môn có câu hỏi ôn tập rõ, phân loại môn không áp dụng)
 
 ---
 
@@ -28,28 +28,7 @@
 
 ## 📝 Ưu tiên TRUNG BÌNH — Viết lại lời giải QT Marketing (boilerplate)
 
-### [T-20260611-08] Viết lại "Lời giải chi tiết" cho 5 chương QT Marketing
-- **Trạng thái:** pending
-- **Files:**
-  - `subjects/Quản trị marketing/solutions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuong-1_solution.md`
-  - `... chuong-2_solution.md`
-  - `... chuong-3_solution.md`
-  - `... chuong-4_solution.md`
-  - `... chuong-5_solution.md`
-- **Vấn đề hiện tại:** Phần "Lời giải chi tiết" của 35 câu × 5 chương đều dùng cùng 1 đoạn template copy-paste, không bàn nội dung câu hỏi cụ thể. Mục "Sai lầm thường gặp" cũng giống hệt nhau cho mọi câu. Sinh viên đọc chỉ thấy đáp án, không học được khái niệm.
-- **Hành động:** với mỗi câu, viết lại:
-  - Phân tích từng phương án A/B/C/D — vì sao đúng/sai.
-  - Trích đoạn bài giảng `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` (kèm dòng) khi định nghĩa khái niệm.
-  - "Sai lầm thường gặp" riêng cho câu đó.
-- **Pipeline:** chạy lại skill `exercise-solver` + `example-generator` + `answer-reviewer` cho từng chương.
-- **Thứ tự khuyến nghị:** Ch5 trước (gộp với việc sửa lỗi Q3 ở [T-20260611-05]), rồi Ch1 → Ch4.
-
-### [T-20260611-09] Bổ sung lời giải cho các câu OCR bị ghép — QT Marketing
-- **Trạng thái:** pending
-- **Vấn đề:** Một số câu (vd Q4, Q11 mỗi chương) đề bị OCR ghép/cắt, không đọc được đầy đủ. Solver vẫn in đáp án mà không cảnh báo "không có đề".
-- **Hành động:** mở PDF gốc, OCR lại câu bị lỗi → cập nhật MD đề → giải lại đúng.
-
----
+> [T-20260611-08] đã hoàn thành 2026-06-28. Xem chi tiết ở section `✅ Đã xong`.
 
 ## 📋 Ưu tiên THẤP — Làm lại các file _review.md
 
@@ -67,26 +46,7 @@
 
 ## 📚 Ưu tiên TRUNG BÌNH — Thêm "Đáp án ôn tập chương" cho các môn còn lại
 
-### [T-20260614-01] Tạo file `_chapter-review.md` trả lời câu hỏi ôn tập chương trong lecture summary — các môn còn lại
-- **Trạng thái:** pending
-- **Bối cảnh:** Ngày 2026-06-14 đã tạo file mẫu cho QTCL: `subjects/Quản trị chiến lược/lectures/md/quan-tri-chien-luoc_chapter-review.md` (42 câu × 7 chương). Cần áp dụng pattern tương tự cho 7 môn còn lại — *với điều kiện* lecture summary của môn đó có sẵn các mục "Câu hỏi ôn tập chương".
-- **Pattern áp dụng:**
-  - Đặt file ở `subjects/<môn>/lectures/md/<slug>_chapter-review.md`
-  - Front-matter: `source_lecture`, `created_at`, `subject`, `doc_type: "chapter_review"`, `chapters`, `total_questions`, `language: "vi"`
-  - Cấu trúc: 1 section/chương → mỗi câu trả lời gồm định nghĩa + bảng/khung + ví dụ DN VN (không bịa số liệu)
-  - Cross-link tới lecture summary đầu file
-- **Danh sách môn cần kiểm tra & xử lý:**
-  - [ ] Quản trị marketing — kiểm tra summary có Q ôn tập không, nếu có thì làm
-  - [ ] Mua và quản trị nguồn cung
-  - [ ] Quản trị tài chính
-  - [ ] Khởi sự kinh doanh
-  - [ ] Tâm lý quản trị kinh doanh
-  - [ ] Chủ nghĩa xã hội khoa học
-  - [ ] Tiếng Anh (nếu phù hợp — môn ngôn ngữ có thể không có Q ôn tập theo chương)
-- **Lưu ý khi triển khai:**
-  - Nếu summary không có sẵn "Câu hỏi ôn tập chương" → cần xem lecture gốc hoặc bỏ qua (warn user).
-  - Bám sát bài giảng của môn đó, không kéo công thức/khái niệm từ QTCL sang.
-  - Ưu tiên DN VN trong ví dụ, không bịa số liệu doanh thu/lợi nhuận cụ thể.
+> [T-20260614-01] đã hoàn thành 2026-06-28. Xem chi tiết ở section `✅ Đã xong`.
 
 ---
 
@@ -97,6 +57,40 @@ _(Trống — T-20260612-01 đã hoàn thành 2026-06-13.)_
 ---
 
 ## ✅ Đã xong (giữ 30 ngày)
+
+### [T-20260614-01] Tạo file `_chapter-review.md` trả lời câu hỏi ôn tập chương trong lecture summary — *hoàn thành 2026-06-28*
+- Bối cảnh: ngày 2026-06-14 đã có file mẫu QTCL `subjects/Quản trị chiến lược/lectures/md/quan-tri-chien-luoc_chapter-review.md` (42 câu × 7 chương). Ngày 2026-06-28 đã rà các môn còn lại và chỉ tạo file khi có block câu hỏi ôn tập rõ.
+- Đã tạo mới:
+  - `subjects/Chủ nghĩa xã hội khoa học/lectures/md/chu-nghia-xa-hoi-khoa-hoc_chapter-review.md` — 37 câu × 7 chương, lấy từ `chu-nghia-xa-hoi-khoa-hoc_summary.md`.
+  - `subjects/Tâm lý quản trị kinh doanh/lectures/md/tam-ly-quan-tri-kinh-doanh_chapter-review.md` — 19 câu × 6 chương, lấy từ lecture full `Text.md` vì môn này chưa có summary riêng chứa câu hỏi ôn tập.
+- Đã rà và không tạo file mới vì không có block "Câu hỏi ôn tập chương" rõ trong nguồn hiện có:
+  - Quản trị marketing: không có lecture summary/chapter-review source trong `lectures/md`.
+  - Mua và quản trị nguồn cung: lecture full hiện không có block "Câu hỏi ôn tập chương" tương tự.
+  - Quản trị tài chính: `Financial management_summary.md` chỉ có mục "Câu hỏi tự kiểm tra nhanh", chưa phải đáp án ôn tập chương.
+  - Khởi sự kinh doanh: `khoi-su-kinh-doanh_summary.md` chỉ có cụm "Năm câu hỏi cốt lõi", chưa phải block ôn tập chương.
+  - Tiếng Anh: không thấy nguồn lecture summary/chapter-review phù hợp trong `lectures/md`.
+- Verify:
+  - `rg -n "^### Câu|^## Chương|total_questions"` xác nhận CNXHKH có 37 câu và Tâm lý QTKD có 19 câu.
+  - `powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\check-project.ps1 -Subject "Tâm lý quản trị kinh doanh"` báo **Issues: none**.
+
+### [T-20260611-08] Viết lại "Lời giải chi tiết" cho 5 chương QT Marketing — *hoàn thành 2026-06-28*
+- Đã rewrite các solution QT Marketing Ch1-Ch5 theo MCQ compact: mỗi câu có đáp án, phân tích A/B/C/D riêng, dẫn dòng bài giảng, lưu ý/sai lầm riêng và ví dụ thực tế phù hợp.
+- Tiến độ:
+  - Ch5: re-extract PDF gốc, làm sạch đề MD, rewrite solution, cập nhật review round 3.
+  - Ch1: re-extract PDF gốc, phục hồi Q3/Q4/Q11, rewrite solution, cập nhật review round 3.
+  - Ch2: re-extract PDF gốc, phục hồi Q4/Q11, rewrite solution, cập nhật review round 3.
+  - Ch4: re-extract PDF gốc bằng `tools.pdf_extract`, phục hồi Q4/Q11/Q24, làm sạch đề MD, sửa Q3 theo wording PDF, rewrite solution, cập nhật review round 3 PASS.
+  - Ch3: rewrite lại ngày 2026-06-28 sau khi phát hiện file solution chỉ còn khung rỗng; cập nhật review round 4 PASS.
+- Verify: `powershell -NoProfile -ExecutionPolicy Bypass -File .\scripts\check-project.ps1 -Subject "Quản trị marketing"` báo **Issues: none**.
+
+### [T-20260611-09] Bổ sung lời giải cho các câu OCR bị ghép — QT Marketing — *hoàn thành 2026-06-28*
+- Đã mở/re-extract PDF gốc các chương QT Marketing bị OCR ghép/cắt và cập nhật đề/solution/review tương ứng.
+- Tiến độ:
+  - Ch5: phục hồi Q4 và Q24 từ PDF extract; đồng thời phát hiện Q3/Q23 trong MD cũ khác PDF và sửa theo PDF gốc.
+  - Ch1: phục hồi Q3, Q4, Q11 từ PDF extract và cập nhật đề/solution/review.
+  - Ch2: phục hồi Q4, Q11 từ PDF extract và cập nhật đề/solution/review.
+  - Ch3: xử lý OCR confusables ở [T-20260613-02].
+  - Ch4: phục hồi Q4, Q11, Q24 từ PDF extract ngày 2026-06-28, làm sạch đề, rewrite solution và cập nhật review round 3 PASS.
 
 ### [T-20260613-04] Mua & QTNC — Rewrite 6 file solution Ch1-Ch6 theo template MCQ mới — *hoàn thành 2026-06-14*
 - Đã rewrite xong toàn bộ 6 file solution Ch1-Ch6 theo template MCQ mới: phân tích riêng A/B/C/D, có dẫn dòng bài giảng, giảm boilerplate, thêm critical engagement khi lecture thiếu/gây nhầm/sai so với chuẩn ngành.
@@ -166,7 +160,7 @@ _(Trống — T-20260612-01 đã hoàn thành 2026-06-13.)_
   - **Cross-file**: Jaccard 5-gram ≥85% giữa các `_review.md` / `_solution.md` cùng môn.
   - **Intra-file**: 10-gram lặp ≥5 lần trong cùng 1 file (pattern phổ biến nhất ở solver MCQ).
   - Verify chạy thực tế: bắt đúng QT Marketing (top phrase x96-105) + Mua & QTNC (x45-78), không false-positive ở các môn template-rich khác (Khởi sự kinh doanh).
-- **Còn lại sau update này**: việc viết lại solution cũ (T-20260611-08, T-20260611-09) vẫn pending — skill mới sẽ áp dụng khi rewrite, không tự sửa cũ.
+- **Cập nhật 2026-06-28**: việc viết lại solution cũ ở [T-20260611-08] và OCR ghép/cắt QT Marketing [T-20260611-09] đều đã hoàn thành.
 
 ### [T-20260612-01] Dup detection cho check-project.ps1 — *hoàn thành 2026-06-13 (gộp với T-20260613-03)*
 - Đã implement trong `scripts/check-project.ps1` (functions: `Get-NormalizedBody`, `Get-ShingleSet`, `Get-JaccardSimilarity`, `Find-BoilerplateDuplicates`, `Get-IntraFileRepetition`, `Find-IntraFileBoilerplate`).

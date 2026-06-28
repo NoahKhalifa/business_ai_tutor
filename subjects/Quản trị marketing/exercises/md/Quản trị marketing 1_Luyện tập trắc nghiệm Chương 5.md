@@ -1,289 +1,332 @@
-﻿---
+---
 source_pdf: "Quản trị marketing 1_Luyện tập trắc nghiệm Chương 5.pdf"
 source_hash: "sha256:069d9fef8afcbbc24543a592238cd15cf083fdd7c69cb005192443eb53e4bf3b"
 converted_at: "2026-06-11T22:33:38+07:00"
+cleaned_at: "2026-06-27T01:20:00Z"
 subject: "quan-tri-marketing"
 doc_type: "exercise"
 pages: 19
 ocr_used: true
-ocr_language: "en-US (Vietnamese OCR unavailable; accents may be degraded)"
+ocr_verified_from_pdf_extract: true
 ---
 
 # Quản trị marketing 1_Luyện tập trắc nghiệm Chương 5
 
-> Bản này đã được làm sạch từ OCR PDF ảnh/form Onschool: bỏ header/footer/URL, tách câu hỏi và phương án A-D để dễ học. Một số dấu tiếng Việt vẫn có thể chưa hoàn hảo vì máy không có OCR tiếng Việt.
+> Bản này đã được làm sạch lại ngày 2026-06-27 từ PDF gốc bằng `python -m tools.pdf_extract`; Q3, Q4, Q23 và Q24 đã thay placeholder/OCR cũ bằng nội dung đọc được từ PDF.
 
 ## Câu hỏi trắc nghiệm
 
 ### Câu 1
 
-Thoät sao việc näng cao chät Iwpng sån phäm trong giai doqn phåt trién là mét chién ILI'Q'C quan trpng?
+Tại sao việc nâng cao chất lượng sản phẩm trong giai đoạn phát triển lại là một chiến lược quan trọng?
 
-- **A.** Để giåm chi phi sån xuät trén m6i don vi sản phẩm
-- **B.** Vi thị trường dä dat moc bäo höa vä cän cåi tiền dé kéo däi vöng döi
-- **C.** Để d6i phö vöi sv gia nhäp cüa cåc đối thủ cạnh tranh
-- **D.** Để täng giá bán sản phẩm nhåm t6i da höa lợi nhuận
+- **A.** Để giảm chi phí sản xuất trên mỗi đơn vị sản phẩm
+- **B.** Vì thị trường đã đạt mức bão hòa và cần cải tiến để kéo dài vòng đời
+- **C.** Để đối phó với sự gia nhập của các đối thủ cạnh tranh
+- **D.** Để tăng giá bán sản phẩm nhằm tối đa hóa lợi nhuận
+
 ### Câu 2
 
-Dinh vi thänh cöng trong marketing KHÔNG chi là xäy dvng vä truyén cåc giá trị déc trwng cüa thwong hi#u mä cön cän phåi Iäm gi thém?
+Định vị thành công trong marketing không chỉ là xây dựng và truyền đạt các giá trị đặc trưng của thương hiệu mà còn cần phải làm gì thêm?
 
-- **A.** Tao ra sự khác biệt rö ret giữa thương hiệu cüa ban vå cåc đối thủ cạnh tranh.
-- **B.** Täp trung våo viéc giåm chi sản phẩm xuöng moc t6i thiéu.
-- **C.** Xåc dinh mét thị trường mục tiêu rong lön.
-- **D.** Cung cäp tåt cå cåc sản phẩm vä dịch vụ ö mü'C giå thåp.
+- **A.** Tạo ra sự khác biệt rõ rệt giữa thương hiệu của bạn và các đối thủ cạnh tranh
+- **B.** Tập trung vào việc giảm chi phí sản phẩm xuống mức tối thiểu
+- **C.** Xác định một thị trường mục tiêu rộng lớn
+- **D.** Cung cấp tất cả các sản phẩm và dịch vụ ở mức giá thấp
+
 ### Câu 3
 
-Trong giai doqn phåt trién, doanh nghi#p thu'öng:
+Trong giai đoạn phát triển, doanh nghiệp thường:
 
-- **A.** Chåm dü't hoän toån sản phẩm vä tap trung väo sản phẩm ké nhiém
-- **B.** Tăng cuöng quảng cáo dé duy trì nhän dién thương hiệu
-- **C.** Giảm giå säu dé xå hång tbn kho nhanh chöng
-- **D.** Chuyén huöng bån hång cho cåc doanh nghiệp nhö hoäc tb choc giåo duc cän sån phäm giå ré Q
+- **A.** Sản xuất các hàng hoá có mẫu mã lỗi mốt
+- **B.** Không quan tâm nhiều đến cạnh tranh
+- **C.** Sử dụng chiến lược marketing để kéo dài mức tăng trưởng nhanh của thị trường càng lâu càng tốt
+- **D.** Định giá sản phẩm cao hơn để khẳng định vị thế
+
 ### Câu 4
 
-> Ghi chú OCR: câu này bị ghép với câu/trang lân cận trong bản OCR thô; xem PDF gốc hoặc solution tương ứng để đối chiếu.
+Công ty X kinh doanh máy tính xách tay. Một sản phẩm chủ lực, "Laptop Pro 15", đã ở giai đoạn suy thoái; doanh số giảm vì sản phẩm mới của đối thủ cấu hình cao hơn, giá thấp hơn. Nếu là nhà quản lý sản phẩm, bạn sẽ áp dụng chiến lược nào để tối đa hóa giá trị từ "Laptop Pro 15"?
+
+- **A.** Chấm dứt hoàn toàn sản phẩm và tập trung vào sản phẩm kế nhiệm
+- **B.** Tăng cường quảng cáo để duy trì nhận diện thương hiệu
+- **C.** Giảm giá sâu để xả hàng tồn kho nhanh chóng
+- **D.** Chuyển hướng bán hàng cho các doanh nghiệp nhỏ hoặc tổ chức giáo dục cần sản phẩm giá rẻ
 
 ### Câu 5
 
-Đâu là mét trong nhü'ng yếu tố quan trpng dé phân đoạn thi tru'öng B2C hi#n nay?
+Đâu là một trong những yếu tố quan trọng để phân đoạn thị trường B2C hiện nay?
 
-- **A.** KHÔNG cän thay đổi theo xu huöng tiéu đúng
-- **B.** Phän doan chi dựa trên dia IY vä nhän khåu hoc
-- **C.** Chi sü' dung mét yéu t6 phân đoạn duy nhåt
-- **D.** Sự thay đổi trong hänh vi vå tam IY cüa cåc thé hé, tång löp xã hội
+- **A.** Không cần thay đổi theo xu hướng tiêu dùng
+- **B.** Phân đoạn chỉ dựa trên địa lý và nhân khẩu học
+- **C.** Chỉ sử dụng một yếu tố phân đoạn duy nhất
+- **D.** Sự thay đổi trong hành vi và tâm lý của các thế hệ, tầng lớp xã hội
+
 ### Câu 6
 
-Dién väo trong khåi ni#m sau: "... là quá trình trién khai cåc công cụ, néi dung vä tåi Câu trüc chiến lược marketing được hoqch dinh Chung cho Céc nh6m SBUs cüa Céc doanh nghi#p thuếc cing ngành kinh doanh, xác định dé löp cåc can bäng vä thich nghi nhằm näng cao hi#u suät thvc hi#n sü' mqng vä mục tiêu chién ILI'Q'C marketing dä được xåc löp trong môi trường marketing cüa doanh nghi#p thu'öng xuyén thay döi vä cé tinh dét bién chién lwec"
+Điền vào “…”: “… là quá trình triển khai các công cụ, nội dung và tái cấu trúc chiến lược marketing được hoạch định chung cho các nhóm SBUs... nhằm nâng cao hiệu suất thực hiện sứ mạng và mục tiêu chiến lược marketing...”
 
-- **A.** Hoech dinh chién luqc marketing
-- **B.** Phát triển chién luqc marketing
-- **C.** Quản trị chién Iuqc marketing
-- **D.** Xäy dung chién Iuqc marketing
+- **A.** Hoạch định chiến lược marketing
+- **B.** Phát triển chiến lược marketing
+- **C.** Quản trị chiến lược marketing
+- **D.** Xây dựng chiến lược marketing
+
 ### Câu 7
 
-Mö thü'C BCG dé phân tích hö so kinh doanh duvc xäy dvng dựa trên hai yếu tố nào?
+Mô thức BCG để phân tích hồ sơ kinh doanh được xây dựng dựa trên hai yếu tố nào?
 
-- **A.** Khå näng cạnh tranh vå sv håp dän cüa thị trường
-- **B.** Thi phån tuong d6i vä lợi nhuận
-- **C.** Töc dé täng truöng thị trường vå sü'C manh cüa doanh nghiệp
-- **D.** T6c dé täng truöng thị trường vä thi phån tuong d6i
+- **A.** Khả năng cạnh tranh và sự hấp dẫn của thị trường
+- **B.** Thị phần tương đối và lợi nhuận
+- **C.** Tốc độ tăng trưởng thị trường và sức mạnh của doanh nghiệp
+- **D.** Tốc độ tăng trưởng thị trường và thị phần tương đối
+
 ### Câu 8
 
-Doanh nghi#p cän phåt hi#n nhü'ng doqn thi tru'öng nào dé phyc vv hi#u quå?
+Doanh nghiệp cần phát hiện những đoạn thị trường nào để phục vụ hiệu quả?
 
-- **A.** Những khách hàng dé phuc vv nhåt
-- **B.** Tåt cå cåc doen thị trường hién cö
-- **C.** Những doen thị trường håp dän nhåt, phü hep vöi näng luc vä mục tiêu cüa doanh nghi$p
-- **D.** Tåt cå cåc khách hàng trén thị trường rong lön Q
+- **A.** Những khách hàng dễ phục vụ nhất
+- **B.** Tất cả các đoạn thị trường hiện có
+- **C.** Những đoạn thị trường hấp dẫn nhất, phù hợp với năng lực và mục tiêu của doanh nghiệp
+- **D.** Tất cả các khách hàng trên thị trường rộng lớn
+
 ### Câu 9
 
-Theo Ries & Trout, doanh nghi#p dinh vi bằng cách nào sau đây:
+Theo Ries & Trout, doanh nghiệp định vị bằng cách nào sau đây?
 
-- **A.** Sån phåm vä dịch vụ duec dinh vi trong tam tri khåch häng mục tiêu
-- **B.** Doanh nghiép vän hånh tuyét hå
-- **C.** Doanh nghiép thän thién vöi khách hàng
-- **D.** Doanh nghiép länh dao vé sản phẩm
+- **A.** Sản phẩm và dịch vụ được định vị trong tâm trí khách hàng mục tiêu
+- **B.** Doanh nghiệp vận hành tuyệt hảo
+- **C.** Doanh nghiệp thân thiện với khách hàng
+- **D.** Doanh nghiệp lãnh đạo về sản phẩm
+
 ### Câu 10
 
-Hoạt động nào sau đây KHÔNG là mét bu'Öc trong quá trình hoqch dinh chién Iwpc:
+Hoạt động nào sau đây KHÔNG là một bước trong quá trình hoạch định chiến lược?
 
-- **A.** Hoech dinh chién luqc marketing vå cåc chién lupc chi-Tc näng khåc
-- **B.** Xác lập mục tiêu cüa doanh nghiệp
-- **C.** Thiết kế danh muc däu tu kinh doanh
-- **D.** Hep tåc vöi cåc nhä cung cấp trén nhiéu phuong dién
+- **A.** Hoạch định chiến lược marketing và các chiến lược chức năng khác
+- **B.** Xác lập mục tiêu của doanh nghiệp
+- **C.** Thiết kế danh mục đầu tư kinh doanh
+- **D.** Hợp tác với các nhà cung cấp trên nhiều phương diện
+
 ### Câu 11
 
-Dién väo trong khåi ni#m sau: ... là thi tru'öng bao gồm cåc khåch häng cé cing nhu cầu hoäc mong muốn mä doanh nghi#p cé khả năng dép L'png; döng thö'i cé thé ra wu thé hơn so đối thủ cenh tranh vä được cåc mục tiêu marketing dä dinh"
+Điền vào “…”: “… là thị trường bao gồm các khách hàng có cùng nhu cầu hoặc mong muốn mà doanh nghiệp có khả năng đáp ứng; đồng thời có thể tạo ra ưu thế hơn so với đối thủ cạnh tranh và đạt được các mục tiêu marketing đã định”.
 
-- **A.** Thi truöng mục tiêu
-- **B.** Thi truöng tbng thé
-- **C.** Phän doen thị trường
-- **D.** Thi truöng ngåch
+- **A.** Thị trường mục tiêu
+- **B.** Thị trường tổng thể
+- **C.** Phân đoạn thị trường
+- **D.** Thị trường ngách
+
 ### Câu 12
 
-Vi#c däu tiền khi löp ké hoqch chién ILI'Q'C mä doanh nghi#p cän Iäm dé Iä:
+Việc đầu tiên khi lập kế hoạch chiến lược mà doanh nghiệp cần làm là:
 
-- **A.** Xåc dinh sü' mang kinh doanh
-- **B.** Xåc dinh mục tiêu
-- **C.** Phän tich hö so kinh doanh 819825
-- **D.** Lua chơn cåc chién luoc cạnh tranh
+- **A.** Xác định sứ mạng kinh doanh
+- **B.** Xác định mục tiêu
+- **C.** Phân tích hồ sơ kinh doanh
+- **D.** Lựa chọn các chiến lược cạnh tranh
+
 ### Câu 13
 
-Khi ép dung chiến lược di bi#t höa kénh phän phöi, doanh nghi#p nào dwöi đây cé thé gäp phåi thåch thü'C nhät trong việc duy trì Ipi thé cqnh tranh? O
+Khi áp dụng chiến lược dị biệt hóa kênh phân phối, doanh nghiệp nào có thể gặp thách thức lớn nhất trong việc duy trì lợi thế cạnh tranh?
 
-- **A.** Doanh nghiép åp dung hé th6ng phän ph6i da kénh, bao gồm cå truc tuyén vå ngoqi tuyén
-- **B.** Doanh nghiép phän phöi sản phẩm Chü yéu qua cåc kénh bån lé truc tiép vöi cåc cü'a hång chi nhånh
-- **C.** Doanh nghiép sü' dung kênh phân phối truyén th6ng nhung duy trì chính såch giå råt linh hoat
-- **D.** Doanh nghiép chi tap trung våo mét kénh phän phöi duy nhåt, nhung phåt trién säu rong kénh dö
+- **A.** Doanh nghiệp áp dụng hệ thống phân phối đa kênh, bao gồm cả trực tuyến và ngoại tuyến
+- **B.** Doanh nghiệp phân phối sản phẩm chủ yếu qua các kênh bán lẻ trực tiếp với các cửa hàng chi nhánh
+- **C.** Doanh nghiệp sử dụng kênh phân phối truyền thống nhưng duy trì chính sách giá rất linh hoạt
+- **D.** Doanh nghiệp chỉ tập trung vào một kênh phân phối duy nhất, nhưng phát triển sâu rộng kênh đó
+
 ### Câu 14
 
-Marketing phän doqn (segment marketing) xác định nhóm khåch häng dựa trên yếu tố
+Marketing phân đoạn xác định nhóm khách hàng dựa trên yếu tố nào?
 
-- **A.** SW thay đổi lién tuc cüa thi hiéu
-- **B.** Mong muốn, soc mua, vi tri dia ly, thåi dé vä thöi quen mua hång giöng nhau
-- **C.** Sån phåm vä thöng diép truyền thông khác biệt
-- **D.** Giå cå sản phẩm
+- **A.** Sự thay đổi liên tục của thị hiếu
+- **B.** Mong muốn, sức mua, vị trí địa lý, thái độ và thói quen mua hàng giống nhau
+- **C.** Sản phẩm và thông điệp truyền thông khác biệt
+- **D.** Giá cả sản phẩm
+
 ### Câu 15
 
-Trong mö hinh chu ky söng cüa sån phäm, sv' khåc bi#t giữa thi tru•'öng hep nhåt vä thi tru'öng chia cät trong giai doqn bäo höa là gi?
+Trong mô hình chu kỳ sống sản phẩm, sự khác biệt giữa thị trường hợp nhất và thị trường chia cắt trong giai đoạn bão hòa là gì?
 
-- **A.** Thi truöng hep nhåt läm giåm Sö luqng đối thủ cạnh tranh, cön thị trường chia cät Iäm täng sự phän höa giüa cåc doanh nghiệp
-- **B.** Thi truöng hep nhät tap trung väo giåm giå, cön thị trường chia cåt tap trung väo döi möi sån phäm
-- **C.** Thi truöng hep nhåt cö sv cqnh tranh gay gät, cön thị trường chia cät cö cåc phân đoạn khåch häng riéng bi$t
-- **D.** Thi truöng hep nhåt chi cö mét sản phẩm Chü lvc, cön thị trường chia cät cö nhiéu sản phẩm thay thé
+- **A.** Thị trường hợp nhất làm giảm số lượng đối thủ cạnh tranh, còn thị trường chia cắt làm tăng sự phân hóa giữa các doanh nghiệp
+- **B.** Thị trường hợp nhất tập trung vào giảm giá, còn thị trường chia cắt tập trung vào đổi mới sản phẩm
+- **C.** Thị trường hợp nhất có sự cạnh tranh gay gắt, còn thị trường chia cắt có các phân đoạn khách hàng riêng biệt
+- **D.** Thị trường hợp nhất chỉ có một sản phẩm chủ lực, còn thị trường chia cắt có nhiều sản phẩm thay thế
+
 ### Câu 16
 
-Trong giai doqn phåt trién cüa chu ky söng sån phäm, nhü'ng cöng cv nào thu'öng được Céc nhä Quản trị marketing thvc hi#n nhằm det mục tiêu nh#n biét vä kich thich ding thü' đối với khåch häng mục tiêu?
+Trong giai đoạn phát triển của chu kỳ sống sản phẩm, những công cụ nào thường được thực hiện nhằm đạt mục tiêu nhận biết và kích thích dùng thử đối với khách hàng mục tiêu?
 
-- **A.** Sån phåm vä giá cả
-- **B.** Kénh phän ph6i vå sản phẩm
-- **C.** Giå cå vå kénh phän phöi
-- **D.** Giå cå vä xüc tiền thuong mai
+- **A.** Sản phẩm và giá cả
+- **B.** Kênh phân phối và sản phẩm
+- **C.** Giá cả và kênh phân phối
+- **D.** Giá cả và xúc tiến thương mại
+
 ### Câu 17
 
-Dién väo trong khåi ni#m sau: ... là mét xác định cåc thi tru'öng trọng điểm, Iva chợn dinh vi cqnh tranh vä trién khai mét marketing-mix hü'u hi#u dé thu hüt vä thỏa mãn duvc Céc khåch häng dä Iva chợn"
+Điền vào “…”: “… là một tập xác định các thị trường trọng điểm, lựa chọn định vị cạnh tranh và triển khai một marketing-mix hữu hiệu để thu hút và thỏa mãn được các khách hàng đã lựa chọn”.
 
 - **A.** Marketing mục tiêu
-- **B.** Marketing chién Iuqc
+- **B.** Marketing chiến lược
 - **C.** Marketing mix
-- **D.** Marketing tåc nghiép
+- **D.** Marketing tác nghiệp
+
 ### Câu 18
 
-Để phân đoạn thi tru'öng doanh nghi#p (B2B) hi#u quå, yếu tố nào dưới đây là cần thiết?
+Để phân đoạn thị trường doanh nghiệp (B2B) hiệu quả, yếu tố nào là cần thiết?
 
-- **A.** KHÔNG cän quan tam dén möi quan giữa nguöi mua vä nguöi bån
-- **B.** Chi sü' dung cåc yéu t6 nhän khåu hoc
-- **C.** Phän doan chi dựa trên quy mö doanh nghiệp
-- **D.** Cän cö sự phän biét rö rång vé khåi ni$rn vå dåp (png marketing mix khåc nhau
+- **A.** Không cần quan tâm đến mối quan hệ giữa người mua và người bán
+- **B.** Chỉ sử dụng các yếu tố nhân khẩu học
+- **C.** Phân đoạn chỉ dựa trên quy mô doanh nghiệp
+- **D.** Cần có sự phân biệt rõ ràng về khái niệm và đáp ứng marketing mix khác nhau
+
 ### Câu 19
 
-Dinh vi trong marketing cö thé hiéu là gi?
+Định vị trong marketing có thể hiểu là gì?
 
-- **A.** Thiết kế sản phẩm sao cho dep måt.
-- **B.** Dåm båo sản phẩm luön cö chät luqng cao.
-- **C.** Céc hånh döng teo dvng hinh ånh cüa doanh nghiệp dé giånh ch6 déng trong täm tri khåch häng.
-- **D.** Cung cäp sản phẩm vöi giá cả cạnh tranh.
+- **A.** Thiết kế sản phẩm sao cho đẹp mắt
+- **B.** Đảm bảo sản phẩm luôn có chất lượng cao
+- **C.** Các hành động tạo dựng hình ảnh của doanh nghiệp để giành chỗ đứng trong tâm trí khách hàng
+- **D.** Cung cấp sản phẩm với giá cả cạnh tranh
+
 ### Câu 20
 
-Néi dung dénh giå Céc phân đoạn thi tru'öng KHÔNG göm:
+Nội dung đánh giá các phân đoạn thị trường KHÔNG gồm:
 
-- **A.** Quy mö vå täng truöng cüa phän doan
-- **B.** Muc tiéu phân đoạn thị trường
-- **C.** Muc tiéu vä ngubn luc cüa doanh nghiệp
-- **D.** Sü'C häp dän vé Câu trüc cüa phân đoạn
+- **A.** Quy mô và sức tăng trưởng của phân đoạn
+- **B.** Mục tiêu phân đoạn thị trường
+- **C.** Mục tiêu và nguồn lực của doanh nghiệp
+- **D.** Sức hấp dẫn về cấu trúc của phân đoạn
+
 ### Câu 21
 
-Khi åp dung chiến lược marketing quöc té, doanh nghi#p nén Iäm gi dé töi upu höa chi phi vä hi#u quå khi sån phäm vä dịch vụ cän phåi thich nghi vö'i tü'ng khu vv'c thi tru'öng?
+Khi áp dụng chiến lược marketing quốc tế, doanh nghiệp nên làm gì để tối ưu hóa chi phí và hiệu quả khi sản phẩm/dịch vụ cần thích nghi với từng khu vực thị trường?
 
-- **A.** Tiéu chuan höa sản phẩm vå dịch vụ mpi thị trường, giåm chi phi vå täng hi$u quå
-- **B.** SO dung chién luqc marketing döng nhåt nhung thay đổi cåch thi.Tc phän ph6i tai m6i thị trường
-- **C.** Åp dung mét chién Iupc marketing hoån toån giöng nhau ö tät cå cåc thị trường
-- **D.** Tüy Chinh tü'ng yéu t6 trong marketing-mix cho tü'ng thị trường cụ thể
+- **A.** Tiêu chuẩn hóa sản phẩm và dịch vụ ở mọi thị trường
+- **B.** Sử dụng chiến lược marketing đồng nhất nhưng thay đổi cách thức phân phối tại mỗi thị trường
+- **C.** Áp dụng một chiến lược marketing hoàn toàn giống nhau ở tất cả thị trường
+- **D.** Tùy chỉnh từng yếu tố trong marketing-mix cho từng thị trường cụ thể
+
 ### Câu 22
 
-Câu trüc mét chiến lược Chung marketing KHÔNG göm néi dung nào sau đây:
+Cấu trúc một chiến lược chung marketing KHÔNG gồm nội dung nào sau đây?
 
-- **A.** Marketing mix.
-- **B.** Marketing mục tiêu.
-- **C.** Chinh såch marketing.
-- **D.** Ngän såch marketing.
+- **A.** Marketing mix
+- **B.** Marketing mục tiêu
+- **C.** Chính sách marketing
+- **D.** Ngân sách marketing
+
 ### Câu 23
 
-Khi dånh giå sv phi hep giữa mục tiêu vä nguön Ivc cüa doanh nghi#p vö'i mét phän doqn thi tru'öng mục tiêu, yếu tố nào dưới đây là quan trong nhåt?
+Khi đánh giá sự phù hợp giữa mục tiêu và nguồn lực của doanh nghiệp với một phân đoạn thị trường mục tiêu, yếu tố nào quan trọng nhất?
 
-- **A.** Thöng tin cho nguöi tiéu đúng vé sản phẩm
-- **B.** Thu hüt cåc nhå phän ph6i tham gia kénh
-- **C.** Kich thich khåch häng đúng thi-p sản phẩm
-- **D.** Bån cåt 16 dé thu loi nhuän
+- **A.** Các yếu tố văn hóa và xã hội ảnh hưởng đến nhu cầu của phân đoạn
+- **B.** Các yêu cầu về tài chính, công nghệ và nhân lực của doanh nghiệp
+- **C.** Mức độ tăng trưởng của phân đoạn thị trường
+- **D.** Sự chênh lệch về quy mô giữa doanh nghiệp và phân đoạn thị trường
+
 ### Câu 24
 
-> Ghi chú OCR: câu này bị ghép với câu/trang lân cận trong bản OCR thô; xem PDF gốc hoặc solution tương ứng để đối chiếu.
+Trong giai đoạn giới thiệu, chiến lược marketing thường KHÔNG tập trung vào mục tiêu nào?
+
+- **A.** Thông tin cho người tiêu dùng về sản phẩm
+- **B.** Thu hút các nhà phân phối tham gia kênh
+- **C.** Kích thích khách hàng dùng thử sản phẩm
+- **D.** Bán cắt lỗ để thu lợi nhuận
 
 ### Câu 25
 
-Chién ILPQ'C "xäm nh#p chöp nhoång'l trong giai doqn giöi thi#u sån phäm cé nhu'Q'C diém gi khi thi tru'öng KHÔNG dü lön?
+Chiến lược “xâm nhập chớp nhoáng” trong giai đoạn giới thiệu sản phẩm có nhược điểm gì khi thị trường không đủ lớn?
 
-- **A.** Khö thuyét phuc nhä phän ph6i chåp nhän sản phẩm möi
-- **B.** TY lé lợi nhuận trén m6i don vi sản phẩm thåp, dé gay 16 néu KHÔNG dat dü doanh số
-- **C.** KHÔNG dü khả năng döi phö vöi cåc đối thủ tiém näng trén thị trường
-- **D.** Chi phí quảng cáo vä khuyén mäi cao dän dén khö thu hbi v6n däu tu
+- **A.** Khó thuyết phục nhà phân phối chấp nhận sản phẩm mới
+- **B.** Tỷ lệ lợi nhuận trên mỗi đơn vị sản phẩm thấp, dễ gây lỗ nếu không đạt đủ doanh số
+- **C.** Không đủ khả năng đối phó với các đối thủ tiềm năng trên thị trường
+- **D.** Chi phí quảng cáo và khuyến mãi cao dẫn đến khó thu hồi vốn đầu tư
+
 ### Câu 26
 
-Dién väo trong khåi ni#m sau: ... là việc phân tích cåc co héi thi tru'öng vä xåc löp chién ILI'Q'C marketing däi hen vä mét Câu trüc tupong hep cåc chién ILI'Q'C marketing mục tiêu, chiến lược chäo häng thi tru'öng, chiến lược kénh marketing, chiến lược xüc tiền hön hep vä quy hoqch Céc nguön IV'C chién IL*'Q'C marketing dé đảm bảo mục tiêu chiến lược dä được xåc 14p cüa doanh nghlep .
+Điền vào “…”: “… là việc phân tích các cơ hội thị trường và xác lập chiến lược marketing dài hạn... để đảm bảo đạt tới mục tiêu chiến lược đã được xác lập của doanh nghiệp”.
 
-- **A.** Nghién cou marketing
-- **B.** Chién luqc marketing
-- **C.** Dibu tra marketing
-- **D.** Läp ké hoach marketing
+- **A.** Nghiên cứu marketing
+- **B.** Chiến lược marketing
+- **C.** Điều tra marketing
+- **D.** Lập kế hoạch marketing
+
 ### Câu 27
 
-Nh#n dinh nào sau đây KHÔNG DÜNG khi Iva chơn thi tru'öng mục tiêu?
+Nhận định nào KHÔNG ĐÚNG khi lựa chọn thị trường mục tiêu?
 
-- **A.** Cåc doanh nghiệp lön thuöng tiép can doen thị trường nhö.
-- **B.** Cåc doanh nghiệp lön thuöng bö qua doen thị trường cö quy mö nhö.
-- **C.** Céc doanh nghiệp nhö buöc däu tiép cän doen thị trường nhö vä KHÔNG döi höi quå nhiéu tåi lvc.
-- **D.** Céc doanh nghiệp lön huöng töi doen thị trường cé quy mö lön.
+- **A.** Các doanh nghiệp lớn thường tiếp cận đoạn thị trường nhỏ
+- **B.** Các doanh nghiệp lớn thường bỏ qua đoạn thị trường có quy mô nhỏ
+- **C.** Các doanh nghiệp nhỏ bước đầu tiếp cận đoạn thị trường nhỏ và không đòi hỏi quá nhiều tài lực
+- **D.** Các doanh nghiệp lớn hướng tới đoạn thị trường có quy mô lớn
+
 ### Câu 28
 
-819825 Đâu KHÔNG phải là co' Sö dé phân đoạn thi tru'öng theo cåch tiép cüa Rackman & Vincentis?
+Đâu KHÔNG phải là cơ sở để phân đoạn thị trường theo cách tiếp cận của Rackman & Vincentis?
 
-- **A.** Khåch häng định hướng giá trị chién Iuqc
-- **B.** Khåch hång định hướng thi phån
-- **C.** Khåch hång định hướng giåi phåp
-- **D.** Khåch hång định hướng giá cả
+- **A.** Khách hàng định hướng giá trị chiến lược
+- **B.** Khách hàng định hướng thị phần
+- **C.** Khách hàng định hướng giải pháp
+- **D.** Khách hàng định hướng giá cả
+
 ### Câu 29
 
-Quå trinh bién Céc chiến lược vä ké hoqch Marketing thänh cåc hänh déng cv thé nhằm hoän thänh cåc mục tiêu marketing chiến lược được goi Iä:
+Quá trình biến các chiến lược và kế hoạch Marketing thành các hành động cụ thể nhằm hoàn thành các mục tiêu marketing chiến lược được gọi là:
 
-- **A.** Chién Iuqc Marketing
+- **A.** Chiến lược Marketing
 - **B.** Kiểm soát Marketing
-- **C.** Thvc thi marketing
-- **D.** Phän tich marketing
+- **C.** Thực thi marketing
+- **D.** Phân tích marketing
+
 ### Câu 30
 
-819825 Trong giai doqn suy thoåi, néu buéc phåi 10?i bö sản phẩm, doanh nghi#p thu'öng:
+Trong giai đoạn suy thoái, nếu buộc phải loại bỏ sản phẩm, doanh nghiệp thường:
 
-- **A.** Loai bö ngay sản phẩm khi doanh số sut giåm.
-- **B.** I-oei bö néu sản phẩm KHÔNG cön ch6 dong trén thị trường.
-- **C.** Phåi can nhäc råt ky ảnh hưởng dén cåc bén hü'u quan truöc khi ra quyét dinh.
-- **D.** Chi loqi bö khi dä cö sản phẩm thay thé.
+- **A.** Loại bỏ ngay sản phẩm khi doanh số sụt giảm
+- **B.** Loại bỏ nếu sản phẩm không còn chỗ đứng trên thị trường
+- **C.** Phải cân nhắc rất kỹ ảnh hưởng đến các bên hữu quan trước khi ra quyết định
+- **D.** Chỉ loại bỏ khi đã có sản phẩm thay thế
+
 ### Câu 31
 
-Trong các cấp độ marketing mục tiêu, cấp độ nào cé khả năng phåt hi#n co héi thi tru'öng chupa được khai thåc vä teo ra Ipi thé cqnh tranh cao nhåt?
+Trong các cấp độ marketing mục tiêu, cấp độ nào có khả năng phát hiện cơ hội thị trường chưa được khai thác và tạo ra lợi thế cạnh tranh cao nhất?
 
-- **A.** Marketing phän doan
+- **A.** Marketing phân đoạn
 - **B.** Marketing cá nhân
-- **C.** Marketing ngåch
-- **D.** Marketing dia phi-pong
+- **C.** Marketing ngách
+- **D.** Marketing địa phương
+
 ### Câu 32
 
-Phupong ån nào sau đây là rüi ro khi doanh nghi#p chơn chiến lược "T@p trung väo mét phän doqn thi tru'öng"?
+Phương án nào là rủi ro khi doanh nghiệp chọn chiến lược “Tập trung vào một phân đoạn thị trường”?
 
-- **A.** Doanh nghiép cé thé chiém ITnh thị trường nhanh chöng
-- **B.** Rüi ro cao vi sv thånh bai cüa doanh nghiöp phu thuöc våo mét phän doan duy nhåt
-- **C.** Doanh nghiép cé thé dé dång xäy dvng möi quan vöi khách hàng trong phân đoạn
-- **D.** Doanh nghiép cé thé dé dång mö rong quy mö sån xuät
+- **A.** Doanh nghiệp có thể chiếm lĩnh thị trường nhanh chóng
+- **B.** Rủi ro cao vì sự thành bại của doanh nghiệp phụ thuộc vào một phân đoạn duy nhất
+- **C.** Doanh nghiệp có thể dễ dàng xây dựng mối quan hệ với khách hàng trong phân đoạn
+- **D.** Doanh nghiệp có thể dễ dàng mở rộng quy mô sản xuất
+
 ### Câu 33
 
-Mét trong nhü'ng yếu tố quan trpng nhåt khi Iva chơn phän doqn thi trwö'ng mục tiêu là gi?
+Một trong những yếu tố quan trọng nhất khi lựa chọn phân đoạn thị trường mục tiêu là gì?
 
-- **A.** Xem xét khả năng tài chính vä công nghệ cüa doanh nghiệp
-- **B.** Dånh giå xem phân đoạn thị trường cö đối thủ cạnh tranh manh KHÔNG
-- **C.** Dånh giå quy mö vä moc dé täng truöng cüa phân đoạn
-- **D.** Xåc dinh nhüng sản phẩm cö sån trén thị trường
+- **A.** Xem xét khả năng tài chính và công nghệ của doanh nghiệp
+- **B.** Đánh giá xem phân đoạn thị trường có đối thủ cạnh tranh mạnh không
+- **C.** Đánh giá quy mô và mức độ tăng trưởng của phân đoạn
+- **D.** Xác định những sản phẩm có sẵn trên thị trường
+
 ### Câu 34
 
-819825 Trong giai doqn bäo hoä, doanh nghi#p thu'öng:
+Trong giai đoạn bão hoà, doanh nghiệp thường:
 
-- **A.** Doanh nghiép Iuön tv höi cåi gi dä dién ra.
-- **B.** Sü' dung cåc công cụ xüc tiền thuong mai dé duy trì doanh sö.
-- **C.** Doanh nghiép Iäm cho sv viéc dién ra.
-- **D.** Doanh nghiép dong nhin sự viéc dién ra.
+- **A.** Doanh nghiệp luôn tự hỏi cái gì đã diễn ra
+- **B.** Sử dụng các công cụ xúc tiến thương mại để duy trì doanh số
+- **C.** Doanh nghiệp làm cho sự việc diễn ra
+- **D.** Doanh nghiệp đứng nhìn sự việc diễn ra
+
 ### Câu 35
 
-Myc tiéu quan trpng cüa việc xác định Céc chiến lược trong quá trình 14p ké hoech chién IL*'Q'C là gi?
+Mục tiêu quan trọng của việc xác định các chiến lược trong quá trình lập kế hoạch chiến lược là gì?
 
-- **A.** Dåm båo doanh nghiệp cö dü ngubn luc tåi ch(nh.
-- **B.** Cåi thién cåc quy trình nöi bö cüa doanh nghiệp.
-- **C.** I-va chơn cåc huöng di Chü yéu dé dat duqc mục tiêu dä dé ra.
-- **D.** Tao ra cåc sản phẩm möi cho thị trường hiön tai.
+- **A.** Đảm bảo doanh nghiệp có đủ nguồn lực tài chính
+- **B.** Cải thiện các quy trình nội bộ của doanh nghiệp
+- **C.** Lựa chọn các hướng đi chủ yếu để đạt được mục tiêu đã đề ra
+- **D.** Tạo ra các sản phẩm mới cho thị trường hiện tại
