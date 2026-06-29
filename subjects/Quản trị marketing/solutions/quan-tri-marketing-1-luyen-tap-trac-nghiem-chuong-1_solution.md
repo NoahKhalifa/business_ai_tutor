@@ -1,872 +1,665 @@
-﻿---
+---
 exercise_file: "Quản trị marketing 1_Luyện tập trắc nghiệm Chương 1.md"
-solved_at: "2026-06-11T22:45:00+07:00"
+solved_at: "2026-06-27T02:00:00Z"
 status: "draft"
-review_round: 0
+review_round: 2
 total_questions: 35
 examples_added: true
-ocr_uncertain: true
+ocr_uncertain: false
+pdf_reverified: true
 extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuong-1_extended.md"
 ---
 
 # Lời giải: Quản trị marketing 1 - Luyện tập trắc nghiệm Chương 1
 
-> Dẫn chiếu bài giảng: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-> Ghi chú: đề được OCR từ PDF ảnh, một số dấu tiếng Việt trong đề gốc bị suy giảm; lời giải đã chuẩn hóa lại theo nội dung đọc được và bài giảng.
+> Dẫn chiếu bài giảng: `subjects/Quản trị marketing/lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md`. Đề Ch1 đã được đối chiếu lại với PDF gốc bằng `tools.pdf_extract` ngày 2026-06-27; Q3, Q4 và Q11 là các câu được phục hồi từ OCR lỗi.
 
 ## Bảng đáp án nhanh
 
-| Câu | Đáp án | Giải thích ngắn |
+| Câu | Đáp án | Căn cứ nhanh |
 |---:|:---:|---|
-| 1 | B | Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 2 | A | Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 3 | D | Đáp án D phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 4 | B | Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 5 | A | Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 6 | B | Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 7 | A | Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 8 | C | Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 9 | C | Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 10 | A | Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 11 | B | Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 12 | D | Đáp án D phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 13 | A | Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 14 | B | Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 15 | C | Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 16 | B | Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 17 | B | Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 18 | C | Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 19 | B | Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 20 | C | Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 21 | A | Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 22 | C | Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 23 | C | Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 24 | B | Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 25 | A | Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 26 | A | Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 27 | C | Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 28 | A | Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 29 | C | Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 30 | A | Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 31 | A | Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 32 | D | Đáp án D phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 33 | C | Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 34 | A | Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
-| 35 | A | Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định. |
+| 1 | B | môi trường marketing; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 165-171. |
+| 2 | A | giá trị cảm nhận; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 104-113. |
+| 3 | D | phương pháp nghiên cứu học phần; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 4-12 và nội dung mở đầu chương. |
+| 4 | B | bộ ba giá trị QSP; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 104-111. |
+| 5 | A | cấp độ hoạch định chiến lược; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 363-366. |
+| 6 | B | marketplace và marketspace; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 62-64. |
+| 7 | A | yêu cầu/demands; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 79-89. |
+| 8 | C | nhu cầu/needs; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 73-77. |
+| 9 | C | sự thỏa mãn khách hàng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 111-113. |
+| 10 | A | giá trị và thỏa mãn; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 104-113. |
+| 11 | B | phân đoạn thị trường; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 49-56. |
+| 12 | D | nguy cơ trong SWOT; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 165-171. |
+| 13 | A | SWOT trong hoạch định; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 363-369. |
+| 14 | B | điều kiện trao đổi; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 114-129. |
+| 15 | C | phân đoạn thị trường; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 49-56. |
+| 16 | B | marketing mang tính xã hội; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 18-26. |
+| 17 | B | chiến lược tăng trưởng đa dạng hóa; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 395-404. |
+| 18 | C | thị trường mục tiêu; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 55-57. |
+| 19 | B | chương trình marketing; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 176-185. |
+| 20 | C | nhiệm vụ học phần; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 7-12. |
+| 21 | A | mong muốn thành yêu cầu; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 81-85. |
+| 22 | C | sự thỏa mãn khách hàng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 111-113. |
+| 23 | C | người làm marketing; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 38-40. |
+| 24 | B | chào hàng thị trường; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 93-101. |
+| 25 | A | hoạch định chiến lược định hướng thị trường; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 363-369. |
+| 26 | A | phân đoạn và thị trường mục tiêu; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 49-57. |
+| 27 | C | marketing toàn diện; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 236-259. |
+| 28 | A | marketing mang tính xã hội; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 18-26. |
+| 29 | C | chào hàng thị trường; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 93-101. |
+| 30 | A | đối tượng marketing mở rộng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 18-33. |
+| 31 | A | đối tượng nghiên cứu học phần; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 499-536. |
+| 32 | D | giá trị và quan hệ khách hàng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 137-145. |
+| 33 | C | mục tiêu chiến lược marketing; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 363-390. |
+| 34 | A | phân đoạn thị trường; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 49-56. |
+| 35 | A | vai trò marketing trong hoạch định; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 363-369 và 499-536. |
 
 ---
 
 ## Lời giải chi tiết
 
-## Câu 1: Möi tru'öng vr mö KHÖNG bao göm Ivc luvng näo? O A. Kinh té O B. Ngänh kinh doanh O C. Chi...
+### Câu 1: Môi trường vĩ mô KHÔNG bao gồm lực lượng nào?
+**Đáp án: B** — căn cứ: môi trường marketing, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 165-171.
 
-### Đề bài
-> Möi tru'öng vr mö KHÖNG bao göm Ivc luvng näo? O A. Kinh té O B. Ngänh kinh doanh O C. Chinh tri - luät phåp O D. Nhän khåu hoc
+**Đề:** Môi trường vĩ mô KHÔNG bao gồm lực lượng nào?
+- **A.** Kinh tế
+- **B.** Ngành kinh doanh
+- **C.** Chính trị - luật pháp
+- **D.** Nhân khẩu học
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Kinh tế — **Sai.** Nhiễu: Kinh tế.
+- **B.** Ngành kinh doanh — **Đúng** vì khớp với môi trường marketing; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 165-171.
+- **C.** Chính trị - luật pháp — **Sai.** Nhiễu: Chính trị - luật pháp.
+- **D.** Nhân khẩu học — **Sai.** Nhiễu: Nhân khẩu học.
 
 ---
 
-## Câu 2: Giå tri cåm nh#n du'Q'C dinh ngh7a Iä: Thoät O A. SW' chénh löch giü'a giå tri Ipi (ch trü...
+### Câu 2: Giá trị cảm nhận được định nghĩa là:
+**Đáp án: A** — căn cứ: giá trị cảm nhận, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 104-113.
 
-### Đề bài
-> Giå tri cåm nh#n du'Q'C dinh ngh7a Iä: Thoät O A. SW' chénh löch giü'a giå tri Ipi (ch trü' di chi phi må khåch hång nhän duec O B. Sv chénh löch giCpa giå tri vå sw' thöa män cüa khåch hång O C. Chåt Iuqng cüa sån phåm D. SW két hop giü'a chät lupng, dich vu vå giå cå må sån phåm chåo bån cho O khåch hång a
+**Đề:** Giá trị cảm nhận được định nghĩa là:
+- **A.** Sự chênh lệch giữa giá trị lợi ích trừ đi chi phí mà khách hàng nhận được
+- **B.** Sự chênh lệch giữa giá trị và sự thỏa mãn của khách hàng
+- **C.** Chất lượng của sản phẩm
+- **D.** Sự kết hợp giữa chất lượng, dịch vụ và giá cả mà sản phẩm chào bán cho khách hàng
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Sự chênh lệch giữa giá trị lợi ích trừ đi chi phí mà khách hàng nhận được — **Đúng** vì khớp với giá trị cảm nhận; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 104-113.
+- **B.** Sự chênh lệch giữa giá trị và sự thỏa mãn của khách hàng — **Sai.** Nhiễu: Sự chênh lệch giữa giá.
+- **C.** Chất lượng của sản phẩm — **Sai.** Nhiễu: Chất lượng của sản phẩm.
+- **D.** Sự kết hợp giữa chất lượng, dịch vụ và giá cả mà sản phẩm chào bán cho khách hàng — **Sai.** Nhiễu: Sự kết hợp giữa chất.
 
 ---
 
-## Câu 3: Däu KHÖNG phåi Iä phupong phåp nghién cü'u cüa hoc phän Quån tri Marketing 1? O A. Tiép cä...
+### Câu 3: Đâu KHÔNG phải là phương pháp nghiên cứu của học phần Quản trị Marketing 1?
+**Đáp án: D** — căn cứ: phương pháp nghiên cứu học phần, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 4-12 và nội dung mở đầu chương.
 
-### Đề bài
-> Däu KHÖNG phåi Iä phupong phåp nghién cü'u cüa hoc phän Quån tri Marketing 1? O A. Tiép cän th6ng, logic vå lich sü' O B. Tiép can thuc tién cåc vän dé IY Iuän O C. Dinh lupng O D. Hiäu quå töi uu a Câu Bé ba giå tri (QSP) trong marketing bao göm Céc yéu tö näo? O A. Giå cå, dich vu, loi (ch O B. Chåt lupng, dich vv, giå cå O C. Dich vu, thuong hiéu, chi O D. Chåt lupng, thuong hiéu, giå cå
+**Đề:** Đâu KHÔNG phải là phương pháp nghiên cứu của học phần Quản trị Marketing 1?
+- **A.** Tiếp cận hệ thống, logic và lịch sử
+- **B.** Tiếp cận thực tiễn các vấn đề lý luận
+- **C.** Định lượng
+- **D.** Hiệu quả tối ưu
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-
-### Kết luận
-**Đáp án: D.** Đáp án D phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Tiếp cận hệ thống, logic và lịch sử — **Sai.** Nhiễu: Tiếp cận hệ thống, logic.
+- **B.** Tiếp cận thực tiễn các vấn đề lý luận — **Sai.** Nhiễu: Tiếp cận thực tiễn các.
+- **C.** Định lượng — **Sai.** Nhiễu: Định lượng.
+- **D.** Hiệu quả tối ưu — **Đúng** vì khớp với phương pháp nghiên cứu học phần; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 4-12 và nội dung mở đầu chương.
 
 ---
 
-## Câu 4: Câu 4 trong đề OCR bị ghép với trang/câu lân cận; xem file đề MD/PDF gốc để đối chiếu nguy...
+### Câu 4: Bộ ba giá trị (QSP) trong marketing bao gồm các yếu tố nào?
+**Đáp án: B** — căn cứ: bộ ba giá trị QSP, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 104-111.
 
-### Đề bài
-> Câu 4 trong đề OCR bị ghép với trang/câu lân cận; xem file đề MD/PDF gốc để đối chiếu nguyên văn.
+**Đề:** Bộ ba giá trị (QSP) trong marketing bao gồm các yếu tố nào?
+- **A.** Giá cả, dịch vụ, lợi ích
+- **B.** Chất lượng, dịch vụ, giá cả
+- **C.** Dịch vụ, thương hiệu, chi phí
+- **D.** Chất lượng, thương hiệu, giá cả
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Giá cả, dịch vụ, lợi ích — **Sai.** Nhiễu: Giá cả, dịch vụ, lợi.
+- **B.** Chất lượng, dịch vụ, giá cả — **Đúng** vì khớp với bộ ba giá trị QSP; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 104-111.
+- **C.** Dịch vụ, thương hiệu, chi phí — **Sai.** Nhiễu: Dịch vụ, thương hiệu, chi.
+- **D.** Chất lượng, thương hiệu, giá cả — **Sai.** Nhiễu: Chất lượng, thương hiệu, giá.
 
 ---
 
-## Câu 5: Néi dung näo sau däy KHÖNG näm trong cåc cäp dé hoech dinh chién ILPQ'C dinh hwöng thi tru...
+### Câu 5: Nội dung nào sau đây KHÔNG nằm trong các cấp độ hoạch định chiến lược định hướng thị trường?
+**Đáp án: A** — căn cứ: cấp độ hoạch định chiến lược, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 363-366.
 
-### Đề bài
-> Néi dung näo sau däy KHÖNG näm trong cåc cäp dé hoech dinh chién ILPQ'C dinh hwöng thi tru'öng? O A. cap dé co Sö O B. Cåp dé sån phåm. O C. Cåp dé don vi kinh doanh. O D. Cåp doanh nghiép
+**Đề:** Nội dung nào sau đây KHÔNG nằm trong các cấp độ hoạch định chiến lược định hướng thị trường?
+- **A.** Cấp độ cơ sở
+- **B.** Cấp độ sản phẩm
+- **C.** Cấp độ đơn vị kinh doanh
+- **D.** Cấp doanh nghiệp
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Cấp độ cơ sở — **Đúng** vì khớp với cấp độ hoạch định chiến lược; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 363-366.
+- **B.** Cấp độ sản phẩm — **Sai.** Nhiễu: Cấp độ sản phẩm.
+- **C.** Cấp độ đơn vị kinh doanh — **Sai.** Nhiễu: Cấp độ đơn vị kinh.
+- **D.** Cấp doanh nghiệp — **Sai.** Nhiễu: Cấp doanh nghiệp.
 
 ---
 
-## Câu 6: HO?t déng mua säm cüa ngu'ö'i tiéu ding cö thé dién ra & däu? O A. Khöng gian thi truöng O...
+### Câu 6: Hoạt động mua sắm của người tiêu dùng có thể diễn ra ở đâu?
+**Đáp án: B** — căn cứ: marketplace và marketspace, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 62-64.
 
-### Đề bài
-> HO?t déng mua säm cüa ngu'ö'i tiéu ding cö thé dién ra & däu? O A. Khöng gian thi truöng O B. Dia diém thi truöng vå khöng gian thi truöng O C. Cipa hång giöi thiéu sån phåm, chq, siéu thi O D. Dia diém thi truöng
+**Đề:** Hoạt động mua sắm của người tiêu dùng có thể diễn ra ở đâu?
+- **A.** Không gian thị trường
+- **B.** Địa điểm thị trường và không gian thị trường
+- **C.** Cửa hàng giới thiệu sản phẩm, chợ, siêu thị
+- **D.** Địa điểm thị trường
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Không gian thị trường — **Sai.** Nhiễu: Không gian thị trường.
+- **B.** Địa điểm thị trường và không gian thị trường — **Đúng** vì khớp với marketplace và marketspace; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 62-64.
+- **C.** Cửa hàng giới thiệu sản phẩm, chợ, siêu thị — **Sai.** Nhiễu: Cửa hàng giới thiệu sản.
+- **D.** Địa điểm thị trường — **Sai.** Nhiễu: Địa điểm thị trường.
 
 ---
 
-## Câu 7: Khåi ni#m näo du'ö'i däy Iä düng vé "Yéu Câu" trong Marketing? O A. Lä sv cän thiét mong m...
+### Câu 7: Khái niệm nào dưới đây là đúng về “Yêu cầu” trong Marketing?
+**Đáp án: A** — căn cứ: yêu cầu/demands, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 79-89.
 
-### Đề bài
-> Khåi ni#m näo du'ö'i däy Iä düng vé "Yéu Câu" trong Marketing? O A. Lä sv cän thiét mong muön cüa con nguöi vé vi$c sü' dung sån phåm, häng höa, dich vv, bi ché dinh böi sü'C mua vå cung Ong. B. Lä sv cåm giåc thiéu hut mét sv thöa män co bån näo dö. C. Lä mét quå trinh läp ké hoach, thuc hién ké hoach dé thöa män nhu Câu khåch hång D. Lä möt hinh thü'C cüa nhu Câu, tuong thich vöi trinh dé vän höa vå nhän cåch cüa cå thé.
+**Đề:** Khái niệm nào dưới đây là đúng về “Yêu cầu” trong Marketing?
+- **A.** Là sự cần thiết mong muốn của con người về việc sử dụng sản phẩm, hàng hóa, dịch vụ, bị chế định bởi sức mua và cung ứng
+- **B.** Là sự cảm giác thiếu hụt một sự thỏa mãn cơ bản nào đó
+- **C.** Là một quá trình lập kế hoạch, thực hiện kế hoạch để thỏa mãn nhu cầu khách hàng
+- **D.** Là một hình thức của nhu cầu, tương thích với trình độ văn hóa và nhân cách của cá thể
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Là sự cần thiết mong muốn của con người về việc sử dụng sản phẩm, hàng hóa, dịch vụ, bị chế định bởi sức mua và cung ứng — **Đúng** vì khớp với yêu cầu/demands; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 79-89.
+- **B.** Là sự cảm giác thiếu hụt một sự thỏa mãn cơ bản nào đó — **Sai.** Nhiễu: Là sự cảm giác thiếu.
+- **C.** Là một quá trình lập kế hoạch, thực hiện kế hoạch để thỏa mãn nhu cầu khách hàng — **Sai.** Nhiễu: Là một quá trình lập.
+- **D.** Là một hình thức của nhu cầu, tương thích với trình độ văn hóa và nhân cách của cá thể — **Sai.** Nhiễu: Là một hình thức của.
 
 ---
 
-## Câu 8: Khåi ni#m "Nhu Câu" trong Marketing Iä gi? O A. Nhüng yéu Câu hoäc mong muön cüa con nguöi...
+### Câu 8: Khái niệm “Nhu cầu” trong Marketing là gì?
+**Đáp án: C** — căn cứ: nhu cầu/needs, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 73-77.
 
-### Đề bài
-> Khåi ni#m "Nhu Câu" trong Marketing Iä gi? O A. Nhüng yéu Câu hoäc mong muön cüa con nguöi döi vöi sån phåm, dich vv. O B. SW thiéu hut sån phåm hoäc dich vu trong thi truöng. O C. Nhüng yéu Câu cän duec thåa män dé duy tri sv söng. D. Cåc mong muön cu thé cüa khåch hång cö thé duec thöa män qua sån phåm, O dich vu. a
+**Đề:** Khái niệm “Nhu cầu” trong Marketing là gì?
+- **A.** Những yêu cầu hoặc mong muốn của con người đối với sản phẩm, dịch vụ
+- **B.** Sự thiếu hụt sản phẩm hoặc dịch vụ trong thị trường
+- **C.** Những yêu cầu cần được thỏa mãn để duy trì sự sống
+- **D.** Các mong muốn cụ thể của khách hàng có thể được thỏa mãn qua sản phẩm, dịch vụ
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Những yêu cầu hoặc mong muốn của con người đối với sản phẩm, dịch vụ — **Sai.** Nhiễu: Những yêu cầu hoặc mong.
+- **B.** Sự thiếu hụt sản phẩm hoặc dịch vụ trong thị trường — **Sai.** Nhiễu: Sự thiếu hụt sản phẩm.
+- **C.** Những yêu cầu cần được thỏa mãn để duy trì sự sống — **Đúng** vì khớp với nhu cầu/needs; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 73-77.
+- **D.** Các mong muốn cụ thể của khách hàng có thể được thỏa mãn qua sản phẩm, dịch vụ — **Sai.** Nhiễu: Các mong muốn cụ thể.
 
 ---
 
-## Câu 9: SV' thöa män cüa khåch häng du'Q'C xåc dinh dva trén diéu gi? O A. MI-Tc giå må khåch hång...
+### Câu 9: Sự thỏa mãn của khách hàng được xác định dựa trên điều gì?
+**Đáp án: C** — căn cứ: sự thỏa mãn khách hàng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 111-113.
 
-### Đề bài
-> SV' thöa män cüa khåch häng du'Q'C xåc dinh dva trén diéu gi? O A. MI-Tc giå må khåch hång phåi trå O B. Chi phi hü'u hinh vä vö hinh cüa sån phåm O C. Hiéu suåt dép Ong duec ky vong cüa khåch hång O D. Giå tri thuong hiéu cüa sån phåm a
+**Đề:** Sự thỏa mãn của khách hàng được xác định dựa trên điều gì?
+- **A.** Mức giá mà khách hàng phải trả
+- **B.** Chi phí hữu hình và vô hình của sản phẩm
+- **C.** Hiệu suất đáp ứng được kỳ vọng của khách hàng
+- **D.** Giá trị thương hiệu của sản phẩm
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Mức giá mà khách hàng phải trả — **Sai.** Nhiễu: Mức giá mà khách hàng.
+- **B.** Chi phí hữu hình và vô hình của sản phẩm — **Sai.** Nhiễu: Chi phí hữu hình và.
+- **C.** Hiệu suất đáp ứng được kỳ vọng của khách hàng — **Đúng** vì khớp với sự thỏa mãn khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 111-113.
+- **D.** Giá trị thương hiệu của sản phẩm — **Sai.** Nhiễu: Giá trị thương hiệu của.
 
 ---
 
-## Câu 10: Däu Iä cåch thü'C dé doanh nghi#p cö thé näng cao sv thoå män cüa khåch häng? O A. Täng Ip...
+### Câu 10: Đâu là cách thức để doanh nghiệp có thể nâng cao sự thoả mãn của khách hàng?
+**Đáp án: A** — căn cứ: giá trị và thỏa mãn, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 104-113.
 
-### Đề bài
-> Däu Iä cåch thü'C dé doanh nghi#p cö thé näng cao sv thoå män cüa khåch häng? O A. Täng Ipi (ch nhiéu hon täng chi phi O B. C6 gång täng chi phivå giåm Ipi (ch O C. Giåm Ipi (ch cüa sån phåm O D. Täng Ipi (ch dbng thöi täng chi phi Câu Câull: co' so' dé phän doen thi tru'öng ngu'ö'i tiéu ding Iä gi? O A. Däc diém, tinh chåt vä cöng dung cüa sån phåm rnå doanh nghiép cung ü'ng. B. SW khåc biét trong nhu Câu, hånh vi, cåc däc diém nhån khåu hQC, tam I', xä höi. O C. Nguön vä Ipi thé canh tranh cüa doanh nghiép trong ngånh. O D. SW' khåc biét vb khu vvc dia IY vä noi sinh s6ng. a
+**Đề:** Đâu là cách thức để doanh nghiệp có thể nâng cao sự thoả mãn của khách hàng?
+- **A.** Tăng lợi ích nhiều hơn tăng chi phí
+- **B.** Cố gắng tăng chi phí và giảm lợi ích
+- **C.** Giảm lợi ích của sản phẩm
+- **D.** Tăng lợi ích đồng thời tăng chi phí
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Tăng lợi ích nhiều hơn tăng chi phí — **Đúng** vì khớp với giá trị và thỏa mãn; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 104-113.
+- **B.** Cố gắng tăng chi phí và giảm lợi ích — **Sai.** Nhiễu: Cố gắng tăng chi phí.
+- **C.** Giảm lợi ích của sản phẩm — **Sai.** Nhiễu: Giảm lợi ích của sản.
+- **D.** Tăng lợi ích đồng thời tăng chi phí — **Sai.** Nhiễu: Tăng lợi ích đồng thời.
 
 ---
 
-## Câu 11: Câu 11 trong đề OCR bị ghép với trang/câu lân cận; xem file đề MD/PDF gốc để đối chiếu ngu...
+### Câu 11: Cơ sở để phân đoạn thị trường người tiêu dùng là gì?
+**Đáp án: B** — căn cứ: phân đoạn thị trường, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 49-56.
 
-### Đề bài
-> Câu 11 trong đề OCR bị ghép với trang/câu lân cận; xem file đề MD/PDF gốc để đối chiếu nguyên văn.
+**Đề:** Cơ sở để phân đoạn thị trường người tiêu dùng là gì?
+- **A.** Đặc điểm, tính chất và công dụng của sản phẩm mà doanh nghiệp cung ứng
+- **B.** Sự khác biệt trong nhu cầu, hành vi, các đặc điểm nhân khẩu học, tâm lý, xã hội
+- **C.** Nguồn lực và lợi thế cạnh tranh của doanh nghiệp trong ngành
+- **D.** Sự khác biệt về khu vực địa lý và nơi sinh sống
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Đặc điểm, tính chất và công dụng của sản phẩm mà doanh nghiệp cung ứng — **Sai.** Nhiễu: Đặc điểm, tính chất và.
+- **B.** Sự khác biệt trong nhu cầu, hành vi, các đặc điểm nhân khẩu học, tâm lý, xã hội — **Đúng** vì khớp với phân đoạn thị trường; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 49-56.
+- **C.** Nguồn lực và lợi thế cạnh tranh của doanh nghiệp trong ngành — **Sai.** Nhiễu: Nguồn lực và lợi thế.
+- **D.** Sự khác biệt về khu vực địa lý và nơi sinh sống — **Sai.** Nhiễu: Sự khác biệt về khu.
 
 ---
 
-## Câu 12: Trong phän tich SWOT, "nguy col' (threats) cé thé lién quan dén yéu tö näo trong möi tru'ö...
+### Câu 12: Trong phân tích SWOT, “nguy cơ” (threats) có thể liên quan đến yếu tố nào trong môi trường v
+**Đáp án: D** — căn cứ: nguy cơ trong SWOT, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 165-171.
 
-### Đề bài
-> Trong phän tich SWOT, "nguy col' (threats) cé thé lién quan dén yéu tö näo trong möi tru'öng vi mö? O A. SW' thay dbi trong ch(nh såch thué vå Iuät phåp. O B. Cåi tién cöng nghé cüa cöng ty. O C. Thay dbi nhu cåu khåch häng. O D. Täng truöng cüa döi thü canh tranh trong ngänh.
+**Đề:** Trong phân tích SWOT, “nguy cơ” (threats) có thể liên quan đến yếu tố nào trong môi trường vĩ mô?
+- **A.** Sự thay đổi trong chính sách thuế và luật pháp
+- **B.** Cải tiến công nghệ của công ty
+- **C.** Thay đổi nhu cầu khách hàng
+- **D.** Tăng trưởng của đối thủ cạnh tranh trong ngành
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-
-### Kết luận
-**Đáp án: D.** Đáp án D phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Sự thay đổi trong chính sách thuế và luật pháp — **Sai.** Nhiễu: Sự thay đổi trong chính.
+- **B.** Cải tiến công nghệ của công ty — **Sai.** Nhiễu: Cải tiến công nghệ của.
+- **C.** Thay đổi nhu cầu khách hàng — **Sai.** Nhiễu: Thay đổi nhu cầu khách.
+- **D.** Tăng trưởng của đối thủ cạnh tranh trong ngành — **Đúng** vì khớp với nguy cơ trong SWOT; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 165-171.
 
 ---
 
-## Câu 13: Khi 14p ké hoqch marketing chién ILPQ'C, myc tiéu chinh cüa vi#c phän tich SWOT Iä gi? A....
+### Câu 13: Khi lập kế hoạch marketing chiến lược, mục tiêu chính của việc phân tích SWOT là gì?
+**Đáp án: A** — căn cứ: SWOT trong hoạch định, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 363-369.
 
-### Đề bài
-> Khi 14p ké hoqch marketing chién ILPQ'C, myc tiéu chinh cüa vi#c phän tich SWOT Iä gi? A. Dé xåc dinh cåc diém menh, diém yéu, co höi vä nguy co ånh huöng dén sån phåm, dich vv hoäc thuong hiéu. O B. Dé dånh giå tinh trang täi ch(nh cüa doanh nghiép. O C. Dé xåc dinh cåc kénh phän ph6i hiéu quå. O D. Dé xäy dung cåc chuong trinh quång cåo vä xüc tién bån. a
+**Đề:** Khi lập kế hoạch marketing chiến lược, mục tiêu chính của việc phân tích SWOT là gì?
+- **A.** Để xác định các điểm mạnh, điểm yếu, cơ hội và nguy cơ ảnh hưởng đến sản phẩm, dịch vụ hoặc thương hiệu
+- **B.** Để đánh giá tình trạng tài chính của doanh nghiệp
+- **C.** Để xác định các kênh phân phối hiệu quả
+- **D.** Để xây dựng các chương trình quảng cáo và xúc tiến bán
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Để xác định các điểm mạnh, điểm yếu, cơ hội và nguy cơ ảnh hưởng đến sản phẩm, dịch vụ hoặc thương hiệu — **Đúng** vì khớp với SWOT trong hoạch định; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 363-369.
+- **B.** Để đánh giá tình trạng tài chính của doanh nghiệp — **Sai.** Nhiễu: Để đánh giá tình trạng.
+- **C.** Để xác định các kênh phân phối hiệu quả — **Sai.** Nhiễu: Để xác định các kênh.
+- **D.** Để xây dựng các chương trình quảng cáo và xúc tiến bán — **Sai.** Nhiễu: Để xây dựng các chương.
 
 ---
 
-## Câu 14: Trong nhü'ng diéu ki#n sau, diéu ki#n näo KHÖNG bät buéc phåi cö dé h0?t déng trao döi dié...
+### Câu 14: Trong những điều kiện sau, điều kiện nào KHÔNG bắt buộc phải có để hoạt động trao đổi diễn r
+**Đáp án: B** — căn cứ: điều kiện trao đổi, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 114-129.
 
-### Đề bài
-> Trong nhü'ng diéu ki#n sau, diéu ki#n näo KHÖNG bät buéc phåi cö dé h0?t déng trao döi dién ra? O A. (t nhåt cö hai bén tham gia O B. Phåi cö sw' trao döi tién giCpa hai bén O C. M6i bén phåi cö khå näng giao tiép vä giao häng O D. M6i bén déu tin tuöng viéc giao dich vöi bén cön Iai lå hep IY
+**Đề:** Trong những điều kiện sau, điều kiện nào KHÔNG bắt buộc phải có để hoạt động trao đổi diễn ra?
+- **A.** Ít nhất có hai bên tham gia
+- **B.** Phải có sự trao đổi tiền giữa hai bên
+- **C.** Mỗi bên phải có khả năng giao tiếp và giao hàng
+- **D.** Mỗi bên đều tin tưởng việc giao dịch với bên còn lại là hợp lý
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Ít nhất có hai bên tham gia — **Sai.** Nhiễu: Ít nhất có hai bên.
+- **B.** Phải có sự trao đổi tiền giữa hai bên — **Đúng** vì khớp với điều kiện trao đổi; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 114-129.
+- **C.** Mỗi bên phải có khả năng giao tiếp và giao hàng — **Sai.** Nhiễu: Mỗi bên phải có khả.
+- **D.** Mỗi bên đều tin tưởng việc giao dịch với bên còn lại là hợp lý — **Sai.** Nhiễu: Mỗi bên đều tin tưởng.
 
 ---
 
-## Câu 15: "Phän doen thi tru'öng" Iä gi trong Marketing? O A. Quå trinh tao ra cåc sån phåm phü hqp...
+### Câu 15: “Phân đoạn thị trường” là gì trong Marketing?
+**Đáp án: C** — căn cứ: phân đoạn thị trường, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 49-56.
 
-### Đề bài
-> "Phän doen thi tru'öng" Iä gi trong Marketing? O A. Quå trinh tao ra cåc sån phåm phü hqp vöi tü'ng nhöm khåch hång cu thé. O B. Quå trinh xåc dinh nhüng d6i thü canh tranh trong ngånh. C. Quå trinh chia thi truöng thånh cåc nhöm khåch hång cö nhu Câu, Sö thich vå däc diém tuong tv. O D. Quå trinh phän Ioai cåc sån phåm theo däc diém vä tinh näng. a
+**Đề:** “Phân đoạn thị trường” là gì trong Marketing?
+- **A.** Quá trình tạo ra các sản phẩm phù hợp với từng nhóm khách hàng cụ thể
+- **B.** Quá trình xác định những đối thủ cạnh tranh trong ngành
+- **C.** Quá trình chia thị trường thành các nhóm khách hàng có nhu cầu, sở thích và đặc điểm tương tự
+- **D.** Quá trình phân loại các sản phẩm theo đặc điểm và tính năng
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Quá trình tạo ra các sản phẩm phù hợp với từng nhóm khách hàng cụ thể — **Sai.** Nhiễu: Quá trình tạo ra các.
+- **B.** Quá trình xác định những đối thủ cạnh tranh trong ngành — **Sai.** Nhiễu: Quá trình xác định những.
+- **C.** Quá trình chia thị trường thành các nhóm khách hàng có nhu cầu, sở thích và đặc điểm tương tự — **Đúng** vì khớp với phân đoạn thị trường; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 49-56.
+- **D.** Quá trình phân loại các sản phẩm theo đặc điểm và tính năng — **Sai.** Nhiễu: Quá trình phân loại các.
 
 ---
 
-## Câu 16: Khåi ni#m näo dw&i däy mö tå Marketing Iä mét quå trinh xä héi trong dé cåc cé nhän vä nh6...
+### Câu 16: Khái niệm nào mô tả Marketing là một quá trình xã hội trong đó các cá nhân và nhóm đạt mục t
+**Đáp án: B** — căn cứ: marketing mang tính xã hội, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 18-26.
 
-### Đề bài
-> Khåi ni#m näo dw&i däy mö tå Marketing Iä mét quå trinh xä héi trong dé cåc cé nhän vä nh6m det du'Q'C myc tiéu thöng qua vi#c dvng, chäo häng vä trao döi Céc sån phäm vä dich vv cé giå tri? O A. Marketing mang tinh quån tri O B. Marketing mang tinh xä höi O C. Marketing dva trén giå tri O D. Quån tri Marketing
+**Đề:** Khái niệm nào mô tả Marketing là một quá trình xã hội trong đó các cá nhân và nhóm đạt mục tiêu thông qua tạo dựng, chào hàng và trao đổi các sản phẩm/dịch vụ có giá trị?
+- **A.** Marketing mang tính quản trị
+- **B.** Marketing mang tính xã hội
+- **C.** Marketing dựa trên giá trị
+- **D.** Quản trị Marketing
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Marketing mang tính quản trị — **Sai.** Nhiễu: Marketing mang tính quản trị.
+- **B.** Marketing mang tính xã hội — **Đúng** vì khớp với marketing mang tính xã hội; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 18-26.
+- **C.** Marketing dựa trên giá trị — **Sai.** Nhiễu: Marketing dựa trên giá trị.
+- **D.** Quản trị Marketing — **Sai.** Nhiễu: Quản trị Marketing.
 
 ---
 
-## Câu 17: Vi dv näo du'ö'i däy thé hi#n chién ILPQ'C täng tru'öng da d?ng höa? A. Mét häng di$n tü'...
+### Câu 17: Ví dụ nào dưới đây thể hiện chiến lược tăng trưởng đa dạng hóa?
+**Đáp án: B** — căn cứ: chiến lược tăng trưởng đa dạng hóa, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 395-404.
 
-### Đề bài
-> Vi dv näo du'ö'i däy thé hi#n chién ILPQ'C täng tru'öng da d?ng höa? A. Mét häng di$n tü' mö rong danh muc sån phåm til' dién thoqi sang måy tinh xåch tay. B. Disney ra mät nén tång phåt trvc tuyén Disney+ dé cqnh tranh vöi Netflix vä Amazon Prime. O C. Mét cöng ty xe hoi mua lai mét häng xe hoi khåc trong cüng ngånh. O D. Möt chu6i siéu thi mua lei nhä cung Ong dé giåm chi phi nhäp häng. n
+**Đề:** Ví dụ nào dưới đây thể hiện chiến lược tăng trưởng đa dạng hóa?
+- **A.** Một hãng điện tử mở rộng danh mục sản phẩm từ điện thoại sang máy tính xách tay
+- **B.** Disney ra mắt nền tảng phát trực tuyến Disney+ để cạnh tranh với Netflix và Amazon Prime
+- **C.** Một công ty xe hơi mua lại một hãng xe hơi khác trong cùng ngành
+- **D.** Một chuỗi siêu thị mua lại nhà cung ứng để giảm chi phí nhập hàng
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Một hãng điện tử mở rộng danh mục sản phẩm từ điện thoại sang máy tính xách tay — **Sai.** Nhiễu: Một hãng điện tử mở.
+- **B.** Disney ra mắt nền tảng phát trực tuyến Disney+ để cạnh tranh với Netflix và Amazon Prime — **Đúng** vì khớp với chiến lược tăng trưởng đa dạng hóa; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 395-404.
+- **C.** Một công ty xe hơi mua lại một hãng xe hơi khác trong cùng ngành — **Sai.** Nhiễu: Một công ty xe hơi.
+- **D.** Một chuỗi siêu thị mua lại nhà cung ứng để giảm chi phí nhập hàng — **Sai.** Nhiễu: Một chuỗi siêu thị mua.
 
 ---
 
-## Câu 18: Thi tru'öng myc tiéu du'Q'C hiéu Iä gi? O A. Nhüng thi truöng cö quy mö lön nhåt O B. NhCp...
+### Câu 18: Thị trường mục tiêu được hiểu là gì?
+**Đáp án: C** — căn cứ: thị trường mục tiêu, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 55-57.
 
-### Đề bài
-> Thi tru'öng myc tiéu du'Q'C hiéu Iä gi? O A. Nhüng thi truöng cö quy mö lön nhåt O B. NhCpng phän doen thi truöng duec phuc vu böi cåc döi thü canh tranh O C. Nhüng phän doen thi truöng duec phuc vu böi doanh nghiép O D. Thi truöng trong diém må doanh nghiép dang phuc vv
+**Đề:** Thị trường mục tiêu được hiểu là gì?
+- **A.** Những thị trường có quy mô lớn nhất
+- **B.** Những phân đoạn thị trường được phục vụ bởi các đối thủ cạnh tranh
+- **C.** Những phân đoạn thị trường được phục vụ bởi doanh nghiệp
+- **D.** Thị trường trọng điểm mà doanh nghiệp đang phục vụ
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Những thị trường có quy mô lớn nhất — **Sai.** Nhiễu: Những thị trường có quy.
+- **B.** Những phân đoạn thị trường được phục vụ bởi các đối thủ cạnh tranh — **Sai.** Nhiễu: Những phân đoạn thị trường.
+- **C.** Những phân đoạn thị trường được phục vụ bởi doanh nghiệp — **Đúng** vì khớp với thị trường mục tiêu; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 55-57.
+- **D.** Thị trường trọng điểm mà doanh nghiệp đang phục vụ — **Sai.** Nhiễu: Thị trường trọng điểm mà.
 
 ---
 
-## Câu 19: Chupong trinh marketing cüa doanh nghi#p nhäm myc dich gi? O A. Quån IY döi ngü nhän vién...
+### Câu 19: Chương trình marketing của doanh nghiệp nhằm mục đích gì?
+**Đáp án: B** — căn cứ: chương trình marketing, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 176-185.
 
-### Đề bài
-> Chupong trinh marketing cüa doanh nghi#p nhäm myc dich gi? O A. Quån IY döi ngü nhän vién marketing dé dat duec doanh thu cao nhåt B. Xäy dung möi quan hé khåch hång bäng cåch bién chién luqc marketing thånh hånh déng O C. Täng Ipi nhuän cho doanh nghiép thöng qua viöc näng cao giå bån sån phåm O D. Chi tap trung väo viéc cung cäp sån phåm cho khåch häng a
+**Đề:** Chương trình marketing của doanh nghiệp nhằm mục đích gì?
+- **A.** Quản lý đội ngũ nhân viên marketing để đạt doanh thu cao nhất
+- **B.** Xây dựng mối quan hệ khách hàng bằng cách biến chiến lược marketing thành hành động
+- **C.** Tăng lợi nhuận thông qua nâng cao giá bán sản phẩm
+- **D.** Chỉ tập trung vào việc cung cấp sản phẩm cho khách hàng
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Quản lý đội ngũ nhân viên marketing để đạt doanh thu cao nhất — **Sai.** Nhiễu: Quản lý đội ngũ nhân.
+- **B.** Xây dựng mối quan hệ khách hàng bằng cách biến chiến lược marketing thành hành động — **Đúng** vì khớp với chương trình marketing; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 176-185.
+- **C.** Tăng lợi nhuận thông qua nâng cao giá bán sản phẩm — **Sai.** Nhiễu: Tăng lợi nhuận thông qua.
+- **D.** Chỉ tập trung vào việc cung cấp sản phẩm cho khách hàng — **Sai.** Nhiễu: Chỉ tập trung vào việc.
 
 ---
 
-## Câu 20: Däu Iä KHÖNG phåi Iä nhi#m vv nghién cü'u cüa hoc phän Quån tri Marketing 1? O A. Phåt tri...
+### Câu 20: Đâu KHÔNG phải là nhiệm vụ nghiên cứu của học phần Quản trị Marketing 1?
+**Đáp án: C** — căn cứ: nhiệm vụ học phần, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 7-12.
 
-### Đề bài
-> Däu Iä KHÖNG phåi Iä nhi#m vv nghién cü'u cüa hoc phän Quån tri Marketing 1? O A. Phåt trién chién Iuqc marketing. O B. Két nöi vöi khåch hång. O C. Tao ra sv täng truöng trong ngån han O D. Cung Ong giå tri.
+**Đề:** Đâu KHÔNG phải là nhiệm vụ nghiên cứu của học phần Quản trị Marketing 1?
+- **A.** Phát triển chiến lược marketing
+- **B.** Kết nối với khách hàng
+- **C.** Tạo ra sự tăng trưởng trong ngắn hạn
+- **D.** Cung ứng giá trị
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Phát triển chiến lược marketing — **Sai.** Nhiễu: Phát triển chiến lược marketing.
+- **B.** Kết nối với khách hàng — **Sai.** Nhiễu: Kết nối với khách hàng.
+- **C.** Tạo ra sự tăng trưởng trong ngắn hạn — **Đúng** vì khớp với nhiệm vụ học phần; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 7-12.
+- **D.** Cung ứng giá trị — **Sai.** Nhiễu: Cung ứng giá trị.
 
 ---
 
-## Câu 21: Mong muön cüa con ngu'ö'i sé duvc trö thänh yéu Câu khi cö: O A. Khå näng thanh toån O B....
+### Câu 21: Mong muốn của con người sẽ trở thành yêu cầu khi có:
+**Đáp án: A** — căn cứ: mong muốn thành yêu cầu, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 81-85.
 
-### Đề bài
-> Mong muön cüa con ngu'ö'i sé duvc trö thänh yéu Câu khi cö: O A. Khå näng thanh toån O B. Nhu Câu O C. Sån phåm O D. Döng co mua säm
+**Đề:** Mong muốn của con người sẽ trở thành yêu cầu khi có:
+- **A.** Khả năng thanh toán
+- **B.** Nhu cầu
+- **C.** Sản phẩm
+- **D.** Động cơ mua sắm
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Khả năng thanh toán — **Đúng** vì khớp với mong muốn thành yêu cầu; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 81-85.
+- **B.** Nhu cầu — **Sai.** Nhiễu: Nhu cầu.
+- **C.** Sản phẩm — **Sai.** Nhiễu: Sản phẩm.
+- **D.** Động cơ mua sắm — **Sai.** Nhiễu: Động cơ mua sắm.
 
 ---
 
-## Câu 22: Sv thoå män cüa khåch häng du'Q'C dinh ngh7a Iä: O A. Lä toän bé giå tri Ipi (ch vé sån ph...
+### Câu 22: Sự thoả mãn của khách hàng được định nghĩa là:
+**Đáp án: C** — căn cứ: sự thỏa mãn khách hàng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 111-113.
 
-### Đề bài
-> Sv thoå män cüa khåch häng du'Q'C dinh ngh7a Iä: O A. Lä toän bé giå tri Ipi (ch vé sån phåm mä khåch häng cö thé cåm nhän duec O B. Lä sw' chénh löch giCpa tbng giå tri khåch hång vå chi phi cüa khåch häng O C. Lä khå näng thuc hién sån phåm dåp ü'ng duec ky vong cüa khåch häng O D. Lä toån bé giå tri vät chät sån phåm mang lai mä con nguöi cåm nhän duqc
+**Đề:** Sự thoả mãn của khách hàng được định nghĩa là:
+- **A.** Là toàn bộ giá trị lợi ích về sản phẩm mà khách hàng có thể cảm nhận được
+- **B.** Là sự chênh lệch giữa tổng giá trị khách hàng và chi phí của khách hàng
+- **C.** Là khả năng thực hiện sản phẩm đáp ứng được kỳ vọng của khách hàng
+- **D.** Là toàn bộ giá trị vật chất sản phẩm mang lại mà con người cảm nhận được
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Là toàn bộ giá trị lợi ích về sản phẩm mà khách hàng có thể cảm nhận được — **Sai.** Nhiễu: Là toàn bộ giá trị.
+- **B.** Là sự chênh lệch giữa tổng giá trị khách hàng và chi phí của khách hàng — **Sai.** Nhiễu: Là sự chênh lệch giữa.
+- **C.** Là khả năng thực hiện sản phẩm đáp ứng được kỳ vọng của khách hàng — **Đúng** vì khớp với sự thỏa mãn khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 111-113.
+- **D.** Là toàn bộ giá trị vật chất sản phẩm mang lại mà con người cảm nhận được — **Sai.** Nhiễu: Là toàn bộ giá trị.
 
 ---
 
-## Câu 23: Ngu'ö'i läm marketing Iä ai? O A. Nhüng nguöi tim cåch cung ü'ng giå tri cho khåch häng O...
+### Câu 23: Người làm marketing là ai?
+**Đáp án: C** — căn cứ: người làm marketing, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 38-40.
 
-### Đề bài
-> Ngu'ö'i läm marketing Iä ai? O A. Nhüng nguöi tim cåch cung ü'ng giå tri cho khåch häng O B. Nhüng chuyén gia trong ITnh vvc truyén thöng O C. Nguöi tim kiém sv dép ü'ng tü' thi truöng O D. NhCpng nhän luc chåt lupng cao trong doanh nghiép
+**Đề:** Người làm marketing là ai?
+- **A.** Những người tìm cách cung ứng giá trị cho khách hàng
+- **B.** Những chuyên gia trong lĩnh vực truyền thông
+- **C.** Người tìm kiếm sự đáp ứng từ thị trường
+- **D.** Những nhân lực chất lượng cao trong doanh nghiệp
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Những người tìm cách cung ứng giá trị cho khách hàng — **Sai.** Nhiễu: Những người tìm cách cung.
+- **B.** Những chuyên gia trong lĩnh vực truyền thông — **Sai.** Nhiễu: Những chuyên gia trong lĩnh.
+- **C.** Người tìm kiếm sự đáp ứng từ thị trường — **Đúng** vì khớp với người làm marketing; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 38-40.
+- **D.** Những nhân lực chất lượng cao trong doanh nghiệp — **Sai.** Nhiễu: Những nhân lực chất lượng.
 
 ---
 
-## Câu 24: Chäo häng thi trwöng khöng göm yéu tö näo sau däy? O A. Kinh nghi$m c6ng hién cho thi truö...
+### Câu 24: Chào hàng thị trường không gồm yếu tố nào sau đây?
+**Đáp án: B** — căn cứ: chào hàng thị trường, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 93-101.
 
-### Đề bài
-> Chäo häng thi trwöng khöng göm yéu tö näo sau däy? O A. Kinh nghi$m c6ng hién cho thi truöng O B. Marketing - mix O C. Sån phåm, dich vu O D. Thöng tin
+**Đề:** Chào hàng thị trường không gồm yếu tố nào sau đây?
+- **A.** Kinh nghiệm cống hiến cho thị trường
+- **B.** Marketing-mix
+- **C.** Sản phẩm, dịch vụ
+- **D.** Thông tin
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Kinh nghiệm cống hiến cho thị trường — **Sai.** Nhiễu: Kinh nghiệm cống hiến cho.
+- **B.** Marketing-mix — **Đúng** vì khớp với chào hàng thị trường; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 93-101.
+- **C.** Sản phẩm, dịch vụ — **Sai.** Nhiễu: Sản phẩm, dịch vụ.
+- **D.** Thông tin — **Sai.** Nhiễu: Thông tin.
 
 ---
 
-## Câu 25: Giai doen näo sau däy KHÖNG näm trong quå trinh hoech dinh chién ILPQ'C dinh hwöng thi trw...
+### Câu 25: Giai đoạn nào sau đây KHÔNG nằm trong quá trình hoạch định chiến lược định hướng thị trường?
+**Đáp án: A** — căn cứ: hoạch định chiến lược định hướng thị trường, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 363-369.
 
-### Đề bài
-> Giai doen näo sau däy KHÖNG näm trong quå trinh hoech dinh chién ILPQ'C dinh hwöng thi trwöng? O A. Kiém soåt. O B. Xåc läp muc tiéu. O C. Hoach dinh. O D. Trién khai.
+**Đề:** Giai đoạn nào sau đây KHÔNG nằm trong quá trình hoạch định chiến lược định hướng thị trường?
+- **A.** Kiểm soát
+- **B.** Xác lập mục tiêu
+- **C.** Hoạch định
+- **D.** Triển khai
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Kiểm soát — **Đúng** vì khớp với hoạch định chiến lược định hướng thị trường; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 363-369.
+- **B.** Xác lập mục tiêu — **Sai.** Nhiễu: Xác lập mục tiêu.
+- **C.** Hoạch định — **Sai.** Nhiễu: Hoạch định.
+- **D.** Triển khai — **Sai.** Nhiễu: Triển khai.
 
 ---
 
-## Câu 26: Phän doqn thi tru'öng vä thi tru'öng muc tiéu cö möi quan he nhw thé näo? O A. Phän doen t...
+### Câu 26: Phân đoạn thị trường và thị trường mục tiêu có mối quan hệ như thế nào?
+**Đáp án: A** — căn cứ: phân đoạn và thị trường mục tiêu, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 49-57.
 
-### Đề bài
-> Phän doqn thi tru'öng vä thi tru'öng muc tiéu cö möi quan he nhw thé näo? O A. Phän doen thi truöng giüp xåc dinh khåch hång muc tiéu mét cåch cu thé hon. O B. Thi truöng muc tiéu lä buöc däu tién trong quy trinh phän doen thi truöng. O C. Thi truöng muc tiéu duec quyét dinh truöc khi thuc hién phän doan thi truöng. O D. Phän doen thi truöng Iå buÖc cuöi cüng dé xåc dinh thi truöng muc tiéu.
+**Đề:** Phân đoạn thị trường và thị trường mục tiêu có mối quan hệ như thế nào?
+- **A.** Phân đoạn thị trường giúp xác định khách hàng mục tiêu một cách cụ thể hơn
+- **B.** Thị trường mục tiêu là bước đầu tiên trong quy trình phân đoạn thị trường
+- **C.** Thị trường mục tiêu được quyết định trước khi thực hiện phân đoạn thị trường
+- **D.** Phân đoạn thị trường là bước cuối cùng để xác định thị trường mục tiêu
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Phân đoạn thị trường giúp xác định khách hàng mục tiêu một cách cụ thể hơn — **Đúng** vì khớp với phân đoạn và thị trường mục tiêu; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 49-57.
+- **B.** Thị trường mục tiêu là bước đầu tiên trong quy trình phân đoạn thị trường — **Sai.** Nhiễu: Thị trường mục tiêu là.
+- **C.** Thị trường mục tiêu được quyết định trước khi thực hiện phân đoạn thị trường — **Sai.** Nhiễu: Thị trường mục tiêu được.
+- **D.** Phân đoạn thị trường là bước cuối cùng để xác định thị trường mục tiêu — **Sai.** Nhiễu: Phân đoạn thị trường là.
 
 ---
 
-## Câu 27: Triét IY Marketing toän dien Iä sv' ph6i hQ'P döng bé giü'a marketing néi bé, marketing ti...
+### Câu 27: Triết lý Marketing toàn diện là sự phối hợp đồng bộ giữa marketing nội bộ, marketing tích hợ
+**Đáp án: C** — căn cứ: marketing toàn diện, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 236-259.
 
-### Đề bài
-> Triét IY Marketing toän dien Iä sv' ph6i hQ'P döng bé giü'a marketing néi bé, marketing tich hpp, marketing quan he vä marketing xä héi nhäm: O A. Gia täng sv Chung thug dåi han cüa khåch häng cho doanh nghiép O B. Täng doanh Sö trong diéu kién canh tranh O C. Thoå män t6i da khåch häng cüa doanh nghiép O D. Mang lei doanh Sö cao cho doanh nghiép
+**Đề:** Triết lý Marketing toàn diện là sự phối hợp đồng bộ giữa marketing nội bộ, marketing tích hợp, marketing quan hệ và marketing xã hội nhằm:
+- **A.** Gia tăng sự chung thuỷ dài hạn của khách hàng cho doanh nghiệp
+- **B.** Tăng doanh số trong điều kiện cạnh tranh
+- **C.** Thoả mãn tối đa khách hàng của doanh nghiệp
+- **D.** Mang lại doanh số cao cho doanh nghiệp
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Gia tăng sự chung thuỷ dài hạn của khách hàng cho doanh nghiệp — **Sai.** Nhiễu: Gia tăng sự chung thuỷ.
+- **B.** Tăng doanh số trong điều kiện cạnh tranh — **Sai.** Nhiễu: Tăng doanh số trong điều.
+- **C.** Thoả mãn tối đa khách hàng của doanh nghiệp — **Đúng** vì khớp với marketing toàn diện; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 236-259.
+- **D.** Mang lại doanh số cao cho doanh nghiệp — **Sai.** Nhiễu: Mang lại doanh số cao.
 
 ---
 
-## Câu 28: Cvm tip näo KHÖNG xuät hi#n trong khåi ni#m marketing mang tinh xä héi? O A. Khåch häng mu...
+### Câu 28: Cụm từ nào KHÔNG xuất hiện trong khái niệm marketing mang tính xã hội?
+**Đáp án: A** — căn cứ: marketing mang tính xã hội, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 18-26.
 
-### Đề bài
-> Cvm tip näo KHÖNG xuät hi#n trong khåi ni#m marketing mang tinh xä héi? O A. Khåch häng muc tiéu O B. Lä mét quy trinh xä höi O C. Trao dbi cåc sån phåm vä dich vu tuong xü'ng O D. Cåc cå nhän vä nhöm
+**Đề:** Cụm từ nào KHÔNG xuất hiện trong khái niệm marketing mang tính xã hội?
+- **A.** Khách hàng mục tiêu
+- **B.** Là một quy trình xã hội
+- **C.** Trao đổi các sản phẩm và dịch vụ tương xứng
+- **D.** Các cá nhân và nhóm
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Khách hàng mục tiêu — **Đúng** vì khớp với marketing mang tính xã hội; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 18-26.
+- **B.** Là một quy trình xã hội — **Sai.** Nhiễu: Là một quy trình xã.
+- **C.** Trao đổi các sản phẩm và dịch vụ tương xứng — **Sai.** Nhiễu: Trao đổi các sản phẩm.
+- **D.** Các cá nhân và nhóm — **Sai.** Nhiễu: Các cá nhân và nhóm.
 
 ---
 
-## Câu 29: Chäo häng thi tru'öng bao göm nhü'ng yéu tö näo? O A. Quång cåo, xüc tién bån vä truyén th...
+### Câu 29: Chào hàng thị trường bao gồm những yếu tố nào?
+**Đáp án: C** — căn cứ: chào hàng thị trường, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 93-101.
 
-### Đề bài
-> Chäo häng thi tru'öng bao göm nhü'ng yéu tö näo? O A. Quång cåo, xüc tién bån vä truyén thöng O B. Giå cå, thuong hiéu vå phän phöi O C. Sån phåm, dich vu, thöng tin vä tråi nghiérn O D. Thiét ké, chåt luqng vå häu mäi
+**Đề:** Chào hàng thị trường bao gồm những yếu tố nào?
+- **A.** Quảng cáo, xúc tiến bán và truyền thông
+- **B.** Giá cả, thương hiệu và phân phối
+- **C.** Sản phẩm, dịch vụ, thông tin và trải nghiệm
+- **D.** Thiết kế, chất lượng và hậu mãi
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Quảng cáo, xúc tiến bán và truyền thông — **Sai.** Nhiễu: Quảng cáo, xúc tiến bán.
+- **B.** Giá cả, thương hiệu và phân phối — **Sai.** Nhiễu: Giá cả, thương hiệu và.
+- **C.** Sản phẩm, dịch vụ, thông tin và trải nghiệm — **Đúng** vì khớp với chào hàng thị trường; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 93-101.
+- **D.** Thiết kế, chất lượng và hậu mãi — **Sai.** Nhiễu: Thiết kế, chất lượng và.
 
 ---
 
-## Câu 30: Döi twpng cüa marketing khöng chi Iä sån phäm vä dich vv, mä cön Iä: O A. SW' kién, tråi n...
+### Câu 30: Đối tượng của marketing không chỉ là sản phẩm và dịch vụ, mà còn là:
+**Đáp án: A** — căn cứ: đối tượng marketing mở rộng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 18-33.
 
-### Đề bài
-> Döi twpng cüa marketing khöng chi Iä sån phäm vä dich vv, mä cön Iä: O A. SW' kién, tråi nghiém, vä cå nhän O B. Chi sån phåm vå thöng tin O C. Chi sv kién vå tråi nghiém O D. Chi sån phåm vå dich vv
+**Đề:** Đối tượng của marketing không chỉ là sản phẩm và dịch vụ, mà còn là:
+- **A.** Sự kiện, trải nghiệm, và cá nhân
+- **B.** Chỉ sản phẩm và thông tin
+- **C.** Chỉ sự kiện và trải nghiệm
+- **D.** Chỉ sản phẩm và dịch vụ
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Sự kiện, trải nghiệm, và cá nhân — **Đúng** vì khớp với đối tượng marketing mở rộng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 18-33.
+- **B.** Chỉ sản phẩm và thông tin — **Sai.** Nhiễu: Chỉ sản phẩm và thông.
+- **C.** Chỉ sự kiện và trải nghiệm — **Sai.** Nhiễu: Chỉ sự kiện và trải.
+- **D.** Chỉ sản phẩm và dịch vụ — **Sai.** Nhiễu: Chỉ sản phẩm và dịch.
 
 ---
 
-## Câu 31: Däu KHÖNG phåi Iä döi tuvng nghién cü'u cüa hQC phän Quån tri Marketing 1? O A. Cåc quå tr...
+### Câu 31: Đâu KHÔNG phải là đối tượng nghiên cứu của học phần Quản trị Marketing 1?
+**Đáp án: A** — căn cứ: đối tượng nghiên cứu học phần, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 499-536.
 
-### Đề bài
-> Däu KHÖNG phåi Iä döi tuvng nghién cü'u cüa hQC phän Quån tri Marketing 1? O A. Cåc quå trinh, cåc khäu quån tri marketing nhåm thöng dich cåc dCp lieu vé nhu Câu vå hånh vi cüa thi truöng muc tiéu. B. Nhüng ü'ng xü' cüa doanh nghi$p (vé mät chién luqc vä ké hoqch marketing, cåc cöng cu marketing) nhåm thöa män, dép I-leng hånh vi vä dat töi muc tiéu cüa doanh nghiép C. Céc tåc nghiép marketing nhäm thöng dich cåc dCp lieu vé nhu Câu vå hånh vi cüa thi truöng muc tiéu. D. Céc chinh såch sån phäm, giå, phän phöi vä xüc tién thuong mei cüa doanh nghi$p n
+**Đề:** Đâu KHÔNG phải là đối tượng nghiên cứu của học phần Quản trị Marketing 1?
+- **A.** Các quá trình, các khâu quản trị marketing nhằm thông dịch dữ liệu về nhu cầu và hành vi của thị trường mục tiêu
+- **B.** Những ứng xử của doanh nghiệp về chiến lược, kế hoạch và công cụ marketing nhằm thỏa mãn thị trường
+- **C.** Các tác nghiệp marketing nhằm thông dịch dữ liệu về nhu cầu và hành vi của thị trường mục tiêu
+- **D.** Các chính sách sản phẩm, giá, phân phối và xúc tiến thương mại của doanh nghiệp
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Các quá trình, các khâu quản trị marketing nhằm thông dịch dữ liệu về nhu cầu và hành vi của thị trường mục tiêu — **Đúng** vì khớp với đối tượng nghiên cứu học phần; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 499-536.
+- **B.** Những ứng xử của doanh nghiệp về chiến lược, kế hoạch và công cụ marketing nhằm thỏa mãn thị trường — **Sai.** Nhiễu: Những ứng xử của doanh.
+- **C.** Các tác nghiệp marketing nhằm thông dịch dữ liệu về nhu cầu và hành vi của thị trường mục tiêu — **Sai.** Nhiễu: Các tác nghiệp marketing nhằm.
+- **D.** Các chính sách sản phẩm, giá, phân phối và xúc tiến thương mại của doanh nghiệp — **Sai.** Nhiễu: Các chính sách sản phẩm,.
 
 ---
 
-## Câu 32: Yéu tö näo cö thé giüp duy tri sv trung thänh cüa khåch häng tbt nhåt? O A. Chåt Iuqng sån...
+### Câu 32: Yếu tố nào có thể giúp duy trì sự trung thành của khách hàng tốt nhất?
+**Đáp án: D** — căn cứ: giá trị và quan hệ khách hàng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 137-145.
 
-### Đề bài
-> Yéu tö näo cö thé giüp duy tri sv trung thänh cüa khåch häng tbt nhåt? O A. Chåt Iuqng sån phåm t6t nhåt O B. Giå cå hep IY O C. Hé th6ng phän ph6i rong khåp O D. Cung Ong giå tri khåch hång tbt nhåt
+**Đề:** Yếu tố nào có thể giúp duy trì sự trung thành của khách hàng tốt nhất?
+- **A.** Chất lượng sản phẩm tốt nhất
+- **B.** Giá cả hợp lý
+- **C.** Hệ thống phân phối rộng khắp
+- **D.** Cung ứng giá trị khách hàng tốt nhất
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-
-### Kết luận
-**Đáp án: D.** Đáp án D phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Chất lượng sản phẩm tốt nhất — **Sai.** Nhiễu: Chất lượng sản phẩm tốt.
+- **B.** Giá cả hợp lý — **Sai.** Nhiễu: Giá cả hợp lý.
+- **C.** Hệ thống phân phối rộng khắp — **Sai.** Nhiễu: Hệ thống phân phối rộng.
+- **D.** Cung ứng giá trị khách hàng tốt nhất — **Đúng** vì khớp với giá trị và quan hệ khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 137-145.
 
 ---
 
-## Câu 33: Trong vi#c xåc dinh myc tiéu chién ILPQ'C marketing, diéu näo du'ö'i däy Iä yéu tö quan tr...
+### Câu 33: Trong việc xác định mục tiêu chiến lược marketing, điều nào là yếu tố quan trọng nhất?
+**Đáp án: C** — căn cứ: mục tiêu chiến lược marketing, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 363-390.
 
-### Đề bài
-> Trong vi#c xåc dinh myc tiéu chién ILPQ'C marketing, diéu näo du'ö'i däy Iä yéu tö quan trong nhåt? A. Täp trung våo viéc phåt trién sån phåm möi må khöng quan tam dén thi truöng. O B. Xåc dinh cåc chién Iuqc truyén thöng quång bå. C. Xåc dinh cåc chi tiéu vé doanh s6, thi phän vå Ipi nhuän nhäm do luöng sw' O thånh cöng cüa chién luqc. O D. Dua ra cåc chi tiéu tåi chinh ngån hen. a
+**Đề:** Trong việc xác định mục tiêu chiến lược marketing, điều nào là yếu tố quan trọng nhất?
+- **A.** Tập trung phát triển sản phẩm mới mà không quan tâm thị trường
+- **B.** Xác định các chiến lược truyền thông quảng bá
+- **C.** Xác định các chỉ tiêu về doanh số, thị phần và lợi nhuận nhằm đo lường thành công chiến lược
+- **D.** Đưa ra các chỉ tiêu tài chính ngắn hạn
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Tập trung phát triển sản phẩm mới mà không quan tâm thị trường — **Sai.** Nhiễu: Tập trung phát triển sản.
+- **B.** Xác định các chiến lược truyền thông quảng bá — **Sai.** Nhiễu: Xác định các chiến lược.
+- **C.** Xác định các chỉ tiêu về doanh số, thị phần và lợi nhuận nhằm đo lường thành công chiến lược — **Đúng** vì khớp với mục tiêu chiến lược marketing; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 363-390.
+- **D.** Đưa ra các chỉ tiêu tài chính ngắn hạn — **Sai.** Nhiễu: Đưa ra các chỉ tiêu.
 
 ---
 
-## Câu 34: Trong quå trinh quån tri marketing, khåi ni#m näo du'ö'i däy mö tå vi#c phän chia thi tru'...
+### Câu 34: Trong quá trình quản trị marketing, khái niệm nào mô tả việc phân chia thị trường thành các 
+**Đáp án: A** — căn cứ: phân đoạn thị trường, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 49-56.
 
-### Đề bài
-> Trong quå trinh quån tri marketing, khåi ni#m näo du'ö'i däy mö tå vi#c phän chia thi tru'öng thänh cåc doen nhÖ h0'n dva trén sv khåc bi#t trong nhu Câu, hänh vi h04c Céc déc diém nhän khäu hoc/täm IY xä héi? O A. Phän doen thi truöng O B. Mbi quan hé khåch häng O C. Thi truöng muc tiéu O D. Quån tri marketing n
+**Đề:** Trong quá trình quản trị marketing, khái niệm nào mô tả việc phân chia thị trường thành các đoạn nhỏ hơn dựa trên khác biệt trong nhu cầu, hành vi hoặc đặc điểm nhân khẩu học/tâm lý xã hội?
+- **A.** Phân đoạn thị trường
+- **B.** Mối quan hệ khách hàng
+- **C.** Thị trường mục tiêu
+- **D.** Quản trị marketing
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Phân đoạn thị trường — **Đúng** vì khớp với phân đoạn thị trường; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 49-56.
+- **B.** Mối quan hệ khách hàng — **Sai.** Nhiễu: Mối quan hệ khách hàng.
+- **C.** Thị trường mục tiêu — **Sai.** Nhiễu: Thị trường mục tiêu.
+- **D.** Quản trị marketing — **Sai.** Nhiễu: Quản trị marketing.
 
 ---
 
-## Câu 35: Däu Iä vai trö cüa Marketing trong hoqch dinh chién IL*'Q'C dinh hw&ng thi tru'öng? O O O...
+### Câu 35: Đâu là vai trò của Marketing trong hoạch định chiến lược định hướng thị trường?
+**Đáp án: A** — căn cứ: vai trò marketing trong hoạch định, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 363-369 và 499-536.
 
-### Đề bài
-> Däu Iä vai trö cüa Marketing trong hoqch dinh chién IL*'Q'C dinh hw&ng thi tru'öng? O O O O A. lå Câu nöi trung gian giCpa hoat döng cüa doanh nghiép vå thi truöng, dåm båo cho hoat döng cüa doanh nghiép huöng dén thi truöng, Iåy thi truöng låm muc tiéu kinh doanh. B. Mang triét IY/dinh huöng, Iä dåu väo cüa hoach dinh C. lå hinh thi-'pc quån l', trao dbi giüa khåch hång vå doanh nghiép, lå cöng cu giüp cho doanh nghiép xäy dung vå duy tri möi quan vöi khåch hång. D. bao göm tät cå nhüng cöng viöc hoat döng giüp cho nguöi tiéu düng biét dén cüng nhu dua ra Iva chon sån phåm, dich vu hay thuong hiéu. Câu TMI-J Nöp båi - Onschool
+**Đề:** Đâu là vai trò của Marketing trong hoạch định chiến lược định hướng thị trường?
+- **A.** Là cầu nối giữa hoạt động của doanh nghiệp và thị trường, đảm bảo hoạt động doanh nghiệp hướng đến thị trường, lấy thị trường làm mục tiêu kinh doanh
+- **B.** Mang triết lý/định hướng, là đầu vào của hoạch định
+- **C.** Là hình thức quản lý, trao đổi giữa khách hàng và doanh nghiệp, là công cụ giúp xây dựng quan hệ khách hàng
+- **D.** Bao gồm các hoạt động giúp người tiêu dùng biết đến và lựa chọn sản phẩm, dịch vụ hay thương hiệu
 
-### Kiến thức nền cần dùng
-Chương 1: khái niệm cốt lõi marketing, nhu cầu - mong muốn - yêu cầu, giá trị, thỏa mãn, phân đoạn/thị trường mục tiêu và hoạch định định hướng thị trường. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 1.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A phù hợp với các khái niệm nền của marketing ở Chương 1; các phương án còn lại nhầm giữa môi trường, nhu cầu, giá trị, phân đoạn hoặc cấp hoạch định.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Là cầu nối giữa hoạt động của doanh nghiệp và thị trường, đảm bảo hoạt động doanh nghiệp hướng đến thị trường, lấy thị trường làm mục tiêu kinh doanh — **Đúng** vì khớp với vai trò marketing trong hoạch định; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 363-369 và 499-536.
+- **B.** Mang triết lý/định hướng, là đầu vào của hoạch định — **Sai.** Nhiễu: Mang triết lý/định hướng, là.
+- **C.** Là hình thức quản lý, trao đổi giữa khách hàng và doanh nghiệp, là công cụ giúp xây dựng quan hệ khách hàng — **Sai.** Nhiễu: Là hình thức quản lý,.
+- **D.** Bao gồm các hoạt động giúp người tiêu dùng biết đến và lựa chọn sản phẩm, dịch vụ hay thương hiệu — **Sai.** Nhiễu: Bao gồm các hoạt động.
 
 ---
 
 ## Ví dụ thực tế
 
-### Ví dụ 1: Highlands Coffee - STP và trải nghiệm khách hàng
-Highlands Coffee cho thấy marketing không chỉ là quảng cáo mà còn là chọn phân khúc, định vị, thiết kế sản phẩm, giá, kênh và trải nghiệm nhất quán.
+### Ví dụ 1: Vinamilk - giá trị cảm nhận và sự thỏa mãn
+Vinamilk không chỉ bán sản phẩm sữa mà còn xây dựng cảm nhận về chất lượng, độ tin cậy, hệ thống phân phối và trải nghiệm thương hiệu. Ví dụ này giúp nối Câu 2, Câu 9, Câu 10 và Câu 32: khách hàng trung thành khi tổng giá trị nhận được lớn hơn chi phí bỏ ra.
 
-### Ví dụ 2: Thế Giới Di Động - CRM và giá trị cảm nhận
-Thế Giới Di Động duy trì quan hệ khách hàng bằng điểm chạm bán hàng, hậu mãi, tư vấn và xử lý khiếu nại, qua đó tăng giá trị cảm nhận và khả năng mua lại.
+### Ví dụ 2: Shopee Việt Nam - marketspace và chào hàng thị trường
+Shopee minh họa không gian thị trường trực tuyến: người mua tìm kiếm, so sánh, đặt hàng và đánh giá ngay trên nền tảng số. Case này gắn với Câu 6, Câu 24, Câu 29 và Câu 30 về marketspace, chào hàng và đối tượng marketing mở rộng.
+
+### Ví dụ 3: Highlands Coffee - phân đoạn và thị trường mục tiêu
+Highlands Coffee chọn các nhóm khách hàng đô thị cần điểm gặp gỡ thuận tiện, từ đó thiết kế cửa hàng, sản phẩm và trải nghiệm phù hợp. Ví dụ này gắn với Câu 11, Câu 15, Câu 18, Câu 26 và Câu 34.

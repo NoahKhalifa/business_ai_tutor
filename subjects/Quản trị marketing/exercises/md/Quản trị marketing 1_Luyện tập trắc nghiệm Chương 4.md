@@ -1,286 +1,331 @@
-﻿---
+---
 source_pdf: "Quản trị marketing 1_Luyện tập trắc nghiệm Chương 4.pdf"
 source_hash: "sha256:20730c10544a710151d060f6f522d77f248b048a8a7504e192193ae531640c0b"
-converted_at: "2026-06-11T22:33:38+07:00"
+converted_at: "2026-06-28T14:20:19Z"
 subject: "quan-tri-marketing"
 doc_type: "exercise"
 pages: 18
-ocr_used: true
-ocr_language: "en-US (Vietnamese OCR unavailable; accents may be degraded)"
+confusables_flagged: 0
+recleaned_note: "Re-extract từ PDF gốc bằng tools.pdf_extract ngày 2026-06-28; phục hồi Q4, Q11, Q24 và làm sạch header/footer Onschool."
 ---
 
-# Quản trị marketing 1_Luyện tập trắc nghiệm Chương 4
+# Quản trị marketing 1 - Luyện tập trắc nghiệm Chương 4
 
-> Bản này đã được làm sạch từ OCR PDF ảnh/form Onschool: bỏ header/footer/URL, tách câu hỏi và phương án A-D để dễ học. Một số dấu tiếng Việt vẫn có thể chưa hoàn hảo vì máy không có OCR tiếng Việt.
+> Bản đã làm sạch từ PDF gốc: bỏ header/footer/URL, chuẩn hóa câu hỏi và phương án A-D. Các câu Q4, Q11, Q24 trước đây bị OCR ghép đã được phục hồi theo bản extract PDF ngày 2026-06-28.
 
 ## Câu hỏi trắc nghiệm
 
 ### Câu 1
 
-Thoät sao nhiéu doanh nghi#p Nhöt Bån kh&i däu bäng chién ILI'Q'C theo duöi thi tru'öng nhtpng lei tro thänh nhü'ng thupong hi#u dän däu toän Câu?
+Tại sao nhiều doanh nghiệp Nhật Bản khởi đầu bằng chiến lược theo đuôi thị trường nhưng lại trở thành những thương hiệu dẫn đầu toàn cầu?
 
-- **A.** Vi ho chi täp trung båt chuÖc y nguyén sản phẩm
-- **B.** Vi ho chiém ITnh thị trường nhö sån xuåt hång giå
-- **C.** Vi ho KHÔNG gäp cạnh tranh khi båt chuöc
-- **D.** Vi ho lién tuc cåi tiền, sång tao trén nén tång sản phẩm ban däu
+- **A.** Vì họ chỉ tập trung bắt chước y nguyên sản phẩm.
+- **B.** Vì họ chiếm lĩnh thị trường nhờ sản xuất hàng giả.
+- **C.** Vì họ không gặp cạnh tranh khi bắt chước.
+- **D.** Vì họ liên tục cải tiến, sáng tạo trên nền tảng sản phẩm ban đầu.
+
 ### Câu 2
 
-Trong nhü'ng néi dung sau, néi dung nào KHÔNG thuếc chién ILI'Q'C tru'öng?
+Trong những nội dung sau, nội dung nào KHÔNG thuộc chiến lược "nép góc thị trường"?
 
-- **A.** Lién tuc phåt trién thị trường vé mät dia IY
-- **B.** Thiết kế chién luqc cạnh tranh định hướng chuyén mön höa
-- **C.** Tim ch6 tr6ng trén thị trường "nép goc thi
-- **D.** Doanh nghiép cö vai trò "låp khoång tr6ng"
+- **A.** Liên tục phát triển thị trường về mặt địa lý.
+- **B.** Thiết kế chiến lược cạnh tranh định hướng chuyên môn hóa.
+- **C.** Tìm chỗ trống trên thị trường.
+- **D.** Doanh nghiệp có vai trò "lấp khoảng trống".
+
 ### Câu 3
 
-Khi ép dung cåch tiép cen thi tru'öng vé cenh tranh, doanh nghi#p cé thé gäp phåi vän dé gi?
+Khi áp dụng cách tiếp cận thị trường về cạnh tranh, doanh nghiệp có thể gặp phải vấn đề gì?
 
-- **A.** Dinh huöng theo đối thủ cạnh tranh
-- **B.** Dinh huöng theo thị trường
-- **C.** Dinh huöng theo khåch häng
-- **D.** Dinh huöng theo sản phẩm
+- **A.** Cải thiện khả năng cạnh tranh bằng cách giảm chi phí sản xuất.
+- **B.** Không nhận diện được các đối thủ cạnh tranh trực tiếp trong cùng ngành.
+- **C.** Quá tập trung vào đối thủ cạnh tranh và bỏ qua sự thay đổi của nhu cầu khách hàng.
+- **D.** Mất tập trung vào các đối thủ tiềm năng do mở rộng phạm vi nhận diện.
+
 ### Câu 4
 
-> Ghi chú OCR: câu này bị ghép với câu/trang lân cận trong bản OCR thô; xem PDF gốc hoặc solution tương ứng để đối chiếu.
+Doanh nghiệp không lấy đối thủ cạnh tranh làm trung tâm nhưng lấy khách hàng làm trung tâm là doanh nghiệp theo định hướng?
+
+- **A.** Định hướng theo đối thủ cạnh tranh.
+- **B.** Định hướng theo thị trường.
+- **C.** Định hướng theo khách hàng.
+- **D.** Định hướng theo sản phẩm.
 
 ### Câu 5
 
-Chién ILI'Q'C nào sau đây KHÔNG thuếc "tìm kiếm khåch häng möi" trong nh6m chién ILI'Q'C "Chién ILI'Q'C mö' reng töng Câu thi tru'öng"?
+Chiến lược nào sau đây KHÔNG thuộc "tìm kiếm khách hàng mới" trong nhóm chiến lược "mở rộng tổng cầu thị trường"?
 
-- **A.** Chién Iuqc mö rong vé mät dia IY
-- **B.** Chién Iuqc thäm nhäp thị trường
-- **C.** Chién Iuqc phân đoạn thị trường möi
-- **D.** Chién Iuqc phåt trién sản phẩm möi
+- **A.** Chiến lược mở rộng về mặt địa lý.
+- **B.** Chiến lược thâm nhập thị trường.
+- **C.** Chiến lược phân đoạn thị trường mới.
+- **D.** Chiến lược phát triển sản phẩm mới.
+
 ### Câu 6
 
-Trong quá trình phân tích đối thủ trong ngành bån Ié, doanh nghi#p nh#n thäy mét đối thủ cé ty 14 "phän tam td' (share of mind) vä "phän tråi tim" (share of heart) thåp hơn déng ké so vöi cåc đối thủ khåc. Nh#n dinh nào sau đây phån ånh chính xåc nhät y ngh7a chién Ivec cüa phåt hi#n näy?
+Trong quá trình phân tích đối thủ trong ngành bán lẻ, doanh nghiệp nhận thấy một đối thủ có tỷ lệ "phần tâm trí" (share of mind) và "phần trái tim" (share of heart) thấp hơn đáng kể so với các đối thủ khác. Nhận định nào sau đây phản ánh chính xác nhất ý nghĩa chiến lược của phát hiện này?
 
-- **A.** Doanh nghiép nén ngay läp tü'C täng ngän såch truyền thông dé vuqt qua döi thü trén mpi phi-pong dién.
-- **B.** Döi thü dang thiéu sự nhän dién thương hiệu vå két nöi cåm xüc vöi khåch hång - đây lå điểm yếu chién luqc må doanh nghiệp cé thé tän dung.
-- **C.** D6i thü dang theo dubi chién luqc chi phi thåp, nén KHÔNG däu tu väo xây dựng thương hiệu.
-- **D.** Döi thü cö thé dang ö giai doen tåi Câu trüc nén chua Chü trong dén tråi nghi$rn thương hiệu.
+- **A.** Doanh nghiệp nên ngay lập tức tăng ngân sách truyền thông để vượt qua đối thủ trên mọi phương diện.
+- **B.** Đối thủ đang thiếu sự nhận diện thương hiệu và sự kết nối cảm xúc với khách hàng - đây là điểm yếu chiến lược mà doanh nghiệp có thể tận dụng.
+- **C.** Đối thủ đang theo đuổi chiến lược chi phí thấp, nên không đầu tư vào xây dựng thương hiệu.
+- **D.** Đối thủ có thể đang ở giai đoạn tái cấu trúc nên chưa chú trọng đến trải nghiệm thương hiệu.
+
 ### Câu 7
 
-Doanh nghi#p däu än Cåi Län quyét dinh täng cu'öng quảng cáo trén khung giö' väng trén truyén hinh, thay đổi kich cö trpng ILPQ'ng vöi däu än Simply Cöng ty täng cu'öng nö IV'C marketing dé khai thåc nhiéu h0'n khåch häng hi#n tei trén thi tru'öng hi#n hoäc khai thåc phân đoạn khåch häng mö'i trén thi tru'öng hi#u t?i. Cåi Län dang theo duöi chién ILPO'C nào?
+Doanh nghiệp dầu ăn Cái Lân quyết định tăng cường quảng cáo trên khung giờ vàng trên truyền hình, thay đổi kích cỡ trọng lượng với dầu ăn Simply. Công ty tăng cường nỗ lực marketing để khai thác nhiều hơn khách hàng hiện tại trên thị trường hiện tại hoặc khai thác phân đoạn khách hàng mới trên thị trường hiện tại. Vậy Cái Lân đang theo đuổi chiến lược nào?
 
-- **A.** Marketing phån ü'ng truöc
-- **B.** Tăng cuöng hoạt động marketing sång ta
-- **C.** Tăng giå trén tü'ng doan thị trường
-- **D.** Chién luqc mö rong töng Câu
+- **A.** Marketing phản ứng trước.
+- **B.** Tăng cường hoạt động marketing sáng tạo.
+- **C.** Tăng giá trên từng đoạn thị trường.
+- **D.** Chiến lược mở rộng tổng cầu.
+
 ### Câu 8
 
-Doanh nghi#p åp dung cåch tiép cen thi tru'öng vé cenh tranh sé phåi Iäm gi dé trånh bi phän tån nguön IV'C quå mipc?
+Doanh nghiệp áp dụng cách tiếp cận thị trường về cạnh tranh sẽ phải làm gì để tránh bị phân tán nguồn lực quá mức?
 
-- **A.** Tăng cuöng cåc chién Iuqc giåm giå dé thu hüt khách hàng
-- **B.** Chi täp trung väo việc giåm chi phi sån xuät
-- **C.** Chơn Iva nhCpng đối thủ cạnh tranh quan trong vä thich hep nhåt dé täp trung vä
-- **D.** Täp trung våo phân tích cåc đối thủ cạnh tranh trong cüng ngành
+- **A.** Tăng cường các chiến lược giảm giá để thu hút khách hàng.
+- **B.** Chỉ tập trung vào việc giảm chi phí sản xuất.
+- **C.** Chọn lựa những đối thủ cạnh tranh quan trọng và thích hợp nhất để tập trung vào.
+- **D.** Tập trung vào phân tích các đối thủ cạnh tranh trong cùng ngành.
+
 ### Câu 9
 
-Trong tru'öng hep đối thủ cqnh tranh cé "phån ü'ng khön ngoan", doanh nghi#p nén ép dung chién ILI'Q'C nào dé ngän ngü'a đối thủ cé thé phån cöng mqnh mé?
+Trong trường hợp đối thủ cạnh tranh có "phản ứng khôn ngoan", doanh nghiệp nên áp dụng chiến lược nào để ngăn ngừa đối thủ có thể phản công mạnh mẽ?
 
-- **A.** Tăng cuöng cåc chién dich quảng cáo vå giåm giå sản phẩm.
-- **B.** Tao dung cåc mối quan hệ d6i tåc chién Iuqc dé giåm thiéu rüi ro bj tån cöng.
-- **C.** Đâu tu våo công nghệ thông tin dé gia täng hiéu quå sån xuät vå giåm chi phi.
-- **D.** Phát triển chién luqc dét phå, so dung yéu t6 båt ngö dé löi kéo khåch häng.
+- **A.** Tăng cường các chiến dịch quảng cáo và giảm giá sản phẩm.
+- **B.** Tạo dựng các mối quan hệ đối tác chiến lược để giảm thiểu rủi ro bị tấn công.
+- **C.** Đầu tư vào công nghệ thông tin để gia tăng hiệu quả sản xuất và giảm chi phí.
+- **D.** Phát triển chiến lược đột phá, sử dụng yếu tố bất ngờ để lôi kéo khách hàng.
+
 ### Câu 10
 
-Cöng ty cöng ngh# A trung nghiên cứu sån xuät nhü'ng 10?i Robot cao cäp hi#n tich hep hüt bvi, lau nhä, diet khuän, tv dö råc, tv giät dé lau. HQ trung tat cå nguön IV'C dé teo ra nhü'ng sån phäm cvc ky thöng minh vä sü' dung đồng bộ A1 väo trong Céc ü'ng dung. công ty dang lấy ai Iäm trung täm(theo dinh hupong) nào?
+Công ty công nghệ A tập trung nghiên cứu sản xuất những loại robot cao cấp hiện đại tích hợp hút bụi, lau nhà, diệt khuẩn, tự đổ rác, tự giặt giẻ lau. Họ tập trung tất cả nguồn lực để tạo ra những sản phẩm cực kỳ thông minh và sử dụng đồng bộ AI vào trong các ứng dụng. Vậy công ty đang lấy ai làm trung tâm (theo định hướng) nào?
 
-- **A.** D6i thü cạnh tranh hung dü'
-- **B.** D6i thü cạnh tranh diém tinh
-- **C.** D6i thü cạnh tranh manh vä yéu.
-- **D.** D6i thü cạnh tranh khön ngoan
+- **A.** Định hướng theo thị trường.
+- **B.** Định hướng theo khách hàng.
+- **C.** Định hướng theo sản phẩm.
+- **D.** Định hướng theo đối thủ cạnh tranh.
+
 ### Câu 11
 
-> Ghi chú OCR: câu này bị ghép với câu/trang lân cận trong bản OCR thô; xem PDF gốc hoặc solution tương ứng để đối chiếu.
+Nội dung nào dưới đây KHÔNG thuộc phản ứng của đối thủ cạnh tranh?
+
+- **A.** Đối thủ cạnh tranh hung dữ.
+- **B.** Đối thủ cạnh tranh điềm tĩnh.
+- **C.** Đối thủ cạnh tranh mạnh và yếu.
+- **D.** Đối thủ cạnh tranh khôn ngoan.
 
 ### Câu 12
 
-"KHÔNG phån ü'ng nhanh chöng hay menh mé. Cö thé do h? tin sv trung thành cüa khåch häng, cö thé do thiéu kinh phi phån L'png, hoäc do h? ch#m phåt hi#n ra vän dé" lä đối thủ cạnh tranh?
+"Không phản ứng nhanh chóng hay mạnh mẽ. Có thể do họ tin sự trung thành của khách hàng, có thể do thiếu kinh phí phản ứng, hoặc do họ chậm phát hiện ra vấn đề" là đối thủ cạnh tranh?
 
-- **A.** D6i thü cạnh tranh diém tinh
-- **B.** D6i thü cạnh tranh hung dü
-- **C.** D6i thü cạnh tranh kén chơn
-- **D.** D6i thü cạnh tranh khön ngoan
+- **A.** Đối thủ cạnh tranh điềm tĩnh.
+- **B.** Đối thủ cạnh tranh hung dữ.
+- **C.** Đối thủ cạnh tranh kén chọn.
+- **D.** Đối thủ cạnh tranh khôn ngoan.
+
 ### Câu 13
 
-Néi dung nào sau đây KHÔNG thuếc các cấp độ cenh tranh?
+Nội dung nào sau đây KHÔNG thuộc các cấp độ cạnh tranh?
 
-- **A.** Canh tranh hình thức sản phẩm
-- **B.** Canh tranh trong kênh phân phối
-- **C.** Canh tranh ngành
-- **D.** Canh tranh nhän hiéu
+- **A.** Cạnh tranh hình thức sản phẩm.
+- **B.** Cạnh tranh trong kênh phân phối.
+- **C.** Cạnh tranh ngành.
+- **D.** Cạnh tranh nhãn hiệu.
+
 ### Câu 14
 
-Doanh nghi#p (DN) sån xuät kem dånh räng X sau khi nh@n thåy cé mét nhóm người tiêu dùng cö nhu cầu mua kem dånh räng dänh riéng cho ngu'ö'i hüt thuöc Iå (do h? cö räng xin mäu vä hüt thuöc gay höi mi#ng) vä chäp nh#n trå mü'C giå cao h0'n dé thỏa mãn töt h0'n nhu cầu sü' dung kem dånh räng cüa ho. doanh nghi#p dang sü' dung chién Iu•'0'C nào?
+Doanh nghiệp sản xuất kem đánh răng X nhận thấy có một nhóm người tiêu dùng có nhu cầu mua kem đánh răng dành riêng cho người hút thuốc lá (do răng xỉn màu và hút thuốc gây hôi miệng) và chấp nhận trả mức giá cao hơn để thỏa mãn tốt hơn nhu cầu sử dụng. Vậy doanh nghiệp đang sử dụng chiến lược nào?
 
-- **A.** Thiết kế chién Iuqc cạnh tranh định hướng chuyén mön höa
-- **B.** Lién tuc phåt trién thị trường vé mät dia IY
-- **C.** Tim ch6 tr6ng trén thị trường
-- **D.** Nép göc thị trường (khoång tr6ng)
+- **A.** Thiết kế chiến lược cạnh tranh định hướng chuyên môn hóa.
+- **B.** Liên tục phát triển thị trường về mặt địa lý.
+- **C.** Tìm chỗ trống trên thị trường.
+- **D.** Nép góc thị trường (khoảng trống).
+
 ### Câu 15
 
-Theo cåch tiép thi tru•'öng vé cenh tranh, đối thủ cenh tranh cö thé Iä: O
+Theo cách tiếp cận thị trường về cạnh tranh, đối thủ cạnh tranh có thể là:
 
-- **A.** Những doanh nghiệp trong cüng ngành sån xuåt
-- **B.** Những doanh nghiệp cé sản phẩm cüng phän doan nhung KHÔNG thay thé duec sản phẩm cüa doanh nghiệp
-- **C.** NhCpng doanh nghiệp cö sản phẩm hoån toån khåc nhung cö thé thay thé mét phån nhu cầu cüa khách hàng
-- **D.** Nhü'ng doanh nghi$p cö quy mö nhö hơn vå it ảnh hưởng dén ngành
+- **A.** Những doanh nghiệp trong cùng ngành sản xuất.
+- **B.** Những doanh nghiệp có sản phẩm cùng phân đoạn nhưng không thay thế được sản phẩm của doanh nghiệp.
+- **C.** Những doanh nghiệp có sản phẩm hoàn toàn khác nhưng có thể thay thế một phần nhu cầu của khách hàng.
+- **D.** Những doanh nghiệp có quy mô nhỏ hơn và ít ảnh hưởng đến ngành.
+
 ### Câu 16
 
-Khi phân tích de dpa tb' cåc sản phẩm thay thé trong ngành, yếu tố nào dưới đây sé Iäm täng mü'C dé de doa cüa cåc sån phäm thay thé đối với doanh nghi#p?
+Khi phân tích đe dọa từ các sản phẩm thay thế trong ngành, yếu tố nào dưới đây sẽ làm tăng mức độ đe dọa của các sản phẩm thay thế đối với doanh nghiệp?
 
-- **A.** Sự phåt trién cüa công nghệ Iäm cho sản phẩm hiän tai trö nén 16i thöi
-- **B.** Cåc doanh nghiệp trong ngånh dang hep tåc dé täng cuöng thi phån Chung
-- **C.** Co Sö ha tång phän ph6i trong ngành dang duec cåi thién
-- **D.** SW gia täng sự phän biét sản phẩm giúp täng sü'C cạnh tranh cüa doanh nghiöp
+- **A.** Sự phát triển của công nghệ làm cho sản phẩm hiện tại trở nên lỗi thời.
+- **B.** Các doanh nghiệp trong ngành đang hợp tác để tăng cường thị phần chung.
+- **C.** Cơ sở hạ tầng phân phối trong ngành đang được cải thiện.
+- **D.** Sự gia tăng sự phân biệt sản phẩm giúp tăng sức cạnh tranh của doanh nghiệp.
+
 ### Câu 17
 
-Trong cåch tiép thi tru'öng vé cenh tranh, néu mét doanh nghi#p nh#n dien cåc đối thủ thay thé KHÔNG đây dü, diéu näy cö thé dän dén quå gi trong däi h?n?
+Trong cách tiếp cận thị trường về cạnh tranh, nếu một doanh nghiệp nhận diện các đối thủ thay thế không đầy đủ, điều này có thể dẫn đến hậu quả gì trong dài hạn?
 
-- **A.** Doanh nghiép cö thé tap trung quå nhiéu väo đối thủ truc tiép vä bö qua cåc yéu t6 thay đổi nhu cầu cüa khåch häng
-- **B.** Doanh nghiép sé dé däng chiém ITnh thị trường nhö väo việc KHÔNG cö đối thủ thay thé
-- **C.** Doanh nghiép cö thé giåm giå dé cạnh tranh mä KHÔNG nhän thåy sv ảnh hưởng cüa cöng ngh$ möi
-- **D.** Doanh nghiép sé KHÔNG bi ảnh hưởng böi cåc thay đổi trong thị trường toän Câu. Câu 819748
+- **A.** Doanh nghiệp có thể tập trung quá nhiều vào đối thủ trực tiếp và bỏ qua các yếu tố thay đổi nhu cầu của khách hàng.
+- **B.** Doanh nghiệp sẽ dễ dàng chiếm lĩnh thị trường nhờ vào việc không có đối thủ thay thế.
+- **C.** Doanh nghiệp có thể giảm giá để cạnh tranh mà không nhận thấy sự ảnh hưởng của công nghệ mới.
+- **D.** Doanh nghiệp sẽ không bị ảnh hưởng bởi các thay đổi trong thị trường toàn cầu.
 
 ### Câu 18
 
-De dpa tip cåc sản phẩm thay thé cö thé tro thänh möi nguy hiém lön khi nào?
+Đe dọa từ các sản phẩm thay thế có thể trở thành mối nguy hiểm lớn khi nào?
 
-- **A.** Khi khåch häng cö ft sv Iva chơn
-- **B.** Khi cåc đối thủ cạnh tranh KHÔNG dbi möi sản phẩm
-- **C.** Khi công nghệ möi khién công nghệ hién tai 16i thöi
-- **D.** Khi thị trường cö it sản phẩm thay thé
+- **A.** Khi khách hàng có ít sự lựa chọn.
+- **B.** Khi các đối thủ cạnh tranh không đổi mới sản phẩm.
+- **C.** Khi công nghệ mới khiến công nghệ hiện tại lỗi thời.
+- **D.** Khi thị trường có ít sản phẩm thay thế.
+
 ### Câu 19
 
-Mét trong nhCpng đặc điểm quan trong cüa cåch tiép cen thi tru'öng là gi?
+Một trong những đặc điểm quan trọng của cách tiếp cận thị trường là gì?
 
-- **A.** Nhän dién cåc đối thủ KHÔNG chi trong ngånh må cön trong cåc ngånh khåc cö thé thay thé sản phẩm cüa doanh nghiệp
-- **B.** Täp trung våo viéc phän biét sản phẩm trong cüng ngành
-- **C.** Täp trung våo viéc giåm chi phi sån xuät dé täng khả năng cạnh tranh
-- **D.** Dät ra cåc räo cån gia nhäp ngành cao
+- **A.** Nhận diện các đối thủ không chỉ trong ngành mà còn trong các ngành khác có thể thay thế sản phẩm của doanh nghiệp.
+- **B.** Tập trung vào việc phân biệt sản phẩm trong cùng ngành.
+- **C.** Tập trung vào việc giảm chi phí sản xuất để tăng khả năng cạnh tranh.
+- **D.** Đặt ra các rào cản gia nhập ngành cao.
+
 ### Câu 20
 
-819748 Chién IL*'Q'C nào sau đây KHÔNG thuếc chién IL*'Q'C dän deo thi trwöng?
+Chiến lược nào sau đây KHÔNG thuộc chiến lược dẫn đạo thị trường?
 
-- **A.** Phát triển thi phån
-- **B.** Phát triển sản phẩm möi
-- **C.** Båo ve thi phån
-- **D.** Mö rong töng Câu
+- **A.** Phát triển thị phần.
+- **B.** Phát triển sản phẩm mới.
+- **C.** Bảo vệ thị phần.
+- **D.** Mở rộng tổng cầu.
+
 ### Câu 21
 
-"Chi phån ü'ng vöi nhCpng kiéu tän cöng nhåt dinh mä KHÔNG cö phån ü'ng vöi cåc kiéu tän cöng khåc. Hoäc h? chi phån ü'ng vö'i mét väi đối thủ nào dö" là đối thủ cqnh tranh
+"Chỉ phản ứng với những kiểu tấn công nhất định mà không có phản ứng với các kiểu tấn công khác. Hoặc họ chỉ phản ứng với một vài đối thủ nào đó" là đối thủ cạnh tranh nào?
 
-- **A.** D6i thü cạnh tranh diém tinh
-- **B.** D6i thü cqnh tranh khön ngoan
-- **C.** D6i thü cạnh tranh hung dü
-- **D.** D6i thü cạnh tranh kén chơn
+- **A.** Đối thủ cạnh tranh điềm tĩnh.
+- **B.** Đối thủ cạnh tranh khôn ngoan.
+- **C.** Đối thủ cạnh tranh hung dữ.
+- **D.** Đối thủ cạnh tranh kén chọn.
+
 ### Câu 22
 
-Mét thu'0'ng hi#u trä sü'a xúc tiến bán "Mua 5 täng 1 " nhằm täng:
+Một thương hiệu trà sữa xúc tiến bán "Mua 5 tặng 1" nhằm tăng:
 
-- **A.** Phän doen thị trường möi
-- **B.** Tän suät tiéu đúng
-- **C.** S6 luqng khåch häng möi
-- **D.** Kh6i Iuqng tiéu đúng
+- **A.** Phân đoạn thị trường mới.
+- **B.** Tần suất tiêu dùng.
+- **C.** Số lượng khách hàng mới.
+- **D.** Khối lượng tiêu dùng.
+
 ### Câu 23
 
-Doanh nghi#p vü'a lấy đối thủ cenh tranh Iäm trung tam vü'a lấy khåch häng Iäm trung tam là doanh nghi#p theo dinh hu'öng?
+Doanh nghiệp vừa lấy đối thủ cạnh tranh làm trung tâm vừa lấy khách hàng làm trung tâm là doanh nghiệp theo định hướng?
 
-- **A.** Chién Iuoc khác biệt höa
-- **B.** Chién luqc mö rong thị trường
-- **C.** Chién Iuqc phåt trién sản phẩm möi
-- **D.** Chién luqc da dang höa
+- **A.** Định hướng theo đối thủ cạnh tranh.
+- **B.** Định hướng theo sản phẩm.
+- **C.** Định hướng theo khách hàng.
+- **D.** Định hướng theo thị trường.
+
 ### Câu 24
 
-> Ghi chú OCR: câu này bị ghép với câu/trang lân cận trong bản OCR thô; xem PDF gốc hoặc solution tương ứng để đối chiếu.
+Công ty thời trang Genviet sau khi thành công ở thị trường Hà Nội quyết định mở rộng thị trường vào miền Trung, cụ thể là thành phố Vinh. Vậy công ty đang sử dụng chiến lược nào?
+
+- **A.** Chiến lược khác biệt hóa.
+- **B.** Chiến lược mở rộng thị trường.
+- **C.** Chiến lược phát triển sản phẩm mới.
+- **D.** Chiến lược đa dạng hóa.
 
 ### Câu 25
 
-Khi công ty xe måy Honda tung ra döng xe måy tiét ki#m nhién lieu, ch6ng sv cqnh tranh cüa Céc häng Trung Quöc giå ré, đây là vi dv cüa chiến lược?
+Khi công ty xe máy Honda tung ra dòng xe máy tiết kiệm nhiên liệu, chống lại sự cạnh tranh của các hãng Trung Quốc giá rẻ, đây là ví dụ của chiến lược?
 
-- **A.** Phöng thü chän truöc
-- **B.** Phöng thü phån cöng
-- **C.** Phöng thü co cum
-- **D.** Phöng thü co döng
+- **A.** Phòng thủ chặn trước.
+- **B.** Phòng thủ phản công.
+- **C.** Phòng thủ co cụm.
+- **D.** Phòng thủ cơ động.
+
 ### Câu 26
 
-819748 Cöng ty TNHH Lavier dä quyét dinh sån nuoc giåi khåt bö sung nuöi vöi 2 döng Lavier Sport thém chanh muöi vä Lavier green là nuoc uöng döng chai vöi kiéu dång vä mäu säc rät giöng vöi thupong hi#u nöi tiềng Lavie
+Công ty TNHH Lavier đã quyết định sản xuất nước giải khát bổ sung muối với hai dòng Lavier Sport thêm chanh muối và Lavier Green là nước uống đóng chai có kiểu dáng và màu sắc rất giống với thương hiệu nổi tiếng Lavie. Đây là:
 
-- **A.** Chién Iuqc dän deo thị trường
-- **B.** Chiéc luqc thåch thijc thị trường
-- **C.** Chién Iuqc theo sau thị trường
-- **D.** Chién luoc khác biệt höa
+- **A.** Chiến lược dẫn đạo thị trường.
+- **B.** Chiến lược thách thức thị trường.
+- **C.** Chiến lược theo sau thị trường.
+- **D.** Chiến lược khác biệt hóa.
+
 ### Câu 27
 
-Mét nhwpc diém cüa cåch tiép thi tru'öng vé cenh tranh là gi?
+Một nhược điểm của cách tiếp cận thị trường về cạnh tranh là gì?
 
-- **A.** Doanh nghiép sé KHÔNG nhän thi.:pc duec nhu cầu cüa khách hàng
-- **B.** Doanh nghiép KHÔNG thé phåt trién chién Iuqc marketing dài hạn
-- **C.** Doanh nghiép cö thé måt täp trung vä phän tån nguön lvc quå mü'C
-- **D.** Doanh nghiép sé KHÔNG nhän dién duec cåc đối thủ tiém näng
+- **A.** Doanh nghiệp sẽ không nhận thức được nhu cầu của khách hàng.
+- **B.** Doanh nghiệp không thể phát triển chiến lược marketing dài hạn.
+- **C.** Doanh nghiệp có thể mất tập trung và phân tán nguồn lực quá mức.
+- **D.** Doanh nghiệp sẽ không nhận diện được các đối thủ tiềm năng.
+
 ### Câu 28
 
-819748 Khi phân tích cåc đối thủ cqnh tranh trong mét nhóm chién Iwpc, doanh nghi#p nh#n thåy räng mét đối thủ KHÔNG thay đổi chién IL*'Q'C trong thö'i gian däi. Theo IY thuyét chiến lược, diéu näy cö thé là däu hi#u cüa:
+Khi phân tích các đối thủ cạnh tranh trong một nhóm chiến lược, doanh nghiệp nhận thấy rằng một đối thủ không thay đổi chiến lược trong thời gian dài. Theo lý thuyết chiến lược, điều này có thể là dấu hiệu của:
 
-- **A.** D6i thü thiéu sv sång tao vå KHÔNG thé phåt trién thém trén thị trường.
-- **B.** D6i thü cö chién luqc "diém tinh" vå dang giü' vCpng thị phần hién tai.
-- **C.** D6i thü dä dat duec mục tiêu läu dåi vå KHÔNG cån thay đổi chién luqc nCpa.
-- **D.** Döi thü dang tìm kiếm cơ hội dé thay đổi chién luqc våo mét thöi diém thich hop.
+- **A.** Đối thủ thiếu sự sáng tạo và không thể phát triển thêm trên thị trường.
+- **B.** Đối thủ có chiến lược "điềm tĩnh" và đang giữ vững thị phần hiện tại.
+- **C.** Đối thủ đã đạt được mục tiêu lâu dài và không cần thay đổi chiến lược nữa.
+- **D.** Đối thủ đang tìm kiếm cơ hội để thay đổi chiến lược vào một thời điểm thích hợp.
+
 ### Câu 29
 
-Chién ILI'Q'C nào sau đây KHÔNG ding trong chién ILI'Q'C "Chién Ivec båo ve thị phần"?
+Chiến lược nào sau đây không dùng trong chiến lược "bảo vệ thị phần"?
 
-- **A.** Marketing phöng thü
-- **B.** Marketing thuyét phuc
-- **C.** Marketing sång ta
-- **D.** Marketing dv doån
+- **A.** Marketing phòng thủ.
+- **B.** Marketing thuyết phục.
+- **C.** Marketing sáng tạo.
+- **D.** Marketing dự đoán.
+
 ### Câu 30
 
-819748 Diéu gi sé Iäm cho mét phân đoạn thi tru'öng KHÔNG häp dän, theo mö hinh Näm IV'C Iuppng cüa Porter?
+Điều gì sẽ làm cho một phân đoạn thị trường không hấp dẫn, theo mô hình Năm lực lượng của Porter?
 
-- **A.** Thi truöng KHÔNG cé sản phẩm thay thé
-- **B.** Quå ft đối thủ cạnh tranh
-- **C.** Nguöi mua KHÔNG cö quyén luc thuong Iuqng
-- **D.** Quå nhiéu đối thủ cqnh tranh truc tiép trong phân đoạn
+- **A.** Thị trường không có sản phẩm thay thế.
+- **B.** Quá ít đối thủ cạnh tranh.
+- **C.** Người mua không có quyền lực thương lượng.
+- **D.** Quá nhiều đối thủ cạnh tranh trực tiếp trong phân đoạn.
+
 ### Câu 31
 
-Khi phân tích mục tiêu cüa đối thủ, doanh nghi#p cän Iäm gi dé hiéu rö hänh vi cüa h??
+Khi phân tích mục tiêu của đối thủ, doanh nghiệp cần làm gì để hiểu rõ hành vi của họ?
 
-- **A.** Chi quan tam dén cåc mục tiêu dài hạn cüa đối thủ.
-- **B.** Dät doanh nghiệp våo vi tri cüa đối thủ dé dånh giå mục tiêu cüa ho.
-- **C.** Bö qua cåc yéu t6 mục tiêu, chi phân tích hänh vi thuc té.
-- **D.** Dånh giå mục tiêu lợi nhuận truöc mät cüa đối thủ.
+- **A.** Chỉ quan tâm đến các mục tiêu dài hạn của đối thủ.
+- **B.** Đặt doanh nghiệp vào vị trí của đối thủ để đánh giá mục tiêu của họ.
+- **C.** Bỏ qua các yếu tố mục tiêu, chỉ phân tích hành vi thực tế.
+- **D.** Đánh giá mục tiêu lợi nhuận trước mắt của đối thủ.
+
 ### Câu 32
 
-Cåch tiép cen thi tru•'öng vé cqnh tranh cö wu diém gi?
+Cách tiếp cận thị trường về cạnh tranh có ưu điểm gì?
 
-- **A.** Nö giúp doanh nghi$p mö rong Pham vi nhän dién đối thủ cenh tranh, bao gồm cå cåc sản phẩm thay thé
-- **B.** Nö giúp doanh nghiệp tap trung väo đối thủ cạnh tranh truc tiép trong ngånh
-- **C.** Nö Iäm cho doanh nghi$p dé däng xác định thị trường mục tiêu cụ thể
-- **D.** Nö chi th(ch hep cho cåc ngành cö ft đối thủ cạnh tranh
+- **A.** Nó giúp doanh nghiệp mở rộng phạm vi nhận diện đối thủ cạnh tranh, bao gồm cả các sản phẩm thay thế.
+- **B.** Nó giúp doanh nghiệp tập trung vào đối thủ cạnh tranh trực tiếp trong ngành.
+- **C.** Nó làm cho doanh nghiệp dễ dàng xác định thị trường mục tiêu cụ thể.
+- **D.** Nó chỉ thích hợp cho các ngành có ít đối thủ cạnh tranh.
+
 ### Câu 33
 
-Nhä Iäm marketing sü' dung chiến lược nào dé båo ve thị phần?
+Nhà làm marketing sử dụng chiến lược nào để bảo vệ thị phần?
 
-- **A.** Trong tam våo chi phi thåp
-- **B.** Khåc biét höa
-- **C.** Marketing tiền phơng vå marketing phöng thü
-- **D.** Mö rong tuyén sản phẩm
+- **A.** Trọng tâm vào chi phí thấp.
+- **B.** Khác biệt hóa.
+- **C.** Marketing tiên phong và marketing phòng thủ.
+- **D.** Mở rộng tuyến sản phẩm.
+
 ### Câu 34
 
-Theo mö hinh cüa Michael Porter, khi ngwö'i mua cé quyén thupong luvng cao, mü'C dé cqnh tranh trong phän doqn sé nhu' thé nào?
+Theo mô hình của Michael Porter, khi người mua có quyền lực thương lượng cao, mức độ cạnh tranh trong phân đoạn sẽ như thế nào?
 
-- **A.** Mức dé cạnh tranh phu thuöc väo sản phẩm
-- **B.** Mü'C dé cạnh tranh giåm
-- **C.** Mức dé cạnh tranh KHÔNG thay đổi
-- **D.** Mü'C dé cạnh tranh täng
+- **A.** Mức độ cạnh tranh phụ thuộc vào sản phẩm.
+- **B.** Mức độ cạnh tranh giảm.
+- **C.** Mức độ cạnh tranh không thay đổi.
+- **D.** Mức độ cạnh tranh tăng.
+
 ### Câu 35
 
-Néi dung nào du'öi đây KHÔNG thuếc phân tích đối thủ cqnh tranh?
+Nội dung nào dưới đây KHÔNG thuộc phân tích đối thủ cạnh tranh?
 
-- **A.** Phän tich diém manh, điểm yếu cüa đối thủ
-- **B.** Phän tich chién luoc cüa đối thủ
-- **C.** Phän tich chi vä lợi nhuận cüa đối thủ
-- **D.** Phän tich phån Ong cüa đối thủ
+- **A.** Phân tích điểm mạnh, điểm yếu của đối thủ.
+- **B.** Phân tích chiến lược của đối thủ.
+- **C.** Phân tích chi phí và lợi nhuận của đối thủ.
+- **D.** Phân tích phản ứng của đối thủ.

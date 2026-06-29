@@ -1,891 +1,391 @@
-﻿---
+---
 exercise_file: "Quản trị marketing 1_Luyện tập trắc nghiệm Chương 3.md"
-solved_at: "2026-06-11T22:45:00+07:00"
+solved_at: "2026-06-28T15:25:00Z"
 status: "draft"
-review_round: 1
+review_round: 4
 total_questions: 35
 examples_added: true
-ocr_uncertain: true
+ocr_uncertain: false
+pdf_reverified: true
 extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuong-3_extended.md"
 ---
 
 # Lời giải: Quản trị marketing 1 - Luyện tập trắc nghiệm Chương 3
 
-> Dẫn chiếu bài giảng: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-> Ghi chú: đề được OCR từ PDF ảnh, một số dấu tiếng Việt trong đề gốc bị suy giảm; lời giải đã chuẩn hóa lại theo nội dung đọc được và bài giảng.
+> Nguồn chính: `subjects/Quản trị marketing/lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md`. Các flag OCR vi/vĩ trong đề đã được giữ theo PDF gốc; đặc biệt Q20/Q29 hiểu theo PDF, và Q33 là câu có thiết kế nhiễu vì cả C/D đều không thuộc 7 vai trò trung tâm mua theo bài giảng.
 
 ## Bảng đáp án nhanh
 
-| Câu | Đáp án | Giải thích ngắn |
+| Câu | Đáp án | Căn cứ nhanh |
 |---:|:---:|---|
-| 1 | A | Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 2 | B | Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 3 | A | Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 4 | A | Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 5 | D | Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 6 | C | Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 7 | A | Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 8 | C | Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 9 | D | Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 10 | A | Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 11 | B | Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 12 | C | Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 13 | D | Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 14 | B | Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 15 | B | Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 16 | A | Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 17 | A | Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 18 | B | Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 19 | D | Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 20 | C | "Môi trường vi mô" = yếu tố xung quanh DN, mạng lưới phân phối giá trị, ảnh hưởng phục vụ KH (định nghĩa Kotler). Lưu ý: trong OCR cũ A đã bị sai dấu thành "vi mô"; sau khi sửa MD đề (PDF gốc: A=vĩ mô), đáp án dịch chuyển sang C. |
-| 21 | C | Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 22 | D | Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 23 | D | Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 24 | B | Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 25 | B | Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 26 | C | Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 27 | C | Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 28 | C | Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 29 | B | "Môi trường cạnh tranh" thuộc vi mô (đối thủ cạnh tranh), không nằm trong 6 lực lượng vĩ mô; 3 phương án còn lại đều là vĩ mô. |
-| 30 | D | Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 31 | C | Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 32 | C | Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 33 | D | ⚠️ Đề lỗi thiết kế: cả C ("Người quản lý") và D ("Người giám sát") đều KHÔNG thuộc 7 vai trò trung tâm mua. Giữ D theo nhiều bộ đáp án mẫu, nhưng C cũng có thể đúng. |
-| 34 | D | Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
-| 35 | B | Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính. |
+| 1 | A | Hộ gia đình phi truyền thống là xu hướng nhân khẩu học. |
+| 2 | B | Nhân khẩu học cho biết cơ cấu dân số và khách hàng tiềm năng. |
+| 3 | A | MIS chuẩn gồm đánh giá nhu cầu, phát triển và phân phối thông tin; thu thập là thao tác bên trong. |
+| 4 | A | Phân tích marketing không trực tiếp xác định đặc tính sản phẩm cung ứng. |
+| 5 | B | Quan trắc là bước theo dõi, không phải kiểu đáp ứng lại môi trường. |
+| 6 | C | Áp lực nhóm bạn bè thuộc yếu tố xã hội, không phải cá nhân. |
+| 7 | A | Phân tích marketing giúp điều chỉnh hoạt động marketing chính xác hơn. |
+| 8 | C | Môi trường marketing là các yếu tố/nguồn lực bên ngoài tác động đến quan hệ với khách hàng mục tiêu. |
+| 9 | D | Quan trắc môi trường là hệ thống báo động sớm. |
+| 10 | A | Chung thủy khách hàng không phải nhiệm vụ quan trắc môi trường. |
+| 11 | B | Giữa ý định mua và quyết định mua có các yếu tố tình huống không tham dự. |
+| 12 | C | Công nghệ tối tân có thể giảm chi phí sản xuất. |
+| 13 | D | Có 3 kiểu đáp ứng lại môi trường. |
+| 14 | B | Văn hóa là yếu tố ảnh hưởng sâu rộng nhất. |
+| 15 | B | Môi trường tự nhiên ảnh hưởng đầu vào và có thể tạo lợi thế cạnh tranh. |
+| 16 | A | Đây là định nghĩa phân tích marketing. |
+| 17 | A | Văn hóa quy định giá trị, chuẩn mực hành vi. |
+| 18 | B | Bài giảng nêu mua theo thói quen, không gọi là mua lặp lại. |
+| 19 | D | Thay đổi văn hóa/thói quen cần phát triển sản phẩm phù hợp thị trường mục tiêu. |
+| 20 | C | Môi trường vi mô hình thành mạng lưới phân phối giá trị và khả năng phục vụ khách hàng. |
+| 21 | C | Đây là định nghĩa hệ thống thông tin marketing. |
+| 22 | D | Quản lý thay đổi công nghệ thuộc môi trường công nghệ, không phải chính trị - luật pháp. |
+| 23 | D | Hài lòng sau mua dẫn tới mua lại và nói tốt cho người khác. |
+| 24 | B | Ngành kinh doanh/cạnh tranh không thuộc 6 lực lượng vĩ mô. |
+| 25 | B | Công nghệ đổi mới nhanh cần tăng R&D để bắt kịp xu hướng. |
+| 26 | C | Công cụ thống kê xác định quan hệ dữ liệu và độ tin cậy thống kê. |
+| 27 | C | Đánh giá lựa chọn giúp hình thành ý kiến/sở thích về thương hiệu. |
+| 28 | C | Quan trắc giúp cải thiện khả năng đáp ứng thay đổi môi trường. |
+| 29 | B | Môi trường cạnh tranh là vi mô/ngành, không phải vĩ mô. |
+| 30 | D | Hàng thời trang cao cấp thường dựa mạnh vào giá trị cảm xúc/thương hiệu. |
+| 31 | C | Hành vi người tiêu dùng là chọn lựa, mua, sử dụng và loại bỏ để thỏa mãn nhu cầu. |
+| 32 | C | Môi trường vĩ mô gồm các lực lượng xã hội rộng lớn. |
+| 33 | D | Theo đáp án mẫu chọn D; lưu ý cả C và D không nằm trong 7 vai trò bài giảng. |
+| 34 | D | Thị trường tổ chức có nhiều người tham gia mua, không chỉ một người. |
+| 35 | D | Mỗi công cụ mô hình đại diện cho hệ thống/tiến trình/kết quả thực. |
 
----
+## Ghi nhớ nhanh
+
+- **Môi trường vĩ mô**: nhân khẩu học, kinh tế, tự nhiên, công nghệ, chính trị - luật pháp, văn hóa - xã hội.
+- **Môi trường vi mô**: các yếu tố quanh DN hình thành mạng lưới phân phối giá trị và khả năng phục vụ khách hàng.
+- **Quan trắc môi trường**: báo động sớm, dự báo, tư vấn nội bộ, truyền thông, cải tiến quy trình.
+- **Hành vi người tiêu dùng**: chịu tác động bởi văn hóa, xã hội, cá nhân và tâm lý; đi qua 5 bước ra quyết định mua.
+- **Trung tâm mua tổ chức**: khởi xướng, sử dụng, ảnh hưởng, quyết định, phê duyệt, mua hàng, gác cổng.
 
 ## Lời giải chi tiết
 
-## Câu 1: Thoät SV' phåt trién cüa mö hinh hé gia dinh phi truyén thöng Iä mét xu hu•'öng trong möi...
-
-### Đề bài
-> Thoät SV' phåt trién cüa mö hinh hé gia dinh phi truyén thöng Iä mét xu hu•'öng trong möi tru'öng näo? O A. Möi truöng nhän khåu hoc O B. Möi truöng cöng nghé O C. Möi truöng kinh té O D. Möi truöng vän höa-xä höi
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 2: Möi tru'öng nhän khäu hQC cé ånh hu•'öng nhu' thé näo dén nghién cü'u marketing? O A. Tåc...
-
-### Đề bài
-> Möi tru'öng nhän khäu hQC cé ånh hu•'öng nhu' thé näo dén nghién cü'u marketing? O A. Tåc döng dén khå näng sån xuät cüa doanh nghiép B. Cung cåp thöng tin vé co Câu dän sö, thöi quen tiéu düng cüa khåch häng tiém näng O C. Quyét dinh ch(nh såch giå cüa doanh nghiép O D. Anh huöng dén mü'C dé Iam phåt trong nén kinh té
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 3: Däu Iä KHÖNG phåi Iä nhi#m vv cüa he th6ng thöng tin marketing? O A. Thu thäp thöng tin O...
-
-### Đề bài
-> Däu Iä KHÖNG phåi Iä nhi#m vv cüa he th6ng thöng tin marketing? O A. Thu thäp thöng tin O B. Phåt trién thöng tin O C. Phän ph6i thöng tin O D. Dånh giå nhu cåu thöng tin n Câu HO?t déng Phän tich marketing KHÖNG giüp doanh nghi#p: O A. Xåc dinh däc diém, tinh chät cüa sån phåm må doanh nghiép cung l.:png. B. Dåm båo cåc thöng tin chän xåc cho vi$c Ivc chon vå hi$u Chinh trong suöt tién trinh quån tri marketing cüa doanh nghiép kinh doanh. C. Cung cäp cåc phåt hi$n låm diéu ki$n dinh huöng muc tiéu diéu hänh tåc nghi$p marketing. D. Cung cäp cåc kién thü'C khåch quan, tién dé ph6i hep giüa cåc bé phän marketing vöi cåc chipc näng khåc cüa doanh nghiép.
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 4: Câu 4 trong đề OCR bị ghép với trang/câu lân cận; xem file đề MD/PDF gốc để đối chiếu nguy...
-
-### Đề bài
-> Câu 4 trong đề OCR bị ghép với trang/câu lân cận; xem file đề MD/PDF gốc để đối chiếu nguyên văn.
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 5: Däu KHÖNG phåi Iä cåch mä mét doanh nghi#p dép ü'ng lei möi tru'öng marketing? O A. Doanh...
-
-### Đề bài
-> Däu KHÖNG phåi Iä cåch mä mét doanh nghi#p dép ü'ng lei möi tru'öng marketing? O A. Doanh nghiép Iäm cho sv viéc dién ra. O B. Doanh nghiép quan träc möi truöng marketing. O C. Doanh nghiép Iuön tv höi cåi gi dä dién ra. O D. Doanh nghiép dong nhin sw' viéc dién ra.
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-
-### Kết luận
-**Đáp án: D.** Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 6: Yéu tö näo du'&i däy KHÖNG THUQC nhöm yéu tö cå nhän ånh hu'öng dén hänh vi mua säm cüa ng...
-
-### Đề bài
-> Yéu tö näo du'&i däy KHÖNG THUQC nhöm yéu tö cå nhän ånh hu'öng dén hänh vi mua säm cüa ngu'ö'i tiéu ding? O A. Nghé nghiép O B. Tuöi tåc vå giai doen söng O C. Åp luc nhöm ban bé O D. Thu nhäp
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 7: Phän tich marketing giüp doanh nghi#p du'Q'C Ipi ich näo sau däy? A. Dua ra cåc phåt hién...
-
-### Đề bài
-> Phän tich marketing giüp doanh nghi#p du'Q'C Ipi ich näo sau däy? A. Dua ra cåc phåt hién giüp doanh nghiép diéu Chinh cåc hoat döng marketing möt cåch chinh xåc vå hiéu quå hon. O B. Dv doån cåc xu huöng thi truöng må khöng cän phåi thu thäp dCp liéu thuc té. O C. Chi h6 trp cåc quyét dinh vb täi ch(nh vå nhän sv trong doanh nghiép. O D. Cung cäp cåc két Iuän Chü quan dva trén kinh nghiém cå nhän.
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 8: Theo Ph. Kotler, möi tru'öng marketing bao göm: O A. Möi truöng vi mö vä cåc nguön luc bén...
-
-### Đề bài
-> Theo Ph. Kotler, möi tru'öng marketing bao göm: O A. Möi truöng vi mö vä cåc nguön luc bén trong doanh nghi$p tåc döng dén hoat döng sån xuät kinh doanh cüa doanh nghiöp. B. Möi truöng ngänh vä co Sö vät chät cüa doanh nghi$p trong cung (png giå tri cho khåch häng. C. Cåc yéu tö vä cåc nguön luc marketing bén ngoäi cö thé tåc döng dén khå näng quån tri marketing trong viéc xäy dvng vä duy tri möi quan thänh cöng vöi khåch hång muc tiéu. O D. Céc bén tham gia väo mang Iuöi cung I-:png giå tri cüa doanh nghiép.
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 9: Dién väo trong khåi ni#m sau: Iä he thöng båo déng som vé nhü'ng Ivc Iu'Q'ng möi tru'öng c...
-
-### Đề bài
-> Dién väo trong khåi ni#m sau: Iä he thöng båo déng som vé nhü'ng Ivc Iu'Q'ng möi tru'öng cé thé tåc déng dén sån phäm vä thi tru'öng cüa doanh nghi#p trong tupong Iai" O A. Nghién cü'u marketing O B. Diéu tra marketing O C. Nghién cü'u thi truöng O D. Quan träc möi truöng marketing
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-
-### Kết luận
-**Đáp án: D.** Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 10: Däu KHÖNG phåi Iä nhi#m vv cüa quan träc möi tru'öng marketing? O A. Gia täng Chung thug d...
-
-### Đề bài
-> Däu KHÖNG phåi Iä nhi#m vv cüa quan träc möi tru'öng marketing? O A. Gia täng Chung thug dåi hen cüa khåch hång cho doanh nghiép O B. Chuån bi cåc du båo O C. Kiém soåt cåc xu huöng O D. Tu vän nöi bö
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 11: Céc yéu tö näo gäy cån tro ngu'ö'i tiéu ding chuyén tü' giai doqn "Dånh giå thé vi" sang g...
-
-### Đề bài
-> Céc yéu tö näo gäy cån tro ngu'ö'i tiéu ding chuyén tü' giai doqn "Dånh giå thé vi" sang giai doqn "Quyét dinh mua"? O A. Cåc d6i thü canh tranh O B. Céc nhän t6 tinh hu6ng khöng tham dv O C. Cåc nhän t6 khåch quan O D. Céc nhän t6 Chü quan
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 12: Möi tru'öng cöng ngh# cé thé ånh hu•'öng dén doanh nghi#p nhu' thé näo? O A. Cåi thién möi...
-
-### Đề bài
-> Möi tru'öng cöng ngh# cé thé ånh hu•'öng dén doanh nghi#p nhu' thé näo? O A. Cåi thién möi truöng tv nhién cho sån xuät O B. Thay dbi Iuät phåp vb kinh doanh O C. Giåm chi phi sån xuät vöi cöng nghé töi tan O D. Täng truöng nhanh chöng trong thi truöng tiéu düng
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 13: Mö hinh dép ü'ng möi trwöng marketing cé mäy giai doen: O A. 2 giai doen O B. 5 giai doen...
-
-### Đề bài
-> Mö hinh dép ü'ng möi trwöng marketing cé mäy giai doen: O A. 2 giai doen O B. 5 giai doen O C. 4 giai doen O D. 3 giai doen n
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-
-### Kết luận
-**Đáp án: D.** Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 14: Yéu tö näo du'Q'C xem Iä ånh hu'öng säu reng nhät dén hänh vi ngwö'i tiéu düng? O A. Yéu t...
-
-### Đề bài
-> Yéu tö näo du'Q'C xem Iä ånh hu'öng säu reng nhät dén hänh vi ngwö'i tiéu düng? O A. Yéu t6 xä höi O B. Yéu tö vän höa O C. Yéu tö cå nhän O D. Yéu t6 tam IY
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 15: Möi tru'öng tv nhién cé ånh hwöng nhu' thé näo dén doanh nghi#p? O A. Dua ra quy dinh phåp...
-
-### Đề bài
-> Möi tru'öng tv nhién cé ånh hwöng nhu' thé näo dén doanh nghi#p? O A. Dua ra quy dinh phåp IY vb ngubn täi nguyén thién nhién O B. Anh huöng dén cåc yéu tö däu våo vå Iå Ipi thé canh tranh trong mét Sö ngånh O C. Tao ra co höi phåt trién cöng nghé möi O D. Giöi hen sw' phåt trién cüa cåc sån phåm dich vv
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 16: trong khåi ni#m sau: Iä hep cåc ky thu#t th6ng ké vä cåc mö hinh Dién väo dé phän tich Céc...
-
-### Đề bài
-> trong khåi ni#m sau: Iä hep cåc ky thu#t th6ng ké vä cåc mö hinh Dién väo dé phän tich Céc dü' lieu dä du'Q'C thu th#p vé Céc vän dé marketing nhäm co so' cho cåc quyét dinh vä diéu hänh kinh doanh hü'u hi#u h0'n". O A. Phän tich marketing O B. Diéu tra marketing O C. Quan tråc marketing O D. Nghién cü'u marketing
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 17: Yéu tö "vän höa" tåc déng dén quyét dinh mua säm cüa ngu'ö'i tiéu ding nhu' thé näo? O A....
-
-### Đề bài
-> Yéu tö "vän höa" tåc déng dén quyét dinh mua säm cüa ngu'ö'i tiéu ding nhu' thé näo? O A. Quy dinh cåc chuän muc hänh vi vä giå tri må nguöi tiéu düng tuän theo. O B. Dinh hinh cåch nguöi tiéu düng phån (png vöi cåc chién dich quång cåo. O C. Tao ra döng co mua såm thöng qua åp luc xä höi. O D. Anh huöng dén Sö thich cå nhän vå quyét dinh thuong hiöu.
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 18: Hänh vi näo sau däy KHÖNG phåi hänh vi mua cüa ngu'ö'i tiéu ding? O A. Hånh vi mua Iäm giå...
-
-### Đề bài
-> Hänh vi näo sau däy KHÖNG phåi hänh vi mua cüa ngu'ö'i tiéu ding? O A. Hånh vi mua Iäm giåm tråi nghich O B. Hänh vi mua läp lei O C. Hånh vi mua phi-jc tap O D. Hänh vi mua dinh huöng da dang höa
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 19: Trong chién ILPQ'C marketing, néu mét doanh nghi#p phåi diéu chinh chién ILPQ'C sån phåm d...
-
-### Đề bài
-> Trong chién ILPQ'C marketing, néu mét doanh nghi#p phåi diéu chinh chién ILPQ'C sån phåm dé phi hep nhCpng thay döi vé vän höa vä thöi quen tiéu ding & mét thi tru'öng möi, doanh nghi#p cän Iäm gi? O A. Thvc hiän chién Iuqc dinh giå cao dé tao än tuqng vb chåt luqng O B. Cåi tién cåc chién luqc phän ph6i dé giåm chi phi O C. Täng cuöng cåc hoat döng truyén thöng trén nén tång ky thuät s6 O D. Phåt trién cåc sån phåm däc biét dé dåp Ong nhu Câu cüa thi truöng muc tiéu n
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-
-### Kết luận
-**Đáp án: D.** Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 20: Điền vào khái niệm "… bao gồm các yếu tố xung quanh doanh nghiệp…"
-
-### Đề bài
-> Điền vào "…" trong khái niệm sau: "… bao gồm các yếu tố xung quanh doanh nghiệp được kết hợp để hình thành nên mạng lưới phân phối giá trị hoặc tác động đến khả năng phục vụ khách hàng của doanh nghiệp"
-> - A. Môi trường vĩ mô
-> - B. Môi trường kinh tế
-> - C. Môi trường vi mô
-> - D. Môi trường nội bộ
-
-### Kiến thức nền cần dùng
-Theo Kotler, **môi trường vi mô** (micro) gồm các tác nhân gần DN ảnh hưởng trực tiếp đến khả năng phục vụ khách hàng: doanh nghiệp, nhà cung cấp, trung gian marketing, đối thủ cạnh tranh, khách hàng, công chúng. Trong khi đó **môi trường vĩ mô** (macro) gồm 6 lực lượng xã hội rộng (nhân khẩu, kinh tế, tự nhiên, công nghệ, chính trị-luật pháp, văn hóa-xã hội). Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-> ⚠️ **Lưu ý lỗi OCR đã sửa**: Trước 2026-06-13, đề OCR có A = "vi mô" trùng với C → đáp án cũ ghi A. Sau khi soi PDF gốc (Trang 11) và sửa MD đề về đúng wording (A = vĩ mô, C = vi mô), đáp án chính xác là **C**.
-
-### Lời giải chi tiết
-Đề mô tả "các yếu tố xung quanh DN, mạng lưới phân phối giá trị, ảnh hưởng phục vụ KH" — đây là wording trực tiếp của định nghĩa **môi trường vi mô** trong bài giảng.
-
-- A sai vì "Môi trường vĩ mô" gồm các lực lượng xã hội rộng (nhân khẩu/kinh tế/tự nhiên/công nghệ/chính trị/văn hóa-xã hội), không phải "yếu tố xung quanh DN".
-- B sai vì "Môi trường kinh tế" là 1 trong 6 lực lượng vĩ mô, không phải toàn bộ vi mô.
-- **C đúng** — "Môi trường vi mô" khớp định nghĩa Kotler về yếu tố trực tiếp tạo mạng lưới phân phối giá trị, ảnh hưởng khả năng phục vụ khách hàng.
-- D sai vì "Môi trường nội bộ" chỉ DN bên trong (nguồn lực, văn hóa nội bộ), không phải "yếu tố xung quanh DN".
-
-### Kết luận
-**Đáp án: C.** Môi trường vi mô — các yếu tố gần DN tạo mạng lưới phân phối giá trị và ảnh hưởng trực tiếp đến phục vụ khách hàng.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 21: Dién väo trong khåi ni#m sau: ... bao göm con ngu'ö'i, thiét bi vä Céc thü tyc dé thu th#p...
-
-### Đề bài
-> Dién väo trong khåi ni#m sau: ... bao göm con ngu'ö'i, thiét bi vä Céc thü tyc dé thu th#p, phän 10?i, phän tich, ILPQ'ng giå vä phän ph6i thöng tin chinh xåc, düng thöi gian vä düng nhu Câu cho nhCpng ngu'ö'i ra quyét dinh marketing." O A. Hé h6 trp quyét dinh O B. Hé nghién cü'u marketing O C. Hé th6ng thöng tin marketing O D. Hé diéu tra marketing
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 22: Xu hw&ng näo du'ö'i däy KHÖNG phåi Iä mét trong nhü'ng yéu tö cüa möi tru'öng chinh tri -...
-
-### Đề bài
-> Xu hw&ng näo du'ö'i däy KHÖNG phåi Iä mét trong nhü'ng yéu tö cüa möi tru'öng chinh tri - luet phåp? O A. Thüc dåy sv phåt trién ngånh cöng nghiép möi O B. Gia täng luät dinh kinh doanh O C. Täng cuöng sv tap trung väo hänh döng cö tråch nhiém xä höi vå deo dlfrc O D. Quån IY cåc thay dbi trong cöng nghé n
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-
-### Kết luận
-**Đáp án: D.** Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 23: Khi khåch häng dånh giå cao dich vv sau bån cüa doanh nghi#p, h? thu'öng cö xu hu'&ng: O A...
-
-### Đề bài
-> Khi khåch häng dånh giå cao dich vv sau bån cüa doanh nghi#p, h? thu'öng cö xu hu'&ng: O A. Chuyén sang thuong hiéu d6i thü O B. Tim kiém sån phåm thay thé O C. Giåm chi tiéu cho cåc sån phåm khåc cüa doanh nghiép O D. Tiép tuc mua häng vå giöi thiéu thuong hiéu cho nguöi khåc n
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-
-### Kết luận
-**Đáp án: D.** Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 24: Möi tru'öng vr mö KHÖNG bao göm IV'C Iwpng näo? O A. Kinh té O B. Ngånh kinh doanh O C. Ch...
-
-### Đề bài
-> Möi tru'öng vr mö KHÖNG bao göm IV'C Iwpng näo? O A. Kinh té O B. Ngånh kinh doanh O C. Chinh tri - Iuät phåp O D. Nhän khåu hoc n
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 25: Mét doanh nghi#p cöng ngh# muön phåt trién sån phäm möi vä nh#n thü'C du'Q'C räng sv döi t...
-
-### Đề bài
-> Mét doanh nghi#p cöng ngh# muön phåt trién sån phäm möi vä nh#n thü'C du'Q'C räng sv döi trong cöng ngh# vä nhu Câu thay döi nhanh chöng trong hänh vi ngu'ö'i tiéu ding Iä yéu tö quyét dinh. Dé d6i phö vöi yéu tö näy, cöng ty cän: O A. Chi tap trung våo viéc töi uu höa quy trinh sån xuät O B. Täng cuöng nghién cü'u vä phåt trién (R&D) dé nhanh chöng båt kip xu huöng O C. Täng cuöng quan he vöi cåc döi tåc chién luqc dé chia sé rüi ro O D. Dinh giå sån phåm thåp hon dé thu hüt nguöi tiéu düng n
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 26: Dién väo trong khåi ni#m sau: ... Iä cöng cv giüp xåc dinh möi quan he bén trong mét tep h...
-
-### Đề bài
-> Dién väo trong khåi ni#m sau: ... Iä cöng cv giüp xåc dinh möi quan he bén trong mét tep hep dü' lieu, dé tin cey vé mét th6ng ké cüa chüng" O A. Cåc mö hinh hbi quy tuyén tinh O B. Cöng cu mö hinh O C. Cöng cu th6ng ké O D. Cåc bién Sö n
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 27: Trong tién trinh ra quyét dinh mua häng, bu'&c näo giüp ngu'ö'i tiéu ding hinh thänh y kié...
-
-### Đề bài
-> Trong tién trinh ra quyét dinh mua häng, bu'&c näo giüp ngu'ö'i tiéu ding hinh thänh y kién vé thupong hi#u? O A. Nhän dién vän dé O B. Tim kiém thöng tin O C. Dånh giå cåc Iva chon O D. Quyét dinh mua n
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 28: Däu Iä myc dich cüa quan träc marketing? O A. Giüp doanh nghiép Iåm ra sån phåm cö chåt Iu...
-
-### Đề bài
-> Däu Iä myc dich cüa quan träc marketing? O A. Giüp doanh nghiép Iåm ra sån phåm cö chåt Iuqng cao hon. O B. Giüp doanh nghiép sån xuät duec nhiéu hon. C. Cåi thi$n khå näng dåp (png cüa doanh nghi$p vöi nhCpng thay d6i nhanh chöng cüa möi truöng. O D. Cåi thién khå näng thanh toån.
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 29: Đâu KHÔNG phải yếu tố thuộc môi trường vĩ mô?
-
-### Đề bài
-> Đâu KHÔNG phải yếu tố thuộc môi trường vĩ mô?
-> - A. Môi trường nhân khẩu học
-> - B. Môi trường cạnh tranh
-> - C. Môi trường kinh tế
-> - D. Môi trường công nghệ
-
-### Kiến thức nền cần dùng
-Theo Kotler, **môi trường vĩ mô** của marketing gồm 6 lực lượng: nhân khẩu học, kinh tế, tự nhiên, công nghệ, chính trị - luật pháp, văn hóa - xã hội. **Môi trường vi mô** gồm: doanh nghiệp, nhà cung cấp, trung gian marketing, **đối thủ cạnh tranh**, khách hàng, công chúng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai (KHÔNG phải đáp án cần chọn) vì "Môi trường nhân khẩu học" CHÍNH LÀ 1 trong 6 lực lượng vĩ mô.
-- **B đúng** vì "Môi trường cạnh tranh" (đối thủ cạnh tranh) thuộc **vi mô**, KHÔNG nằm trong 6 lực lượng vĩ mô. Đây là đáp án "đâu KHÔNG phải vĩ mô".
-- C sai vì "Môi trường kinh tế" là 1 trong 6 lực lượng vĩ mô.
-- D sai vì "Môi trường công nghệ" là 1 trong 6 lực lượng vĩ mô.
-
-### Kết luận
-**Đáp án: B.** "Môi trường cạnh tranh" thuộc môi trường vi mô, không nằm trong các lực lượng của môi trường vĩ mô.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 30: Mét cöng ty thö'i trang cao cäp muön bén sån phåm cho nhöm ngu'ö'i tiéu ding thuéc phän do...
-
-### Đề bài
-> Mét cöng ty thö'i trang cao cäp muön bén sån phåm cho nhöm ngu'ö'i tiéu ding thuéc phän doqn "sän säng chi tiéu cao". Yéu tö näo dwö'i däy cö khå näng tåc déng mqnh nhåt dén quyét dinh mua cüa h?? O A. Quång cåo tap trung våo tinh näng thuät. O B. Céc chuong trinh khuyén mäi giåm giå. O C. Giå cå sån phåm hep IY hon döi thü. O D. Giå tri cåm xüc lién quan dén thuong hiéu.
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-
-### Kết luận
-**Đáp án: D.** Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 31: Hänh vi ngu'ö'i tiéu düng du'Q'C dinh nghra Iä g)? O A. Hånh döng cüa khåch hång khi lua c...
-
-### Đề bài
-> Hänh vi ngu'ö'i tiéu düng du'Q'C dinh nghra Iä g)? O A. Hånh döng cüa khåch hång khi lua chon giCpa cåc nhän hiéu khåc nhau. O B. Quå trinh phän tich dCp lieu mua säm cüa khåch häng. C. Toän bé hänh döng chon Iva, mua säm, sip dung vå loqi bå sån phåm, dich vu dé thöa män nhu Câu vå mong muön. O D. Toån bö hånh döng cüa cå nhån hoäc tö chi-'pc nhäm töi uu höa Ipi nhuän. a
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 32: bao häm cåc IV'C Iu'Q'ng xä héi réng lön dang ånh Dién väo trong khåi ni#m sau: hu'&ng dén...
-
-### Đề bài
-> bao häm cåc IV'C Iu'Q'ng xä héi réng lön dang ånh Dién väo trong khåi ni#m sau: hu'&ng dén toän cvc, möi tru'öng vi mö vä teo ra thöi co' cüng nhu' möi de dpa doanh nghlep O A. Möi truöng vi mö O B. Möi truöng kinh té O C. Möi truöng vr mö O D. Möi truöng nöi bö a
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 33: Đâu KHÔNG phải là vai trò của thành viên trung tâm mua?
-
-### Đề bài
-> Đâu KHÔNG phải là vai trò của thành viên trung tâm mua?
-> - A. Người quyết định
-> - B. Người khởi xướng
-> - C. Người quản lý
-> - D. Người giám sát
-
-### Kiến thức nền cần dùng
-Mô hình trung tâm mua (buying center) gồm **7 vai trò** điển hình (Webster & Wind): **người khởi xướng** (initiator), **người sử dụng** (user), **người mua** (buyer), **người ảnh hưởng** (influencer), **người quyết định** (decider), **người gác cổng** (gatekeeper), **người phê duyệt** (approver). Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### ⚠️ Ghi chú đề thiết kế tồi
-**Đề này có 2 đáp án hợp lệ.** Theo PDF gốc (đã đối chiếu ngày 2026-06-12, TODO mục [T-20260611-07]) đề thực sự có cả "Người quản lý" và "Người giám sát" — cả hai đều KHÔNG nằm trong 7 vai trò chuẩn của trung tâm mua.
-
-### Lời giải chi tiết
-- A sai (KHÔNG phải đáp án cần chọn) vì "Người quyết định" (decider) là 1 trong 7 vai trò trung tâm mua.
-- B sai (KHÔNG phải đáp án cần chọn) vì "Người khởi xướng" (initiator) là 1 trong 7 vai trò trung tâm mua.
-- **C cũng đúng theo lý thuyết** — "Người quản lý" không nằm trong 7 vai trò (vai trò quản lý chung không tách riêng trong mô hình trung tâm mua).
-- **D đúng (giữ làm đáp án chính)** — "Người giám sát" cũng không nằm trong 7 vai trò trung tâm mua.
-
-### Kết luận
-**Đáp án: D** (theo đáp án phổ biến). Tuy nhiên C cũng là đáp án hợp lệ vì cả hai đều không thuộc 7 vai trò chuẩn của trung tâm mua. Khi đi thi, nếu được chọn nhiều → chọn cả C và D; nếu chỉ chọn 1 → ưu tiên D theo đáp án bộ.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 34: Däu KHÖNG phåi déc diém cüa thi tru'öng khåch häng td chü'c? O A. Khåch häng vä nhå cung c...
-
-### Đề bài
-> Däu KHÖNG phåi déc diém cüa thi tru'öng khåch häng td chü'c? O A. Khåch häng vä nhå cung cap thän thién, gän güi. B. S6 luqng khåch hång it nhung mua vöi Sö Iuqng lön, thuöng täp trung theo O vüng dia l'. O C. Nhu Câu mua phu thuöc våo hoat döng däu ra. O D. Chi cé mét nguöi tham gia thuc hién quå trinh mua häng.
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-
-### Kết luận
-**Đáp án: D.** Đáp án D khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
-
-## Câu 35: • "Möi ... Dién väo trong khåi ni#m sau. thwc näo dö" O A. dia diém O B. phuong trinh O C....
-
-### Đề bài
-> • "Möi ... Dién väo trong khåi ni#m sau. thwc näo dö" O A. dia diém O B. phuong trinh O C. bién Sö O D. cöng cu mö hinh Câu dien cho he th6ng, tién trinh, hay két quå TMI-J Nöp båi - Onschool
-
-### Kiến thức nền cần dùng
-Chương 3: hệ thống thông tin marketing, quan trắc môi trường, môi trường vi mô/vĩ mô, hành vi người tiêu dùng và thị trường tổ chức. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 3.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B khớp với phân loại môi trường marketing, nhiệm vụ thông tin/quan trắc hoặc hành vi mua ở Chương 3; các phương án khác thuộc nhóm yếu tố khác hoặc không phải nhiệm vụ chính.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
-
----
+### Câu 1: Hộ gia đình phi truyền thống
+**Đáp án: A** — Bài giảng xếp thay đổi mô hình hộ gia đình vào nhóm xu hướng của môi trường nhân khẩu học (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1419-1442).
+- **A.** Đúng — hộ gia đình là cơ cấu dân số/nhân khẩu.
+- **B.** Sai — công nghệ nói về đổi mới kỹ thuật, R&D, vòng đời sản phẩm.
+- **C.** Sai — kinh tế liên quan thu nhập, giá cả, lạm phát, sức mua.
+- **D.** Sai — văn hóa - xã hội liên quan giá trị, niềm tin, chuẩn mực.
+
+**Lưu ý:** Thấy "dân số, tuổi, giới, gia đình, di cư" thì nghĩ nhân khẩu học.
+
+### Câu 2: Tác động của môi trường nhân khẩu học
+**Đáp án: B** — Nhân khẩu học gồm quy mô, mật độ, tuổi tác, giới tính, học vấn, nghề nghiệp, cơ cấu gia đình; đây là cơ sở hợp thành thị trường và khách hàng tiềm năng (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1419-1424).
+- **A.** Sai — khả năng sản xuất nghiêng về nguồn lực/công nghệ nội bộ.
+- **B.** Đúng — cung cấp thông tin về cơ cấu dân số và hành vi tiêu dùng tiềm năng.
+- **C.** Sai — chính sách giá còn phụ thuộc định vị, chi phí, cạnh tranh.
+- **D.** Sai — lạm phát là yếu tố kinh tế.
+
+**Lưu ý:** Nhân khẩu học giúp marketer biết "ai là thị trường".
+
+### Câu 3: Nhiệm vụ của hệ thống thông tin marketing
+**Đáp án: A** — Theo cấu trúc MIS thường dùng, nhiệm vụ chính là đánh giá nhu cầu thông tin, phát triển thông tin cần thiết và phân phối thông tin; bài giảng định nghĩa MIS như hệ thống thu thập/phân loại/phân tích/lượng giá/phân phối thông tin (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 2215-2223). "Thu thập thông tin" là thao tác bên trong phát triển thông tin, không phải tên nhiệm vụ chính trong bộ đáp án.
+- **A.** Đúng là phương án loại trừ — quá hẹp nếu hỏi "nhiệm vụ" ở cấp hệ thống.
+- **B.** Sai — phát triển thông tin là nhiệm vụ MIS.
+- **C.** Sai — phân phối thông tin là nhiệm vụ MIS.
+- **D.** Sai — đánh giá nhu cầu thông tin là bước đầu của MIS.
+
+**Lưu ý:** Nếu đề hỏi theo Kotler, nhớ bộ ba: đánh giá nhu cầu - phát triển - phân phối.
+
+### Câu 4: Phân tích marketing không giúp gì
+**Đáp án: A** — Vai trò của phân tích marketing là nhận biết tình huống, kết luận về thị trường/thời cơ, định hướng điều hành, đảm bảo thông tin chính xác, phối hợp chức năng; không trực tiếp "xác định đặc điểm, tính chất sản phẩm" (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1313-1327).
+- **A.** Đúng — đây là quyết định thiết kế/sản phẩm, không phải vai trò trực tiếp của phân tích.
+- **B.** Sai — trùng vai trò đảm bảo thông tin chân xác.
+- **C.** Sai — trùng vai trò cung cấp phát hiện định hướng điều hành.
+- **D.** Sai — trùng vai trò cung cấp kiến thức khách quan để phối hợp bộ phận.
+
+**Lưu ý:** Phân tích tạo cơ sở quyết định, không thay thế quyết định sản phẩm.
+
+### Câu 5: Không phải cách đáp ứng môi trường
+**Đáp án: B** — Bài giảng tách quan trắc môi trường khỏi phần đáp ứng; đáp ứng gồm các kiểu DN khiến/quan sát/tự chất vấn điều gì diễn ra (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1577-1608).
+- **A.** Sai — "làm cho sự việc diễn ra" là một kiểu chủ động.
+- **B.** Đúng — quan trắc là theo dõi/báo động sớm trước khi đáp ứng.
+- **C.** Sai — "tự hỏi điều gì đã diễn ra" thuộc nhóm được nêu trong mô hình đáp ứng.
+- **D.** Sai — "đứng nhìn/quan sát" là kiểu thụ động hơn.
+
+**Lưu ý:** Quan trắc là radar; đáp ứng là cách DN hành động sau khi có tín hiệu.
+
+### Câu 6: Không thuộc yếu tố cá nhân
+**Đáp án: C** — Yếu tố cá nhân gồm tuổi, giai đoạn sống, nghề nghiệp, hoàn cảnh kinh tế, lối sống, nhân cách; nhóm bạn bè thuộc nhóm tham khảo trong yếu tố xã hội (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1683-1694, 1709-1733).
+- **A.** Sai — nghề nghiệp là yếu tố cá nhân.
+- **B.** Sai — tuổi tác và giai đoạn sống là yếu tố cá nhân.
+- **C.** Đúng — áp lực nhóm bạn bè thuộc yếu tố xã hội.
+- **D.** Sai — thu nhập/hoàn cảnh kinh tế là yếu tố cá nhân.
+
+**Lưu ý:** "Bạn bè, gia đình, vai trò địa vị" thường thuộc xã hội.
+
+### Câu 7: Lợi ích của phân tích marketing
+**Đáp án: A** — Phân tích marketing cung cấp cơ sở khách quan, phát hiện và thông tin chân xác để lựa chọn/điều chỉnh hoạt động marketing (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1313-1327).
+- **A.** Đúng — điều chỉnh marketing chính xác hơn.
+- **B.** Sai — không thể dự đoán mà không thu thập dữ liệu.
+- **C.** Sai — phân tích marketing không chỉ hỗ trợ tài chính/nhân sự.
+- **D.** Sai — yêu cầu kết luận khách quan, không dựa vào kinh nghiệm chủ quan.
+
+**Lưu ý:** Từ khóa là "khách quan" và "dữ liệu".
+
+### Câu 8: Môi trường marketing theo Kotler
+**Đáp án: C** — Bài giảng định nghĩa môi trường marketing là các yếu tố và nguồn lực marketing bên ngoài có thể tác động đến khả năng quản trị marketing trong xây dựng, duy trì quan hệ thành công với khách hàng mục tiêu (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1392-1397).
+- **A.** Sai — pha trộn vĩ mô với nguồn lực bên trong.
+- **B.** Sai — quá hẹp ở ngành/cơ sở vật chất.
+- **C.** Đúng — đúng định nghĩa trong bài.
+- **D.** Sai — chỉ mô tả một phần mạng lưới cung ứng giá trị.
+
+**Lưu ý:** Môi trường marketing ở đây là bên ngoài DN, tác động đến quan hệ với khách hàng mục tiêu.
+
+### Câu 9: Hệ thống báo động sớm
+**Đáp án: D** — Quan trắc môi trường marketing là hoạt động xác định và báo động sớm về lực lượng môi trường có thể tác động đến sản phẩm/thị trường tương lai (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1577-1583).
+- **A.** Sai — nghiên cứu marketing xử lý vấn đề cụ thể.
+- **B.** Sai — điều tra marketing thu nhận thông tin hàng ngày.
+- **C.** Sai — nghiên cứu thị trường hẹp hơn.
+- **D.** Đúng — trùng định nghĩa "báo động sớm".
+
+**Lưu ý:** "Báo động sớm" là dấu hiệu rất rõ của quan trắc.
+
+### Câu 10: Không phải nhiệm vụ quan trắc
+**Đáp án: A** — Nhiệm vụ quan trắc gồm kiểm soát xu hướng, chuẩn bị dự báo, tư vấn nội bộ, truyền thông, cải tiến quy trình (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1590-1604).
+- **A.** Đúng — gia tăng chung thủy khách hàng là mục tiêu CRM/hậu mãi, không phải nhiệm vụ quan trắc.
+- **B.** Sai — chuẩn bị dự báo là nhiệm vụ.
+- **C.** Sai — kiểm soát xu hướng là nhiệm vụ.
+- **D.** Sai — tư vấn nội bộ là nhiệm vụ.
+
+**Lưu ý:** Quan trắc phục vụ nhận biết môi trường, chưa phải chương trình giữ chân khách hàng.
+
+### Câu 11: Cản trở từ đánh giá sang quyết định mua
+**Đáp án: B** — Sau đánh giá thế vị, người tiêu dùng hình thành ý định mua nhưng có hai yếu tố xen giữa: ý kiến người khác và các nhân tố tình huống không tham dự (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1904-1926).
+- **A.** Sai — đối thủ cạnh tranh có thể tác động gián tiếp, nhưng không phải yếu tố được nêu ở bước này.
+- **B.** Đúng — đây là yếu tố cản trở giữa ý định và quyết định.
+- **C.** Sai — quá chung, không đúng thuật ngữ bài giảng.
+- **D.** Sai — yếu tố chủ quan không phải tên nhóm trong đoạn này.
+
+**Lưu ý:** Cặp cần nhớ: ý kiến người khác + tình huống không tham dự.
+
+### Câu 12: Tác động của công nghệ
+**Đáp án: C** — Môi trường công nghệ có thể đe dọa ngành cũ, kích thích ngành mới, thay đổi hành vi NTD, rút ngắn chu kỳ sống sản phẩm và giảm chi phí sản xuất bằng công nghệ tối tân (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1506-1513).
+- **A.** Sai — cải thiện tự nhiên không phải tác động chính của công nghệ trong bài.
+- **B.** Sai — thay đổi luật pháp thuộc chính trị - luật pháp.
+- **C.** Đúng — giảm chi phí sản xuất là tác động được nêu trực tiếp.
+- **D.** Sai — tăng trưởng thị trường tiêu dùng có thể xảy ra nhưng không trực tiếp bằng C.
+
+**Lưu ý:** Công nghệ vừa là cơ hội vừa là đe dọa.
+
+### Câu 13: Mô hình đáp ứng lại môi trường
+**Đáp án: D** — Bài giảng nêu có 3 kiểu doanh nghiệp trong đáp ứng lại môi trường marketing (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1605-1623).
+- **A.** Sai — thiếu một kiểu.
+- **B.** Sai — nhầm với 5 nhiệm vụ quan trắc.
+- **C.** Sai — không có 4 giai đoạn trong đoạn này.
+- **D.** Đúng — có 3 kiểu/giai đoạn đáp ứng.
+
+**Lưu ý:** Dễ nhầm với 5 nhiệm vụ quan trắc ở Câu 10.
+
+### Câu 14: Yếu tố ảnh hưởng sâu rộng nhất
+**Đáp án: B** — Bài giảng nói các yếu tố văn hóa có ảnh hưởng sâu rộng nhất đến hành vi người tiêu dùng (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1661-1668).
+- **A.** Sai — xã hội quan trọng nhưng không sâu rộng nhất.
+- **B.** Đúng — văn hóa là tầng nền tảng.
+- **C.** Sai — cá nhân chú trọng tính cá thể.
+- **D.** Sai — tâm lý là nhóm cá thể hơn.
+
+**Lưu ý:** Văn hóa định hình giá trị và chuẩn mực từ rất sớm.
+
+### Câu 15: Tác động của môi trường tự nhiên
+**Đáp án: B** — Môi trường tự nhiên ảnh hưởng đến khả năng sản xuất, kinh doanh, các yếu tố đầu vào và có thể trở thành lợi thế cạnh tranh của một số ngành (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1469-1475).
+- **A.** Sai — quy định pháp lý thuộc chính trị - luật pháp.
+- **B.** Đúng — đúng ý bài giảng.
+- **C.** Sai — cơ hội công nghệ mới thuộc môi trường công nghệ.
+- **D.** Sai — quá tuyệt đối, không phải mô tả chính.
+
+**Lưu ý:** Tự nhiên không chỉ là rủi ro; đôi khi là lợi thế cạnh tranh.
+
+### Câu 16: Định nghĩa phân tích marketing
+**Đáp án: A** — Phân tích marketing là tập hợp kỹ thuật thống kê và mô hình để phân tích dữ liệu marketing, tạo cơ sở cho quyết định kinh doanh hữu hiệu hơn (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1298-1301).
+- **A.** Đúng — trùng định nghĩa.
+- **B.** Sai — điều tra marketing thu thập thông tin hàng ngày.
+- **C.** Sai — quan trắc là báo động sớm môi trường.
+- **D.** Sai — nghiên cứu marketing xử lý vấn đề nghiên cứu cụ thể.
+
+**Lưu ý:** Có "kỹ thuật thống kê và mô hình" là phân tích marketing.
+
+### Câu 17: Văn hóa tác động ra sao
+**Đáp án: A** — Môi trường văn hóa - xã hội gồm hệ thống giá trị, quan niệm, niềm tin, truyền thống và chuẩn mực hành vi; văn hóa ảnh hưởng sâu rộng đến hành vi NTD (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1550-1567, 1667-1682).
+- **A.** Đúng — văn hóa quy định giá trị và chuẩn mực.
+- **B.** Sai — phản ứng với quảng cáo có thể liên quan nhận thức/tâm lý.
+- **C.** Sai — áp lực xã hội nghiêng về nhóm tham khảo.
+- **D.** Sai — sở thích cá nhân/nhãn hiệu hẹp hơn và không bao quát bằng A.
+
+**Lưu ý:** Văn hóa là "luật mềm" của hành vi tiêu dùng.
+
+### Câu 18: Không phải loại hành vi mua
+**Đáp án: B** — Bài giảng nêu bốn loại: mua phức tạp, mua làm giảm trái nghịch, mua theo thói quen, mua định hướng đa dạng; không dùng tên "hành vi mua lặp lại" (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1786-1829).
+- **A.** Sai — có trong bài.
+- **B.** Đúng — "lặp lại" không phải tên loại hành vi trong danh sách.
+- **C.** Sai — có trong bài.
+- **D.** Sai — có trong bài.
+
+**Lưu ý:** "Theo thói quen" có thể dẫn tới mua lặp lại, nhưng không đồng nghĩa tên khái niệm.
+
+### Câu 19: Điều chỉnh sản phẩm theo văn hóa/thói quen
+**Đáp án: D** — Khi văn hóa và thói quen tiêu dùng thay đổi, marketer cần hiểu nhu cầu/giá trị của thị trường mục tiêu và điều chỉnh chào hàng phù hợp; yếu tố văn hóa định hình giá trị, sở thích, hành vi (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1550-1576, 1667-1682).
+- **A.** Sai — định giá cao không tự giải quyết khác biệt văn hóa.
+- **B.** Sai — phân phối chỉ xử lý kênh/chi phí.
+- **C.** Sai — truyền thông số là công cụ, không thay thế điều chỉnh sản phẩm.
+- **D.** Đúng — phát triển sản phẩm phù hợp nhu cầu thị trường mục tiêu.
+
+**Lưu ý:** Vào thị trường mới, "fit" văn hóa quan trọng hơn áp công thức cũ.
+
+### Câu 20: Môi trường vi mô
+**Đáp án: C** — Môi trường vi mô gồm các yếu tố xung quanh DN được kết hợp để hình thành mạng lưới phân phối giá trị và tác động đến khả năng phục vụ khách hàng (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1398-1404).
+- **A.** Sai — vĩ mô là lực lượng xã hội rộng lớn.
+- **B.** Sai — kinh tế là một lực lượng vĩ mô.
+- **C.** Đúng — trùng định nghĩa.
+- **D.** Sai — nội bộ không phải mạng lưới bên ngoài.
+
+**Lưu ý:** Vi mô gần DN và gần khả năng phục vụ khách hàng.
+
+### Câu 21: Hệ thống thông tin marketing
+**Đáp án: C** — MIS gồm con người, thiết bị/quy trình để thu thập, phân loại, phân tích, đánh giá và phân phối thông tin cần thiết, kịp thời, chính xác cho người ra quyết định marketing (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 2215-2223).
+- **A.** Sai — hệ hỗ trợ quyết định là một phần khác.
+- **B.** Sai — hệ nghiên cứu marketing xử lý vấn đề đặc biệt.
+- **C.** Đúng — trùng định nghĩa MIS.
+- **D.** Sai — hệ điều tra marketing chỉ theo dõi diễn biến hàng ngày.
+
+**Lưu ý:** MIS là "hệ thống mẹ" của thông tin marketing.
+
+### Câu 22: Không thuộc chính trị - luật pháp
+**Đáp án: D** — Môi trường chính trị - luật pháp gồm luật định, hệ thống luật, nhóm gây áp lực; xu hướng gồm gia tăng luật định và trách nhiệm xã hội/đạo đức. Quản lý thay đổi công nghệ thuộc môi trường công nghệ (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1506-1529, 1530-1549).
+- **A.** Sai — luật định có thể thúc đẩy ngành mới.
+- **B.** Sai — gia tăng luật định kinh doanh là xu hướng chính trị - luật pháp.
+- **C.** Sai — trách nhiệm xã hội/đạo đức nằm trong xu hướng chính trị - luật pháp.
+- **D.** Đúng — đây là nội dung công nghệ.
+
+**Lưu ý:** Nếu phương án nói "công nghệ" trực tiếp, hãy kiểm tra nó có bị lạc nhóm không.
+
+### Câu 23: Dịch vụ sau bán tốt
+**Đáp án: D** — Khi hài lòng sau mua, người tiêu dùng có nhiều khả năng mua lại, trung thành lâu dài, nói tốt cho người khác và ít quan tâm đến quảng cáo đối thủ (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1945-1963).
+- **A.** Sai — chuyển sang đối thủ thường là khi không hài lòng.
+- **B.** Sai — tìm sản phẩm thay thế không phải phản ứng của hài lòng.
+- **C.** Sai — dịch vụ tốt thường tăng chứ không giảm khả năng chi tiêu.
+- **D.** Đúng — tiếp tục mua và giới thiệu thương hiệu.
+
+**Lưu ý:** Hậu mãi tốt là một phần của giữ chân khách hàng.
+
+### Câu 24: Không thuộc môi trường vĩ mô
+**Đáp án: B** — Môi trường vĩ mô gồm các lực lượng xã hội rộng lớn; bài giảng tập trung 6 lực lượng chính như nhân khẩu học, kinh tế, tự nhiên, công nghệ, chính trị - luật pháp, văn hóa - xã hội. "Ngành kinh doanh/cạnh tranh" thuộc môi trường gần DN hơn (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1398-1418, 1419-1576).
+- **A.** Sai — kinh tế là vĩ mô.
+- **B.** Đúng — ngành kinh doanh không nằm trong 6 lực lượng vĩ mô.
+- **C.** Sai — chính trị - luật pháp là vĩ mô.
+- **D.** Sai — nhân khẩu học là vĩ mô.
+
+**Lưu ý:** Q24 đã verify PDF là "vĩ mô", nên B là đáp án loại trừ.
+
+### Câu 25: Đối phó đổi mới công nghệ nhanh
+**Đáp án: B** — Môi trường công nghệ thay đổi nhanh, mở ra cơ hội đổi mới và đòi hỏi DN đánh giá nguồn lực R&D phù hợp (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1506-1527).
+- **A.** Sai — chỉ tối ưu quy trình sản xuất là quá hẹp.
+- **B.** Đúng — R&D giúp bắt kịp xu hướng và phát triển sản phẩm mới.
+- **C.** Sai — đối tác có thể hỗ trợ nhưng không trực tiếp bằng R&D trong đề.
+- **D.** Sai — giá thấp không giải quyết tốc độ đổi mới.
+
+**Lưu ý:** Với công nghệ, chậm đổi mới có thể làm sản phẩm lỗi thời.
+
+### Câu 26: Công cụ xác định quan hệ dữ liệu
+**Đáp án: C** — Công cụ thống kê nhằm xác định mối quan hệ bên trong tập hợp dữ liệu và độ tin cậy thống kê của chúng (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1362-1373).
+- **A.** Sai — hồi quy tuyến tính chỉ là một kỹ thuật cụ thể.
+- **B.** Sai — công cụ mô hình đại diện hệ thống/tiến trình/kết quả.
+- **C.** Đúng — đúng định nghĩa.
+- **D.** Sai — biến số là đối tượng phân tích, không phải công cụ.
+
+**Lưu ý:** "Độ tin cậy thống kê" là dấu hiệu của công cụ thống kê.
+
+### Câu 27: Hình thành ý kiến về thương hiệu
+**Đáp án: C** — Ở bước đánh giá thế vị/lựa chọn, người tiêu dùng xử lý thông tin, phân tích, đánh giá và so sánh thương hiệu để đi tới quyết định (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1880-1903).
+- **A.** Sai — nhận diện vấn đề chỉ khởi phát nhu cầu.
+- **B.** Sai — tìm kiếm thông tin cung cấp dữ liệu đầu vào.
+- **C.** Đúng — đánh giá lựa chọn hình thành ý kiến/sở thích.
+- **D.** Sai — quyết định mua xảy ra sau khi đã có ý định/sở thích.
+
+**Lưu ý:** Thương hiệu được "chấm điểm" ở bước đánh giá lựa chọn.
+
+### Câu 28: Mục đích quan trắc marketing
+**Đáp án: C** — Mục đích quan trắc là cải thiện khả năng đáp ứng với thay đổi nhanh chóng của môi trường (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1577-1589).
+- **A.** Sai — chất lượng sản phẩm là kết quả gián tiếp, không phải mục đích chính.
+- **B.** Sai — sản xuất nhiều hơn không phải mục tiêu quan trắc.
+- **C.** Đúng — đúng mục đích trong bài.
+- **D.** Sai — khả năng thanh toán thuộc tài chính.
+
+**Lưu ý:** Quan trắc giúp DN "nhìn sớm" để phản ứng nhanh.
+
+### Câu 29: Không thuộc môi trường vĩ mô
+**Đáp án: B** — Môi trường cạnh tranh/ngành là môi trường DN đối diện trên phạm vi thị trường/ngành, không thuộc 6 lực lượng vĩ mô; PDF đã xác nhận đề hỏi "vĩ mô" (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1337-1344, 1398-1418).
+- **A.** Sai — nhân khẩu học là vĩ mô.
+- **B.** Đúng — cạnh tranh là môi trường ngành/vi mô.
+- **C.** Sai — kinh tế là vĩ mô.
+- **D.** Sai — công nghệ là vĩ mô.
+
+**Lưu ý:** Đây là câu từng bị OCR nhầm vi/vĩ; theo PDF gốc là vĩ mô.
+
+### Câu 30: Thời trang cao cấp và giá trị cảm xúc
+**Đáp án: D** — Với phân đoạn sẵn sàng chi tiêu cao, hành vi thường gắn với lối sống, vai trò/địa vị và ý niệm bản thân; các yếu tố này liên quan mạnh tới giá trị cảm xúc của thương hiệu (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1702-1733).
+- **A.** Sai — tính năng kỹ thuật ít phù hợp với thời trang cao cấp.
+- **B.** Sai — giảm giá có thể làm giảm cảm nhận cao cấp.
+- **C.** Sai — "giá hợp lý hơn" không phải động cơ chính của nhóm chi tiêu cao.
+- **D.** Đúng — cảm xúc/thương hiệu/địa vị là yếu tố mạnh.
+
+**Lưu ý:** Với hàng cao cấp, khách mua cả biểu tượng và bản sắc, không chỉ công năng.
+
+### Câu 31: Định nghĩa hành vi người tiêu dùng
+**Đáp án: C** — Hành vi người tiêu dùng là toàn bộ hành động mà cá nhân, nhóm, tổ chức chọn lựa, mua sắm, sử dụng và loại bỏ sản phẩm/dịch vụ/ý tưởng/trải nghiệm để thỏa mãn nhu cầu và mong muốn (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1629-1638).
+- **A.** Sai — chỉ là một phần hành vi lựa chọn nhãn hiệu.
+- **B.** Sai — đây là phân tích dữ liệu, không phải hành vi.
+- **C.** Đúng — bao quát đầy đủ chọn, mua, dùng, loại bỏ.
+- **D.** Sai — tổ chức tối ưu lợi nhuận không phải định nghĩa hành vi người tiêu dùng.
+
+**Lưu ý:** Định nghĩa không dừng ở lúc mua; còn có sử dụng và loại bỏ.
+
+### Câu 32: Lực lượng xã hội rộng lớn
+**Đáp án: C** — Môi trường vĩ mô bao hàm các lực lượng xã hội rộng lớn ảnh hưởng đến toàn cục, tạo thời cơ và mối đe dọa cho doanh nghiệp (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1398-1404).
+- **A.** Sai — vi mô là các yếu tố gần DN/mạng lưới phân phối giá trị.
+- **B.** Sai — kinh tế chỉ là một lực lượng trong vĩ mô.
+- **C.** Đúng — trùng định nghĩa.
+- **D.** Sai — nội bộ là nguồn lực bên trong.
+
+**Lưu ý:** "Rộng lớn, xã hội, toàn cục" là vĩ mô.
+
+### Câu 33: Vai trò trung tâm mua
+**Đáp án: D** — Bài giảng liệt kê 7 vai trò: khởi xướng, sử dụng, ảnh hưởng, quyết định, phê duyệt, mua hàng, gác cổng (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 2094-2123). Theo đáp án mẫu/solution cũ chọn D, nhưng cần ghi rõ C "người quản lý" cũng không nằm trong danh sách 7 vai trò.
+- **A.** Sai — người quyết định là vai trò có trong trung tâm mua.
+- **B.** Sai — người khởi xướng là vai trò có trong trung tâm mua.
+- **C.** Cũng không thuộc danh sách 7 vai trò theo bài giảng.
+- **D.** Đáp án mẫu chọn — người giám sát không thuộc danh sách 7 vai trò.
+
+**Lưu ý:** Nếu đề cho chọn nhiều, C và D đều đáng chọn; nếu hệ thống chọn một, giữ D theo đáp án mẫu đã được ghi trong TODO.
+
+### Câu 34: Đặc điểm thị trường khách hàng tổ chức
+**Đáp án: D** — Thị trường tổ chức có số lượng khách hàng ít nhưng mua nhiều, quan hệ gần gũi, tập trung địa lý, nhu cầu phụ thuộc đầu ra và có nhiều người tham gia mua (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1995-2021).
+- **A.** Sai — quan hệ khách hàng/nhà cung cấp gần gũi là đặc điểm.
+- **B.** Sai — ít khách hàng, mua nhiều, tập trung địa lý là đặc điểm.
+- **C.** Sai — nhu cầu mua phụ thuộc hoạt động đầu ra là đặc điểm.
+- **D.** Đúng — nói "chỉ có một người" trái với trung tâm mua nhiều người.
+
+**Lưu ý:** B2B thường chuyên nghiệp và nhiều người tham gia hơn B2C.
+
+### Câu 35: Công cụ mô hình
+**Đáp án: D** — Bài giảng nêu mỗi công cụ mô hình thường đại diện cho hệ thống, tiến trình hoặc kết quả thực nào đó (`lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1374-1391).
+- **A.** Sai — địa điểm không phù hợp định nghĩa.
+- **B.** Sai — phương trình có thể là dạng biểu diễn, nhưng không phải thuật ngữ bài giảng.
+- **C.** Sai — biến số là yếu tố trong mô hình.
+- **D.** Đúng — "công cụ mô hình" trùng định nghĩa.
+
+**Lưu ý:** Mô hình giúp trả lời "nếu thì sao" và "nên làm gì".
 
 ## Ví dụ thực tế
 
-### Ví dụ 1: Highlands Coffee - STP và trải nghiệm khách hàng
-Highlands Coffee cho thấy marketing không chỉ là quảng cáo mà còn là chọn phân khúc, định vị, thiết kế sản phẩm, giá, kênh và trải nghiệm nhất quán.
+### Ví dụ 1: Vinamilk - nhân khẩu học và văn hóa xã hội
+Vinamilk khi phát triển sản phẩm cho trẻ em, người trưởng thành hoặc người cao tuổi phải đọc biến động dân số, thu nhập, thói quen dinh dưỡng và niềm tin về sức khỏe. Ví dụ này gắn với các câu về môi trường vĩ mô và hành vi người tiêu dùng.
 
-### Ví dụ 2: Thế Giới Di Động - CRM và giá trị cảm nhận
-Thế Giới Di Động duy trì quan hệ khách hàng bằng điểm chạm bán hàng, hậu mãi, tư vấn và xử lý khiếu nại, qua đó tăng giá trị cảm nhận và khả năng mua lại.
+### Ví dụ 2: MoMo - công nghệ và hành vi tiêu dùng số
+MoMo chịu tác động mạnh từ công nghệ, quy định thanh toán, niềm tin người dùng và thói quen tiêu dùng không tiền mặt. Case này giúp phân biệt yếu tố công nghệ/văn hóa với yếu tố cạnh tranh vi mô.
+
+### Ví dụ 3: Mua hàng tổ chức tại doanh nghiệp
+Khi một công ty mua phần mềm quản trị, người dùng, phòng IT, tài chính, người phê duyệt và nhà quản lý có vai trò khác nhau. Ví dụ này giúp nhớ trung tâm mua và tránh nhầm các vai trò không có trong danh sách.

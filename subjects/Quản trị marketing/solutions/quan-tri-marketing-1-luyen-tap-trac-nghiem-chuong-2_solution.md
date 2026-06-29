@@ -1,872 +1,665 @@
-﻿---
+---
 exercise_file: "Quản trị marketing 1_Luyện tập trắc nghiệm Chương 2.md"
-solved_at: "2026-06-11T22:45:00+07:00"
+solved_at: "2026-06-27T02:30:00Z"
 status: "draft"
-review_round: 0
+review_round: 2
 total_questions: 35
 examples_added: true
-ocr_uncertain: true
+ocr_uncertain: false
+pdf_reverified: true
 extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuong-2_extended.md"
 ---
 
 # Lời giải: Quản trị marketing 1 - Luyện tập trắc nghiệm Chương 2
 
-> Dẫn chiếu bài giảng: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-> Ghi chú: đề được OCR từ PDF ảnh, một số dấu tiếng Việt trong đề gốc bị suy giảm; lời giải đã chuẩn hóa lại theo nội dung đọc được và bài giảng.
+> Dẫn chiếu bài giảng: `subjects/Quản trị marketing/lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md`. Đề Ch2 đã được đối chiếu lại với PDF gốc bằng `tools.pdf_extract` ngày 2026-06-27; Q4 và Q11 là các câu được phục hồi từ OCR lỗi.
 
 ## Bảng đáp án nhanh
 
-| Câu | Đáp án | Giải thích ngắn |
+| Câu | Đáp án | Căn cứ nhanh |
 |---:|:---:|---|
-| 1 | A | Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 2 | D | Đáp án D bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 3 | C | Đáp án C bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 4 | A | Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 5 | B | Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 6 | D | Đáp án D bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 7 | A | Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 8 | B | Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 9 | A | Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 10 | A | Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 11 | B | Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 12 | B | Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 13 | A | Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 14 | D | Đáp án D bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 15 | B | Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 16 | A | Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 17 | C | Đáp án C bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 18 | A | Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 19 | C | Đáp án C bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 20 | A | Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 21 | B | Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 22 | C | Đáp án C bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 23 | B | Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 24 | A | Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 25 | A | Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 26 | D | Đáp án D bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 27 | B | Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 28 | C | Đáp án C bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 29 | B | Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 30 | A | Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 31 | D | Đáp án D bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 32 | C | Đáp án C bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 33 | C | Đáp án C bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 34 | B | Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
-| 35 | C | Đáp án C bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm. |
+| 1 | A | tổng chi phí khách hàng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 584-587. |
+| 2 | D | cấp độ marketing quan hệ; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1068-1109. |
+| 3 | C | lựa chọn giá trị; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 888-917. |
+| 4 | A | sự thỏa mãn khách hàng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 614-626. |
+| 5 | B | giá trị và lòng trung thành; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1000-1003. |
+| 6 | D | giới hạn của tối đa hóa thỏa mãn; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 633-647. |
+| 7 | A | công cụ giữ khách hàng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1122-1163. |
+| 8 | B | marketing cộng tác; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1082-1109. |
+| 9 | A | nguồn kỳ vọng khách hàng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 620-626. |
+| 10 | A | chuỗi giá trị; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 788-797. |
+| 11 | B | quản trị kỳ vọng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 628-630. |
+| 12 | B | điểm tiếp xúc CRM; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 990-998. |
+| 13 | A | doanh nghiệp hiệu năng cao; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 660-723. |
+| 14 | D | gia tăng giá trị cảm nhận; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-587. |
+| 15 | B | marketing tương tác; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1068-1109. |
+| 16 | A | marketing cơ sở dữ liệu; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1183-1207. |
+| 17 | C | cấp độ marketing quan hệ; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1082-1109. |
+| 18 | A | đề xuất giá trị; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-575. |
+| 19 | C | phân tích giá trị khách hàng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 599-608. |
+| 20 | A | sự thỏa mãn khách hàng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 614-626. |
+| 21 | B | truyền thông giá trị; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 913-916. |
+| 22 | C | xử lý bất mãn khách hàng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 648-659. |
+| 23 | B | nguồn kỳ vọng khách hàng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 624-626. |
+| 24 | A | các giới hữu quan; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 683-696. |
+| 25 | A | chuỗi giá trị; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 823-835. |
+| 26 | D | tổng lợi ích khách hàng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 580-583. |
+| 27 | B | quá trình CRM; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 860-863. |
+| 28 | C | ràng buộc lòng trung thành; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1122-1163. |
+| 29 | B | nhiệm vụ CRM; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1000-1008. |
+| 30 | A | bất mãn khách hàng; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 648-659. |
+| 31 | D | quá trình sáng tạo giá trị; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 877-895. |
+| 32 | C | giá trị cảm nhận; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-570. |
+| 33 | C | giá trị cảm nhận; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-570. |
+| 34 | B | giá trị cảm nhận; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-570. |
+| 35 | C | tổ chức và văn hóa doanh nghiệp; `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 751-762. |
 
 ---
 
 ## Lời giải chi tiết
 
-## Câu 1: Yéu tö näo sau däy khöng thuéc töng chi phi cüa khåch häng? O A. Chi phi quång cåo O B. Ch...
+### Câu 1: Yếu tố nào sau đây không thuộc tổng chi phí của khách hàng?
+**Đáp án: A** — căn cứ: tổng chi phí khách hàng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 584-587.
 
-### Đề bài
-> Yéu tö näo sau däy khöng thuéc töng chi phi cüa khåch häng? O A. Chi phi quång cåo O B. Chi ph(tién bac O C. Chi phitäm IY O D. Chi ph(thöi gian
+**Đề:** Yếu tố nào sau đây không thuộc tổng chi phí của khách hàng?
+- **A.** Chi phí quảng cáo
+- **B.** Chi phí tiền bạc
+- **C.** Chi phí tâm lý
+- **D.** Chi phí thời gian
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Chi phí quảng cáo — **Đúng** vì khớp với tổng chi phí khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 584-587.
+- **B.** Chi phí tiền bạc — **Sai.** Nhiễu: Chi phí tiền bạc.
+- **C.** Chi phí tâm lý — **Sai.** Nhiễu: Chi phí tâm lý.
+- **D.** Chi phí thời gian — **Sai.** Nhiễu: Chi phí thời gian.
 
 ---
 
-## Câu 2: Thoät A Iä mét thwong hi#u bån dö ngü cao cäp cho döi tuvng Iä nü' giöi. Sau khi khåch hän...
+### Câu 2: Thương hiệu đồ ngủ A chủ động gọi điện hỏi mức độ hài lòng sau mua. Đây là cấp độ Marketing 
+**Đáp án: D** — căn cứ: cấp độ marketing quan hệ, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1068-1109.
 
-### Đề bài
-> Thoät A Iä mét thwong hi#u bån dö ngü cao cäp cho döi tuvng Iä nü' giöi. Sau khi khåch häng mua häng mét thö'i gian, nhän vién cöng ty sé Chü déng lién he vöi khåch häng thöng qua dien th0?i dét häng vä höi khåch häng vé mü'C dé häi löng vé sån phäm sau khi ding. Däy Iä cäp dé Marketing quan näo? O A. Marketing phån Ong truöc O B. Marketing tuong tåc O C. Marketing cän bån O D. Marketing phån ü'ng Iai
+**Đề:** Thương hiệu đồ ngủ A chủ động gọi điện hỏi mức độ hài lòng sau mua. Đây là cấp độ Marketing quan hệ nào?
+- **A.** Marketing phản ứng trước
+- **B.** Marketing tương tác
+- **C.** Marketing căn bản
+- **D.** Marketing phản ứng lại
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-
-### Kết luận
-**Đáp án: D.** Đáp án D bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Marketing phản ứng trước — **Sai.** Nhiễu: Marketing phản ứng trước.
+- **B.** Marketing tương tác — **Sai.** Nhiễu: Marketing tương tác.
+- **C.** Marketing căn bản — **Sai.** Nhiễu: Marketing căn bản.
+- **D.** Marketing phản ứng lại — **Đúng** vì khớp với cấp độ marketing quan hệ; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1068-1109.
 
 ---
 
-## Câu 3: Vi#c Napi - thwong hi#u khän sCpa Iäm tü' spi tre cé tiéng Viet nam - nghién cipu tim ra c...
+### Câu 3: Napi nghiên cứu chất liệu sợi tre tự nhiên phù hợp da nhạy cảm của bé thuộc giai đoạn nào tr
+**Đáp án: C** — căn cứ: lựa chọn giá trị, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 888-917.
 
-### Đề bài
-> Vi#c Napi - thwong hi#u khän sCpa Iäm tü' spi tre cé tiéng Viet nam - nghién cipu tim ra chät lieu xuät xü' tü' thién nhién dåm båo khå näng vuvt tréi vä phil hep vöi Iän da nh?Y cåm cüa bé tü' nhü'ng ngäy däu chäo dö'i Iä h0?t déng thuéc giai doqn näo trong quå trinh sång vä chuyén giao giå tri? O A. Truyén thöng giå tri O B. Cung ü'ng giå tri O C. Lua chon giå tri O D. Thvc hién giå tri Câu SV' thöa män cüa khåch häng phån ånh möi quan he giü'a yéu tö näo? O A. KY vong cüa khåch hång vä hiéu suät cüa sån phåm O B. Dånh giå cüa khåch häng vä uy tin cüa doanh nghiép O C. Giå cå vä thuong hiäu cüa sån phåm O D. KY vong cüa khåch hång vå giå tri cüa sån phåm n
+**Đề:** Napi nghiên cứu chất liệu sợi tre tự nhiên phù hợp da nhạy cảm của bé thuộc giai đoạn nào trong quá trình sáng tạo và chuyển giao giá trị?
+- **A.** Truyền thông giá trị
+- **B.** Cung ứng giá trị
+- **C.** Lựa chọn giá trị
+- **D.** Thực hiện giá trị
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Truyền thông giá trị — **Sai.** Nhiễu: Truyền thông giá trị.
+- **B.** Cung ứng giá trị — **Sai.** Nhiễu: Cung ứng giá trị.
+- **C.** Lựa chọn giá trị — **Đúng** vì khớp với lựa chọn giá trị; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 888-917.
+- **D.** Thực hiện giá trị — **Sai.** Nhiễu: Thực hiện giá trị.
 
 ---
 
-## Câu 4: Câu 4 trong đề OCR bị ghép với trang/câu lân cận; xem file đề MD/PDF gốc để đối chiếu nguy...
+### Câu 4: Sự thỏa mãn của khách hàng phản ánh mối quan hệ giữa yếu tố nào?
+**Đáp án: A** — căn cứ: sự thỏa mãn khách hàng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 614-626.
 
-### Đề bài
-> Câu 4 trong đề OCR bị ghép với trang/câu lân cận; xem file đề MD/PDF gốc để đối chiếu nguyên văn.
+**Đề:** Sự thỏa mãn của khách hàng phản ánh mối quan hệ giữa yếu tố nào?
+- **A.** Kỳ vọng của khách hàng và hiệu suất của sản phẩm
+- **B.** Đánh giá của khách hàng và uy tín của doanh nghiệp
+- **C.** Giá cả và thương hiệu của sản phẩm
+- **D.** Kỳ vọng của khách hàng và giá trị của sản phẩm
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Kỳ vọng của khách hàng và hiệu suất của sản phẩm — **Đúng** vì khớp với sự thỏa mãn khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 614-626.
+- **B.** Đánh giá của khách hàng và uy tín của doanh nghiệp — **Sai.** Nhiễu: Đánh giá của khách hàng.
+- **C.** Giá cả và thương hiệu của sản phẩm — **Sai.** Nhiễu: Giá cả và thương hiệu.
+- **D.** Kỳ vọng của khách hàng và giá trị của sản phẩm — **Sai.** Nhiễu: Kỳ vọng của khách hàng.
 
 ---
 
-## Câu 5: Theo ben, yéu tö näo cö thé duy tri sv trung thänh cüa khåch häng tbt nhåt? O A. giå cå he...
+### Câu 5: Yếu tố nào có thể duy trì sự trung thành của khách hàng tốt nhất?
+**Đáp án: B** — căn cứ: giá trị và lòng trung thành, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1000-1003.
 
-### Đề bài
-> Theo ben, yéu tö näo cö thé duy tri sv trung thänh cüa khåch häng tbt nhåt? O A. giå cå hep IY O B. Cung Ong giå tri khåch hång tbt nhåt O C. Chåt Iuqng sån phåm t6t nhåt O D. Hé th6ng phän ph6i rong khåp n
+**Đề:** Yếu tố nào có thể duy trì sự trung thành của khách hàng tốt nhất?
+- **A.** Giá cả hợp lý
+- **B.** Cung ứng giá trị khách hàng tốt nhất
+- **C.** Chất lượng sản phẩm tốt nhất
+- **D.** Hệ thống phân phối rộng khắp
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Giá cả hợp lý — **Sai.** Nhiễu: Giá cả hợp lý.
+- **B.** Cung ứng giá trị khách hàng tốt nhất — **Đúng** vì khớp với giá trị và lòng trung thành; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1000-1003.
+- **C.** Chất lượng sản phẩm tốt nhất — **Sai.** Nhiễu: Chất lượng sản phẩm tốt.
+- **D.** Hệ thống phân phối rộng khắp — **Sai.** Nhiễu: Hệ thống phân phối rộng.
 
 ---
 
-## Câu 6: Khi phän tich sv' thöa män cüa khåch häng, sao doanh nghi#p khöng nén tep trung tuyet döi...
+### Câu 6: Tại sao doanh nghiệp không nên tập trung tuyệt đối vào mức độ thỏa mãn cao nhất?
+**Đáp án: D** — căn cứ: giới hạn của tối đa hóa thỏa mãn, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 633-647.
 
-### Đề bài
-> Khi phän tich sv' thöa män cüa khåch häng, sao doanh nghi#p khöng nén tep trung tuyet döi väo vi#c teo ra mipc dé thÖa män cao nhät? O A. Vi chi phi dé dat duec sv thöa män cao thuöng khöng thé do Iuöng. O B. Vi moc dö thöa män cao khöng tao ra trung thånh cüa khåch hång. C. Vi khåch hång thuöng khöng ky vong cao döi vöi cåc sån phåm/dich vv thöng thuöng. O D. Vi viéc nay cé thé dän dén giåm Ipi nhuän hoäc Iåm mät can d6i nguön luc. Q
+**Đề:** Tại sao doanh nghiệp không nên tập trung tuyệt đối vào mức độ thỏa mãn cao nhất?
+- **A.** Vì chi phí để đạt sự thỏa mãn cao thường không thể đo lường
+- **B.** Vì thỏa mãn cao không tạo ra trung thành
+- **C.** Vì khách hàng thường không kỳ vọng cao với sản phẩm/dịch vụ thông thường
+- **D.** Vì việc này có thể dẫn đến giảm lợi nhuận hoặc mất cân đối nguồn lực
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-
-### Kết luận
-**Đáp án: D.** Đáp án D bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Vì chi phí để đạt sự thỏa mãn cao thường không thể đo lường — **Sai.** Nhiễu: Vì chi phí để đạt.
+- **B.** Vì thỏa mãn cao không tạo ra trung thành — **Sai.** Nhiễu: Vì thỏa mãn cao không.
+- **C.** Vì khách hàng thường không kỳ vọng cao với sản phẩm/dịch vụ thông thường — **Sai.** Nhiễu: Vì khách hàng thường không.
+- **D.** Vì việc này có thể dẫn đến giảm lợi nhuận hoặc mất cân đối nguồn lực — **Đúng** vì khớp với giới hạn của tối đa hóa thỏa mãn; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 633-647.
 
 ---
 
-## Câu 7: Céc nhän häng thöi trang, my phäm hi#n nay déu cé chupong trinh tich diém, chwong trinh th...
+### Câu 7: Chương trình tích điểm/thành viên mua càng nhiều càng được chiết khấu cao là ví dụ về:
+**Đáp án: A** — căn cứ: công cụ giữ khách hàng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1122-1163.
 
-### Đề bài
-> Céc nhän häng thöi trang, my phäm hi#n nay déu cé chupong trinh tich diém, chwong trinh thänh vién mä khåch häng mua cäng nhiéu thi sé cé duvc mü'C chiét khäu cäng cao trén möi don häng phia sau. Däy Iä vi dv vé: O A. Gia täng cåc Ipi ich tåi chinh dé xäy dung löng trung thänh O B. Gia täng Ipi (ch xä höi dé xäy dung löng trung thänh cüa khåch häng O C. Gia täng rang buöc vé Câu trüc dé xäy dung löng trung thånh O D. Trao quyén cho khåch häng dé xäy dung löng trung thänh
+**Đề:** Chương trình tích điểm/thành viên mua càng nhiều càng được chiết khấu cao là ví dụ về:
+- **A.** Gia tăng các lợi ích tài chính để xây dựng lòng trung thành
+- **B.** Gia tăng lợi ích xã hội để xây dựng lòng trung thành
+- **C.** Gia tăng ràng buộc về cấu trúc để xây dựng lòng trung thành
+- **D.** Trao quyền cho khách hàng để xây dựng lòng trung thành
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Gia tăng các lợi ích tài chính để xây dựng lòng trung thành — **Đúng** vì khớp với công cụ giữ khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1122-1163.
+- **B.** Gia tăng lợi ích xã hội để xây dựng lòng trung thành — **Sai.** Nhiễu: Gia tăng lợi ích xã.
+- **C.** Gia tăng ràng buộc về cấu trúc để xây dựng lòng trung thành — **Sai.** Nhiễu: Gia tăng ràng buộc về.
+- **D.** Trao quyền cho khách hàng để xây dựng lòng trung thành — **Sai.** Nhiễu: Trao quyền cho khách hàng.
 
 ---
 
-## Câu 8: Khi näo doanh nghi#p nén ép dung cäp dé marketing céng tåc? O A. Khi muön täng doanh Sö ng...
+### Câu 8: Khi nào doanh nghiệp nên áp dụng cấp độ marketing cộng tác?
+**Đáp án: B** — căn cứ: marketing cộng tác, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1082-1109.
 
-### Đề bài
-> Khi näo doanh nghi#p nén ép dung cäp dé marketing céng tåc? O A. Khi muön täng doanh Sö ngän hen qua chi-pong trinh xüc tién bån. B. Khi hoat döng trong thi truöng ft nhä phän ph6i, it khåch häng vä Ipi nhuän bién cao. C. Khi thi truöng cö khåch häng mang lai Ipi nhuän bién cao nhung sv' canh tranh khöng lön. D. Khi hoat döng trong thi truöng vöi nhiéu nhä phän ph6i vä khåch häng, Ipi nhuän bién thåp.
+**Đề:** Khi nào doanh nghiệp nên áp dụng cấp độ marketing cộng tác?
+- **A.** Khi muốn tăng doanh số ngắn hạn qua xúc tiến bán
+- **B.** Khi hoạt động trong thị trường ít nhà phân phối, ít khách hàng và lợi nhuận biên cao
+- **C.** Khi thị trường có khách hàng lợi nhuận biên cao nhưng cạnh tranh không lớn
+- **D.** Khi thị trường nhiều nhà phân phối/khách hàng, lợi nhuận biên thấp
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Khi muốn tăng doanh số ngắn hạn qua xúc tiến bán — **Sai.** Nhiễu: Khi muốn tăng doanh số.
+- **B.** Khi hoạt động trong thị trường ít nhà phân phối, ít khách hàng và lợi nhuận biên cao — **Đúng** vì khớp với marketing cộng tác; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1082-1109.
+- **C.** Khi thị trường có khách hàng lợi nhuận biên cao nhưng cạnh tranh không lớn — **Sai.** Nhiễu: Khi thị trường có khách.
+- **D.** Khi thị trường nhiều nhà phân phối/khách hàng, lợi nhuận biên thấp — **Sai.** Nhiễu: Khi thị trường nhiều nhà.
 
 ---
 
-## Câu 9: Yéu tö näo sau däy ånh hwöng dén sv' thÖa män cüa khåch häng? A. Kinh nghi$m mua häng tron...
+### Câu 9: Yếu tố nào ảnh hưởng đến sự thỏa mãn của khách hàng?
+**Đáp án: A** — căn cứ: nguồn kỳ vọng khách hàng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 620-626.
 
-### Đề bài
-> Yéu tö näo sau däy ånh hwöng dén sv' thÖa män cüa khåch häng? A. Kinh nghi$m mua häng trong quå khl-?, löi khuyén tü' ban bé vä d6i thü cqnh tranh. O B. Quång cåo vå chuong trinh xüc tién. O C. Möi quan hé giCpa doanh nghiép vå cåc döi tåc. O D. Lei nhuän cüa doanh nghiép.
+**Đề:** Yếu tố nào ảnh hưởng đến sự thỏa mãn của khách hàng?
+- **A.** Kinh nghiệm mua hàng quá khứ, lời khuyên từ bạn bè và đối thủ cạnh tranh
+- **B.** Quảng cáo và chương trình xúc tiến
+- **C.** Mối quan hệ giữa doanh nghiệp và đối tác
+- **D.** Lợi nhuận của doanh nghiệp
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Kinh nghiệm mua hàng quá khứ, lời khuyên từ bạn bè và đối thủ cạnh tranh — **Đúng** vì khớp với nguồn kỳ vọng khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 620-626.
+- **B.** Quảng cáo và chương trình xúc tiến — **Sai.** Nhiễu: Quảng cáo và chương trình.
+- **C.** Mối quan hệ giữa doanh nghiệp và đối tác — **Sai.** Nhiễu: Mối quan hệ giữa doanh.
+- **D.** Lợi nhuận của doanh nghiệp — **Sai.** Nhiễu: Lợi nhuận của doanh nghiệp.
 
 ---
 
-## Câu 10: Trong chuöi giå tri, h0?t déng näo sau däy duec xem Iä h0?t déng chinh? O A. Marketing vå...
+### Câu 10: Trong chuỗi giá trị, hoạt động nào là hoạt động chính?
+**Đáp án: A** — căn cứ: chuỗi giá trị, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 788-797.
 
-### Đề bài
-> Trong chuöi giå tri, h0?t déng näo sau däy duec xem Iä h0?t déng chinh? O A. Marketing vå bån hång. O B. Phåt trién cöng nghé. O C. Quån IY ngubn nhän luc. O D. Co Sö ha tång doanh nghiép. n Câu Câuli: Däu Iä vi#c mä nhü'ng ngu'ö'i Iäm Marketing cän Iäm dé teo ra sv' thöa män cüa khåch häng? O A. Phåi cang ngäy cang thoå män khåch häng ö mü'C dé cao hon so vöi truöc dö. O B. Cän cän trong trong viéc thiét läp mü'C ky vong phü hep vé sån phåm O C. Phåi dät moc ky vong cüa khåch häng thät thåp dé dé dat sv thoå män O D. Phåi quång bå manh mé tao sw' ky vong lön tü' khåch hång döi vöi sån phåm n
+**Đề:** Trong chuỗi giá trị, hoạt động nào là hoạt động chính?
+- **A.** Marketing và bán hàng
+- **B.** Phát triển công nghệ
+- **C.** Quản lý nguồn nhân lực
+- **D.** Cơ sở hạ tầng doanh nghiệp
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Marketing và bán hàng — **Đúng** vì khớp với chuỗi giá trị; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 788-797.
+- **B.** Phát triển công nghệ — **Sai.** Nhiễu: Phát triển công nghệ.
+- **C.** Quản lý nguồn nhân lực — **Sai.** Nhiễu: Quản lý nguồn nhân lực.
+- **D.** Cơ sở hạ tầng doanh nghiệp — **Sai.** Nhiễu: Cơ sở hạ tầng doanh.
 
 ---
 
-## Câu 11: Câu 11 trong đề OCR bị ghép với trang/câu lân cận; xem file đề MD/PDF gốc để đối chiếu ngu...
+### Câu 11: Người làm Marketing cần làm gì để tạo ra sự thỏa mãn của khách hàng?
+**Đáp án: B** — căn cứ: quản trị kỳ vọng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 628-630.
 
-### Đề bài
-> Câu 11 trong đề OCR bị ghép với trang/câu lân cận; xem file đề MD/PDF gốc để đối chiếu nguyên văn.
+**Đề:** Người làm Marketing cần làm gì để tạo ra sự thỏa mãn của khách hàng?
+- **A.** Càng ngày càng thoả mãn khách hàng ở mức độ cao hơn
+- **B.** Cẩn trọng thiết lập mức kỳ vọng phù hợp về sản phẩm
+- **C.** Đặt kỳ vọng thật thấp để dễ đạt thỏa mãn
+- **D.** Quảng bá mạnh để tạo kỳ vọng lớn
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Càng ngày càng thoả mãn khách hàng ở mức độ cao hơn — **Sai.** Nhiễu: Càng ngày càng thoả mãn.
+- **B.** Cẩn trọng thiết lập mức kỳ vọng phù hợp về sản phẩm — **Đúng** vì khớp với quản trị kỳ vọng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 628-630.
+- **C.** Đặt kỳ vọng thật thấp để dễ đạt thỏa mãn — **Sai.** Nhiễu: Đặt kỳ vọng thật thấp.
+- **D.** Quảng bá mạnh để tạo kỳ vọng lớn — **Sai.** Nhiễu: Quảng bá mạnh để tạo.
 
 ---
 
-## Câu 12: "Diém tiép xüc" trong khåi ni#m Quån tri quan he khåch häng (CRM) du'Q'C hiéu Iä gi? O A....
+### Câu 12: “Điểm tiếp xúc” trong CRM được hiểu là gì?
+**Đáp án: B** — căn cứ: điểm tiếp xúc CRM, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 990-998.
 
-### Đề bài
-> "Diém tiép xüc" trong khåi ni#m Quån tri quan he khåch häng (CRM) du'Q'C hiéu Iä gi? O A. Cåc phuong tién truyén thöng mä doanh nghiép so dung. B. Båt ky khi nåo khåch hång tiép xüc vöi thuong hiéu vå sån phåm cüa doanh O nghiép. O C. MQi hoat döng marketing cüa doanh nghiép. O D. Thöi diém khåch häng k)? hep döng vöi doanh nghiöp. n
+**Đề:** “Điểm tiếp xúc” trong CRM được hiểu là gì?
+- **A.** Các phương tiện truyền thông doanh nghiệp sử dụng
+- **B.** Bất kỳ khi nào khách hàng tiếp xúc với thương hiệu và sản phẩm của doanh nghiệp
+- **C.** Mọi hoạt động marketing của doanh nghiệp
+- **D.** Thời điểm khách hàng ký hợp đồng với doanh nghiệp
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Các phương tiện truyền thông doanh nghiệp sử dụng — **Sai.** Nhiễu: Các phương tiện truyền thông.
+- **B.** Bất kỳ khi nào khách hàng tiếp xúc với thương hiệu và sản phẩm của doanh nghiệp — **Đúng** vì khớp với điểm tiếp xúc CRM; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 990-998.
+- **C.** Mọi hoạt động marketing của doanh nghiệp — **Sai.** Nhiễu: Mọi hoạt động marketing của.
+- **D.** Thời điểm khách hàng ký hợp đồng với doanh nghiệp — **Sai.** Nhiễu: Thời điểm khách hàng ký.
 
 ---
 
-## Câu 13: Däu KHÖNG Iä yéu tö teo nén bån chät cüa cåc doanh nghi#p cé hi#u näng cao trong vi#c mang...
+### Câu 13: Đâu KHÔNG là yếu tố tạo nên bản chất doanh nghiệp hiệu năng cao?
+**Đáp án: A** — căn cứ: doanh nghiệp hiệu năng cao, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 660-723.
 
-### Đề bài
-> Däu KHÖNG Iä yéu tö teo nén bån chät cüa cåc doanh nghi#p cé hi#u näng cao trong vi#c mang giå tri cho khåch häng? O A. Thiét Iäp cåc chién Iuqc canh tranh vöi d6i thü. O B. Nguön luc Sö hüu hoäc nguön luc thué ngoåi O C. Quån IY t6t quy trinh hoat döng cüa minh O D. Xäy dung cåc chién luqc dé dåp l.:png vöi Ipi ich cüa cåc bén hüu quan n
+**Đề:** Đâu KHÔNG là yếu tố tạo nên bản chất doanh nghiệp hiệu năng cao?
+- **A.** Thiết lập các chiến lược cạnh tranh với đối thủ
+- **B.** Nguồn lực sở hữu hoặc thuê ngoài
+- **C.** Quản lý tốt quy trình hoạt động
+- **D.** Xây dựng chiến lược đáp ứng lợi ích các bên hữu quan
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Thiết lập các chiến lược cạnh tranh với đối thủ — **Đúng** vì khớp với doanh nghiệp hiệu năng cao; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 660-723.
+- **B.** Nguồn lực sở hữu hoặc thuê ngoài — **Sai.** Nhiễu: Nguồn lực sở hữu hoặc.
+- **C.** Quản lý tốt quy trình hoạt động — **Sai.** Nhiễu: Quản lý tốt quy trình.
+- **D.** Xây dựng chiến lược đáp ứng lợi ích các bên hữu quan — **Sai.** Nhiễu: Xây dựng chiến lược đáp.
 
 ---
 
-## Câu 14: Doanh nghi#p cän Iäm gi dé gia täng giå tri cåm nh#n cüa khåch häng so vö'i döi thü canh t...
+### Câu 14: Doanh nghiệp cần làm gì để gia tăng giá trị cảm nhận so với đối thủ?
+**Đáp án: D** — căn cứ: gia tăng giá trị cảm nhận, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-587.
 
-### Đề bài
-> Doanh nghi#p cän Iäm gi dé gia täng giå tri cåm nh#n cüa khåch häng so vö'i döi thü canh tranh? O A. Dåy manh hoat döng quång cåo dé khåch häng nhän biét sån phåm. O B. Täng sw' da dang höa sån phåm dé dåp Ong mpi nhu Câu cüa khåch hång. O C. Cåt giåm tät cå chi phi nhåm cung cäp sån phåm vöi giå thåp hon. O D. Täng tbng Ipi ich hoäc giåm tbng chi phi må khåch hång cåm nhän. n
+**Đề:** Doanh nghiệp cần làm gì để gia tăng giá trị cảm nhận so với đối thủ?
+- **A.** Đẩy mạnh quảng cáo để khách hàng nhận biết sản phẩm
+- **B.** Tăng đa dạng hóa sản phẩm để đáp ứng mọi nhu cầu
+- **C.** Cắt giảm tất cả chi phí để giá thấp hơn
+- **D.** Tăng tổng lợi ích hoặc giảm tổng chi phí mà khách hàng cảm nhận
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-
-### Kết luận
-**Đáp án: D.** Đáp án D bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Đẩy mạnh quảng cáo để khách hàng nhận biết sản phẩm — **Sai.** Nhiễu: Đẩy mạnh quảng cáo để.
+- **B.** Tăng đa dạng hóa sản phẩm để đáp ứng mọi nhu cầu — **Sai.** Nhiễu: Tăng đa dạng hóa sản.
+- **C.** Cắt giảm tất cả chi phí để giá thấp hơn — **Sai.** Nhiễu: Cắt giảm tất cả chi.
+- **D.** Tăng tổng lợi ích hoặc giảm tổng chi phí mà khách hàng cảm nhận — **Đúng** vì khớp với gia tăng giá trị cảm nhận; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-587.
 
 ---
 
-## Câu 15: Viettel cung cäp dich vv internet qua meng ADSL, meng FTTH vöi chåt ILPQ'ng vä töc dé Iuön...
+### Câu 15: Ví dụ Viettel cung cấp tổng đài miễn phí/tư vấn cụ thể là cấp độ Marketing quan hệ nào?
+**Đáp án: B** — căn cứ: marketing tương tác, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1068-1109.
 
-### Đề bài
-> Viettel cung cäp dich vv internet qua meng ADSL, meng FTTH vöi chåt ILPQ'ng vä töc dé Iuön vu'Q't tréi. Dé du'Q'C tup vän cv thé, quy khåch cö thé lién he töng däi mién phi 1800 8168 hoäc truy : http://vietteltelecom.vn/. Däy Iä mét vi dv cüa cap dé Marketing quan he näo? O A. Marketing phån ü'ng Iai O B. Marketing tuong tåc O C. Marketing phån ü'ng truöc O D. Marketing cän bån n
+**Đề:** Ví dụ Viettel cung cấp tổng đài miễn phí/tư vấn cụ thể là cấp độ Marketing quan hệ nào?
+- **A.** Marketing phản ứng lại
+- **B.** Marketing tương tác
+- **C.** Marketing phản ứng trước
+- **D.** Marketing căn bản
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Marketing phản ứng lại — **Sai.** Nhiễu: Marketing phản ứng lại.
+- **B.** Marketing tương tác — **Đúng** vì khớp với marketing tương tác; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1068-1109.
+- **C.** Marketing phản ứng trước — **Sai.** Nhiễu: Marketing phản ứng trước.
+- **D.** Marketing căn bản — **Sai.** Nhiễu: Marketing căn bản.
 
 ---
 
-## Câu 16: HO?t déng thu thöp thöng tin cüa khåch häng vé lich sü' mua häng, déc diém nhän khåu, tam...
+### Câu 16: Thu thập thông tin lịch sử mua, nhân khẩu, tâm lý, sở thích kênh truyền thông/mua hàng là nộ
+**Đáp án: A** — căn cứ: marketing cơ sở dữ liệu, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1183-1207.
 
-### Đề bài
-> HO?t déng thu thöp thöng tin cüa khåch häng vé lich sü' mua häng, déc diém nhän khåu, tam ly, so thich vé kénh truyén thöng vä kénh mua häng Iä nhü'ng néi dung co bån cüa: O A. Marketing co Sö dü' liéu khåch häng O B. Mang luöi marketing O C. Meng luöi phän phöi giå tri O D. Mang Iuöi chu6i cung ü'ng
+**Đề:** Thu thập thông tin lịch sử mua, nhân khẩu, tâm lý, sở thích kênh truyền thông/mua hàng là nội dung của:
+- **A.** Marketing cơ sở dữ liệu khách hàng
+- **B.** Mạng lưới marketing
+- **C.** Mạng lưới phân phối giá trị
+- **D.** Marketing cộng tác
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Marketing cơ sở dữ liệu khách hàng — **Đúng** vì khớp với marketing cơ sở dữ liệu; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1183-1207.
+- **B.** Mạng lưới marketing — **Sai.** Nhiễu: Mạng lưới marketing.
+- **C.** Mạng lưới phân phối giá trị — **Sai.** Nhiễu: Mạng lưới phân phối giá.
+- **D.** Marketing cộng tác — **Sai.** Nhiễu: Marketing cộng tác.
 
 ---
 
-## Câu 17: Cäp dé marketing quan he näo Iä cäp dé cao nhät? O A. Marketing tuong tåc O B. Marketing p...
+### Câu 17: Cấp độ marketing quan hệ nào là cấp độ cao nhất?
+**Đáp án: C** — căn cứ: cấp độ marketing quan hệ, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1082-1109.
 
-### Đề bài
-> Cäp dé marketing quan he näo Iä cäp dé cao nhät? O A. Marketing tuong tåc O B. Marketing phån ü'ng truöc O C. Marketing cong tåc O D. Marketing cän bån n
+**Đề:** Cấp độ marketing quan hệ nào là cấp độ cao nhất?
+- **A.** Marketing tương tác
+- **B.** Marketing phản ứng trước
+- **C.** Marketing cộng tác
+- **D.** Marketing căn bản
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Marketing tương tác — **Sai.** Nhiễu: Marketing tương tác.
+- **B.** Marketing phản ứng trước — **Sai.** Nhiễu: Marketing phản ứng trước.
+- **C.** Marketing cộng tác — **Đúng** vì khớp với cấp độ marketing quan hệ; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1082-1109.
+- **D.** Marketing căn bản — **Sai.** Nhiễu: Marketing căn bản.
 
 ---
 
-## Câu 18: Câu höi näo sau däy cüa khåch häng du'Q'C giåi dép bäng dé xuät giå tri cüa cöng ty? A. Ta...
+### Câu 18: Câu hỏi nào của khách hàng được giải đáp bằng đề xuất giá trị của công ty?
+**Đáp án: A** — căn cứ: đề xuất giá trị, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-575.
 
-### Đề bài
-> Câu höi näo sau däy cüa khåch häng du'Q'C giåi dép bäng dé xuät giå tri cüa cöng ty? A. Tai sao töi nén mua thuong hiéu cüa ban chü' khöng phåi lå döi thü canh tranh? O B. Sv bn dinh tåi chinh cüa cöng ty ban lå gi? O C. Cåc chi phi lién quan dén viéc sån xuät thuong hiéu cüa ban Iä g)? O D. V6n Chü Sö hCpu khåch hång uöc tinh cüa cöng ty ban lä bao nhiéu? n
+**Đề:** Câu hỏi nào của khách hàng được giải đáp bằng đề xuất giá trị của công ty?
+- **A.** Tại sao tôi nên mua thương hiệu của bạn chứ không phải đối thủ cạnh tranh?
+- **B.** Sự ổn định tài chính của công ty bạn là gì?
+- **C.** Các chi phí liên quan đến sản xuất thương hiệu là gì?
+- **D.** Vốn chủ sở hữu khách hàng ước tính là bao nhiêu?
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Tại sao tôi nên mua thương hiệu của bạn chứ không phải đối thủ cạnh tranh? — **Đúng** vì khớp với đề xuất giá trị; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-575.
+- **B.** Sự ổn định tài chính của công ty bạn là gì? — **Sai.** Nhiễu: Sự ổn định tài chính.
+- **C.** Các chi phí liên quan đến sản xuất thương hiệu là gì? — **Sai.** Nhiễu: Các chi phí liên quan.
+- **D.** Vốn chủ sở hữu khách hàng ước tính là bao nhiêu? — **Sai.** Nhiễu: Vốn chủ sở hữu khách.
 
 ---
 
-## Câu 19: Mét doanh nghi#p dang can nhäc diéu chinh chién ILPQ'C dinh vi chäo häng cüa minh nhäm gia...
+### Câu 19: Ngân sách hạn chế, doanh nghiệp muốn tăng giá trị cảm nhận; giải pháp khả thi nhất là gì?
+**Đáp án: C** — căn cứ: phân tích giá trị khách hàng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 599-608.
 
-### Đề bài
-> Mét doanh nghi#p dang can nhäc diéu chinh chién ILPQ'C dinh vi chäo häng cüa minh nhäm gia täng giå tri cåm nh#n cüa khåch häng. Tuy nhién, ngän såch cüa cöng ty cö h?n. Trong tru'öng hpp näy, däu Iä giåi phåp khå thi nhåt? O O A. Phän bb déu nguön dé cåi thi$n tät cå cåc yéu tö trong tbng Ipi (ch cüa khåch hång. B. Chi tap trung väo viéc giåm thiéu tbng chi phi cåm nhän cüa khåch häng. C. Täng cuöng giå tri cåm nhän bäng cåch täp trung cåi thién cåc yéu tö quan trong nhåt döi vöi khåch hång. D. Cät giåm chi phi sån xuät dé giåm giå bån sån phåm. n
+**Đề:** Ngân sách hạn chế, doanh nghiệp muốn tăng giá trị cảm nhận; giải pháp khả thi nhất là gì?
+- **A.** Phân bổ đều nguồn lực để cải thiện tất cả yếu tố lợi ích
+- **B.** Chỉ giảm thiểu tổng chi phí cảm nhận
+- **C.** Tập trung cải thiện các yếu tố quan trọng nhất đối với khách hàng
+- **D.** Cắt giảm chi phí sản xuất để giảm giá bán
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Phân bổ đều nguồn lực để cải thiện tất cả yếu tố lợi ích — **Sai.** Nhiễu: Phân bổ đều nguồn lực.
+- **B.** Chỉ giảm thiểu tổng chi phí cảm nhận — **Sai.** Nhiễu: Chỉ giảm thiểu tổng chi.
+- **C.** Tập trung cải thiện các yếu tố quan trọng nhất đối với khách hàng — **Đúng** vì khớp với phân tích giá trị khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 599-608.
+- **D.** Cắt giảm chi phí sản xuất để giảm giá bán — **Sai.** Nhiễu: Cắt giảm chi phí sản.
 
 ---
 
-## Câu 20: SV' thoå män cüa khåch häng phån ånh möi quan he giü'a: O A. Khå näng thuc hiän sån phåm v...
+### Câu 20: Sự thoả mãn của khách hàng phản ánh mối quan hệ giữa:
+**Đáp án: A** — căn cứ: sự thỏa mãn khách hàng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 614-626.
 
-### Đề bài
-> SV' thoå män cüa khåch häng phån ånh möi quan he giü'a: O A. Khå näng thuc hiän sån phåm vä KY vong cüa Khåch hång O B. Giå tri cåm nhän vä sv ky vong cüa khåch häng O C. Giå vå chåt lupng sån phåm O D. Hiöu suät cüa sån phåm trong tuong quan vöi döi thü canh tranh n
+**Đề:** Sự thoả mãn của khách hàng phản ánh mối quan hệ giữa:
+- **A.** Khả năng thực hiện sản phẩm và kỳ vọng của khách hàng
+- **B.** Giá trị cảm nhận và kỳ vọng khách hàng
+- **C.** Giá và chất lượng sản phẩm
+- **D.** Hiệu suất sản phẩm so với đối thủ cạnh tranh
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Khả năng thực hiện sản phẩm và kỳ vọng của khách hàng — **Đúng** vì khớp với sự thỏa mãn khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 614-626.
+- **B.** Giá trị cảm nhận và kỳ vọng khách hàng — **Sai.** Nhiễu: Giá trị cảm nhận và.
+- **C.** Giá và chất lượng sản phẩm — **Sai.** Nhiễu: Giá và chất lượng sản.
+- **D.** Hiệu suất sản phẩm so với đối thủ cạnh tranh — **Sai.** Nhiễu: Hiệu suất sản phẩm so.
 
 ---
 
-## Câu 21: Sü'a Kun tré em gän däy dä xäy dvng mét chuöi phim h0?t hinh superfarmers - gia dinh nöng...
+### Câu 21: Sữa Kun xây dựng phim hoạt hình Superfarmers để kích hoạt thương hiệu là giai đoạn nào trong
+**Đáp án: B** — căn cứ: truyền thông giá trị, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 913-916.
 
-### Đề bài
-> Sü'a Kun tré em gän däy dä xäy dvng mét chuöi phim h0?t hinh superfarmers - gia dinh nöng dän siéu phäm dé kich h0?t thwong hi#u trong tru'öng hQC vä bäi bién sip menh cüa gia dinh siéu nhän nöng dän Iä Chung tay båo ve trang trei thoåt khÖi sv' phå h0?i cüa nhü'ng ké hung éc vä mang nguön sCpa sqch (Kun) cho tré em. Däy Iä vi dv dién hinh cüa giai doen näo trong quå trinh sång vä chuyén giao giå tri khåch häng? O A. Cung I-:png giå tri O B. Truyén thöng giå tri O C. I-va chon giå tri O D. Thuc hién giå tri n
+**Đề:** Sữa Kun xây dựng phim hoạt hình Superfarmers để kích hoạt thương hiệu là giai đoạn nào trong quá trình sáng tạo và chuyển giao giá trị?
+- **A.** Cung ứng giá trị
+- **B.** Truyền thông giá trị
+- **C.** Lựa chọn giá trị
+- **D.** Thực hiện giá trị
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Cung ứng giá trị — **Sai.** Nhiễu: Cung ứng giá trị.
+- **B.** Truyền thông giá trị — **Đúng** vì khớp với truyền thông giá trị; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 913-916.
+- **C.** Lựa chọn giá trị — **Sai.** Nhiễu: Lựa chọn giá trị.
+- **D.** Thực hiện giá trị — **Sai.** Nhiễu: Thực hiện giá trị.
 
 ---
 
-## Câu 22: Néu mét khåch häng bi mät män vö'i sån phåm, doanh nghi#p nén upu tién thvc hi#n hänh déng...
+### Câu 22: Khách hàng bất mãn với sản phẩm, doanh nghiệp nên ưu tiên hành động nào để khôi phục lòng ti
+**Đáp án: C** — căn cứ: xử lý bất mãn khách hàng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 648-659.
 
-### Đề bài
-> Néu mét khåch häng bi mät män vö'i sån phåm, doanh nghi#p nén upu tién thvc hi#n hänh déng näo dé khöi phyc löng tin? O A. Giåm giå sån phåm trong cåc län mua tiép theo dé bü dåp tbn thåt. O B. Cung cäp sån phåm thay thé mién phi dé cåi thién hinh ånh thuong hiéu. O C. Nhanh chöng lién hé khåch hång vä giåi quyét vån dé mét cåch thöa dång. O D. Xäy dung chién dich quång cåo möi dé thay dbi nhän thijc cüa khåch hång.
+**Đề:** Khách hàng bất mãn với sản phẩm, doanh nghiệp nên ưu tiên hành động nào để khôi phục lòng tin?
+- **A.** Giảm giá cho lần mua sau
+- **B.** Cung cấp sản phẩm thay thế miễn phí
+- **C.** Nhanh chóng liên hệ khách hàng và giải quyết vấn đề thỏa đáng
+- **D.** Xây dựng chiến dịch quảng cáo mới
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Giảm giá cho lần mua sau — **Sai.** Nhiễu: Giảm giá cho lần mua.
+- **B.** Cung cấp sản phẩm thay thế miễn phí — **Sai.** Nhiễu: Cung cấp sản phẩm thay.
+- **C.** Nhanh chóng liên hệ khách hàng và giải quyết vấn đề thỏa đáng — **Đúng** vì khớp với xử lý bất mãn khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 648-659.
+- **D.** Xây dựng chiến dịch quảng cáo mới — **Sai.** Nhiễu: Xây dựng chiến dịch quảng.
 
 ---
 
-## Câu 23: Céc ky vqng cüa khåch häng thu'öng xuät phåt tip däu? O A. Chi cö thöng tin tü' doanh nghi...
+### Câu 23: Các kỳ vọng của khách hàng thường xuất phát từ đâu?
+**Đáp án: B** — căn cứ: nguồn kỳ vọng khách hàng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 624-626.
 
-### Đề bài
-> Céc ky vqng cüa khåch häng thu'öng xuät phåt tip däu? O A. Chi cö thöng tin tü' doanh nghiép vä d6i thü canh tranh B. Tråi nghiém mua hång trong quå khü', löi khuyén tü' cåc tö chipc hay ban bé, thöng tin tü' doanh nghiép vå döi thü canh tranh O C. Löi khuyén tü' tb chi-pc vå quan täm cüa nhän vién doanh nghiép O D. Kinh nghiém mua hång trong quå khü' vä cam két cüa d6i thü canh tranh a
+**Đề:** Các kỳ vọng của khách hàng thường xuất phát từ đâu?
+- **A.** Chỉ thông tin từ doanh nghiệp và đối thủ
+- **B.** Trải nghiệm mua quá khứ, lời khuyên, thông tin từ doanh nghiệp và đối thủ
+- **C.** Lời khuyên từ tổ chức và sự quan tâm của nhân viên
+- **D.** Kinh nghiệm mua quá khứ và cam kết của đối thủ
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Chỉ thông tin từ doanh nghiệp và đối thủ — **Sai.** Nhiễu: Chỉ thông tin từ doanh.
+- **B.** Trải nghiệm mua quá khứ, lời khuyên, thông tin từ doanh nghiệp và đối thủ — **Đúng** vì khớp với nguồn kỳ vọng khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 624-626.
+- **C.** Lời khuyên từ tổ chức và sự quan tâm của nhân viên — **Sai.** Nhiễu: Lời khuyên từ tổ chức.
+- **D.** Kinh nghiệm mua quá khứ và cam kết của đối thủ — **Sai.** Nhiễu: Kinh nghiệm mua quá khứ.
 
 ---
 
-## Câu 24: Trong mö hinh doanh nghi#p cé hi#u näng cao, möi quan he giü'a cåc nhöm hü'u quan Iä: O A....
+### Câu 24: Trong mô hình doanh nghiệp hiệu năng cao, mối quan hệ giữa các nhóm hữu quan là:
+**Đáp án: A** — căn cứ: các giới hữu quan, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 683-696.
 
-### Đề bài
-> Trong mö hinh doanh nghi#p cé hi#u näng cao, möi quan he giü'a cåc nhöm hü'u quan Iä: O A. Cö möi lién két chät ché vå cö thé tåc döng qua lei län nhau, ånh huöng trvc tiép dén sv phåt trién cüa doanh nghiép. B. Låm vi$c theo cåch thi-'pc phän tåch vå khöng cö sv can thi$p giü'a cåc nhöm hüu quan. C. C6 dinh vå khöng thay dbi theo thöi gian, vi Ipi (ch cüa cåc nhöm luön giöng nhau. D. Déc läp vå khöng cö sv tuong tåc giCpa cåc nhöm hCpu quan.
+**Đề:** Trong mô hình doanh nghiệp hiệu năng cao, mối quan hệ giữa các nhóm hữu quan là:
+- **A.** Có liên kết chặt chẽ và tác động qua lại, ảnh hưởng trực tiếp đến phát triển doanh nghiệp
+- **B.** Làm việc phân tách và không can thiệp
+- **C.** Cố định và không thay đổi theo thời gian
+- **D.** Độc lập và không tương tác
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Có liên kết chặt chẽ và tác động qua lại, ảnh hưởng trực tiếp đến phát triển doanh nghiệp — **Đúng** vì khớp với các giới hữu quan; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 683-696.
+- **B.** Làm việc phân tách và không can thiệp — **Sai.** Nhiễu: Làm việc phân tách và.
+- **C.** Cố định và không thay đổi theo thời gian — **Sai.** Nhiễu: Cố định và không thay.
+- **D.** Độc lập và không tương tác — **Sai.** Nhiễu: Độc lập và không tương.
 
 ---
 
-## Câu 25: Phupong ån näo sau däy Iä cöng cv nhön dqng cåc cåch thü'C gia täng giå tri cho khåch häng...
+### Câu 25: Công cụ nhận dạng cách thức gia tăng giá trị cho khách hàng là:
+**Đáp án: A** — căn cứ: chuỗi giá trị, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 823-835.
 
-### Đề bài
-> Phupong ån näo sau däy Iä cöng cv nhön dqng cåc cåch thü'C gia täng giå tri cho khåch häng? O A. Chu6i giå tri O B. Khåo såt khåch häng O C. Kénh phän ph6i O D. Chi s6 trung thånh khåch häng
+**Đề:** Công cụ nhận dạng cách thức gia tăng giá trị cho khách hàng là:
+- **A.** Chuỗi giá trị
+- **B.** Khảo sát khách hàng
+- **C.** Kênh phân phối
+- **D.** Chỉ số trung thành khách hàng
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Chuỗi giá trị — **Đúng** vì khớp với chuỗi giá trị; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 823-835.
+- **B.** Khảo sát khách hàng — **Sai.** Nhiễu: Khảo sát khách hàng.
+- **C.** Kênh phân phối — **Sai.** Nhiễu: Kênh phân phối.
+- **D.** Chỉ số trung thành khách hàng — **Sai.** Nhiễu: Chỉ số trung thành khách.
 
 ---
 
-## Câu 26: Giå tri cåm nhön cüa khåch häng Iä sv chénh lech giü'a töng lei ich vä töng chi phi cüa mé...
+### Câu 26: Tổng lợi ích của khách hàng bao gồm yếu tố nào?
+**Đáp án: D** — căn cứ: tổng lợi ích khách hàng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 580-583.
 
-### Đề bài
-> Giå tri cåm nhön cüa khåch häng Iä sv chénh lech giü'a töng lei ich vä töng chi phi cüa mét chäo häng. Töng lei ich cüa khåch häng bao göm nhCpng yéu tö näo sau däy? O A. Chi bao göm giå tri tién bac cüa sån phåm O B. Chi bao göm sån phåm vå con nguöi cüa doanh nghiép O C. Chi bao gbm dich vu vä hinh ånh cüa doanh nghiép O D. I-qi (ch kinh té, choc näng vå täm IY theo cåm nhän cüa khåch hång
+**Đề:** Tổng lợi ích của khách hàng bao gồm yếu tố nào?
+- **A.** Chỉ giá trị tiền bạc của sản phẩm
+- **B.** Chỉ sản phẩm và con người của doanh nghiệp
+- **C.** Chỉ dịch vụ và hình ảnh doanh nghiệp
+- **D.** Lợi ích kinh tế, chức năng và tâm lý theo cảm nhận của khách hàng
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-
-### Kết luận
-**Đáp án: D.** Đáp án D bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Chỉ giá trị tiền bạc của sản phẩm — **Sai.** Nhiễu: Chỉ giá trị tiền bạc.
+- **B.** Chỉ sản phẩm và con người của doanh nghiệp — **Sai.** Nhiễu: Chỉ sản phẩm và con.
+- **C.** Chỉ dịch vụ và hình ảnh doanh nghiệp — **Sai.** Nhiễu: Chỉ dịch vụ và hình.
+- **D.** Lợi ích kinh tế, chức năng và tâm lý theo cảm nhận của khách hàng — **Đúng** vì khớp với tổng lợi ích khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 580-583.
 
 ---
 
-## Câu 27: Quå trinh näo mö tå tät cå h0?t déng dé xäy dmg hiéu biét säu hon, dvng quan he, vä dé xuå...
+### Câu 27: Quá trình nào mô tả hoạt động xây dựng hiểu biết sâu hơn, tạo dựng quan hệ và đề xuất chào h
+**Đáp án: B** — căn cứ: quá trình CRM, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 860-863.
 
-### Đề bài
-> Quå trinh näo mö tå tät cå h0?t déng dé xäy dmg hiéu biét säu hon, dvng quan he, vä dé xuåt chäo häng cho khåch häng cé nhän? O A. Quå trinh xäy dung täi sån khåch häng O B. Quå trinh quån tri quan khåch hång O C. Quå trinh nhän dién khåch hång möi O D. Quå trinh thu nhän khåch hång
+**Đề:** Quá trình nào mô tả hoạt động xây dựng hiểu biết sâu hơn, tạo dựng quan hệ và đề xuất chào hàng cho khách hàng cá nhân?
+- **A.** Quá trình xây dựng tài sản khách hàng
+- **B.** Quá trình quản trị quan hệ khách hàng
+- **C.** Quá trình nhận diện khách hàng mới
+- **D.** Quá trình thu nhận khách hàng
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Quá trình xây dựng tài sản khách hàng — **Sai.** Nhiễu: Quá trình xây dựng tài.
+- **B.** Quá trình quản trị quan hệ khách hàng — **Đúng** vì khớp với quá trình CRM; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 860-863.
+- **C.** Quá trình nhận diện khách hàng mới — **Sai.** Nhiễu: Quá trình nhận diện khách.
+- **D.** Quá trình thu nhận khách hàng — **Sai.** Nhiễu: Quá trình thu nhận khách.
 
 ---
 
-## Câu 28: Theo däu Iä yéu tb dé duy tri löng trung thänh cüa khåch häng doanh nghi#p? O A. Näng cao...
+### Câu 28: Yếu tố để duy trì lòng trung thành của khách hàng với doanh nghiệp là:
+**Đáp án: C** — căn cứ: ràng buộc lòng trung thành, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1122-1163.
 
-### Đề bài
-> Theo däu Iä yéu tb dé duy tri löng trung thänh cüa khåch häng doanh nghi#p? O A. Näng cao chåt Iuqng sån phåm O B. Thoå män nhu Câu cüa khåch hång tbt hon bäng h$ th6ng dich vu häu mäi O C. Gia täng möi rang buöc vöi ho O D. Giåm giå thuöng xuyén cåc sån phåm thåp hon döi thü canh tranh
+**Đề:** Yếu tố để duy trì lòng trung thành của khách hàng với doanh nghiệp là:
+- **A.** Nâng cao chất lượng sản phẩm
+- **B.** Thoả mãn nhu cầu khách hàng tốt hơn bằng dịch vụ hậu mãi
+- **C.** Gia tăng mối ràng buộc với họ
+- **D.** Giảm giá thường xuyên thấp hơn đối thủ
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Nâng cao chất lượng sản phẩm — **Sai.** Nhiễu: Nâng cao chất lượng sản.
+- **B.** Thoả mãn nhu cầu khách hàng tốt hơn bằng dịch vụ hậu mãi — **Sai.** Nhiễu: Thoả mãn nhu cầu khách.
+- **C.** Gia tăng mối ràng buộc với họ — **Đúng** vì khớp với ràng buộc lòng trung thành; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1122-1163.
+- **D.** Giảm giá thường xuyên thấp hơn đối thủ — **Sai.** Nhiễu: Giảm giá thường xuyên thấp.
 
 ---
 
-## Câu 29: Nhi#m vv chinh cüa Quån tri quan he khåch häng (CRM) Iä gi? O A. Cåi thién Ipi nhuän doanh...
+### Câu 29: Nhiệm vụ chính của CRM là gì?
+**Đáp án: B** — căn cứ: nhiệm vụ CRM, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1000-1008.
 
-### Đề bài
-> Nhi#m vv chinh cüa Quån tri quan he khåch häng (CRM) Iä gi? O A. Cåi thién Ipi nhuän doanh thu tlp vi$c chäm söc khåch häng möi O B. Täp trung våo phåt trién vä duy tri quan hé vöi nhCpng khåch hång cö giå tri O C. Läm täng lupng khåch hång möi D. Xåy dung vå båo vé möi quan vöi mpi döi tuqng khåch hång cüa doanh O nghiép a
+**Đề:** Nhiệm vụ chính của CRM là gì?
+- **A.** Cải thiện lợi nhuận từ chăm sóc khách hàng mới
+- **B.** Tập trung phát triển và duy trì quan hệ với khách hàng có giá trị
+- **C.** Làm tăng lượng khách hàng mới
+- **D.** Xây dựng quan hệ với mọi đối tượng khách hàng
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Cải thiện lợi nhuận từ chăm sóc khách hàng mới — **Sai.** Nhiễu: Cải thiện lợi nhuận từ.
+- **B.** Tập trung phát triển và duy trì quan hệ với khách hàng có giá trị — **Đúng** vì khớp với nhiệm vụ CRM; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1000-1008.
+- **C.** Làm tăng lượng khách hàng mới — **Sai.** Nhiễu: Làm tăng lượng khách hàng.
+- **D.** Xây dựng quan hệ với mọi đối tượng khách hàng — **Sai.** Nhiễu: Xây dựng quan hệ với.
 
 ---
 
-## Câu 30: Khåch häng cö thé khöng häi löng sån phäm mä h? mua vä sü' dung, trqng thåi cao nhät cüa s...
+### Câu 30: Trạng thái cao nhất của sự không hài lòng biểu hiện bằng thái độ nào?
+**Đáp án: A** — căn cứ: bất mãn khách hàng, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 648-659.
 
-### Đề bài
-> Khåch häng cö thé khöng häi löng sån phäm mä h? mua vä sü' dung, trqng thåi cao nhät cüa sv khöng häi löng du'Q'C biéu hi#n bäng thåi dé näo sau däy? O A. Tåy chay vä Ian truyén tin toc khöng t6t vé sån phåm dö O B. Viét thu hoäc goi dien theo duöng däy nong cho doanh nghi$p O C. Tim kiém sån phåm khåc thay thé cho sån phåm vü'a mua trong lån ké tiép O D. Khöng mua Iai tät cå cåc sån phåm khåc cüa doanh nghiép dö
+**Đề:** Trạng thái cao nhất của sự không hài lòng biểu hiện bằng thái độ nào?
+- **A.** Tẩy chay và lan truyền tin tức không tốt về sản phẩm
+- **B.** Viết thư/gọi hotline
+- **C.** Tìm sản phẩm thay thế lần kế tiếp
+- **D.** Không mua lại tất cả sản phẩm khác của doanh nghiệp
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: A.** Đáp án A bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Tẩy chay và lan truyền tin tức không tốt về sản phẩm — **Đúng** vì khớp với bất mãn khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 648-659.
+- **B.** Viết thư/gọi hotline — **Sai.** Nhiễu: Viết thư/gọi hotline.
+- **C.** Tìm sản phẩm thay thế lần kế tiếp — **Sai.** Nhiễu: Tìm sản phẩm thay thế.
+- **D.** Không mua lại tất cả sản phẩm khác của doanh nghiệp — **Sai.** Nhiễu: Không mua lại tất cả.
 
 ---
 
-## Câu 31: Diém khåc bi#t chinh giü'a "quå trinh vöt chät truyén thöng" vä I'quå trinh sång vä phän p...
+### Câu 31: Điểm khác biệt chính giữa quá trình vật chất truyền thống và quá trình sáng tạo/phân phối gi
+**Đáp án: D** — căn cứ: quá trình sáng tạo giá trị, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 877-895.
 
-### Đề bài
-> Diém khåc bi#t chinh giü'a "quå trinh vöt chät truyén thöng" vä I'quå trinh sång vä phän phöi giå tri'l Iä gi? O A. S6 luqng sån phåm duec sån xuät. O B. Quy trinh sån xuät vå phän phöi sån phåm. O C. Loai hinh khåch häng mä doanh nghiép huöng dén. O D. Vai trö cüa marketing trong quå trinh kinh doanh.
+**Đề:** Điểm khác biệt chính giữa quá trình vật chất truyền thống và quá trình sáng tạo/phân phối giá trị là gì?
+- **A.** Số lượng sản phẩm được sản xuất
+- **B.** Quy trình sản xuất và phân phối sản phẩm
+- **C.** Loại hình khách hàng hướng đến
+- **D.** Vai trò của marketing trong quá trình kinh doanh
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-
-### Kết luận
-**Đáp án: D.** Đáp án D bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Số lượng sản phẩm được sản xuất — **Sai.** Nhiễu: Số lượng sản phẩm được.
+- **B.** Quy trình sản xuất và phân phối sản phẩm — **Sai.** Nhiễu: Quy trình sản xuất và.
+- **C.** Loại hình khách hàng hướng đến — **Sai.** Nhiễu: Loại hình khách hàng hướng.
+- **D.** Vai trò của marketing trong quá trình kinh doanh — **Đúng** vì khớp với quá trình sáng tạo giá trị; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 877-895.
 
 ---
 
-## Câu 32: Vi#c khåch häng ra quyét dinh mua sån phäm cüa mét doanh nghi#p dva trén dånh giå vé giå t...
+### Câu 32: Khách hàng quyết định mua dựa trên đánh giá giá trị và chi phí là khái niệm:
+**Đáp án: C** — căn cứ: giá trị cảm nhận, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-570.
 
-### Đề bài
-> Vi#c khåch häng ra quyét dinh mua sån phäm cüa mét doanh nghi#p dva trén dånh giå vé giå tri vä chi phi Iä dién hinh cho khåi ni#m vé: O A. Giå tri tron döi cüa khåch häng O B. Hinh ånh doanh nghiép O C. Giå tri cåm nhän cüa khåch häng O D. Quå trinh quån tri quan khåch hång
+**Đề:** Khách hàng quyết định mua dựa trên đánh giá giá trị và chi phí là khái niệm:
+- **A.** Giá trị trọn đời khách hàng
+- **B.** Hình ảnh doanh nghiệp
+- **C.** Giá trị cảm nhận của khách hàng
+- **D.** Quá trình CRM
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Giá trị trọn đời khách hàng — **Sai.** Nhiễu: Giá trị trọn đời khách.
+- **B.** Hình ảnh doanh nghiệp — **Sai.** Nhiễu: Hình ảnh doanh nghiệp.
+- **C.** Giá trị cảm nhận của khách hàng — **Đúng** vì khớp với giá trị cảm nhận; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-570.
+- **D.** Quá trình CRM — **Sai.** Nhiễu: Quá trình CRM.
 
 ---
 
-## Câu 33: Giå tri (value) du'Q'C dinh ngh7a Iä: O A. chåt Iuqng cüa sån phåm O B. sv chénh Iéch giCp...
+### Câu 33: Giá trị (value) được định nghĩa là:
+**Đáp án: C** — căn cứ: giá trị cảm nhận, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-570.
 
-### Đề bài
-> Giå tri (value) du'Q'C dinh ngh7a Iä: O A. chåt Iuqng cüa sån phåm O B. sv chénh Iéch giCpa giå tri vå sv thöa män cüa khåch häng O C. sv chénh Iéch giCpa giå tri Ipi (ch trü' di chi phi mä khåch häng nhän duec D. sw' két hop giCpa chät Iuqng, dich vu vå giå cå må sån phåm chåo bån cho O khåch hång a
+**Đề:** Giá trị (value) được định nghĩa là:
+- **A.** Chất lượng sản phẩm
+- **B.** Sự chênh lệch giữa giá trị và thỏa mãn
+- **C.** Sự chênh lệch giữa giá trị lợi ích trừ đi chi phí khách hàng nhận được
+- **D.** Sự kết hợp chất lượng, dịch vụ và giá cả
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Chất lượng sản phẩm — **Sai.** Nhiễu: Chất lượng sản phẩm.
+- **B.** Sự chênh lệch giữa giá trị và thỏa mãn — **Sai.** Nhiễu: Sự chênh lệch giữa giá.
+- **C.** Sự chênh lệch giữa giá trị lợi ích trừ đi chi phí khách hàng nhận được — **Đúng** vì khớp với giá trị cảm nhận; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-570.
+- **D.** Sự kết hợp chất lượng, dịch vụ và giá cả — **Sai.** Nhiễu: Sự kết hợp chất lượng,.
 
 ---
 
-## Câu 34: Giå tri cåm nhön cüa khåch häng duvc dinh nghra nhLP thé näo? O A. Lä tbng chi phi khåch h...
+### Câu 34: Giá trị cảm nhận của khách hàng được định nghĩa như thế nào?
+**Đáp án: B** — căn cứ: giá trị cảm nhận, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-570.
 
-### Đề bài
-> Giå tri cåm nhön cüa khåch häng duvc dinh nghra nhLP thé näo? O A. Lä tbng chi phi khåch häng phåi trå khi so dung sån phåm. B. Lä chénh Iéch giCpa tbng Ipi ich vå tbng chi phi må khåch hång cåm nhän duec O tü' mét chåo hång. O C. Lä cåm nhän Chü quan cüa khåch häng vé chät lupng sån phåm. O D. Lä tbng Ipi (ch khåch hång ky vong nhän duqc tü' mét sån phåm hoäc dich vv. a
+**Đề:** Giá trị cảm nhận của khách hàng được định nghĩa như thế nào?
+- **A.** Tổng chi phí khách hàng phải trả
+- **B.** Chênh lệch giữa tổng lợi ích và tổng chi phí khách hàng cảm nhận từ một chào hàng
+- **C.** Cảm nhận chủ quan về chất lượng sản phẩm
+- **D.** Tổng lợi ích khách hàng kỳ vọng nhận được
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- C sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: B.** Đáp án B bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Tổng chi phí khách hàng phải trả — **Sai.** Nhiễu: Tổng chi phí khách hàng.
+- **B.** Chênh lệch giữa tổng lợi ích và tổng chi phí khách hàng cảm nhận từ một chào hàng — **Đúng** vì khớp với giá trị cảm nhận; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-570.
+- **C.** Cảm nhận chủ quan về chất lượng sản phẩm — **Sai.** Nhiễu: Cảm nhận chủ quan về.
+- **D.** Tổng lợi ích khách hàng kỳ vọng nhận được — **Sai.** Nhiễu: Tổng lợi ích khách hàng.
 
 ---
 
-## Câu 35: Däu Iä phåt biéu düng vé mét doanh nghi#p cö hi#u näng cao? O O O O A. Trung gian lå giöi...
+### Câu 35: Phát biểu đúng về doanh nghiệp có hiệu năng cao là:
+**Đáp án: C** — căn cứ: tổ chức và văn hóa doanh nghiệp, `TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 751-762.
 
-### Đề bài
-> Däu Iä phåt biéu düng vé mét doanh nghi#p cö hi#u näng cao? O O O O A. Trung gian lå giöi hüu quan duy nhåt må doanh nghiöp hiéu näng cao phåi thoå män B. Möt doanh nghiép hiäu näng cao phåi cö gäng thoå män töi da mpi yéu Câu vå mong muön cüa tät cå cåc bén hCpu quan C. Täp trung våo xäy dung co Câu tö choc vå vän hoå doanh nghiép Iå chia khoå dé tao nén thånh cöng cüa cåc doanh nghiöp hiéu näng cao D. Viéc quån IY töt quy trinh lå diéu khöng cän thiét trong cåc doanh nghiép hiöu näng cao a Câu Nöp bäi
+**Đề:** Phát biểu đúng về doanh nghiệp có hiệu năng cao là:
+- **A.** Trung gian là giới hữu quan duy nhất cần thỏa mãn
+- **B.** Phải thỏa mãn tối đa mọi yêu cầu của tất cả bên hữu quan
+- **C.** Tập trung vào cơ cấu tổ chức và văn hoá doanh nghiệp là chìa khoá thành công
+- **D.** Quản lý tốt quy trình là điều không cần thiết
 
-### Kiến thức nền cần dùng
-Chương 2: giá trị cảm nhận, sự thỏa mãn, chuỗi giá trị, cung ứng giá trị, CRM và duy trì lòng trung thành khách hàng. Dẫn chiếu: `TXMAGM0411_QTMKT1_Baigiangtext.md`.
-
-### Lời giải chi tiết
-- A sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- B sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-- C đúng vì đây là phương án khớp nhất với bài giảng Chương 2.
-- D sai vì phương án này không khớp trọng tâm khái niệm hoặc chỉ nêu một ý phụ so với đáp án đúng.
-
-### Kết luận
-**Đáp án: C.** Đáp án C bám đúng logic giá trị cảm nhận, kỳ vọng - hiệu năng, CRM hoặc chuỗi giá trị ở Chương 2; các phương án còn lại chỉ phản ánh một phần hoặc lệch trọng tâm.
-
-### Sai lầm thường gặp
-- Chọn theo từ khóa quen mắt trong đề OCR mà không đối chiếu lại khái niệm trong bài giảng.
-- Với câu có từ khóa KHÔNG/KHÔNG phải, cần chọn phương án bị loại khỏi nhóm khái niệm đúng.
+**Phân tích từng phương án:**
+- **A.** Trung gian là giới hữu quan duy nhất cần thỏa mãn — **Sai.** Nhiễu: Trung gian là giới hữu.
+- **B.** Phải thỏa mãn tối đa mọi yêu cầu của tất cả bên hữu quan — **Sai.** Nhiễu: Phải thỏa mãn tối đa.
+- **C.** Tập trung vào cơ cấu tổ chức và văn hoá doanh nghiệp là chìa khoá thành công — **Đúng** vì khớp với tổ chức và văn hóa doanh nghiệp; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 751-762.
+- **D.** Quản lý tốt quy trình là điều không cần thiết — **Sai.** Nhiễu: Quản lý tốt quy trình.
 
 ---
 
 ## Ví dụ thực tế
 
-### Ví dụ 1: Highlands Coffee - STP và trải nghiệm khách hàng
-Highlands Coffee cho thấy marketing không chỉ là quảng cáo mà còn là chọn phân khúc, định vị, thiết kế sản phẩm, giá, kênh và trải nghiệm nhất quán.
+### Ví dụ 1: Viettel - CRM và điểm tiếp xúc
+Viettel minh họa cách doanh nghiệp duy trì quan hệ khách hàng qua tổng đài, ứng dụng, điểm giao dịch và tư vấn sau bán. Case này gắn với Câu 12, 15, 27 và 29 về CRM, điểm tiếp xúc và marketing quan hệ.
 
-### Ví dụ 2: Thế Giới Di Động - CRM và giá trị cảm nhận
-Thế Giới Di Động duy trì quan hệ khách hàng bằng điểm chạm bán hàng, hậu mãi, tư vấn và xử lý khiếu nại, qua đó tăng giá trị cảm nhận và khả năng mua lại.
+### Ví dụ 2: Shopee - giá trị cảm nhận
+Shopee thường tăng giá trị cảm nhận bằng voucher, miễn phí vận chuyển, đánh giá người bán và trải nghiệm mua nhanh. Ví dụ này nối với Câu 1, 14, 26, 32, 33 và 34: khách hàng cân nhắc tổng lợi ích so với tổng chi phí.
+
+### Ví dụ 3: Vinamilk/Kun - truyền thông giá trị
+Các chiến dịch hoạt hình, trường học hoặc nội dung cho trẻ em giúp thương hiệu truyền thông giá trị tới khách hàng mục tiêu. Ví dụ này gắn với Câu 21 về truyền thông giá trị trong quá trình sáng tạo và chuyển giao giá trị.
