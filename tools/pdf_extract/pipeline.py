@@ -6,12 +6,14 @@ from typing import Iterable, List, Optional, Tuple
 from .extractors.base import Block
 from .extractors.images import ImageExtractor
 from .extractors.math import MathExtractor
+from .extractors.ocr import OcrExtractor, OcrUnavailable
 from .extractors.tables import TableExtractor
 from .extractors.text import TextExtractor
-from .utils.confusables import flag_confusables
+from .utils.confusables import flag_confusables, flag_duplicate_options
 from .utils.frontmatter import build_frontmatter
 
-DEFAULT_COMPONENTS: Tuple[str, ...] = ("text", "tables", "images", "math")
+DEFAULT_COMPONENTS: Tuple[str, ...] = ("text", "tables", "images", "math", "ocr")
+DEFAULT_OCR_LANG = "vie+eng"
 
 
 @dataclass
@@ -21,6 +23,7 @@ class ExtractResult:
     blocks: List[Block]
     pages: int
     confusables_flagged: int
+    ocr_info: dict
 
 
 def extract_pdf(
@@ -29,6 +32,7 @@ def extract_pdf(
     components: Iterable[str] = DEFAULT_COMPONENTS,
     flag_vn_confusables: bool = True,
     write_file: bool = True,
+    ocr_lang: str = DEFAULT_OCR_LANG,
 ) -> ExtractResult:
     pdf_path = Path(pdf_path)
     output_dir = Path(output_dir) if output_dir else pdf_path.parent
@@ -45,6 +49,15 @@ def extract_pdf(
     if "math" in components:
         blocks.extend(MathExtractor(pdf_path, output_dir).extract())
 
+    ocr_info: dict = {"used": False}
+    if "ocr" in components:
+        ocr = OcrExtractor(pdf_path, output_dir, lang=ocr_lang)
+        try:
+            blocks.extend(ocr.extract())
+        except OcrUnavailable:
+            pass  # ocr.ocr_info records that OCR was needed but unavailable
+        ocr_info = ocr.ocr_info
+
     blocks = _drop_overlapping_text(blocks)
     blocks.sort(key=lambda b: (b.page, b.bbox[1], b.bbox[0]))
 
@@ -53,9 +66,16 @@ def extract_pdf(
     flagged = 0
     if flag_vn_confusables:
         md_body, flagged = flag_confusables(md_body)
+        md_body, dup_flagged = flag_duplicate_options(md_body)
+        flagged += dup_flagged
 
     pages = max((b.page for b in blocks), default=0)
-    fm = build_frontmatter(pdf_path=pdf_path, pages=pages, confusables_flagged=flagged)
+    fm = build_frontmatter(
+        pdf_path=pdf_path,
+        pages=pages,
+        confusables_flagged=flagged,
+        ocr_info=ocr_info,
+    )
     full_md = fm + "\n" + md_body + "\n"
 
     md_path = output_dir / (pdf_path.stem + ".md")
@@ -68,6 +88,7 @@ def extract_pdf(
         blocks=blocks,
         pages=pages,
         confusables_flagged=flagged,
+        ocr_info=ocr_info,
     )
 
 

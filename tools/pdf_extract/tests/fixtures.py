@@ -121,6 +121,20 @@ def make_confusable_pdf(path: Path) -> Path:
     return path
 
 
+def make_scanned_pdf(path: Path, pages: int = 1) -> Path:
+    """A PDF with image-only pages and NO text layer (simulates a scan)."""
+    doc = fitz.open()
+    for _ in range(pages):
+        page = doc.new_page()
+        img = fitz.Pixmap(fitz.csRGB, fitz.IRect(0, 0, 300, 400), False)
+        img.set_rect(img.irect, (235, 235, 235))
+        page.insert_image(fitz.Rect(36, 36, 559, 770), pixmap=img)
+        img = None
+    doc.save(str(path))
+    doc.close()
+    return path
+
+
 def make_combined_pdf(path: Path) -> Path:
     doc = fitz.open()
 

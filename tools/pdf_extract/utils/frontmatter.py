@@ -23,7 +23,12 @@ def _infer_subject(pdf_path: Path) -> Optional[str]:
     return None
 
 
-def build_frontmatter(pdf_path: Path, pages: int, confusables_flagged: int = 0) -> str:
+def build_frontmatter(
+    pdf_path: Path,
+    pages: int,
+    confusables_flagged: int = 0,
+    ocr_info: Optional[dict] = None,
+) -> str:
     pdf_path = Path(pdf_path)
     sha = sha256_file(pdf_path)
     iso = datetime.datetime.now(datetime.timezone.utc).strftime("%Y-%m-%dT%H:%M:%SZ")
@@ -39,10 +44,36 @@ def build_frontmatter(pdf_path: Path, pages: int, confusables_flagged: int = 0) 
     subject = _infer_subject(pdf_path)
     if subject:
         lines.insert(-1, f'subject: "{subject}"')
+    lines.extend(_ocr_lines(ocr_info))
     if confusables_flagged:
         lines.append(f"confusables_flagged: {confusables_flagged}")
     lines.append("---")
     return "\n".join(lines) + "\n"
+
+
+def _ocr_lines(ocr_info: Optional[dict]) -> list:
+    """Render OCR provenance. Only claims tesseract when it actually ran."""
+    if not ocr_info:
+        return []
+    if ocr_info.get("used"):
+        out = [
+            "ocr_used: true",
+            f'ocr_engine: "{ocr_info.get("engine", "tesseract")}"',
+            f'ocr_language: "{ocr_info.get("language", "")}"',
+        ]
+        pages = ocr_info.get("pages") or []
+        if pages:
+            out.append(f'ocr_pages: "{",".join(str(p) for p in pages)}"')
+        return out
+    if ocr_info.get("needed"):
+        # Scanned pages exist but the OCR toolchain wasn't available.
+        scanned = ocr_info.get("scanned_pages") or []
+        return [
+            "ocr_used: false",
+            "ocr_needed: true  # scan/ảnh — cài Tesseract rồi convert lại",
+            f'ocr_scanned_pages: "{",".join(str(p) for p in scanned)}"',
+        ]
+    return []
 
 
 def read_existing_hash(md_path: Path) -> Optional[str]:

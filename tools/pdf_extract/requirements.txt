@@ -1,2 +1,8 @@
 pymupdf>=1.24
 pdfplumber>=0.11
+
+# OCR (chỉ cần cho PDF scan/ảnh — text PDF không dùng tới).
+# Ngoài 2 gói pip này còn cần Tesseract binary + gói ngôn ngữ 'vie' cài ở máy:
+#   Windows: winget install UB-Mannheim.TesseractOCR
+pytesseract>=0.3.10
+pillow>=10.0

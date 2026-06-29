@@ -13,6 +13,7 @@ from .extractors.text import TextExtractor
 from .extractors.images import ImageExtractor
 from .extractors.tables import TableExtractor
 from .extractors.math import MathExtractor
+from .extractors.ocr import OcrExtractor, OcrUnavailable, detect_scanned_pages
 
 __all__ = [
     "extract_pdf",
@@ -24,4 +25,7 @@ __all__ = [
     "ImageExtractor",
     "TableExtractor",
     "MathExtractor",
+    "OcrExtractor",
+    "OcrUnavailable",
+    "detect_scanned_pages",
 ]

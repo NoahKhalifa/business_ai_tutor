@@ -5,10 +5,10 @@ description: Biên dịch tài liệu PDF (bài giảng, đề bài, câu hỏi 
 
 # Skill: PDF → Markdown converter (có cache)
 
-> ⚡ **ƯU TIÊN dùng local Python CLI trước** — xem [`skills/pdf-extract-cli/SKILL.md`](../pdf-extract-cli/SKILL.md). Tool ở `tools/pdf_extract/` extract text/tables/images/math hoàn toàn local, không tốn token LLM. Skill này (`pdf-to-md`) chỉ dùng làm **fallback** khi:
+> ⚡ **ƯU TIÊN dùng local Python CLI trước** — xem [`skills/pdf-extract-cli/SKILL.md`](../pdf-extract-cli/SKILL.md). Tool ở `tools/pdf_extract/` extract text/tables/images/math **và OCR trang scan** (Tesseract) hoàn toàn local, không tốn token LLM. Skill này (`pdf-to-md`) chỉ dùng làm **fallback** khi:
 > - CLI tool báo lỗi sau 2 lần thử
-> - PDF là scan (không có text layer) — tool extract sẽ rỗng
-> - Cần phân tích sâu nội dung trong quá trình convert (vd hiệu chỉnh OCR phức tạp)
+> - PDF là scan VÀ máy chưa cài Tesseract (front-matter ghi `ocr_needed: true`) — cài Tesseract rồi convert lại, hoặc đọc bằng vision
+> - Cần chất lượng OCR tiếng Việt cao hơn Tesseract (Claude vision đọc dấu thanh chuẩn hơn) — vd đề trắc nghiệm nhiều confusable
 > - Cần tạo summary cho lecture (stage cuối skill này, sau khi đã có MD đầy đủ)
 
 ## Mục tiêu
