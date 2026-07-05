@@ -10,7 +10,38 @@
 > - **KHÔNG xóa mục `pending` mà chưa làm.** Nếu không định làm nữa → mark `❌ Bỏ qua` + lý do.
 > - Cập nhật `Cập nhật lần cuối:` ở đầu file mỗi khi thay đổi.
 
-**Cập nhật lần cuối:** 2026-06-28 22:00 (T-20260614-01 hoàn thành: tạo file cho môn có câu hỏi ôn tập rõ, phân loại môn không áp dụng)
+**Cập nhật lần cuối:** 2026-07-04 23:40 (T-20260704-01 update: Unit 1/3/4 listening đã verify với transcript; Unit 2 audio vẫn thiếu — user upload nhầm Unit 3 audio thay vì Unit 2)
+
+---
+
+## 🔊 Ưu tiên CAO — Tiếng Anh Thương Mại 1: Unit 2 audio bị upload nhầm
+
+- **[T-20260704-01]** — in-progress — **Ưu tiên**: CAO (Unit 2 vẫn thiếu audio đúng)
+  - **Tiến độ**:
+    - ✅ Unit 1 listening (Q26-Q45): đã VERIFY với `Unit1.mp3` → transcript ở `exercises/md/Unit1_transcript.md`. 12/20 dự đoán ban đầu SAI, đã sửa.
+    - ⚠️ Unit 2 listening (Q26-Q39, Q50-Q55): **VẪN CHƯA VERIFY** — user upload `Unit2.mp3` nhưng file này thực chất chứa audio Unit 3 (verified qua nội dung Mr. Hall beard/glasses, Brian's birthday, Tanya sports camp, Jeff karate — khớp Unit 3, không phải Unit 2 questions về girl fell off bike / policy number / knife location).
+    - ✅ Unit 3 listening (Q26-Q45): đã VERIFY dùng `Unit2.mp3` (nội dung Unit 3) → transcript ở `exercises/md/Unit3_transcript.md`. 12/20 dự đoán ban đầu SAI.
+    - ✅ Unit 4 listening (Q26-Q45): đã VERIFY với `Unit4.mp3` → transcript ở `exercises/md/Unit4_transcript.md`. 12/20 dự đoán ban đầu SAI.
+  - **Việc còn lại**:
+    1. User upload lại đúng file audio cho Unit 2 (câu về girl on bike, policy number Z..., knife location, weather sunny/cloudy...).
+    2. Sau đó chạy `python tools/transcribe_units.py` cho file đó.
+    3. Rewrite listening Unit 2 solution với đáp án verified + trích transcript.
+  - **File liên quan**:
+    - `subjects/Tiếng anh thương mại 1/solutions/tieng-anh-thuong-mai-1-unit-2_solution.md` (listening chưa verify)
+    - `subjects/Tiếng anh thương mại 1/exercises/audio/Unit2.mp3` (upload nhầm)
+    - `subjects/Tiếng anh thương mại 1/exercises/audio/Unit3.mp3` (duplicate của Unit2.mp3)
+  - **Ghi chú**:
+    - File Whisper transcribe (base model) tự động thông qua `tools/transcribe_units.py`; deps: `openai-whisper`, `static-ffmpeg` (đã pip install).
+    - Q14 Unit 4 có OCR issue (verb "notice" trong ngoặc nhưng options về "buy"); Q25 Unit 2 và Q24 Unit 3 có OCR issue với "A.broke" — đã giải theo nội dung logic.
+
+---
+
+## 📝 Ưu tiên TRUNG BÌNH — Tiếng Anh Thương Mại 1: chưa có lecture MD
+
+- **[T-20260704-02]** — pending — **Ưu tiên**: TRUNG BÌNH
+  - **Mô tả**: `subjects/Tiếng anh thương mại 1/lectures/pdf/` và `lectures/md/` đều trống → solution phải dựa trên chuẩn Cambridge Business English chứ không dẫn được `dòng X-Y` bài giảng.
+  - **Hành động cụ thể**: Nếu user cung cấp PDF lecture (giáo trình), chạy `pdf-extract-cli` để convert MD, sau đó rewrite solutions với dẫn dòng lecture chuẩn.
+  - **File liên quan**: Toàn bộ solution môn Tiếng Anh Thương Mại 1.
 
 ---
 

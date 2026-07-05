@@ -5,6 +5,7 @@ status: "draft"
 review_round: 0
 total_questions: 25
 question_type: "multiple_choice"
+extensions_file: "../extensions/chuong-4_extended.md"
 ---
 
 # Lời giải — Luyện tập trắc nghiệm Chương 4: Dân chủ xã hội chủ nghĩa và Nhà nước xã hội chủ nghĩa

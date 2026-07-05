@@ -5,6 +5,7 @@ status: "draft"
 review_round: 0
 total_questions: 25
 question_type: "multiple_choice"
+extensions_file: "../extensions/chuong-7_extended.md"
 ---
 
 # Lời giải — Luyện tập trắc nghiệm Chương 7: Vấn đề gia đình trong thời kỳ quá độ lên CNXH

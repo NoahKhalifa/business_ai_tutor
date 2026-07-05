@@ -5,6 +5,7 @@ status: "draft"
 review_round: 0
 total_questions: 25
 question_type: "multiple_choice"
+extensions_file: "../extensions/chuong-3_extended.md"
 ---
 
 # Lời giải — Luyện tập trắc nghiệm Chương 3: Chủ nghĩa xã hội và thời kỳ quá độ lên CNXH

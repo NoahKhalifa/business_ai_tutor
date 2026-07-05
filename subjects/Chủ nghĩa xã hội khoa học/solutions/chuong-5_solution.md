@@ -5,6 +5,7 @@ status: "draft"
 review_round: 0
 total_questions: 25
 question_type: "multiple_choice"
+extensions_file: "../extensions/chuong-5_extended.md"
 ---
 
 # Lời giải — Luyện tập trắc nghiệm Chương 5: Cơ cấu xã hội - giai cấp và liên minh giai cấp, tầng lớp trong thời kỳ quá độ lên CNXH

@@ -5,6 +5,7 @@ status: "draft"
 review_round: 0
 total_questions: 25
 question_type: "multiple_choice"
+extensions_file: "../extensions/chuong-6_extended.md"
 ---
 
 # Lời giải — Luyện tập trắc nghiệm Chương 6: Vấn đề dân tộc và tôn giáo trong thời kỳ quá độ lên CNXH
