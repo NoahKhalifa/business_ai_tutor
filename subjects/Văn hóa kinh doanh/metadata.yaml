@@ -1,0 +1,23 @@
+subject_code: "BC"
+subject_name: "Văn hóa kinh doanh"
+credits: 3
+faculty: "Business Administration"
+description: "Cung cấp kiến thức về văn hóa kinh doanh, đạo đức kinh doanh, trách nhiệm xã hội doanh nghiệp (CSR), và giao tiếp kinh doanh trong bối cảnh hội nhập quốc tế."
+learning_outcomes:
+  - "Hiểu các khái niệm và thành phần của văn hóa doanh nghiệp và văn hóa kinh doanh"
+  - "Phân biệt các mô hình văn hóa quốc gia (Hofstede, GLOBE) và ảnh hưởng đến kinh doanh"
+  - "Nhận biết và áp dụng các tiêu chuẩn đạo đức kinh doanh quốc tế"
+  - "Hiểu trách nhiệm xã hội doanh nghiệp (CSR) và phát triển bền vững"
+  - "Thực hành giao tiếp, đàm phán và đối sách trong môi trường văn hóa đa dạng"
+lectures_order:
+  - "VHKD_Baigiangtext.md"
+related_subjects:
+  - "Quản trị nhân lực căn bản"
+  - "Tiếng anh thương mại 1"
+  - "Khởi sự kinh doanh"
+references:
+  - "Business Ethics (Andrew Crane)"
+  - "Cross-Cultural Business Behavior (Richard Gesteland)"
+  - "Giáo trình Văn hóa kinh doanh - ĐH Kinh tế TP.HCM"
+media_types: []
+audio_language: ""

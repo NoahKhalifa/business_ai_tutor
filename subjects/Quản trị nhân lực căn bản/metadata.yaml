@@ -1,0 +1,22 @@
+subject_code: "HR"
+subject_name: "Quản trị nhân lực căn bản"
+credits: 3
+faculty: "Business Administration"
+description: "Cung cấp kiến thức về quản trị nhân lực từ hoạch định nguồn nhân lực, tuyển dụng, đào tạo, phát triển, đánh giá thành tích đến quản lý quan hệ lao động và lương thưởng."
+learning_outcomes:
+  - "Hiểu tổng quan các chức năng quản trị nhân lực trong tổ chức"
+  - "Thực hiện hoạch định nhân lực, tuyển dụng và lựa chọn nhân sự"
+  - "Thiết kế chương trình đào tạo và phát triển nguồn nhân lực"
+  - "Xây dựng và áp dụng hệ thống đánh giá thành tích, lương thưởng, phúc lợi"
+  - "Quản lý quan hệ lao động, giải quyết tranh chấp trong tổ chức"
+lectures_order:
+  - "Quản trị nhân lực căn bản.md"
+related_subjects:
+  - "Văn hóa kinh doanh"
+  - "Quản trị chiến lược"
+  - "Tâm lý quản trị kinh doanh"
+references:
+  - "Human Resource Management (Gary Dessler)"
+  - "Giáo trình Quản trị nhân lực - ĐH Kinh tế TP.HCM"
+media_types: []
+audio_language: ""

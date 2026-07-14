@@ -3,7 +3,11 @@ import tempfile
 import unittest
 from pathlib import Path
 
-from tools.pdf_extract.extractors.ocr import OcrExtractor, OcrUnavailable
+from tools.pdf_extract.extractors.ocr import (
+    OcrExtractor,
+    OcrUnavailable,
+    prepare_image_for_ocr,
+)
 from tools.pdf_extract.pipeline import extract_pdf
 from tools.pdf_extract.tests import fixtures
 
@@ -21,6 +25,17 @@ class ScannedDetectionTests(unittest.TestCase):
 
 
 class OcrEngineTests(unittest.TestCase):
+    def test_preprocess_recovers_light_gray_text(self):
+        from PIL import Image
+
+        image = Image.new("L", (2, 1))
+        image.putdata([220, 255])
+        processed = prepare_image_for_ocr(image)
+        self.assertEqual(
+            [processed.getpixel((0, 0)), processed.getpixel((1, 0))],
+            [0, 255],
+        )
+
     def test_extract_with_fake_engine_sets_metadata(self):
         with tempfile.TemporaryDirectory() as tmp:
             pdf = fixtures.make_scanned_pdf(Path(tmp) / "scan.pdf", pages=1)

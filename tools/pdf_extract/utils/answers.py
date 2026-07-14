@@ -32,6 +32,8 @@ def remove_empty_pages(body: str) -> str:
     out: List[str] = []
     for line in body.splitlines():
         if _EMPTY_PAGE_RE.match(line):
+            while out and not out[-1].strip():
+                out.pop()
             if out and _PAGE_RE.match(out[-1]):
                 out.pop()
             continue

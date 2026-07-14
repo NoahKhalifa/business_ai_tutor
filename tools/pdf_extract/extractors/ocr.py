@@ -26,6 +26,15 @@ TEXT_LAYER_MIN_CHARS = 20
 OCR_DPI = 300
 
 
+def prepare_image_for_ocr(image):
+    """Increase contrast so light-gray quiz options survive OCR."""
+    from PIL import ImageEnhance, ImageOps
+
+    grayscale = ImageOps.grayscale(image)
+    contrasted = ImageEnhance.Contrast(grayscale).enhance(3.0)
+    return contrasted.point(lambda value: 0 if value < 245 else 255)
+
+
 class OcrExtractor(BaseExtractor):
     """OCR the scanned (text-layer-less) pages of a PDF.
 
@@ -138,8 +147,11 @@ class OcrExtractor(BaseExtractor):
         def ocr_text(page) -> str:
             pix = page.get_pixmap(matrix=matrix, alpha=False)
             img = Image.open(io.BytesIO(pix.tobytes("png")))
+            img = prepare_image_for_ocr(img)
             try:
-                return pytesseract.image_to_string(img, lang=self.lang)
+                return pytesseract.image_to_string(
+                    img, lang=self.lang, config="--psm 6"
+                )
             except pytesseract.TesseractError as exc:
                 raise OcrUnavailable(
                     f"Tesseract lỗi (thiếu gói ngôn ngữ '{self.lang}'?): {exc}"

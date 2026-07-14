@@ -6,7 +6,7 @@ Tool Python local, không cần LLM, không tốn token. Tách PDF học liệu 
 |---|---|---|
 | `TextExtractor` | [extractors/text.py](extractors/text.py) | Text + detect heading theo font size (H1/H2/H3) |
 | `TableExtractor` | [extractors/tables.py](extractors/tables.py) | Phát hiện bảng → Markdown table |
-| `ImageExtractor` | [extractors/images.py](extractors/images.py) | Trích ảnh nhúng → PNG ở `assets/` |
+| `ImageExtractor` | [extractors/images.py](extractors/images.py) | Trích ảnh nhúng → PNG ở `assets/<pdf-stem>/` |
 | `MathExtractor` | [extractors/math.py](extractors/math.py) | Detect vùng công thức toán → crop PNG ở `assets/` |
 | `OcrExtractor` | [extractors/ocr.py](extractors/ocr.py) | OCR (Tesseract) các trang scan/ảnh không có text layer |
 | `pipeline.extract_pdf` | [pipeline.py](pipeline.py) | Orchestrate: gom blocks, dedupe overlap, render MD |
@@ -45,7 +45,7 @@ chỉ cảnh báo và ghi `ocr_needed: true` vào front-matter (không crash).
 ## Dùng CLI
 
 ```powershell
-# Convert 1 file (MD ghi cạnh PDF, ảnh + math ở ./assets/)
+# Convert 1 file (MD ghi cạnh PDF, ảnh + math ở ./assets/<pdf-stem>/)
 python -m tools.pdf_extract "subjects/Quản trị chiến lược/lectures/pdf/bai-1.pdf"
 
 # Convert cả thư mục (đệ quy)
@@ -118,7 +118,7 @@ confusables_flagged: 3
 ---
 ```
 
-Body có marker `<!-- page N -->` ở chỗ chuyển trang để `confusables` flagger gắn số trang đúng. Ảnh và công thức nhúng dạng `![Hình trang 3](assets/page_003_img_01.png)`.
+Body có marker `<!-- page N -->` ở chỗ chuyển trang để `confusables` flagger gắn số trang đúng. Ảnh và công thức được namespace theo tên PDF để nhiều tài liệu trong cùng thư mục không ghi đè nhau, ví dụ `![Hình trang 3](assets/bai-1/page_003_img_01.png)`.
 
 ## Heuristic detection của math
 
