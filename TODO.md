@@ -10,7 +10,7 @@
 > - **KHÔNG xóa mục `pending` mà chưa làm.** Nếu không định làm nữa → mark `❌ Bỏ qua` + lý do.
 > - Cập nhật `Cập nhật lần cuối:` ở đầu file mỗi khi thay đổi.
 
-**Cập nhật lần cuối:** 2026-07-14 12:25 (rà đủ pipeline 5 môn; bổ sung chuẩn hóa metadata/cache, OCR flags, lecture summary và phạm vi answer key)
+**Cập nhật lần cuối:** 2026-07-20 17:25 (audit lại 5 môn mới; cập nhật trạng thái review/extension, lecture summary và cleanup boilerplate)
 
 ---
 
@@ -54,7 +54,7 @@
     2. `Văn hóa kinh doanh`: OCR lại `exercises/md/Văn hóa kinh doanh_Bài kiểm tra.md` đang có `ocr_needed: true`.
     3. `Nguyên lý thống kê`: OCR lại `exercises/md/Nguyên lý thống kê_Bài kiểm tra.md` đang có `ocr_needed: true`.
     4. `Nguyên lý thống kê`: kiểm tra lại công thức bị thiếu ở Chương 4, Câu 29, phương án C; MD hiện chỉ có ảnh công thức cho A, B và D.
-    5. `Kinh tế thương mại đại cương`: xử lý PDF lecture chưa có MD `lectures/pdf/Kinh tế thương mai đại cương.pdf` và cân nhắc đổi tên sai chính tả `thương mai` → `thương mại` nếu user cho phép.
+    5. ✅ `Kinh tế thương mại đại cương`: đã có lecture MD và summary rồi, không còn là việc mở.
     6. Xác minh các cờ `[VERIFY_OCR]` với PDF gốc trước khi dùng làm dẫn chứng: 54 cờ trong exercise MD dạng text và 852 cờ trong 5 lecture MD. Ưu tiên toàn bộ cờ ở exercise và các đoạn lecture thực sự được trích trong solution; sửa nội dung sai và bỏ cờ sau khi đã xác minh.
   - **File liên quan**:
     - `subjects/Nguyên lý kế toán/exercises/md/*.md`
@@ -63,14 +63,15 @@
     - `subjects/Nguyên lý thống kê/exercises/md/Nguyên lý thống kê_Bài kiểm tra.md`
     - `subjects/Kinh tế thương mại đại cương/lectures/pdf/Kinh tế thương mai đại cương.pdf`
 
-## 📝 Ưu tiên TRUNG BÌNH — Nhóm môn mới: chưa có solution/review/extension
+## 📝 Ưu tiên TRUNG BÌNH — Nhóm môn mới: còn thiếu review và cleanup boilerplate
 
 - **[T-20260714-02]** — pending — **Ưu tiên**: TRUNG BÌNH
-  - **Mô tả**: 5 môn mới hiện có 33 exercise MD nhưng chưa có file `_solution.md`, `_review.md`, `_extended.md`, nên chưa thể kết luận "lời giải đúng/sai"; mới chỉ có thể kiểm tra chất lượng đề/lecture MD. Trong 24 file dạng text có 631 câu: Nguyên lý thống kê và Văn hóa kinh doanh có 59 câu mang phản hồi `Đáp án chưa chính xác`; Kinh tế thương mại đại cương và Quản trị nhân lực căn bản không lưu đáp án được chọn dưới dạng text.
+  - **Mô tả**: Audit lại ngày 2026-07-20 cho thấy pipeline của 5 môn mới đã đi được một đoạn khá xa: `Kinh tế thương mại đại cương` đã đủ solution/review/extension và sạch issue; `Nguyên lý kế toán`, `Nguyên lý thống kê`, `Văn hóa kinh doanh` còn thiếu review; `Quản trị nhân lực căn bản` có đủ solution/review/extension nhưng solution vẫn còn boilerplate nặng.
   - **Hành động cụ thể**:
-    1. Sinh solution theo `skills/exercise-solver/SKILL.md` cho từng exercise sau khi OCR/nguồn đã đủ sạch; tự giải độc lập, không suy đáp án từ điểm số hoặc phản hồi LMS.
-    2. Sinh ví dụ thực tế/mở rộng theo `skills/example-generator` và `skills/extension-builder`.
-    3. Chạy review độc lập theo `skills/answer-reviewer/SKILL.md`; với MCQ phải kiểm tra từng phương án, dẫn dòng lecture và tự tính lại câu thống kê/kế toán.
+    1. `Nguyên lý kế toán`: chạy review độc lập cho 7 chương; ưu tiên sửa Ch1 vì check-project đang flag boilerplate trong lời giải.
+    2. `Nguyên lý thống kê`: chạy review độc lập cho 6 chương; ưu tiên Ch4 vì đang bị flag boilerplate.
+    3. `Văn hóa kinh doanh`: review 5 file solution hiện có, sau đó cleanup boilerplate toàn bộ.
+    4. `Quản trị nhân lực căn bản`: rút gọn/cắt boilerplate trong 7 file solution, rồi review lại nếu sửa đáng kể.
   - **File liên quan**:
     - `subjects/Kinh tế thương mại đại cương/`
     - `subjects/Nguyên lý kế toán/`
@@ -91,20 +92,6 @@
     - `subjects/Kinh tế thương mại đại cương/exercises/md/*.md`
     - `subjects/Quản trị nhân lực căn bản/exercises/md/*.md`
     - `subjects/{Nguyên lý kế toán,Kinh tế thương mại đại cương,Nguyên lý thống kê,Quản trị nhân lực căn bản,Văn hóa kinh doanh}/metadata.yaml`
-
-## 📖 Ưu tiên TRUNG BÌNH — Nhóm môn mới: chưa có lecture summary
-
-- **[T-20260714-04]** — pending — **Ưu tiên**: TRUNG BÌNH
-  - **Mô tả**: Cả 5 lecture MD đều dài (khoảng 4.094-10.942 dòng) nhưng chưa có file `_summary.md`; solver hiện phải đọc full lecture và khó định vị dẫn chứng.
-  - **Hành động cụ thể**:
-    1. Tạo summary theo chương cho từng lecture MD, giữ công thức/khái niệm trọng tâm và bản đồ dòng tham chiếu về lecture đầy đủ.
-    2. Chỉ tạo `_chapter-review.md` nếu lecture thực sự có block câu hỏi ôn tập rõ; không tự chế câu hỏi rồi gọi là đáp án ôn tập của giáo trình.
-  - **File liên quan**:
-    - `subjects/Nguyên lý kế toán/lectures/md/`
-    - `subjects/Kinh tế thương mại đại cương/lectures/md/`
-    - `subjects/Nguyên lý thống kê/lectures/md/`
-    - `subjects/Quản trị nhân lực căn bản/lectures/md/`
-    - `subjects/Văn hóa kinh doanh/lectures/md/`
 
 ---
 
@@ -151,6 +138,15 @@ _(Trống — T-20260612-01 đã hoàn thành 2026-06-13.)_
 ---
 
 ## ✅ Đã xong (giữ 30 ngày)
+
+### [T-20260714-04] Tạo summary cho lecture MD của 5 môn mới — *hoàn thành 2026-07-20*
+- Audit ngày 2026-07-20 cho thấy cả 5 môn mới đều đã có `*_summary.md` trong `lectures/md/`, nên mục pending cũ đã đóng.
+- Kết quả hiện tại:
+  - `Nguyên lý kế toán`: có `TXFACC0111_NLKT_BGtext_summary.md`
+  - `Kinh tế thương mại đại cương`: có `Kinh tế thương mại_Bài giảng_summary.md` và `Kinh tế thương mai đại cương_summary.md`
+  - `Nguyên lý thống kê`: có `TXANST0211_NLTK_Baigiangtext_summary.md`
+  - `Quản trị nhân lực căn bản`: có `Quản trị nhân lực căn bản_summary.md`
+  - `Văn hóa kinh doanh`: có `VHKD_Baigiangtext_summary.md`
 
 ### [T-20260614-01] Tạo file `_chapter-review.md` trả lời câu hỏi ôn tập chương trong lecture summary — *hoàn thành 2026-06-28*
 - Bối cảnh: ngày 2026-06-14 đã có file mẫu QTCL `subjects/Quản trị chiến lược/lectures/md/quan-tri-chien-luoc_chapter-review.md` (42 câu × 7 chương). Ngày 2026-06-28 đã rà các môn còn lại và chỉ tạo file khi có block câu hỏi ôn tập rõ.
