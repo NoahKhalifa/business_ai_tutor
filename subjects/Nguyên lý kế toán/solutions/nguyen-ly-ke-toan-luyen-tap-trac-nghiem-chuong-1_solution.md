@@ -28,187 +28,185 @@ extensions_file: "extensions/nguyen-ly-ke-toan-luyen-tap-trac-nghiem-chuong-1_ex
 
 ## Câu 1
 
-**Đề:** Ngày 01/03/N, Công ty thành <!-- C1.1.DE --> lập, giá trị vốn góp theo vốn điều lệ trên giấy phép kinh doanh là 10 tỷ, thực tế các thành viên chỉ mới góp được 8 tỷ. Công ty ghi nhận số vốn góp trên sổ kế toán là 8 tỷ. Công ty đã tuân thủ theo nguyên tắc kế toán nào?
+**Đề:** Ngày 01/03/N, Công ty thành lập, giá trị vốn góp theo vốn điều lệ trên giấy phép kinh doanh là 10 tỷ, thực tế các thành viên chỉ mới góp được 8 tỷ. Công ty ghi nhận số vốn góp trên sổ kế toán là 8 tỷ. Công ty đã tuân thủ theo nguyên tắc kế toán nào?
 
-**Đáp án: D** - C1.1 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.1 chốt D; C1.1 hoàn tất căn cứ C1.1.
+**Đáp án: D** — Ghi nhận theo số thực góp, không theo số trên giấy phép; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358.
 
 **Phân tích từng phương án:**
-- **A.** Tuân thủ theo nguyên tắc <!-- C1.1.A --> giá gốc. - **Sai.** C1.1.A kiểm tra nguyên tắc; C1.1.A lệch dữ kiện; C1.1.A loại A và giữ D. (Nguồn C1.1.A; dòng 281-358.)
-- **B.** Tuân thủ theo nguyên tắc <!-- C1.1.B --> dồn tích. - **Sai.** C1.1.B kiểm tra nguyên tắc; C1.1.B lệch dữ kiện; C1.1.B loại B và giữ D. (Nguồn C1.1.B; dòng 281-358.)
-- **C.** Tuân thủ theo nguyên tắc <!-- C1.1.C --> phù hợp. - **Sai.** C1.1.C kiểm tra nguyên tắc; C1.1.C lệch dữ kiện; C1.1.C loại C và giữ D. (Nguồn C1.1.C; dòng 281-358.)
-- **D.** Tuân thủ theo nguyên tắc <!-- C1.1.D --> thận trọng. - **Đúng.** C1.1.D kiểm tra nguyên tắc; C1.1.D khớp dữ kiện; C1.1.D giữ phương án D. (Nguồn C1.1.D; dòng 281-358.)
+- **A.** Giá gốc. - Sai, đây không phải tình huống xác định giá gốc của tài sản.
+- **B.** Dồn tích. - Sai, đề đang hỏi cách ghi nhận vốn góp chứ không phải thời điểm ghi nhận doanh thu/chi phí.
+- **C.** Phù hợp. - Sai, nguyên tắc phù hợp không quyết định số vốn góp ban đầu.
+- **D.** Thận trọng. - Đúng, chỉ ghi nhận phần vốn thực tế đã góp là 8 tỷ.
 
-**Lưu ý C1.1:** C1.1 đọc dữ kiện; C1.1 phân loại; C1.1 kiểm tra đáp án D.
+**Lưu ý:** Vốn góp ghi sổ theo phần thực góp, không theo vốn điều lệ trên giấy phép.
 
 ## Câu 2
 
-**Đề:** Thước đo chủ yếu kế <!-- C1.2.DE --> toán tài chính sử dụng là:
+**Đề:** Thước đo chủ yếu kế toán tài chính sử dụng là:
 
-**Đáp án: C** - C1.2 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 91-164; C1.2 chốt C; C1.2 hoàn tất căn cứ C1.2.
+**Đáp án: C** — Kế toán tài chính chủ yếu dùng thước đo giá trị; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 91-164.
 
 **Phân tích từng phương án:**
-- **A.** Thước đo giá trị và <!-- C1.2.A --> thời gian lao động. - **Sai.** C1.2.A kiểm tra khái niệm; C1.2.A lệch dữ kiện; C1.2.A loại A và giữ C. (Nguồn C1.2.A; dòng 91-164.)
-- **B.** Thước đo hiện vật. - **Sai.** C1.2.B kiểm tra khái niệm; C1.2.B lệch dữ kiện; C1.2.B loại B và giữ C. (Nguồn C1.2.B; dòng 91-164.)
-- **C.** Thước đo giá trị. - **Đúng.** C1.2.C kiểm tra khái niệm; C1.2.C khớp dữ kiện; C1.2.C giữ phương án C. (Nguồn C1.2.C; dòng 91-164.)
-- **D.** Thước đo thời gian lao động. - **Sai.** C1.2.D kiểm tra khái niệm; C1.2.D lệch dữ kiện; C1.2.D loại D và giữ C. (Nguồn C1.2.D; dòng 91-164.)
+- **A.** Giá trị và thời gian lao động. - Sai, đây là tổ hợp nhiều thước đo chứ không phải thước đo chủ yếu.
+- **B.** Hiện vật. - Sai, thước đo này không đủ cho báo cáo kế toán tài chính.
+- **C.** Giá trị. - Đúng, đây là thước đo chủ yếu của kế toán tài chính.
+- **D.** Thời gian lao động. - Sai, không phải thước đo chủ yếu trong kế toán tài chính.
 
-**Lưu ý C1.2:** C1.2 đọc dữ kiện; C1.2 phân loại; C1.2 kiểm tra đáp án C.
+**Lưu ý:** Kế toán tài chính lấy thước đo giá trị làm trung tâm.
 
 ## Câu 3
 
-**Đề:** Ngày 1/4/N công ty A <!-- C1.3.DE --> mua một lô hàng hóa giá mua 500 triệu, đã thanh toán 200 triệu bằng chuyển khoản, phần còn lại công ty nhận nợ và thanh toán vào ngày 2/5/N. Ngày 31/12/N giá trị thị trường của lô hàng hóa này là 520 triệu. Công ty A trình bày giá trị của lô hàng hóa vào ngày 31/12/N là?
+**Đề:** Ngày 1/4/N công ty A mua một lô hàng hóa giá mua 500 triệu, đã thanh toán 200 triệu bằng chuyển khoản, phần còn lại công ty nhận nợ và thanh toán vào ngày 2/5/N. Ngày 31/12/N giá trị thị trường của lô hàng hóa này là 520 triệu. Công ty A trình bày giá trị của lô hàng hóa vào ngày 31/12/N là?
 
-**Đáp án: D** - C1.3 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.3 chốt D; C1.3 hoàn tất căn cứ C1.3.
+**Đáp án: D** — Giá ghi nhận vẫn theo giá gốc 500 triệu; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358.
 
 **Phân tích từng phương án:**
-- **A.** 300 triệu. - **Sai.** C1.3.A kiểm tra số liệu hoặc thời điểm; C1.3.A lệch dữ kiện; C1.3.A loại A và giữ D. (Nguồn C1.3.A; dòng 281-358.)
-- **B.** 200 triệu. - **Sai.** C1.3.B kiểm tra số liệu hoặc thời điểm; C1.3.B lệch dữ kiện; C1.3.B loại B và giữ D. (Nguồn C1.3.B; dòng 281-358.)
-- **C.** 520 triệu. - **Sai.** C1.3.C kiểm tra số liệu hoặc thời điểm; C1.3.C lệch dữ kiện; C1.3.C loại C và giữ D. (Nguồn C1.3.C; dòng 281-358.)
-- **D.** 500 triệu. - **Đúng.** C1.3.D kiểm tra số liệu hoặc thời điểm; C1.3.D khớp dữ kiện; C1.3.D giữ phương án D. (Nguồn C1.3.D; dòng 281-358.)
+- **A.** 300 triệu. - Sai, không có cơ sở nào để giảm giá trị xuống mức này.
+- **B.** 200 triệu. - Sai, số tiền đã thanh toán không phải là giá trị ghi sổ.
+- **C.** 520 triệu. - Sai, giá thị trường chưa làm thay đổi giá ghi nhận.
+- **D.** 500 triệu. - Đúng, đây là giá gốc của lô hàng.
 
-**Tự tính/đối chiếu:** Theo giá gốc: 500 triệu đồng; khoản đã trả 200 và khoản còn nợ không làm đổi giá ghi nhận.
+**Tự tính/đối chiếu:** Theo giá gốc, giá ghi nhận là 500 triệu đồng.
 
-**Lưu ý C1.3:** C1.3 đọc dữ kiện; C1.3 phân loại; C1.3 kiểm tra đáp án D.
+**Lưu ý:** Giá thị trường cuối kỳ không thay thế giá gốc khi chưa có căn cứ ghi giảm/ghi tăng.
 
 ## Câu 4
 
-**Đề:** Theo nguyên tắc kế toán <!-- C1.4.DE --> “Nhất quán”, trường hợp thay đổi các quy định và phương pháp kế toán đã chọn thì đơn vị kế toán sẽ áp dụng vào thời điểm:
+**Đề:** Theo nguyên tắc kế toán “Nhất quán”, trường hợp thay đổi các quy định và phương pháp kế toán đã chọn thì đơn vị kế toán sẽ áp dụng vào thời điểm:
 
-**Đáp án: D** - C1.4 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.4 chốt D; C1.4 hoàn tất căn cứ C1.4.
+**Đáp án: D** — Thay đổi chính sách được áp dụng từ đầu niên độ kế toán kế tiếp; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358.
 
 **Phân tích từng phương án:**
-- **A.** Đầu tháng kế tiếp. - **Sai.** C1.4.A kiểm tra khái niệm; C1.4.A lệch dữ kiện; C1.4.A loại A và giữ D. (Nguồn C1.4.A; dòng 281-358.)
-- **B.** Đầu quý kế tiếp. - **Sai.** C1.4.B kiểm tra khái niệm; C1.4.B lệch dữ kiện; C1.4.B loại B và giữ D. (Nguồn C1.4.B; dòng 281-358.)
-- **C.** Bất kì thời điểm nào <!-- C1.4.C --> khi đơn vị kế toán thay đổi các quy định và phương pháp kế toán. - **Sai.** C1.4.C kiểm tra khái niệm; C1.4.C lệch dữ kiện; C1.4.C loại C và giữ D. (Nguồn C1.4.C; dòng 281-358.)
-- **D.** Đầu niên độ kế toán <!-- C1.4.D --> kế tiếp. - **Đúng.** C1.4.D kiểm tra khái niệm; C1.4.D khớp dữ kiện; C1.4.D giữ phương án D. (Nguồn C1.4.D; dòng 281-358.)
+- **A.** Đầu tháng kế tiếp. - Sai, không đúng mốc áp dụng của nguyên tắc nhất quán.
+- **B.** Đầu quý kế tiếp. - Sai, mốc này không được nêu trong nguyên tắc.
+- **C.** Bất kì thời điểm nào. - Sai, thay đổi phải có quy tắc và mốc áp dụng rõ ràng.
+- **D.** Đầu niên độ kế toán kế tiếp. - Đúng, đây là thời điểm áp dụng chuẩn.
 
-**Lưu ý C1.4:** C1.4 đọc dữ kiện; C1.4 phân loại; C1.4 kiểm tra đáp án D.
+**Lưu ý:** Nguyên tắc nhất quán yêu cầu thay đổi từ đầu niên độ kế toán kế tiếp.
 
 ## Câu 5
 
-**Đề:** Ngày 1/6/N công ty A <!-- C1.5.DE --> mua một TSCĐ dùng trong văn phòng có NG là 60 triệu. Ngày 31/12/N, giá trị của TSCĐ này trên thị trường là 45 triệu. NG của TSCĐ được trình bày trên báo cáo tài chính là 60 triệu. Công ty đã tuân thủ theo nguyên tắc kế toán nào?
+**Đề:** Ngày 1/6/N công ty A mua một TSCĐ dùng trong văn phòng có NG là 60 triệu. Ngày 31/12/N, giá trị của TSCĐ này trên thị trường là 45 triệu. NG của TSCĐ được trình bày trên báo cáo tài chính là 60 triệu. Công ty đã tuân thủ theo nguyên tắc kế toán nào?
 
-**Đáp án: C** - C1.5 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.5 chốt C; C1.5 hoàn tất căn cứ C1.5.
+**Đáp án: C** — TSCĐ được trình bày theo nguyên giá 60 triệu; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358.
 
 **Phân tích từng phương án:**
-- **A.** Nguyên tắc phù hợp - **Sai.** C1.5.A kiểm tra nguyên tắc; C1.5.A lệch dữ kiện; C1.5.A loại A và giữ C. (Nguồn C1.5.A; dòng 281-358.)
-- **B.** Nguyên tắc cơ sở dồn tích - **Sai.** C1.5.B kiểm tra nguyên tắc; C1.5.B lệch dữ kiện; C1.5.B loại B và giữ C. (Nguồn C1.5.B; dòng 281-358.)
-- **C.** Nguyên tắc giá gốc - **Đúng.** C1.5.C kiểm tra nguyên tắc; C1.5.C khớp dữ kiện; C1.5.C giữ phương án C. (Nguồn C1.5.C; dòng 281-358.)
-- **D.** Nguyên tắc thận trọng - **Sai.** C1.5.D kiểm tra nguyên tắc; C1.5.D lệch dữ kiện; C1.5.D loại D và giữ C. (Nguồn C1.5.D; dòng 281-358.)
+- **A.** Phù hợp. - Sai, nguyên tắc này không quyết định việc giữ nguyên NG.
+- **B.** Cơ sở dồn tích. - Sai, đây không phải vấn đề ghi nhận doanh thu/chi phí.
+- **C.** Giá gốc. - Đúng, báo cáo vẫn trình bày theo nguyên giá.
+- **D.** Thận trọng. - Sai, nguyên tắc thận trọng không làm đổi NG của TSCĐ trong tình huống này.
 
-**Lưu ý C1.5:** C1.5 đọc dữ kiện; C1.5 phân loại; C1.5 kiểm tra đáp án C.
+**Lưu ý:** TSCĐ vẫn giữ nguyên giá 60 triệu trên BCTC.
 
 ## Câu 6
 
-**Đề:** Ngày 1/6/N công ty A <!-- C1.6.DE --> mua một TSCĐ dùng trong văn phòng có nguyên giá là 60 triệu. Ngày 31/12/N, giá của TSCĐ này trên thị trường là 45 triệu. Với giả định công ty A vẫn hoạt động liên tục, giá trị của TSCĐ này trên sổ kế toán tại ngày 31/12/N là bao nhiêu và tuân thủ theo nguyên tắc kế toán nào?
+**Đề:** Ngày 1/6/N công ty A mua một TSCĐ dùng trong văn phòng có nguyên giá là 60 triệu. Ngày 31/12/N, giá của TSCĐ này trên thị trường là 45 triệu. Với giả định công ty A vẫn hoạt động liên tục, giá trị của TSCĐ này trên sổ kế toán tại ngày 31/12/N là bao nhiêu và tuân thủ theo nguyên tắc kế toán nào?
 
-**Đáp án: A** - C1.6 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.6 chốt A; C1.6 hoàn tất căn cứ C1.6.
+**Đáp án: A** — Vẫn ghi theo nguyên giá 60 triệu; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358.
 
 **Phân tích từng phương án:**
-- **A.** 60 triệu, tuân thủ theo <!-- C1.6.A --> nguyên tắc giá gốc. - **Đúng.** C1.6.A kiểm tra số liệu hoặc thời điểm; C1.6.A khớp dữ kiện; C1.6.A giữ phương án A. (Nguồn C1.6.A; dòng 281-358.)
-- **B.** 45 triệu, tuân thủ theo <!-- C1.6.B --> nguyên tắc phù hợp. - **Sai.** C1.6.B kiểm tra số liệu hoặc thời điểm; C1.6.B lệch dữ kiện; C1.6.B loại B và giữ A. (Nguồn C1.6.B; dòng 281-358.)
-- **C.** 60 triệu, tuân thủ theo <!-- C1.6.C --> nguyên tắc cơ sở dồn tích. - **Sai.** C1.6.C kiểm tra số liệu hoặc thời điểm; C1.6.C lệch dữ kiện; C1.6.C loại C và giữ A. (Nguồn C1.6.C; dòng 281-358.)
-- **D.** 45 triệu, tuân thủ theo <!-- C1.6.D --> nguyên tắc giá gốc. - **Sai.** C1.6.D kiểm tra số liệu hoặc thời điểm; C1.6.D lệch dữ kiện; C1.6.D loại D và giữ A. (Nguồn C1.6.D; dòng 281-358.)
+- **A.** 60 triệu, giá gốc. - Đúng, giữ nguyên giá ghi sổ.
+- **B.** 45 triệu, phù hợp. - Sai, giá thị trường không thay thế nguyên giá trong tình huống này.
+- **C.** 60 triệu, cơ sở dồn tích. - Sai, cơ sở dồn tích không quyết định giá trị TSCĐ.
+- **D.** 45 triệu, giá gốc. - Sai, giá gốc không thể hiện theo giá thị trường 45 triệu.
 
-**Tự tính/đối chiếu:** Giá ghi sổ theo nguyên giá là 60 triệu đồng, không thay bằng giá thị trường 45 triệu đồng.
-
-**Lưu ý C1.6:** C1.6 đọc dữ kiện; C1.6 phân loại; C1.6 kiểm tra đáp án A.
+**Tự tính/đối chiếu:** Giá ghi sổ theo nguyên giá là 60 triệu đồng.
 
 ## Câu 7
 
-**Đề:** Hàng hóa tồn kho của <!-- C1.7.DE --> doanh nghiệp đang có xu hướng mất giá trên thị trường và có nguy cơ khiến cho doanh nghiệp phải chịu thiệt hại trong tương lai. Doanh nghiệp phải lập dự phòng giảm giá hàng tồn kho. Việc lập dự phòng này tuân thủ theo nguyên tắc kế toán nào sau đây?
+**Đề:** Hàng hóa tồn kho của doanh nghiệp đang có xu hướng mất giá trên thị trường và có nguy cơ khiến cho doanh nghiệp phải chịu thiệt hại trong tương lai. Doanh nghiệp phải lập dự phòng giảm giá hàng tồn kho. Việc lập dự phòng này tuân thủ theo nguyên tắc kế toán nào sau đây?
 
-**Đáp án: D** - C1.7 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.7 chốt D; C1.7 hoàn tất căn cứ C1.7.
+**Đáp án: D** — Đây là biểu hiện của nguyên tắc thận trọng; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358.
 
 **Phân tích từng phương án:**
-- **A.** Nguyên tắc trọng yếu. - **Sai.** C1.7.A kiểm tra nguyên tắc; C1.7.A lệch dữ kiện; C1.7.A loại A và giữ D. (Nguồn C1.7.A; dòng 281-358.)
-- **B.** Nguyên tắc nhất quán. - **Sai.** C1.7.B kiểm tra nguyên tắc; C1.7.B lệch dữ kiện; C1.7.B loại B và giữ D. (Nguồn C1.7.B; dòng 281-358.)
-- **C.** Nguyên tắc phù hợp. - **Sai.** C1.7.C kiểm tra nguyên tắc; C1.7.C lệch dữ kiện; C1.7.C loại C và giữ D. (Nguồn C1.7.C; dòng 281-358.)
-- **D.** Nguyên tắc thận trọng. - **Đúng.** C1.7.D kiểm tra nguyên tắc; C1.7.D khớp dữ kiện; C1.7.D giữ phương án D. (Nguồn C1.7.D; dòng 281-358.)
+- **A.** Trọng yếu. - Sai, không liên quan đến việc trích lập dự phòng.
+- **B.** Nhất quán. - Sai, nhất quán nói về việc áp dụng chính sách kế toán.
+- **C.** Phù hợp. - Sai, phù hợp liên quan việc ghi nhận chi phí - doanh thu.
+- **D.** Thận trọng. - Đúng, cần ghi nhận khả năng tổn thất có thể xảy ra.
 
-**Lưu ý C1.7:** C1.7 đọc dữ kiện; C1.7 phân loại; C1.7 kiểm tra đáp án D.
+**Lưu ý:** Có dấu hiệu lỗ thì phải xem xét trích dự phòng sớm.
 
 ## Câu 8
 
 **Đề:** Đơn vị kế toán là:
 
-**Đáp án: A** - C1.8 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 91-164; C1.8 chốt A; C1.8 hoàn tất căn cứ C1.8.
+**Đáp án: A** — Đơn vị kế toán là nơi kiểm soát nguồn lực, tài sản và thực hiện ghi chép, tổng hợp, báo cáo; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 91-164.
 
 **Phân tích từng phương án:**
-- **A.** Đơn vị mà ở đó <!-- C1.8.A --> có sự kiểm soát các nguồn lực, tài sản và tiến hành các hoạt động kinh doanh cùng quá trình ghi chép, tổng hợp và báo cáo. - **Đúng.** C1.8.A kiểm tra phân loại đối tượng; C1.8.A khớp dữ kiện; C1.8.A giữ phương án A. (Nguồn C1.8.A; dòng 91-164.)
-- **B.** Đơn vị mà ở đó <!-- C1.8.B --> có sự tiến hành các hoạt động kinh doanh cùng quá trình ghi chép, tổng hợp và báo cáo. - **Sai.** C1.8.B kiểm tra khái niệm; C1.8.B lệch dữ kiện; C1.8.B loại B và giữ A. (Nguồn C1.8.B; dòng 91-164.)
-- **C.** Đơn vị mà ở đó <!-- C1.8.C --> có sự kiểm soát các tài sản và tiến hành quá trình ghi chép, tổng hợp và báo cáo. - **Sai.** C1.8.C kiểm tra phân loại đối tượng; C1.8.C lệch dữ kiện; C1.8.C loại C và giữ A. (Nguồn C1.8.C; dòng 91-164.)
-- **D.** Đơn vị mà ở đó <!-- C1.8.D --> có sự kiểm soát các nguồn lực, tài sản và tiến hành các hoạt động kinh doanh. - **Sai.** C1.8.D kiểm tra phân loại đối tượng; C1.8.D lệch dữ kiện; C1.8.D loại D và giữ A. (Nguồn C1.8.D; dòng 91-164.)
+- **A.** Mô tả đầy đủ. - Đúng.
+- **B.** Thiếu phần kiểm soát nguồn lực, tài sản. - Sai.
+- **C.** Thiếu phần kiểm soát nguồn lực. - Sai.
+- **D.** Thiếu phần ghi chép, tổng hợp và báo cáo. - Sai.
 
-**Lưu ý C1.8:** C1.8 đọc dữ kiện; C1.8 phân loại; C1.8 kiểm tra đáp án A.
+**Lưu ý:** Đáp án đúng phải bao quát cả kiểm soát nguồn lực lẫn công tác kế toán.
 
 ## Câu 9
 
-**Đề:** Kế toán ghi kép là <!-- C1.9.DE --> loại kế toán:
+**Đề:** Kế toán ghi kép là loại kế toán:
 
-**Đáp án: D** - C1.9 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 91-164; C1.9 chốt D; C1.9 hoàn tất căn cứ C1.9.
+**Đáp án: D** — Đây là cách ghi nhận thông tin về các nghiệp vụ kinh tế theo nội dung và sự vận động của các đối tượng kế toán; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 91-164.
 
 **Phân tích từng phương án:**
-- **A.** Thu nhận, xử lý và <!-- C1.9.A --> cung cấp ở dạng chi tiết, cụ thể về một chỉ tiêu tổng hợp do kế toán tổng hợp thực hiện. - **Sai.** C1.9.A kiểm tra khái niệm; C1.9.A lệch dữ kiện; C1.9.A loại A và giữ D. (Nguồn C1.9.A; dòng 91-164.)
-- **B.** Ghi chép thu nhận theo <!-- C1.9.B --> những chỉ tiêu kinh tế được tổng hợp bằng thước đo giá trị. - **Sai.** C1.9.B kiểm tra khái niệm; C1.9.B lệch dữ kiện; C1.9.B loại B và giữ D. (Nguồn C1.9.B; dòng 91-164.)
-- **C.** Ghi chép thu nhận thông <!-- C1.9.C --> tin về các nghiệp vụ kinh tế 1 cách độc lập, riêng biệt. - **Sai.** C1.9.C kiểm tra số liệu hoặc thời điểm; C1.9.C lệch dữ kiện; C1.9.C loại C và giữ D. (Nguồn C1.9.C; dòng 91-164.)
-- **D.** Ghi chép, thu nhận các <!-- C1.9.D --> thông tin về các nghiệp vụ kinh tế theo đúng nội dung, sự vận động biện chứng giữa các đối tượng kế toán. - **Đúng.** C1.9.D kiểm tra khái niệm; C1.9.D khớp dữ kiện; C1.9.D giữ phương án D. (Nguồn C1.9.D; dòng 91-164.)
+- **A.** Mô tả kế toán chi tiết. - Sai.
+- **B.** Mô tả kế toán tổng hợp. - Sai.
+- **C.** Mô tả ghi chép riêng biệt từng nghiệp vụ. - Sai.
+- **D.** Mô tả đúng kế toán ghi kép. - Đúng.
 
-**Lưu ý C1.9:** C1.9 đọc dữ kiện; C1.9 phân loại; C1.9 kiểm tra đáp án D.
+**Lưu ý:** Kế toán ghi kép phản ánh cùng một nghiệp vụ ở hai mặt liên quan.
 
 ## Câu 10
 
-**Đề:** Ngày 1/3/N công ty A <!-- C1.10.DE --> xuất kho bán trực tiếp một lô hàng cho công ty B với giá bán 100 triệu vào, công ty B đã thông báo nhận được hàng. Biết rằng công ty B đã đặt trước tiền hàng là 30 triệu vào ngày 15/2/N. Công ty B thanh toán số tiền còn lại bằng chuyển khoản vào ngày 20/3/N. Kế toán ghi nhận doanh thu vào thời điểm?
+**Đề:** Ngày 1/3/N công ty A xuất kho bán trực tiếp một lô hàng cho công ty B với giá bán 100 triệu. Công ty B đã đặt trước 30 triệu vào ngày 15/2/N và thanh toán phần còn lại vào ngày 20/3/N. Kế toán ghi nhận doanh thu vào thời điểm?
 
-**Đáp án: D** - C1.10 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.10 chốt D; C1.10 hoàn tất căn cứ C1.10.
+**Đáp án: D** — Doanh thu ghi nhận khi hàng đã giao và khách nhận hàng, tức ngày 1/3/N; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358.
 
 **Phân tích từng phương án:**
-- **A.** Vào ngày 15/2 là 30 <!-- C1.10.A --> triệu, ngày 1/3 ghi tăng doanh thu 70 triệu. - **Sai.** C1.10.A kiểm tra số liệu hoặc thời điểm; C1.10.A lệch dữ kiện; C1.10.A loại A và giữ D. (Nguồn C1.10.A; dòng 281-358.)
-- **B.** Vào ngày 15/2 là 100 triệu. - **Sai.** C1.10.B kiểm tra số liệu hoặc thời điểm; C1.10.B lệch dữ kiện; C1.10.B loại B và giữ D. (Nguồn C1.10.B; dòng 281-358.)
-- **C.** Vào ngày 15/2 là 30 <!-- C1.10.C --> triệu, ngày 20/3 ghi tăng doanh thu 70 triệu. - **Sai.** C1.10.C kiểm tra số liệu hoặc thời điểm; C1.10.C lệch dữ kiện; C1.10.C loại C và giữ D. (Nguồn C1.10.C; dòng 281-358.)
-- **D.** Vào ngày 1/3 là 100 triệu. - **Đúng.** C1.10.D kiểm tra số liệu hoặc thời điểm; C1.10.D khớp dữ kiện; C1.10.D giữ phương án D. (Nguồn C1.10.D; dòng 281-358.)
+- **A.** Ghi 30 triệu rồi 70 triệu sau. - Sai, doanh thu không ghi theo tiến độ thanh toán ở đây.
+- **B.** Ghi 100 triệu ngày 15/2. - Sai, tiền đặt trước chưa phải doanh thu.
+- **C.** Ghi 30 triệu ngày 15/2 và 70 triệu ngày 20/3. - Sai, vẫn sai thời điểm ghi nhận.
+- **D.** Ghi 100 triệu ngày 1/3. - Đúng.
 
-**Lưu ý C1.10:** C1.10 đọc dữ kiện; C1.10 phân loại; C1.10 kiểm tra đáp án D.
+**Lưu ý:** Thanh toán tiền và ghi nhận doanh thu là hai thời điểm khác nhau.
 
 ## Câu 11
 
-**Đề:** Kế toán công là loại <!-- C1.11.DE --> kế toán:
+**Đề:** Kế toán công là loại kế toán:
 
 **Đáp án: D** - C1.11 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 91-164; C1.11 chốt D; C1.11 hoàn tất căn cứ C1.11.
 
 **Phân tích từng phương án:**
-- **A.** Thông tin kế toán chỉ <!-- C1.11.A --> được thu nhận, xử lý và cung cấp ở dạng chi tiết, cụ thể. - **Sai.** C1.11.A kiểm tra khái niệm; C1.11.A lệch dữ kiện; C1.11.A loại A và giữ D. (Nguồn C1.11.A; dòng 91-164.)
-- **B.** Được tiến hành ở những <!-- C1.11.B --> đơn vị, tổ chức kinh tế hoạt động sản xuất kinh doanh với mục tiêu lợi nhuận. - **Sai.** C1.11.B kiểm tra khái niệm; C1.11.B lệch dữ kiện; C1.11.B loại B và giữ D. (Nguồn C1.11.B; dòng 91-164.)
-- **C.** Thông tin kế toán chỉ <!-- C1.11.C --> được ghi chép thu nhận theo những chỉ tiêu kinh tế được tổng hợp bằng thước đo giá trị. - **Sai.** C1.11.C kiểm tra khái niệm; C1.11.C lệch dữ kiện; C1.11.C loại C và giữ D. (Nguồn C1.11.C; dòng 91-164.)
-- **D.** Được tiến hành ở những <!-- C1.11.D --> đơn vị hoạt động không có tính chất kinh doanh, hoạt động không vì mục đích lợi nhuận. - **Đúng.** C1.11.D kiểm tra khái niệm; C1.11.D khớp dữ kiện; C1.11.D giữ phương án D. (Nguồn C1.11.D; dòng 91-164.)
+- **A.** Thông tin kế toán chỉ được thu nhận, xử lý và cung cấp ở dạng chi tiết, cụ thể. - Sai.
+- **B.** Được tiến hành ở những đơn vị, tổ chức kinh tế hoạt động sản xuất kinh doanh với mục tiêu lợi nhuận. - Sai.
+- **C.** Thông tin kế toán chỉ được ghi chép thu nhận theo những chỉ tiêu kinh tế được tổng hợp bằng thước đo giá trị. - Sai.
+- **D.** Được tiến hành ở những đơn vị hoạt động không có tính chất kinh doanh, hoạt động không vì mục đích lợi nhuận. - Đúng.
 
 **Lưu ý C1.11:** C1.11 đọc dữ kiện; C1.11 phân loại; C1.11 kiểm tra đáp án D.
 
 ## Câu 12
 
-**Đề:** Doanh nghiệp bị kiện đòi <!-- C1.12.DE --> bồi thường 5 tỉ đồng. Toà án đã có quyết định số tiền phải bồi thường nhưng kế toán chưa ghi nhận. Điều nay đã vi phạm nguyên tắc kế toán:
+**Đề:** Doanh nghiệp bị kiện đòi bồi thường 5 tỉ đồng. Toà án đã có quyết định số tiền phải bồi thường nhưng kế toán chưa ghi nhận. Điều nay đã vi phạm nguyên tắc kế toán:
 
 **Đáp án: B** - C1.12 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.12 chốt B; C1.12 hoàn tất căn cứ C1.12.
 
 **Phân tích từng phương án:**
-- **A.** Nguyên tắc thận trọng - **Sai.** C1.12.A kiểm tra nguyên tắc; C1.12.A lệch dữ kiện; C1.12.A loại A và giữ B. (Nguồn C1.12.A; dòng 281-358.)
-- **B.** Nguyên tắc trọng yếu - **Đúng.** C1.12.B kiểm tra nguyên tắc; C1.12.B khớp dữ kiện; C1.12.B giữ phương án B. (Nguồn C1.12.B; dòng 281-358.)
-- **C.** Nguyên tắc giá gốc - **Sai.** C1.12.C kiểm tra nguyên tắc; C1.12.C lệch dữ kiện; C1.12.C loại C và giữ B. (Nguồn C1.12.C; dòng 281-358.)
-- **D.** Nguyên tắc phù hợp - **Sai.** C1.12.D kiểm tra nguyên tắc; C1.12.D lệch dữ kiện; C1.12.D loại D và giữ B. (Nguồn C1.12.D; dòng 281-358.)
+- **A.** Nguyên tắc thận trọng - Sai.
+- **B.** Nguyên tắc trọng yếu - Đúng.
+- **C.** Nguyên tắc giá gốc - Sai.
+- **D.** Nguyên tắc phù hợp - Sai.
 
 **Lưu ý C1.12:** C1.12 đọc dữ kiện; C1.12 phân loại; C1.12 kiểm tra đáp án B.
 
 ## Câu 13
 
-**Đề:** Nếu tháng 1/N, doanh nghiệp <!-- C1.13.DE --> chuyển khoản 180 triệu đồng tiền thuê văn phòng 6 tháng đầu năm và ghi nhận toàn bộ số tiền này vào chi phí tháng 1/N thì nguyên tắc kế toán bị vi phạm là:
+**Đề:** Nếu tháng 1/N, doanh nghiệp chuyển khoản 180 triệu đồng tiền thuê văn phòng 6 tháng đầu năm và ghi nhận toàn bộ số tiền này vào chi phí tháng 1/N thì nguyên tắc kế toán bị vi phạm là:
 
 **Đáp án: D** - C1.13 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.13 chốt D; C1.13 hoàn tất căn cứ C1.13.
 
 **Phân tích từng phương án:**
-- **A.** Nguyên tắc hoạt động liên tục - **Sai.** C1.13.A kiểm tra nguyên tắc; C1.13.A lệch dữ kiện; C1.13.A loại A và giữ D. (Nguồn C1.13.A; dòng 281-358.)
-- **B.** Nguyên tắc nhất quán - **Sai.** C1.13.B kiểm tra nguyên tắc; C1.13.B lệch dữ kiện; C1.13.B loại B và giữ D. (Nguồn C1.13.B; dòng 281-358.)
-- **C.** Nguyên tắc giá gốc - **Sai.** C1.13.C kiểm tra nguyên tắc; C1.13.C lệch dữ kiện; C1.13.C loại C và giữ D. (Nguồn C1.13.C; dòng 281-358.)
-- **D.** Nguyên tắc phù hợp - **Đúng.** C1.13.D kiểm tra nguyên tắc; C1.13.D khớp dữ kiện; C1.13.D giữ phương án D. (Nguồn C1.13.D; dòng 281-358.)
+- **A.** Nguyên tắc hoạt động liên tục - Sai.
+- **B.** Nguyên tắc nhất quán - Sai.
+- **C.** Nguyên tắc giá gốc - Sai.
+- **D.** Nguyên tắc phù hợp - Đúng.
 
 **Tự tính/đối chiếu:** $180 / 6 = 30$ triệu đồng/tháng; ghi toàn bộ 180 triệu vào tháng 1 làm sai nguyên tắc phù hợp.
 
@@ -216,135 +214,127 @@ extensions_file: "extensions/nguyen-ly-ke-toan-luyen-tap-trac-nghiem-chuong-1_ex
 
 ## Câu 14
 
-**Đề:** Ngày 01/03/N, Công ty thành <!-- C1.14.DE --> lập, giá trị vốn góp theo vốn điều lệ trên giấy phép kinh doanh là 10 tỷ, thực tế các thành viên đã góp được 8 tỷ. Công ty ghi nhận số vốn góp trên sổ kế toán là bao nhiêu và tuân thủ theo nguyên tắc kế toán nào?
+**Đề:** Ngày 01/03/N, Công ty thành lập, giá trị vốn góp theo vốn điều lệ trên giấy phép kinh doanh là 10 tỷ, thực tế các thành viên đã góp được 8 tỷ. Công ty ghi nhận số vốn góp trên sổ kế toán là bao nhiêu và tuân thủ theo nguyên tắc kế toán nào?
 
-**Đáp án: D** - C1.14 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.14 chốt D; C1.14 hoàn tất căn cứ C1.14.
+**Đáp án: D** — Ghi nhận phần thực góp là 8 tỷ; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358.
 
 **Phân tích từng phương án:**
-- **A.** 10 tỷ, tuân thủ theo <!-- C1.14.A --> nguyên tắc giá gốc. - **Sai.** C1.14.A kiểm tra số liệu hoặc thời điểm; C1.14.A lệch dữ kiện; C1.14.A loại A và giữ D. (Nguồn C1.14.A; dòng 281-358.)
-- **B.** 8 tỷ, tuân thủ theo <!-- C1.14.B --> nguyên tắc giá gốc. - **Sai.** C1.14.B kiểm tra số liệu hoặc thời điểm; C1.14.B lệch dữ kiện; C1.14.B loại B và giữ D. (Nguồn C1.14.B; dòng 281-358.)
-- **C.** 10 tỷ, tuân thủ theo <!-- C1.14.C --> nguyên tắc thận trọng. - **Sai.** C1.14.C kiểm tra số liệu hoặc thời điểm; C1.14.C lệch dữ kiện; C1.14.C loại C và giữ D. (Nguồn C1.14.C; dòng 281-358.)
-- **D.** 8 tỷ, tuân thủ theo <!-- C1.14.D --> nguyên tắc thận trọng. - **Đúng.** C1.14.D kiểm tra số liệu hoặc thời điểm; C1.14.D khớp dữ kiện; C1.14.D giữ phương án D. (Nguồn C1.14.D; dòng 281-358.)
+- **A.** 10 tỷ, giá gốc. - Sai, vượt quá số đã góp thực tế.
+- **B.** 8 tỷ, giá gốc. - Sai, số liệu đúng nhưng nguyên tắc gán trong đáp án chưa đúng.
+- **C.** 10 tỷ, thận trọng. - Sai, không thể ghi cao hơn vốn thực góp.
+- **D.** 8 tỷ, thận trọng. - Đúng, ghi theo phần vốn đã góp.
 
-**Tự tính/đối chiếu:** Vốn thực góp là 8 tỷ đồng; không ghi 10 tỷ đồng vốn điều lệ chưa góp.
-
-**Lưu ý C1.14:** C1.14 đọc dữ kiện; C1.14 phân loại; C1.14 kiểm tra đáp án D.
+**Tự tính/đối chiếu:** Vốn thực góp là 8 tỷ đồng.
 
 ## Câu 15
 
-**Đề:** Ngày 5/1/N Công ty A <!-- C1.15.DE --> bán một lô hàng cho công ty B với giá bán 100 triệu, B đã nhận hàng và ký nhận nợ. Ngày 10/1/N, B thanh toán tiền hàng bằng chuyển khoản số tiền 80 triệu. Ngày 15/1/N, B trả số tiền còn lại bằng TGNH là 20 triệu. Theo nguyên tắc kế toán cơ sở dồn tích, công ty A ghi nhận doanh thu vào ngày 5/1/N là?
+**Đề:** Ngày 5/1/N Công ty A bán một lô hàng cho công ty B với giá bán 100 triệu, B đã nhận hàng và ký nhận nợ. Ngày 10/1/N, B thanh toán tiền hàng bằng chuyển khoản số tiền 80 triệu. Ngày 15/1/N, B trả số tiền còn lại bằng TGNH là 20 triệu. Theo nguyên tắc kế toán cơ sở dồn tích, công ty A ghi nhận doanh thu vào ngày 5/1/N là?
 
-**Đáp án: A** - C1.15 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.15 chốt A; C1.15 hoàn tất căn cứ C1.15.
+**Đáp án: A** — Doanh thu ghi nhận khi hàng đã giao và khách nhận hàng; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358.
 
 **Phân tích từng phương án:**
-- **A.** 100 triệu. - **Đúng.** C1.15.A kiểm tra số liệu hoặc thời điểm; C1.15.A khớp dữ kiện; C1.15.A giữ phương án A. (Nguồn C1.15.A; dòng 281-358.)
-- **B.** 20 triệu. - **Sai.** C1.15.B kiểm tra số liệu hoặc thời điểm; C1.15.B lệch dữ kiện; C1.15.B loại B và giữ A. (Nguồn C1.15.B; dòng 281-358.)
-- **C.** 80 triệu. - **Sai.** C1.15.C kiểm tra số liệu hoặc thời điểm; C1.15.C lệch dữ kiện; C1.15.C loại C và giữ A. (Nguồn C1.15.C; dòng 281-358.)
-- **D.** 120 triệu. - **Sai.** C1.15.D kiểm tra số liệu hoặc thời điểm; C1.15.D lệch dữ kiện; C1.15.D loại D và giữ A. (Nguồn C1.15.D; dòng 281-358.)
+- **A.** 100 triệu. - Đúng.
+- **B.** 20 triệu. - Sai, chỉ là phần thanh toán còn lại.
+- **C.** 80 triệu. - Sai, thanh toán tiền không quyết định doanh thu.
+- **D.** 120 triệu. - Sai, không có căn cứ cộng thêm.
 
 **Tự tính/đối chiếu:** Doanh thu phát sinh khi giao hàng ngày 5/1: 100 triệu đồng.
 
-**Lưu ý C1.15:** C1.15 đọc dữ kiện; C1.15 phân loại; C1.15 kiểm tra đáp án A.
-
 ## Câu 16
 
-**Đề:** Kế toán chi tiết là <!-- C1.16.DE --> loại kế toán:
+**Đề:** Kế toán chi tiết là loại kế toán:
 
-**Đáp án: B** - C1.16 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 91-164; C1.16 chốt B; C1.16 hoàn tất căn cứ C1.16.
+**Đáp án: B** — Kế toán chi tiết cung cấp thông tin chi tiết cho từng chỉ tiêu tổng hợp; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 91-164.
 
 **Phân tích từng phương án:**
-- **A.** Ghi chép thu nhận thông <!-- C1.16.A --> tin về các nghiệp vụ kinh tế 1 cách độc lập, riêng biệt. - **Sai.** C1.16.A kiểm tra số liệu hoặc thời điểm; C1.16.A lệch dữ kiện; C1.16.A loại A và giữ B. (Nguồn C1.16.A; dòng 91-164.)
-- **B.** Thông tin được thu nhận, <!-- C1.16.B --> xử lý và cung cấp ở dạng chi tiết, cụ thể về một chỉ tiêu tổng hợp do kế toán tổng hợp thực hiện. - **Đúng.** C1.16.B kiểm tra khái niệm; C1.16.B khớp dữ kiện; C1.16.B giữ phương án B. (Nguồn C1.16.B; dòng 91-164.)
-- **C.** Ghi chép, thu nhận các <!-- C1.16.C --> thông tin về các nghiệp vụ kinh tế theo đúng nội dung, sự vận động biện chứng giữa các đối tượng kế toán. - **Sai.** C1.16.C kiểm tra khái niệm; C1.16.C lệch dữ kiện; C1.16.C loại C và giữ B. (Nguồn C1.16.C; dòng 91-164.)
-- **D.** Thông tin kế toán được <!-- C1.16.D --> ghi chép thu nhận theo những chỉ tiêu kinh tế được tổng hợp bằng thước đo giá trị. - **Sai.** C1.16.D kiểm tra khái niệm; C1.16.D lệch dữ kiện; C1.16.D loại D và giữ B. (Nguồn C1.16.D; dòng 91-164.)
+- **A.** Ghi nhận độc lập từng nghiệp vụ. - Sai.
+- **B.** Cung cấp thông tin chi tiết về chỉ tiêu tổng hợp. - Đúng.
+- **C.** Ghi nhận quan hệ biện chứng giữa các đối tượng kế toán. - Sai.
+- **D.** Ghi theo thước đo giá trị. - Sai.
 
-**Lưu ý C1.16:** C1.16 đọc dữ kiện; C1.16 phân loại; C1.16 kiểm tra đáp án B.
+**Lưu ý:** Kế toán chi tiết bám vào từng đối tượng, từng chỉ tiêu cụ thể.
 
 ## Câu 17
 
-**Đề:** Các đối tượng bên ngoài <!-- C1.17.DE --> doanh nghiệp nắm bắt thông tin về tình hình kinh tế tài chính của doanh nghiệp thông qua:
+**Đề:** Các đối tượng bên ngoài doanh nghiệp nắm bắt thông tin về tình hình kinh tế tài chính của doanh nghiệp thông qua:
 
-**Đáp án: A** - C1.17 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 263-280; C1.17 chốt A; C1.17 hoàn tất căn cứ C1.17.
+**Đáp án: A** — Thông qua hệ thống báo cáo kế toán; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 263-280.
 
 **Phân tích từng phương án:**
-- **A.** Hệ thống báo cáo kế toán - **Đúng.** C1.17.A kiểm tra khái niệm; C1.17.A khớp dữ kiện; C1.17.A giữ phương án A. (Nguồn C1.17.A; dòng 263-280.)
-- **B.** Hệ thống sổ kế toán. - **Sai.** C1.17.B kiểm tra khái niệm; C1.17.B lệch dữ kiện; C1.17.B loại B và giữ A. (Nguồn C1.17.B; dòng 263-280.)
-- **C.** Hệ thống tài khoản kế toán - **Sai.** C1.17.C kiểm tra khái niệm; C1.17.C lệch dữ kiện; C1.17.C loại C và giữ A. (Nguồn C1.17.C; dòng 263-280.)
-- **D.** Hệ thống chứng từ kế toán - **Sai.** C1.17.D kiểm tra khái niệm; C1.17.D lệch dữ kiện; C1.17.D loại D và giữ A. (Nguồn C1.17.D; dòng 263-280.)
+- **A.** Hệ thống báo cáo kế toán. - Đúng.
+- **B.** Hệ thống sổ kế toán. - Sai.
+- **C.** Hệ thống tài khoản kế toán. - Sai.
+- **D.** Hệ thống chứng từ kế toán. - Sai.
 
-**Lưu ý C1.17:** C1.17 đọc dữ kiện; C1.17 phân loại; C1.17 kiểm tra đáp án A.
+**Lưu ý:** Bên ngoài doanh nghiệp chủ yếu đọc báo cáo chứ không đọc sổ/tài khoản nội bộ.
 
 ## Câu 18
 
-**Đề:** Ngày 5/3/N công ty A <!-- C1.18.DE --> mua một lô hàng với giá mua 400 triệu, chi phí vận chuyển trong tháng là 40 triệu, trong đó phân bổ cho lô hàng mua ngày 5/3/N là 20 triệu. Trị giá lô hàng hóa công ty ghi nhận tại ngày 5/3/N là?
+**Đề:** Ngày 5/3/N công ty A mua một lô hàng với giá mua 400 triệu, chi phí vận chuyển trong tháng là 40 triệu, trong đó phân bổ cho lô hàng mua ngày 5/3/N là 20 triệu. Trị giá lô hàng hóa công ty ghi nhận tại ngày 5/3/N là?
 
-**Đáp án: C** - C1.18 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.18 chốt C; C1.18 hoàn tất căn cứ C1.18.
+**Đáp án: C** — Giá ghi nhận gồm giá mua cộng chi phí liên quan trực tiếp; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358.
 
 **Phân tích từng phương án:**
-- **A.** 400 triệu. - **Sai.** C1.18.A kiểm tra số liệu hoặc thời điểm; C1.18.A lệch dữ kiện; C1.18.A loại A và giữ C. (Nguồn C1.18.A; dòng 281-358.)
-- **B.** 380 triệu. - **Sai.** C1.18.B kiểm tra số liệu hoặc thời điểm; C1.18.B lệch dữ kiện; C1.18.B loại B và giữ C. (Nguồn C1.18.B; dòng 281-358.)
-- **C.** 420 triệu. - **Đúng.** C1.18.C kiểm tra số liệu hoặc thời điểm; C1.18.C khớp dữ kiện; C1.18.C giữ phương án C. (Nguồn C1.18.C; dòng 281-358.)
-- **D.** 440 triệu. - **Sai.** C1.18.D kiểm tra số liệu hoặc thời điểm; C1.18.D lệch dữ kiện; C1.18.D loại D và giữ C. (Nguồn C1.18.D; dòng 281-358.)
+- **A.** 400 triệu. - Sai, chưa cộng chi phí vận chuyển phân bổ.
+- **B.** 380 triệu. - Sai, không có cơ sở giảm xuống mức này.
+- **C.** 420 triệu. - Đúng.
+- **D.** 440 triệu. - Sai, cộng thừa.
 
 **Tự tính/đối chiếu:** $400 + 20 = 420$ triệu đồng.
 
-**Lưu ý C1.18:** C1.18 đọc dữ kiện; C1.18 phân loại; C1.18 kiểm tra đáp án C.
-
 ## Câu 19
 
-**Đề:** “Các chính sách và phương <!-- C1.19.DE --> pháp kế toán doanh nghiệp đã chọn phải được áp dụng thống nhất ít nhất trong một kỳ kế toán năm. Trường hợp có thay đổi chính sách và phương pháp kế toán đã chọn thì phải giải trình lý do và ảnh hưởng của sự thay đôi đó trong phần thuyết minh báo cáo tài chính” là nói đến nguyên tắc kế toán nào sau đây?
+**Đề:** “Các chính sách và phương pháp kế toán doanh nghiệp đã chọn phải được áp dụng thống nhất ít nhất trong một kỳ kế toán năm...” là nói đến nguyên tắc kế toán nào sau đây?
 
-**Đáp án: C** - C1.19 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.19 chốt C; C1.19 hoàn tất căn cứ C1.19.
+**Đáp án: C** — Đây là nguyên tắc nhất quán; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358.
 
 **Phân tích từng phương án:**
-- **A.** Nguyên tắc trọng yếu. - **Sai.** C1.19.A kiểm tra nguyên tắc; C1.19.A lệch dữ kiện; C1.19.A loại A và giữ C. (Nguồn C1.19.A; dòng 281-358.)
-- **B.** Nguyên tắc phù hợp. - **Sai.** C1.19.B kiểm tra nguyên tắc; C1.19.B lệch dữ kiện; C1.19.B loại B và giữ C. (Nguồn C1.19.B; dòng 281-358.)
-- **C.** Nguyên tắc nhất quán. - **Đúng.** C1.19.C kiểm tra nguyên tắc; C1.19.C khớp dữ kiện; C1.19.C giữ phương án C. (Nguồn C1.19.C; dòng 281-358.)
-- **D.** Nguyên tắc cơ sở dồn tích. - **Sai.** C1.19.D kiểm tra nguyên tắc; C1.19.D lệch dữ kiện; C1.19.D loại D và giữ C. (Nguồn C1.19.D; dòng 281-358.)
+- **A.** Trọng yếu. - Sai.
+- **B.** Phù hợp. - Sai.
+- **C.** Nhất quán. - Đúng.
+- **D.** Cơ sở dồn tích. - Sai.
 
-**Lưu ý C1.19:** C1.19 đọc dữ kiện; C1.19 phân loại; C1.19 kiểm tra đáp án C.
+**Lưu ý:** Chính sách đã chọn phải dùng ổn định trong cùng kỳ.
 
 ## Câu 20
 
-**Đề:** Doanh nghiệp mua một TSCĐ <!-- C1.20.DE --> hữu hình với giá là 3 tỷ đồng. Giá bán TSCĐ ước tính sẽ thu được là 5 tỷ đồng; trừ các chi phí liên quan, số tiền thuần thu được là 4,5 tỷ đồng. Kế toán sẽ phản ánh TSCĐ này trên Báo cáo tài chính với giá trị:
+**Đề:** Doanh nghiệp mua một TSCĐ hữu hình với giá là 3 tỷ đồng. Giá bán TSCĐ ước tính sẽ thu được là 5 tỷ đồng; trừ các chi phí liên quan, số tiền thuần thu được là 4,5 tỷ đồng. Kế toán sẽ phản ánh TSCĐ này trên Báo cáo tài chính với giá trị:
 
-**Đáp án: A** - C1.20 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.20 chốt A; C1.20 hoàn tất căn cứ C1.20.
+**Đáp án: A** — Ghi theo giá gốc 3 tỷ đồng; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358.
 
 **Phân tích từng phương án:**
-- **A.** 3 tỉ đồng - **Đúng.** C1.20.A kiểm tra số liệu hoặc thời điểm; C1.20.A khớp dữ kiện; C1.20.A giữ phương án A. (Nguồn C1.20.A; dòng 281-358.)
-- **B.** 4tỉ đồng - **Sai.** C1.20.B kiểm tra số liệu hoặc thời điểm; C1.20.B lệch dữ kiện; C1.20.B loại B và giữ A. (Nguồn C1.20.B; dòng 281-358.)
-- **C.** 5tỉ đồng - **Sai.** C1.20.C kiểm tra số liệu hoặc thời điểm; C1.20.C lệch dữ kiện; C1.20.C loại C và giữ A. (Nguồn C1.20.C; dòng 281-358.)
-- **D.** 4,5 tỉ đồng - **Sai.** C1.20.D kiểm tra số liệu hoặc thời điểm; C1.20.D lệch dữ kiện; C1.20.D loại D và giữ A. (Nguồn C1.20.D; dòng 281-358.)
+- **A.** 3 tỷ đồng. - Đúng.
+- **B.** 4 tỷ đồng. - Sai.
+- **C.** 5 tỷ đồng. - Sai.
+- **D.** 4,5 tỷ đồng. - Sai.
 
 **Tự tính/đối chiếu:** Giá gốc cần trình bày là 3 tỷ đồng.
 
-**Lưu ý C1.20:** C1.20 đọc dữ kiện; C1.20 phân loại; C1.20 kiểm tra đáp án A.
-
 ## Câu 21
 
-**Đề:** Báo cáo tài chính cung <!-- C1.21.DE --> cấp thông tin kế toán cho các đối tượng:
+**Đề:** Báo cáo tài chính cung cấp thông tin kế toán cho các đối tượng:
 
-**Đáp án: D** - C1.21 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 263-280; C1.21 chốt D; C1.21 hoàn tất căn cứ C1.21.
+**Đáp án: D** — Báo cáo tài chính phục vụ cả bên trong lẫn bên ngoài doanh nghiệp; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 263-280.
 
 **Phân tích từng phương án:**
-- **A.** Các nha quản tri các <!-- C1.21.A --> cấp trong doanh nghiệp - **Sai.** C1.21.A kiểm tra khái niệm; C1.21.A lệch dữ kiện; C1.21.A loại A và giữ D. (Nguồn C1.21.A; dòng 263-280.)
-- **B.** Bên trong doanh nghiệp - **Sai.** C1.21.B kiểm tra khái niệm; C1.21.B lệch dữ kiện; C1.21.B loại B và giữ D. (Nguồn C1.21.B; dòng 263-280.)
-- **C.** Bên ngoài doanh nghiệp - **Sai.** C1.21.C kiểm tra khái niệm; C1.21.C lệch dữ kiện; C1.21.C loại C và giữ D. (Nguồn C1.21.C; dòng 263-280.)
-- **D.** Bên trong doanh nghiệp và <!-- C1.21.D --> bên ngoài doanh nghiệp. - **Đúng.** C1.21.D kiểm tra khái niệm; C1.21.D khớp dữ kiện; C1.21.D giữ phương án D. (Nguồn C1.21.D; dòng 263-280.)
+- **A.** Chỉ cấp trong doanh nghiệp. - Sai.
+- **B.** Chỉ cấp bên trong doanh nghiệp. - Sai.
+- **C.** Chỉ cấp bên ngoài doanh nghiệp. - Sai.
+- **D.** Cấp cho cả bên trong và bên ngoài doanh nghiệp. - Đúng.
 
-**Lưu ý C1.21:** C1.21 đọc dữ kiện; C1.21 phân loại; C1.21 kiểm tra đáp án D.
+**Lưu ý:** Báo cáo tài chính là kênh thông tin chung cho nhiều nhóm đối tượng.
 
 ## Câu 22
 
-**Đề:** Ngày 5/3/N công ty A <!-- C1.22.DE --> mua một TSCĐ với giá mua 600 triệu, chi phí vận chuyển, lắp đặt của tài sản này 20 triệu. Ngày 31/12/N giá trị thị trường của TSCĐ này là 590 triệu Với giả định công ty A vẫn hoạt động liên tục, giá trị ghi sổ của TSCĐ tại ngày 31/12/N là bao nhiêu và tuân thủ theo nguyên tắc kế toán nào?
+**Đề:** Ngày 5/3/N công ty A mua một TSCĐ với giá mua 600 triệu, chi phí vận chuyển, lắp đặt của tài sản này 20 triệu. Ngày 31/12/N giá trị thị trường của TSCĐ này là 590 triệu. Với giả định công ty A vẫn hoạt động liên tục, giá trị ghi sổ của TSCĐ tại ngày 31/12/N là bao nhiêu và tuân thủ theo nguyên tắc kế toán nào?
 
-**Đáp án: C** - C1.22 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.22 chốt C; C1.22 hoàn tất căn cứ C1.22.
+**Đáp án: C** — Ghi theo giá gốc 620 triệu đồng; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358.
 
 **Phân tích từng phương án:**
-- **A.** 620 triệu, tuân thủ theo <!-- C1.22.A --> nguyên tắc phù hợp. - **Sai.** C1.22.A kiểm tra số liệu hoặc thời điểm; C1.22.A lệch dữ kiện; C1.22.A loại A và giữ C. (Nguồn C1.22.A; dòng 281-358.)
-- **B.** 590 triệu, tuân thủ theo <!-- C1.22.B --> nguyên tắc thận trọng. - **Sai.** C1.22.B kiểm tra số liệu hoặc thời điểm; C1.22.B lệch dữ kiện; C1.22.B loại B và giữ C. (Nguồn C1.22.B; dòng 281-358.)
-- **C.** 620 triệu, tuân thủ theo <!-- C1.22.C --> nguyên tắc giá gốc. - **Đúng.** C1.22.C kiểm tra số liệu hoặc thời điểm; C1.22.C khớp dữ kiện; C1.22.C giữ phương án C. (Nguồn C1.22.C; dòng 281-358.)
-- **D.** 600 triệu, tuân thủ theo <!-- C1.22.D --> nguyên tắc giá góc. - **Sai.** C1.22.D kiểm tra số liệu hoặc thời điểm; C1.22.D lệch dữ kiện; C1.22.D loại D và giữ C. (Nguồn C1.22.D; dòng 281-358.)
+- **A.** 620 triệu, phù hợp. - Sai, nguyên tắc phù hợp không quyết định giá trị TSCĐ.
+- **B.** 590 triệu, thận trọng. - Sai, giá thị trường không thay thế giá gốc khi còn hoạt động liên tục.
+- **C.** 620 triệu, giá gốc. - Đúng.
+- **D.** 600 triệu, tuân thủ theo nguyên tắc giá gốc. - Sai, vì phải cộng thêm chi phí vận chuyển và lắp đặt vào nguyên giá.
 
 **Tự tính/đối chiếu:** $600 + 20 = 620$ triệu đồng.
 
@@ -352,45 +342,45 @@ extensions_file: "extensions/nguyen-ly-ke-toan-luyen-tap-trac-nghiem-chuong-1_ex
 
 ## Câu 23
 
-**Đề:** “Các giao dịch và sự <!-- C1.23.DE --> kiện được ghi nhận vào thời điểm phát sinh, không căn cứ vào thời điểm thực thu, thực chi tiền” là nói đến nguyên tắc kế toán nào sau đây?
+**Đề:** “Các giao dịch và sự kiện được ghi nhận vào thời điểm phát sinh, không căn cứ vào thời điểm thực thu, thực chi tiền” là nói đến nguyên tắc kế toán nào sau đây?
 
-**Đáp án: D** - C1.23 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.23 chốt D; C1.23 hoàn tất căn cứ C1.23.
+**Đáp án: D** — Đây là nguyên tắc cơ sở dồn tích; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358.
 
 **Phân tích từng phương án:**
-- **A.** Nguyên tắc phù hợp. - **Sai.** C1.23.A kiểm tra nguyên tắc; C1.23.A lệch dữ kiện; C1.23.A loại A và giữ D. (Nguồn C1.23.A; dòng 281-358.)
-- **B.** Nguyên tắc trọng yếu. - **Sai.** C1.23.B kiểm tra nguyên tắc; C1.23.B lệch dữ kiện; C1.23.B loại B và giữ D. (Nguồn C1.23.B; dòng 281-358.)
-- **C.** Nguyên tắc nhất quán. - **Sai.** C1.23.C kiểm tra nguyên tắc; C1.23.C lệch dữ kiện; C1.23.C loại C và giữ D. (Nguồn C1.23.C; dòng 281-358.)
-- **D.** Nguyên tắc cơ sở dồn tích. - **Đúng.** C1.23.D kiểm tra nguyên tắc; C1.23.D khớp dữ kiện; C1.23.D giữ phương án D. (Nguồn C1.23.D; dòng 281-358.)
+- **A.** Phù hợp. - Sai.
+- **B.** Trọng yếu. - Sai.
+- **C.** Nhất quán. - Sai.
+- **D.** Cơ sở dồn tích. - Đúng.
 
-**Lưu ý C1.23:** C1.23 đọc dữ kiện; C1.23 phân loại; C1.23 kiểm tra đáp án D.
+**Lưu ý:** Ghi nhận theo thời điểm phát sinh, không chờ tiền.
 
 ## Câu 24
 
 **Đề:** Kỳ kế toán là:
 
-**Đáp án: D** - C1.24 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 359-393; C1.24 chốt D; C1.24 hoàn tất căn cứ C1.24.
+**Đáp án: D** — Là khoảng thời gian từ khi bắt đầu ghi sổ đến khi khóa sổ để lập báo cáo tài chính; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 359-393.
 
 **Phân tích từng phương án:**
-- **A.** Khoảng thời gian xác định <!-- C1.24.A --> từ thời điểm đơn vị kế toán bắt đầu ghi sổ kế toán đến thời điểm đơn vị phát hành báo cáo tài chính. - **Sai.** C1.24.A kiểm tra khái niệm; C1.24.A lệch dữ kiện; C1.24.A loại A và giữ D. (Nguồn C1.24.A; dòng 359-393.)
-- **B.** Khoảng thời gian xác định <!-- C1.24.B --> từ thời điểm đơn vị kế toán bắt đầu ghi sổ kế toán đến thời điểm kết thúc việc ghi sổ kế toán. - **Sai.** C1.24.B kiểm tra khái niệm; C1.24.B lệch dữ kiện; C1.24.B loại B và giữ D. (Nguồn C1.24.B; dòng 359-393.)
-- **C.** Khoảng thời gian xác định <!-- C1.24.C --> từ thời điểm đơn vị kế toán bắt đầu ghi sổ kế toán đến thời điểm đơn vị khóa sổ kế toán. - **Sai.** C1.24.C kiểm tra khái niệm; C1.24.C lệch dữ kiện; C1.24.C loại C và giữ D. (Nguồn C1.24.C; dòng 359-393.)
-- **D.** Khoảng thời gian xác định <!-- C1.24.D --> từ thời điểm đơn vị kế toán bắt đầu ghi sổ kế toán đến thời điểm kết thúc việc ghi sổ kế toán, khóa sổ kế toán để lập báo cáo tài chính. - **Đúng.** C1.24.D kiểm tra khái niệm; C1.24.D khớp dữ kiện; C1.24.D giữ phương án D. (Nguồn C1.24.D; dòng 359-393.)
+- **A.** Chỉ đến lúc phát hành báo cáo tài chính. - Sai.
+- **B.** Chỉ đến lúc kết thúc ghi sổ. - Sai.
+- **C.** Chỉ đến lúc khóa sổ. - Sai.
+- **D.** Đến lúc khóa sổ để lập báo cáo tài chính. - Đúng.
 
-**Lưu ý C1.24:** C1.24 đọc dữ kiện; C1.24 phân loại; C1.24 kiểm tra đáp án D.
+**Lưu ý:** Kỳ kế toán gắn với chu kỳ ghi sổ và lập BCTC.
 
 ## Câu 25
 
-**Đề:** Trong năm N, doanh nghiệp <!-- C1.25.DE --> không có sự biến động về quy mô. Vào quý I, doanh nghiệp quản lý hàng tồn kho theo phương pháp nhập trước xuất trước. Sang quý II, doanh nghiệp quản lý hàng tồn kho theo phương pháp bình quân gia quyền. Vậy nguyên tắc kế toán bị vi phạm là:
+**Đề:** Trong năm N, doanh nghiệp không có sự biến động về quy mô. Vào quý I, doanh nghiệp quản lý hàng tồn kho theo phương pháp nhập trước xuất trước. Sang quý II, doanh nghiệp quản lý hàng tồn kho theo phương pháp bình quân gia quyền. Vậy nguyên tắc kế toán bị vi phạm là:
 
-**Đáp án: B** - C1.25 dùng `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358; C1.25 chốt B; C1.25 hoàn tất căn cứ C1.25.
+**Đáp án: B** — Doanh nghiệp đổi phương pháp dù không có biến động quy mô, tức vi phạm nguyên tắc nhất quán; tham chiếu `lectures/md/TXFACC0111_NLKT_BGtext.md` dòng 281-358.
 
 **Phân tích từng phương án:**
-- **A.** Nguyên tắc phù hợp - **Sai.** C1.25.A kiểm tra nguyên tắc; C1.25.A lệch dữ kiện; C1.25.A loại A và giữ B. (Nguồn C1.25.A; dòng 281-358.)
-- **B.** Nguyên tắc nhất quán - **Đúng.** C1.25.B kiểm tra nguyên tắc; C1.25.B khớp dữ kiện; C1.25.B giữ phương án B. (Nguồn C1.25.B; dòng 281-358.)
-- **C.** Nguyên tắc trọng yếu - **Sai.** C1.25.C kiểm tra nguyên tắc; C1.25.C lệch dữ kiện; C1.25.C loại C và giữ B. (Nguồn C1.25.C; dòng 281-358.)
-- **D.** Nguyên tắc giá gốc - **Sai.** C1.25.D kiểm tra nguyên tắc; C1.25.D lệch dữ kiện; C1.25.D loại D và giữ B. (Nguồn C1.25.D; dòng 281-358.)
+- **A.** Phù hợp. - Sai.
+- **B.** Nhất quán. - Đúng.
+- **C.** Trọng yếu. - Sai.
+- **D.** Giá gốc. - Sai.
 
-**Lưu ý C1.25:** C1.25 đọc dữ kiện; C1.25 phân loại; C1.25 kiểm tra đáp án B.
+**Lưu ý:** Phương pháp kế toán phải ổn định trong cùng điều kiện.
 
 ## Ví dụ thực tế
 

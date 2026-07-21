@@ -72,6 +72,14 @@
     2. `Nguyên lý thống kê`: chạy review độc lập cho 6 chương; ưu tiên Ch4 vì đang bị flag boilerplate.
     3. `Văn hóa kinh doanh`: review 5 file solution hiện có, sau đó cleanup boilerplate toàn bộ.
     4. `Quản trị nhân lực căn bản`: rút gọn/cắt boilerplate trong 7 file solution, rồi review lại nếu sửa đáng kể.
+    5. Sprint 15 phút ngày 2026-07-20: đã cleanup phần mở đầu của `Nguyên lý kế toán` Ch1 (câu 1-5) và chuẩn hóa 3 câu vải của `Nguyên lý thống kê` Ch4 (câu 13, 24, 28).
+    6. Sprint tiếp theo ngày 2026-07-21: đã cleanup tiếp `Nguyên lý kế toán` Ch1 (câu 6-22), rút gọn diễn đạt và giữ nguyên đáp án.
+    7. Sprint cùng ngày: đã cleanup nốt `Nguyên lý kế toán` Ch1 (câu 23-25) để file khép lại đồng nhất hơn.
+  8. Sprint ngày 2026-07-21: đã tạo review `Nguyên lý kế toán` Ch1 (PASS) và review `Nguyên lý thống kê` Ch4 (REVISE), làm rõ chỗ còn boilerplate/thiếu lập luận.
+  9. Sprint cùng ngày: đã dọn comment nội bộ còn sót ở `Nguyên lý kế toán` Ch1 (câu 11-13) để file sạch hơn.
+  10. Sprint cùng ngày: đã tạo review `Văn hóa kinh doanh` Ch1 (REVISE) để chốt nợ review đầu tiên của môn này.
+  11. Sprint ngày 2026-07-21: đã rút gọn review `Nguyên lý thống kê` Ch4 và cleanup lời giải Ch4 ở các câu mở đầu + bộ câu vải loại 1; audit hiện chỉ còn 5 file `draft solution without review` trong môn này.
+  12. Sprint ngày 2026-07-21: đã rút gọn review `Văn hóa kinh doanh` Ch1 để bớt mẫu hóa và tập trung vào các câu cần viết lại theo bản chất.
   - **File liên quan**:
     - `subjects/Kinh tế thương mại đại cương/`
     - `subjects/Nguyên lý kế toán/`

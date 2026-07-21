@@ -24,17 +24,9 @@ C1: **C** | C2: **B** | C3: **C** | C4: **A** | C5: **D** | C6: **A** | C7: **B*
 
 **Đáp án: C**
 
-**Mốc phân biệt 1-58:** Đối chiếu riêng phương án của câu 1.
-
-**Phân tích từng phương án:**
-- **A.** Câu 1 loại A; nhánh 1-A không thỏa điều kiện đề.
-- **B.** Câu 1 loại B; nhánh 1-B không thỏa điều kiện đề.
-- **C.** Câu 1 chọn C; xem chứng cứ riêng tại dẫn chiếu 1-C.
-- **D.** Câu 1 loại D; nhánh 1-D không thỏa điều kiện đề.
+**Phân tích:** Chỉ tiêu biến động tuyệt đối là phần chênh lệch bằng đơn vị hiện vật/giá trị, nên phương án C đúng vì nêu mức tăng thêm 200 triệu đồng. Các phương án A, B, D đều là tỷ lệ % nên phản ánh biến động tương đối.
 
 **Dẫn chiếu:** lectures/md/TXANST0211_NLTK_Baigiangtext.md dòng 3128.
-
-**Lưu ý câu 1:** Đọc kỹ từ khóa câu 1.
 
 ## Câu 2
 
@@ -47,21 +39,20 @@ C1: **C** | C2: **B** | C3: **C** | C4: **A** | C5: **D** | C6: **A** | C7: **B*
 
 **Đáp án: B**
 
-**Mốc phân biệt 2-58:** Đối chiếu riêng phương án của câu 2.
-
-**Phân tích từng phương án:**
-- **A.** Câu 2 loại A; nhánh 2-A không thỏa điều kiện đề.
-- **B.** Câu 2 chọn B; xem chứng cứ riêng tại dẫn chiếu 2-B.
-- **C.** Câu 2 loại C; nhánh 2-C không thỏa điều kiện đề.
-- **D.** Câu 2 loại D; nhánh 2-D không thỏa điều kiện đề.
+**Phân tích:** Số tương đối so sánh dùng để đối chiếu hiện tượng giữa các không gian hay bộ phận khác nhau, nên B đúng. Các phương án còn lại lần lượt là chỉ tiêu động thái hoặc độ biến thiên, không đúng trục so sánh của đề.
 
 **Dẫn chiếu:** lectures/md/TXANST0211_NLTK_Baigiangtext.md dòng 1674.
 
-**Lưu ý câu 2:** Đọc kỹ từ khóa câu 2.
-
 ## Câu 3
 
-**Đề:** Có số liệu về sản phẩm loại I của một doanh nghiệp như sau: | Phân xưởng | Số lượng sản phẩm loại I (Chiếc) | Tỷ lệ sản phẩm loại 1 trong tổng số sản phẩm sản xuất (%) | |---|---|---| | A | 14.700 | 98 | B 38.400 96 Tính tỷ lệ sản phẩm loại I trong toàn doanh nghiệp.
+**Đề:** Có số liệu về sản phẩm loại I của một doanh nghiệp như sau:
+
+| Phân xưởng | Số lượng sản phẩm loại I (chiếc) | Tỷ lệ sản phẩm loại I trong tổng số sản phẩm sản xuất (%) |
+|---|---:|---:|
+| A | 14.700 | 98 |
+| B | 38.400 | 96 |
+
+Tính tỷ lệ sản phẩm loại I trong toàn doanh nghiệp.
 
 - **A.** 97,18%.
 - **B.** 93,9%
@@ -70,17 +61,9 @@ C1: **C** | C2: **B** | C3: **C** | C4: **A** | C5: **D** | C6: **A** | C7: **B*
 
 **Đáp án: C**
 
-**Mốc phân biệt 3-58:** Đối chiếu riêng phương án của câu 3.
-
-**Phân tích từng phương án:**
-- **A.** Câu 3 loại A; nhánh 3-A không thỏa điều kiện đề.
-- **B.** Câu 3 loại B; nhánh 3-B không thỏa điều kiện đề.
-- **C.** Câu 3 chọn C; xem chứng cứ riêng tại dẫn chiếu 3-C.
-- **D.** Câu 3 loại D; nhánh 3-D không thỏa điều kiện đề.
+**Phân tích:** Ta quy đổi tổng số sản phẩm loại I của hai phân xưởng rồi chia cho tổng sản lượng toàn doanh nghiệp. Kết quả gộp cho tỷ lệ chung là 96,55%, nên C đúng.
 
 **Dẫn chiếu:** lectures/md/TXANST0211_NLTK_Baigiangtext.md dòng 1626.
-
-**Lưu ý câu 3:** Đọc kỹ từ khóa câu 3.
 
 ## Câu 4
 
@@ -93,17 +76,9 @@ C1: **C** | C2: **B** | C3: **C** | C4: **A** | C5: **D** | C6: **A** | C7: **B*
 
 **Đáp án: A**
 
-**Mốc phân biệt 4-58:** Đối chiếu riêng phương án của câu 4.
-
-**Phân tích từng phương án:**
-- **A.** Câu 4 chọn A; xem chứng cứ riêng tại dẫn chiếu 4-A.
-- **B.** Câu 4 loại B; nhánh 4-B không thỏa điều kiện đề.
-- **C.** Câu 4 loại C; nhánh 4-C không thỏa điều kiện đề.
-- **D.** Câu 4 loại D; nhánh 4-D không thỏa điều kiện đề.
+**Phân tích:** Số trung bình phản ánh mức độ đại diện của tổng thể chứ không phản ánh độ đồng đều. Vì vậy A là phương án sai cần chọn.
 
 **Dẫn chiếu:** lectures/md/TXANST0211_NLTK_Baigiangtext.md dòng 1948.
-
-**Lưu ý câu 4:** Đọc kỹ từ khóa câu 4.
 
 ## Câu 5
 
@@ -116,17 +91,9 @@ C1: **C** | C2: **B** | C3: **C** | C4: **A** | C5: **D** | C6: **A** | C7: **B*
 
 **Đáp án: D**
 
-**Mốc phân biệt 5-58:** Đối chiếu riêng phương án của câu 5.
-
-**Phân tích từng phương án:**
-- **A.** Câu 5 loại A; nhánh 5-A không thỏa điều kiện đề.
-- **B.** Câu 5 loại B; nhánh 5-B không thỏa điều kiện đề.
-- **C.** Câu 5 loại C; nhánh 5-C không thỏa điều kiện đề.
-- **D.** Câu 5 chọn D; xem chứng cứ riêng tại dẫn chiếu 5-D.
+**Phân tích:** Công thức trong hình là công thức tính số trung bình cho trường hợp các lượng biến khác nhau, nên chọn D. Hai phương án A và B chỉ đúng khi các tần số hoặc tần suất bằng nhau, còn C không khớp bản chất công thức.
 
 **Dẫn chiếu:** lectures/md/TXANST0211_NLTK_Baigiangtext.md dòng 2117.
-
-**Lưu ý câu 5:** Đọc kỹ từ khóa câu 5.
 
 ## Câu 6
 
@@ -139,17 +106,9 @@ C1: **C** | C2: **B** | C3: **C** | C4: **A** | C5: **D** | C6: **A** | C7: **B*
 
 **Đáp án: A**
 
-**Mốc phân biệt 6-58:** Đối chiếu riêng phương án của câu 6.
-
-**Phân tích từng phương án:**
-- **A.** Câu 6 chọn A; xem chứng cứ riêng tại dẫn chiếu 6-A.
-- **B.** Câu 6 loại B; nhánh 6-B không thỏa điều kiện đề.
-- **C.** Câu 6 loại C; nhánh 6-C không thỏa điều kiện đề.
-- **D.** Câu 6 loại D; nhánh 6-D không thỏa điều kiện đề.
+**Phân tích:** Mốt chỉ là giá trị xuất hiện nhiều nhất nên không mang các đặc điểm như "chỉ tính với tổng thể ít đơn vị". A là đáp án sai cần loại; các phương án còn lại đều mô tả đúng hơn về mốt.
 
 **Dẫn chiếu:** lectures/md/TXANST0211_NLTK_Baigiangtext.md dòng 1624.
-
-**Lưu ý câu 6:** Đọc kỹ từ khóa câu 6.
 
 ## Câu 7
 
@@ -162,17 +121,9 @@ C1: **C** | C2: **B** | C3: **C** | C4: **A** | C5: **D** | C6: **A** | C7: **B*
 
 **Đáp án: B**
 
-**Mốc phân biệt 7-58:** Đối chiếu riêng phương án của câu 7.
-
-**Phân tích từng phương án:**
-- **A.** Câu 7 loại A; nhánh 7-A không thỏa điều kiện đề.
-- **B.** Câu 7 chọn B; xem chứng cứ riêng tại dẫn chiếu 7-B.
-- **C.** Câu 7 loại C; nhánh 7-C không thỏa điều kiện đề.
-- **D.** Câu 7 loại D; nhánh 7-D không thỏa điều kiện đề.
+**Phân tích:** Khi so sánh độ biến thiên giữa hai tiêu thức khác đơn vị đo, dùng hệ số biến thiên vì nó chuẩn hóa theo giá trị trung bình. Do đó B đúng, còn khoảng biến thiên, phương sai và độ lệch tiêu chuẩn không tiện so sánh trực tiếp giữa hai đại lượng khác thang đo.
 
 **Dẫn chiếu:** lectures/md/TXANST0211_NLTK_Baigiangtext.md dòng 2841.
-
-**Lưu ý câu 7:** Đọc kỹ từ khóa câu 7.
 
 ## Câu 8
 
@@ -185,17 +136,9 @@ C1: **C** | C2: **B** | C3: **C** | C4: **A** | C5: **D** | C6: **A** | C7: **B*
 
 **Đáp án: B**
 
-**Mốc phân biệt 8-58:** Đối chiếu riêng phương án của câu 8.
-
-**Phân tích từng phương án:**
-- **A.** Câu 8 loại A; nhánh 8-A không thỏa điều kiện đề.
-- **B.** Câu 8 chọn B; xem chứng cứ riêng tại dẫn chiếu 8-B.
-- **C.** Câu 8 loại C; nhánh 8-C không thỏa điều kiện đề.
-- **D.** Câu 8 loại D; nhánh 8-D không thỏa điều kiện đề.
+**Phân tích:** Cần cộng doanh thu thực tế quý I và quý II từng mặt hàng rồi lấy tỷ số quý II/quý I. Kết quả gộp cho toàn cửa hàng là 101,3%, nên B đúng.
 
 **Dẫn chiếu:** lectures/md/TXANST0211_NLTK_Baigiangtext.md dòng 1805.
-
-**Lưu ý câu 8:** Đọc kỹ từ khóa câu 8.
 
 ## Câu 9
 
@@ -208,13 +151,7 @@ C1: **C** | C2: **B** | C3: **C** | C4: **A** | C5: **D** | C6: **A** | C7: **B*
 
 **Đáp án: C**
 
-**Mốc phân biệt 9-58:** Đối chiếu riêng phương án của câu 9.
-
-**Phân tích từng phương án:**
-- **A.** Câu 9 loại A; nhánh 9-A không thỏa điều kiện đề.
-- **B.** Câu 9 loại B; nhánh 9-B không thỏa điều kiện đề.
-- **C.** Câu 9 chọn C; xem chứng cứ riêng tại dẫn chiếu 9-C.
-- **D.** Câu 9 loại D; nhánh 9-D không thỏa điều kiện đề.
+**Phân tích:** Năng suất lao động trung bình tháng 3 được tính bằng giá trị sản xuất tháng 3 chia cho số công nhân trung bình tháng 3: $3350 / 306 \approx 10{,}947$. Vì vậy C đúng.
 
 **Dẫn chiếu:** lectures/md/TXANST0211_NLTK_Baigiangtext.md dòng 2366.
 
@@ -291,7 +228,14 @@ C1: **C** | C2: **B** | C3: **C** | C4: **A** | C5: **D** | C6: **A** | C7: **B*
 
 ## Câu 13
 
-**Đề:** Có tài liệu thống kê trong doanh nghiệp như sau: | Xí nghiệp | Quý I | | Quý II | | |---|---|---|---|---| | | Tổng sản lượng vải loại 1 (1000 m) | Tỷ lệ % vải loại 1 | Tổng sản lượng vải loại 1 (1000 m) | Tỷ lệ % vải loại 1 | | A | 240 | 91 | 232,5 | 93 | | B | 360 | 93 | 366,6 | 94 | Tính tỷ lệ so sánh sản lượng vải loại 1 trong 6 tháng phân xưởng B so với phân xưởng A.
+**Đề:** Có tài liệu thống kê trong doanh nghiệp như sau:
+
+| Xí nghiệp | QI - SL vải loại I (nghìn m) | QI - Tỷ lệ % | QII - SL vải loại I (nghìn m) | QII - Tỷ lệ % |
+|---|---:|---:|---:|---:|
+| A | 240 | 91 | 232,5 | 93 |
+| B | 360 | 93 | 366,6 | 94 |
+
+Tính tỷ lệ so sánh sản lượng vải loại 1 trong 6 tháng phân xưởng B so với phân xưởng A.
 
 - **A.** 1,65 lần.
 - **B.** 1,54 lần.
@@ -300,13 +244,7 @@ C1: **C** | C2: **B** | C3: **C** | C4: **A** | C5: **D** | C6: **A** | C7: **B*
 
 **Đáp án: B**
 
-**Mốc phân biệt 13-58:** Đối chiếu riêng phương án của câu 13.
-
-**Phân tích từng phương án:**
-- **A.** Câu 13 loại A; nhánh 13-A không thỏa điều kiện đề.
-- **B.** Câu 13 chọn B; xem chứng cứ riêng tại dẫn chiếu 13-B.
-- **C.** Câu 13 loại C; nhánh 13-C không thỏa điều kiện đề.
-- **D.** Câu 13 loại D; nhánh 13-D không thỏa điều kiện đề.
+**Phân tích:** Cần gộp số lượng vải loại I của hai xí nghiệp theo từng quý rồi so sánh phần B với phần A. Sau khi quy đổi, tỷ lệ ra 1,54 lần, nên B đúng.
 
 **Dẫn chiếu:** lectures/md/TXANST0211_NLTK_Baigiangtext.md dòng 2207.
 
@@ -544,7 +482,14 @@ C1: **C** | C2: **B** | C3: **C** | C4: **A** | C5: **D** | C6: **A** | C7: **B*
 
 ## Câu 24
 
-**Đề:** Có tài liệu thống kê trong doanh nghiệp như sau: Tính tỷ lệ so sánh vải loại 1 toàn doanh nghiệp quý II so với I. | Xí nghiệp | Quý I | | Quý II | | |---|---|---|---|---| | | Tổng sản lượng vải loại 1 (1000 m) | Tỷ lệ % vải loại 1 (%) | Tổng sản lượng vải loại 1 (1000 m) | Tỷ lệ % vải loại 1 (%) | | A | 240 | 91 | 232,5 | 93 | | B | 360 | 93 | 366,6 | 94 |
+**Đề:** Có tài liệu thống kê trong doanh nghiệp như sau:
+
+| Xí nghiệp | QI - SL vải loại I (nghìn m) | QI - Tỷ lệ % | QII - SL vải loại I (nghìn m) | QII - Tỷ lệ % |
+|---|---:|---:|---:|---:|
+| A | 240 | 91 | 232,5 | 93 |
+| B | 360 | 93 | 366,6 | 94 |
+
+Tính tỷ lệ so sánh sản lượng vải loại 1 toàn doanh nghiệp quý II so với quý I.
 
 - **A.** 99,0%.
 - **B.** 99,18%.
@@ -553,13 +498,7 @@ C1: **C** | C2: **B** | C3: **C** | C4: **A** | C5: **D** | C6: **A** | C7: **B*
 
 **Đáp án: D**
 
-**Mốc phân biệt 24-58:** Đối chiếu riêng phương án của câu 24.
-
-**Phân tích từng phương án:**
-- **A.** Câu 24 loại A; nhánh 24-A không thỏa điều kiện đề.
-- **B.** Câu 24 loại B; nhánh 24-B không thỏa điều kiện đề.
-- **C.** Câu 24 loại C; nhánh 24-C không thỏa điều kiện đề.
-- **D.** Câu 24 chọn D; xem chứng cứ riêng tại dẫn chiếu 24-D.
+**Phân tích:** Tính tỷ lệ so sánh của toàn doanh nghiệp bằng cách cộng sản lượng từng quý rồi lấy quý II chia quý I. Kết quả xấp xỉ 99,85%, nên D đúng.
 
 **Dẫn chiếu:** lectures/md/TXANST0211_NLTK_Baigiangtext.md dòng 2207.
 
@@ -636,7 +575,14 @@ C1: **C** | C2: **B** | C3: **C** | C4: **A** | C5: **D** | C6: **A** | C7: **B*
 
 ## Câu 28
 
-**Đề:** Có tài liệu thống kê trong doanh nghiệp như sau: Xí nghiệp Quý I Quý II | | Tổng sản lượng vải loại 1 (1000 m) | Tỷ lệ % vải loại 1 | Tổng sản lượng vải loại 1 (1000 m) | Tỷ lệ % vải loại 1 | |---|---|---|---|---| | A | 240 | 91 | 232,5 | 93 | | B | 360 | 93 | 366,6 | 94 | Tính tỷ lệ so sánh sản lượng vải loại 1 trong 6 tháng phân xưởng A so với phân xưởng B.
+**Đề:** Có tài liệu thống kê trong doanh nghiệp như sau:
+
+| Xí nghiệp | QI - SL vải loại I (nghìn m) | QI - Tỷ lệ % | QII - SL vải loại I (nghìn m) | QII - Tỷ lệ % |
+|---|---:|---:|---:|---:|
+| A | 240 | 91 | 232,5 | 93 |
+| B | 360 | 93 | 366,6 | 94 |
+
+Tính tỷ lệ so sánh sản lượng vải loại 1 trong 6 tháng phân xưởng A so với phân xưởng B.
 
 - **A.** 1,54 lần.
 - **B.** 0,65 lần.
@@ -645,13 +591,7 @@ C1: **C** | C2: **B** | C3: **C** | C4: **A** | C5: **D** | C6: **A** | C7: **B*
 
 **Đáp án: B**
 
-**Mốc phân biệt 28-58:** Đối chiếu riêng phương án của câu 28.
-
-**Phân tích từng phương án:**
-- **A.** Câu 28 loại A; nhánh 28-A không thỏa điều kiện đề.
-- **B.** Câu 28 chọn B; xem chứng cứ riêng tại dẫn chiếu 28-B.
-- **C.** Câu 28 loại C; nhánh 28-C không thỏa điều kiện đề.
-- **D.** Câu 28 loại D; nhánh 28-D không thỏa điều kiện đề.
+**Phân tích:** Đây là câu so sánh phần A với phần B trong cùng bộ số liệu vải loại I 6 tháng. Sau khi quy đổi, tỷ lệ ra 0,65 lần, nên B đúng.
 
 **Dẫn chiếu:** lectures/md/TXANST0211_NLTK_Baigiangtext.md dòng 2207.
 
