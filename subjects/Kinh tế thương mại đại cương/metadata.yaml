@@ -1,0 +1,23 @@
+subject_code: "IE"
+subject_name: "Kinh tế thương mại đại cương"
+credits: 3
+faculty: "Economics"
+description: "Cung cấp kiến thức về các quan hệ thương mại, cơ chế hoạt động của thị trường, cung cầu, giá cả, và các yếu tố ảnh hưởng đến hoạt động thương mại trong nền kinh tế."
+learning_outcomes:
+  - "Hiểu các khái niệm cơ bản về kinh tế thương mại: thương mại, thị trường, cung cầu, giá cả"
+  - "Phân tích cơ chế cạnh tranh và độc quyền trên thị trường"
+  - "Nắm vững các yếu tố tác động đến cung cầu và giá cả thị trường"
+  - "Hiểu vai trò của thương mại trong nền kinh tế quốc dân"
+  - "Áp dụng kiến thức kinh tế thương mại vào phân tích thực tiễn doanh nghiệp"
+lectures_order:
+  - "Kinh tế thương mại_Bài giảng.md"
+  - "Kinh tế thương mai đại cương.md"
+related_subjects:
+  - "Nguyên lý kế toán"
+  - "Nguyên lý thống kê"
+  - "Quản trị marketing"
+references:
+  - "Principles of Economics (N. Gregory Mankiw)"
+  - "Kinh tế học đại cương - Trường ĐH Kinh tế TP.HCM"
+media_types: []
+audio_language: ""

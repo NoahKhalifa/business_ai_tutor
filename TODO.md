@@ -10,7 +10,7 @@
 > - **KHÔNG xóa mục `pending` mà chưa làm.** Nếu không định làm nữa → mark `❌ Bỏ qua` + lý do.
 > - Cập nhật `Cập nhật lần cuối:` ở đầu file mỗi khi thay đổi.
 
-**Cập nhật lần cuối:** 2026-07-04 23:40 (T-20260704-01 update: Unit 1/3/4 listening đã verify với transcript; Unit 2 audio vẫn thiếu — user upload nhầm Unit 3 audio thay vì Unit 2)
+**Cập nhật lần cuối:** 2026-08-01 00:00 (phát hiện review Quản trị marketing lọt lỗi MCQ compact ở Ch1/Ch2/Ch5)
 
 ---
 
@@ -42,6 +42,64 @@
   - **Mô tả**: `subjects/Tiếng anh thương mại 1/lectures/pdf/` và `lectures/md/` đều trống → solution phải dựa trên chuẩn Cambridge Business English chứ không dẫn được `dòng X-Y` bài giảng.
   - **Hành động cụ thể**: Nếu user cung cấp PDF lecture (giáo trình), chạy `pdf-extract-cli` để convert MD, sau đó rewrite solutions với dẫn dòng lecture chuẩn.
   - **File liên quan**: Toàn bộ solution môn Tiếng Anh Thương Mại 1.
+
+---
+
+## 📚 Ưu tiên CAO — Nhóm môn mới: cần OCR/chuẩn hóa trước khi giải
+
+- **[T-20260714-01]** — pending — **Ưu tiên**: CAO
+  - **Mô tả**: Review ngày 2026-07-14 cho 5 môn mới cho thấy các file chương dạng text nhìn chung đọc được, nhưng các file image-only chưa đủ tốt để sinh lời giải tin cậy. Không coi việc MD chỉ nhúng các mảnh PNG là OCR sạch.
+  - **Hành động cụ thể**:
+    1. `Nguyên lý kế toán`: OCR lại cả 7 file bài tập đang có `ocr_needed: true`; mỗi file hiện có 0 câu hỏi dạng text và 479-793 liên kết ảnh. Convert/kiểm tra thêm `lectures/pdf/TXFACC0111_NLKT_Baitapthuchanh_DA.pdf`.
+    2. `Văn hóa kinh doanh`: OCR lại `exercises/md/Văn hóa kinh doanh_Bài kiểm tra.md` đang có `ocr_needed: true`.
+    3. `Nguyên lý thống kê`: OCR lại `exercises/md/Nguyên lý thống kê_Bài kiểm tra.md` đang có `ocr_needed: true`.
+    4. `Nguyên lý thống kê`: kiểm tra lại công thức bị thiếu ở Chương 4, Câu 29, phương án C; MD hiện chỉ có ảnh công thức cho A, B và D.
+    5. ✅ `Kinh tế thương mại đại cương`: đã có lecture MD và summary rồi, không còn là việc mở.
+    6. Xác minh các cờ `[VERIFY_OCR]` với PDF gốc trước khi dùng làm dẫn chứng: 54 cờ trong exercise MD dạng text và 852 cờ trong 5 lecture MD. Ưu tiên toàn bộ cờ ở exercise và các đoạn lecture thực sự được trích trong solution; sửa nội dung sai và bỏ cờ sau khi đã xác minh.
+  - **File liên quan**:
+    - `subjects/Nguyên lý kế toán/exercises/md/*.md`
+    - `subjects/Nguyên lý kế toán/lectures/pdf/TXFACC0111_NLKT_Baitapthuchanh_DA.pdf`
+    - `subjects/Văn hóa kinh doanh/exercises/md/Văn hóa kinh doanh_Bài kiểm tra.md`
+    - `subjects/Nguyên lý thống kê/exercises/md/Nguyên lý thống kê_Bài kiểm tra.md`
+    - `subjects/Kinh tế thương mại đại cương/lectures/pdf/Kinh tế thương mai đại cương.pdf`
+
+## 📝 Ưu tiên TRUNG BÌNH — Nhóm môn mới: còn thiếu review và cleanup boilerplate
+
+- **[T-20260714-02]** — pending — **Ưu tiên**: TRUNG BÌNH
+  - **Mô tả**: Audit lại ngày 2026-07-20 cho thấy pipeline của 5 môn mới đã đi được một đoạn khá xa: `Kinh tế thương mại đại cương` đã đủ solution/review/extension và sạch issue; `Nguyên lý kế toán`, `Nguyên lý thống kê`, `Văn hóa kinh doanh` còn thiếu review; `Quản trị nhân lực căn bản` có đủ solution/review/extension nhưng solution vẫn còn boilerplate nặng.
+  - **Hành động cụ thể**:
+    1. `Nguyên lý kế toán`: chạy review độc lập cho 7 chương; ưu tiên sửa Ch1 vì check-project đang flag boilerplate trong lời giải.
+    2. `Nguyên lý thống kê`: chạy review độc lập cho 6 chương; ưu tiên Ch4 vì đang bị flag boilerplate.
+    3. `Văn hóa kinh doanh`: review 5 file solution hiện có, sau đó cleanup boilerplate toàn bộ.
+    4. `Quản trị nhân lực căn bản`: rút gọn/cắt boilerplate trong 7 file solution, rồi review lại nếu sửa đáng kể.
+    5. Sprint 15 phút ngày 2026-07-20: đã cleanup phần mở đầu của `Nguyên lý kế toán` Ch1 (câu 1-5) và chuẩn hóa 3 câu vải của `Nguyên lý thống kê` Ch4 (câu 13, 24, 28).
+    6. Sprint tiếp theo ngày 2026-07-21: đã cleanup tiếp `Nguyên lý kế toán` Ch1 (câu 6-22), rút gọn diễn đạt và giữ nguyên đáp án.
+    7. Sprint cùng ngày: đã cleanup nốt `Nguyên lý kế toán` Ch1 (câu 23-25) để file khép lại đồng nhất hơn.
+  8. Sprint ngày 2026-07-21: đã tạo review `Nguyên lý kế toán` Ch1 (PASS) và review `Nguyên lý thống kê` Ch4 (REVISE), làm rõ chỗ còn boilerplate/thiếu lập luận.
+  9. Sprint cùng ngày: đã dọn comment nội bộ còn sót ở `Nguyên lý kế toán` Ch1 (câu 11-13) để file sạch hơn.
+  10. Sprint cùng ngày: đã tạo review `Văn hóa kinh doanh` Ch1 (REVISE) để chốt nợ review đầu tiên của môn này.
+  11. Sprint ngày 2026-07-21: đã rút gọn review `Nguyên lý thống kê` Ch4 và cleanup lời giải Ch4 ở các câu mở đầu + bộ câu vải loại 1; audit hiện chỉ còn 5 file `draft solution without review` trong môn này.
+  12. Sprint ngày 2026-07-21: đã rút gọn review `Văn hóa kinh doanh` Ch1 để bớt mẫu hóa và tập trung vào các câu cần viết lại theo bản chất.
+  - **File liên quan**:
+    - `subjects/Kinh tế thương mại đại cương/`
+    - `subjects/Nguyên lý kế toán/`
+    - `subjects/Nguyên lý thống kê/`
+    - `subjects/Quản trị nhân lực căn bản/`
+    - `subjects/Văn hóa kinh doanh/`
+
+## 🧾 Ưu tiên TRUNG BÌNH — Nhóm môn mới: chuẩn hóa metadata/cache
+
+- **[T-20260714-03]** — pending — **Ưu tiên**: TRUNG BÌNH
+  - **Mô tả**: Front matter và metadata của 5 môn chưa đồng nhất với quy ước canonical, dù các hash đã khai báo hiện đều khớp nguồn.
+  - **Hành động cụ thể**:
+    1. Chuẩn hóa 14 exercise MD của `Kinh tế thương mại đại cương` và `Quản trị nhân lực căn bản`: hiện dùng `exercise_file` như trường nguồn, thiếu `source_hash` và `subject`; nguồn thực tế là DOCX trong `exercises/pdf/`.
+    2. Thống nhất trường `subject` của các MD thành ASCII kebab-case theo naming convention; hiện các file đã có trường này đang dùng tên môn tiếng Việt.
+    3. Điền `lectures_order` trong `metadata.yaml` của cả 5 môn; hiện tất cả đều là `[]` dù đã có lecture MD.
+    4. Quyết định cách quản lý nguồn DOCX: bổ sung schema `source_file` và hỗ trợ DOCX trong `check-project.ps1`, hoặc chuyển đổi DOCX sang PDF/MD theo pipeline. Không đổi tên hay di chuyển file khi chưa có quyết định của user.
+  - **File liên quan**:
+    - `subjects/Kinh tế thương mại đại cương/exercises/md/*.md`
+    - `subjects/Quản trị nhân lực căn bản/exercises/md/*.md`
+    - `subjects/{Nguyên lý kế toán,Kinh tế thương mại đại cương,Nguyên lý thống kê,Quản trị nhân lực căn bản,Văn hóa kinh doanh}/metadata.yaml`
 
 ---
 
@@ -88,6 +146,21 @@ _(Trống — T-20260612-01 đã hoàn thành 2026-06-13.)_
 ---
 
 ## ✅ Đã xong (giữ 30 ngày)
+
+### [T-20260801-01] Quản trị marketing: siết review gate và rewrite MCQ compact Ch1/Ch2/Ch5 — *hoàn thành 2026-08-01*
+- Đã bổ sung hard gate định lượng trong `skills/answer-reviewer/SKILL.md` và script `scripts/audit-mcq-solutions.py`.
+- Đã rewrite Ch1, Ch2, Ch5: xóa toàn bộ pattern `Sai. Nhiễu: ...` (105 lần/file), thêm `Lưu ý` cho 35/35 câu mỗi file, giữ đủ đáp án/cite-line.
+- Đã cập nhật review Ch1, Ch2, Ch5 sang round 5 PASS với audit summary.
+- Verify: `python3 scripts/audit-mcq-solutions.py "subjects/Quản trị marketing/solutions"` báo PASS cho Ch1-Ch5.
+
+### [T-20260714-04] Tạo summary cho lecture MD của 5 môn mới — *hoàn thành 2026-07-20*
+- Audit ngày 2026-07-20 cho thấy cả 5 môn mới đều đã có `*_summary.md` trong `lectures/md/`, nên mục pending cũ đã đóng.
+- Kết quả hiện tại:
+  - `Nguyên lý kế toán`: có `TXFACC0111_NLKT_BGtext_summary.md`
+  - `Kinh tế thương mại đại cương`: có `Kinh tế thương mại_Bài giảng_summary.md` và `Kinh tế thương mai đại cương_summary.md`
+  - `Nguyên lý thống kê`: có `TXANST0211_NLTK_Baigiangtext_summary.md`
+  - `Quản trị nhân lực căn bản`: có `Quản trị nhân lực căn bản_summary.md`
+  - `Văn hóa kinh doanh`: có `VHKD_Baigiangtext_summary.md`
 
 ### [T-20260614-01] Tạo file `_chapter-review.md` trả lời câu hỏi ôn tập chương trong lecture summary — *hoàn thành 2026-06-28*
 - Bối cảnh: ngày 2026-06-14 đã có file mẫu QTCL `subjects/Quản trị chiến lược/lectures/md/quan-tri-chien-luoc_chapter-review.md` (42 câu × 7 chương). Ngày 2026-06-28 đã rà các môn còn lại và chỉ tạo file khi có block câu hỏi ôn tập rõ.

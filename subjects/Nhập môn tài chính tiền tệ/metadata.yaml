@@ -1,0 +1,21 @@
+subject_code: "FM"
+subject_name: "Nhập môn tài chính tiền tệ"
+credits: 3
+faculty: "Finance"
+description: "Cung cấp kiến thức nền tảng về tài chính, tiền tệ, hệ thống tài chính, thị trường tài chính, và các công cụ tài chính trong nền kinh tế."
+learning_outcomes:
+  - "Hiểu vai trò và chức năng của hệ thống tài chính, tiền tệ trong nền kinh tế"
+  - "Phân biệt các loại thị trường tài chính: thị trường tiền tệ, thị trường vốn, thị trường ngoại hối"
+  - "Nắm vững các khái niệm về lãi suất, tỷ giá hối đoái, lạm phát và mối quan hệ giữa các biến số vĩ mô"
+  - "Phân tích chức năng và hoạt động của các định chế tài chính trung gian"
+  - "Hiểu cơ chế chính sách tiền tệ và tác động của nó đến nền kinh tế"
+lectures_order: []
+related_subjects:
+  - "Quản trị tài chính"
+  - "Nguyên lý kế toán"
+  - "Kinh tế thương mại đại cương"
+references:
+  - "Money, Banking, and Financial Markets (Stephen Cecchetti)"
+  - "Giáo trình Tài chính tiền tệ - ĐH Kinh tế TP.HCM"
+media_types: []
+audio_language: ""

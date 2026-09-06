@@ -1,0 +1,22 @@
+subject_code: "ST"
+subject_name: "Nguyên lý thống kê"
+credits: 3
+faculty: "Business Administration"
+description: "Cung cấp kiến thức về các phương pháp thu thập, tổng hợp, phân tích và diễn giải dữ liệu thống kê; ứng dụng vào ra quyết định quản trị kinh doanh."
+learning_outcomes:
+  - "Hiểu các khái niệm cơ bản của thống kê: tổng thể, mẫu, biến, tần suất"
+  - "Tính toán và diễn giải các đại lượng thống kê mô tả: trung bình, trung vị, phương sai, độ lệch chuẩn"
+  - "Áp dụng phân phối xác suất vào bài toán kinh doanh"
+  - "Thực hiện kiểm định giả thuyết thống kê và phân tích tương quan, hồi quy"
+  - "Sử dụng phần mềm thống kê để phân tích dữ liệu thực tế"
+lectures_order:
+  - "TXANST0211_NLTK_Baigiangtext.md"
+related_subjects:
+  - "Nguyên lý kế toán"
+  - "Kinh tế thương mại đại cương"
+  - "Quản trị tài chính"
+references:
+  - "Statistics for Business and Economics (Anderson, Sweeney, Williams)"
+  - "Thống kê ứng dụng trong kinh doanh - ĐH Kinh tế TP.HCM"
+media_types: []
+audio_language: ""

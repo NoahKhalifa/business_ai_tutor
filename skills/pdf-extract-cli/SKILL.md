@@ -1,6 +1,6 @@
 ---
 name: pdf-extract-cli
-description: Invoke local Python CLI `tools/pdf_extract` để convert PDF → Markdown + assets/ (images, math crops) mà KHÔNG tốn token LLM. ƯU TIÊN dùng skill này trước khi tự đọc PDF bằng vision/text tool — chỉ fallback đọc tay khi CLI fail, PDF scan (không text layer), hoặc cần phân tích sâu nội dung (giải bài, review). Skill là wrapper của tool — cache SHA-256, modular component (text/tables/images/math), VN OCR confusable flagging tự động.
+description: Invoke local Python CLI `tools/pdf_extract` để convert PDF → Markdown + assets/<pdf-stem>/ (images, math crops) mà KHÔNG tốn token LLM. ƯU TIÊN dùng skill này trước khi tự đọc PDF bằng vision/text tool — chỉ fallback đọc tay khi CLI fail, PDF scan (không text layer), hoặc cần phân tích sâu nội dung (giải bài, review). Skill là wrapper của tool — cache SHA-256, modular component (text/tables/images/math), VN OCR confusable flagging tự động.
 ---
 
 # Skill: PDF extract CLI (token-saving)

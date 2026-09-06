@@ -6,7 +6,12 @@ description: Giải chi tiết bài tập, câu hỏi ôn tập chuyên ngành Q
 # Skill: Exercise Solver (giải bài chi tiết)
 
 ## Mục tiêu
-Sinh lời giải chuẩn sư phạm: không phải chỉ ra đáp án, mà DẪN DẮT sinh viên hiểu cách suy luận, dẫn chiếu lý thuyết từ bài giảng, và trình bày như giảng viên đang giải mẫu trên lớp.
+Sinh lời giải theo vai trò giảng viên/lecture note: không phải hô biến đáp án, mà phải DẪN DẮT sinh viên bằng câu trích từ bài giảng, nhấn đáp án, và giữ tone như đang đọc lại lecture trên lớp. Khi có thể, ưu tiên quote 1 đoạn ngắn từ bài giảng thay vì giải thích dài dòng.
+
+### Lecture role default (bắt buộc)
+- Mỗi câu trong câu hỏi MCQ nên giữ được 1 định dạng tối thiểu: `Đáp án + trích 1 câu từ lecture + 1 dòng loại trừ đối phương án`.
+- Nếu lecture đã nêu khái niệm rõ, agent không nên paraphrase quá mức. Hãy giữ nguyên wording và chỉ gắn câu hỏi vào nội dung đó.
+- Khi cần mở rộng, chỉ bổ sung tối đa 1-2 câu để điều hướng học sinh, không biến thành bài giảng dài hơn bài gốc.
 
 ## Khi nào trigger
 - User đưa file MD đề bài và yêu cầu giải.
@@ -69,20 +74,18 @@ Sinh lời giải chuẩn sư phạm: không phải chỉ ra đáp án, mà DẪ
 
 **Đề:** [trích nguyên văn đề + 4 phương án A/B/C/D]
 
-**Đáp án: X**
+**Đáp án: X** — quote 1 dòng/1 cụm từ lecture gốc, kèm dòng [X-Y].
 
-**Phân tích từng phương án:**
-- **A.** [nội dung A] — [Đúng/Sai] vì [LÝ DO CỤ THỂ cho câu này — KHÔNG dùng câu generic chung]. Theo `lectures/md/<file>.md` dòng [X-Y].
-- **B.** [nội dung B] — [Đúng/Sai] vì [...]. Theo `lectures/md/<file>.md` dòng [X-Y].
-- **C.** [...]
-- **D.** [...]
+**Phân tích nhanh:**
+- **A.** [nội dung A] — ✓/✗ — [1 dòng ngắn so với lecture].
+- **B.** [nội dung B] — ✓/✗ — [1 dòng ngắn so với lecture].
+- **C.** [nội dung C] — ✓/✗ — [1 dòng ngắn so với lecture].
+- **D.** [nội dung D] — ✓/✗ — [1 dòng ngắn so với lecture].
 
-**Trích bài giảng (chứng minh đáp án đúng):**
+**Trích bài giảng:**
 > [Quote nguyên văn đoạn quan trọng nhất, kèm số dòng]
 
-**Sai lầm thường gặp ở CÂU NÀY:** [Phải phản ánh nội dung cụ thể của câu N — không phải template áp dụng cho mọi câu]
-
-**(Tùy chọn) Mẹo phân biệt:** [Nếu khái niệm dễ nhầm với khái niệm khác trong bài]
+**Lưu ý:** [1 dòng dùng để phân biệt với phương án nhiễu, hoặc đối chiếu với câu liên quan]
 ```
 
 **Bắt buộc khi giải MCQ:**

@@ -199,6 +199,36 @@ Các lỗi transcript ảnh hưởng đến tiêu chí 1 (Chính xác) và tiêu
 
 Khi review bài MCQ, ngoài 5 tiêu chí chính, reviewer kiểm tra thêm 5 điểm dưới đây. Lỗi ở các điểm này quy về tiêu chí 1 (Chính xác), 2 (Logic), 5 (Sư phạm):
 
+### MCQ hard gates — điều kiện bắt buộc trước khi PASS
+
+Reviewer PHẢI chạy hoặc tự kiểm tra tương đương các gate dưới đây trước khi cho PASS/PASS_WITH_NOTES. Nếu vướng gate, verdict phải là **REVISE**, kể cả đáp án cuối có vẻ đúng.
+
+```bash
+python3 scripts/audit-mcq-solutions.py "subjects/<môn>/solutions/<file>_solution.md"
+```
+
+Nếu môi trường không có Python, reviewer vẫn phải kiểm bằng `rg`/đọc file và ghi rõ trong review report rằng đã kiểm thủ công.
+
+Các gate bắt buộc:
+
+1. **Đủ cấu trúc MCQ**:
+   - Số heading `Câu N` phải khớp `total_questions` trong front matter.
+   - Số dòng `**Đáp án: X**` phải khớp `total_questions`.
+   - Mỗi câu phải có đủ 4 option analysis A/B/C/D.
+2. **Cite-line bắt buộc**:
+   - Mỗi câu phải có ít nhất 1 cite-line dạng `dòng X-Y` hoặc `dòng X`.
+   - Thiếu cite-line ở bất kỳ câu nào là lỗi VỪA; thiếu hàng loạt là lỗi NẶNG.
+3. **Không còn boilerplate bị cấm**:
+   - Nếu `Nhiễu:` xuất hiện từ **30% số câu trở lên** → **REVISE**.
+   - Nếu các cụm generic như `không khớp trọng tâm khái niệm`, `lệch khái niệm`, `không phải trọng tâm` xuất hiện từ **5 lần trở lên** → **REVISE**.
+   - Nếu 5 câu liên tiếp có cùng kiểu giải thích phương án sai, reviewer phải trích ít nhất 1 ví dụ và yêu cầu viết lại.
+4. **Lưu ý/sai lầm riêng theo câu**:
+   - Với MCQ compact, số dòng `**Lưu ý` hoặc `**Sai lầm` phải đạt ít nhất **80% số câu**.
+   - Nếu thấp hơn 80%, chỉ được PASS khi review report giải thích rõ lý do ngoại lệ theo từng nhóm câu. Không có giải thích → **REVISE**.
+5. **Review report phải ghi audit summary**:
+   - Ghi các số: `questions`, `answers`, `option_lines`, `cite_lines`, `note_lines`, `banned_patterns`.
+   - Không có audit summary thì review chưa đủ điều kiện coi là review cuối.
+
 1. **Per-option analysis (lỗi nặng nhất, hay xảy ra)**: Mỗi câu PHẢI có phân tích RIÊNG cho A/B/C/D — không dùng cùng 1 câu generic ("không khớp trọng tâm khái niệm", "lệch khái niệm") cho mọi phương án/mọi câu. **Cách check nhanh**: đọc lướt 5 câu bất kỳ, nếu phần phân tích phương án sai giống nhau >70% → **LỖI NẶNG**, trừ 3 điểm tiêu chí 2 (Logic). Đây là pattern boilerplate đã thấy lặp lại khắp 11 chương QT Marketing/Mua & QTNC.
 2. **Cite-line**: Mỗi câu có ít nhất 1 reference dạng `lectures/md/<file>.md dòng X-Y`. Reviewer **mở file lecture verify số dòng đúng**. Trích sai dòng → **LỖI VỪA**, trừ 1-2 điểm tiêu chí 1. Không có reference dòng nào trong cả bài → **LỖI NẶNG**.
 3. **"Sai lầm thường gặp" riêng cho từng câu**: Không copy-paste cùng 1 đoạn cho mọi câu. Reviewer scan ≥5 câu liên tiếp — nếu giống nhau → **LỖI NẶNG** tiêu chí 5 (Sư phạm), trừ 3 điểm.

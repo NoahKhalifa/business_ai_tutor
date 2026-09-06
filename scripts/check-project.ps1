@@ -241,16 +241,17 @@ function Invoke-AuditSubject {
         }
     }
 
-    # PDF without MD (lectures + exercises)
+    # Source documents without matching MD (lectures + exercises)
     foreach ($area in @('lectures', 'exercises')) {
         $pdfDir = Join-Path $SubjectDir.FullName "$area\pdf"
         $mdDir = Join-Path $SubjectDir.FullName "$area\md"
         if ((Test-Path $pdfDir) -and (Test-Path $mdDir)) {
-            $pdfFiles = @(Get-ChildItem $pdfDir -Filter '*.pdf' -ErrorAction SilentlyContinue)
+            $sourceFiles = @(Get-ChildItem $pdfDir -File -ErrorAction SilentlyContinue | Where-Object { $_.Extension -in @('.pdf', '.docx') })
             $mdBaseNames = @(Get-ChildItem $mdDir -Filter '*.md' -ErrorAction SilentlyContinue | ForEach-Object { $_.BaseName })
-            foreach ($pdf in $pdfFiles) {
-                if ($mdBaseNames -notcontains $pdf.BaseName) {
-                    $issues.Add("PDF without MD: $area/pdf/$($pdf.Name)")
+            foreach ($source in $sourceFiles) {
+                if ($mdBaseNames -notcontains $source.BaseName) {
+                    $sourceType = $source.Extension.TrimStart('.').ToUpperInvariant()
+                    $issues.Add("$sourceType without MD: $area/pdf/$($source.Name)")
                 }
             }
         }
@@ -316,8 +317,10 @@ function Invoke-AuditSubject {
 
     $counts = [pscustomobject]@{
         LecturesPdf  = @(Get-ChildItem (Join-Path $SubjectDir.FullName 'lectures\pdf') -Filter '*.pdf' -ErrorAction SilentlyContinue).Count
+        LecturesDocx = @(Get-ChildItem (Join-Path $SubjectDir.FullName 'lectures\pdf') -Filter '*.docx' -ErrorAction SilentlyContinue).Count
         LecturesMd   = @(Get-ChildItem (Join-Path $SubjectDir.FullName 'lectures\md') -Filter '*.md' -ErrorAction SilentlyContinue).Count
         ExercisesPdf = @(Get-ChildItem (Join-Path $SubjectDir.FullName 'exercises\pdf') -Filter '*.pdf' -ErrorAction SilentlyContinue).Count
+        ExercisesDocx = @(Get-ChildItem (Join-Path $SubjectDir.FullName 'exercises\pdf') -Filter '*.docx' -ErrorAction SilentlyContinue).Count
         ExercisesMd  = @(Get-ChildItem (Join-Path $SubjectDir.FullName 'exercises\md') -Filter '*.md' -ErrorAction SilentlyContinue).Count
         Solutions    = $solutionRows.Count
     }
@@ -339,7 +342,7 @@ function Format-SubjectSection {
     $audio = if ($Audit.AudioEnabled) { 'yes' } else { 'no' }
     [void]$sb.AppendLine("- Audio enabled: $audio")
     $c = $Audit.Counts
-    [void]$sb.AppendLine("- Files: lectures pdf=$($c.LecturesPdf) md=$($c.LecturesMd) | exercises pdf=$($c.ExercisesPdf) md=$($c.ExercisesMd) | solutions=$($c.Solutions)")
+    [void]$sb.AppendLine("- Files: lectures pdf=$($c.LecturesPdf) docx=$($c.LecturesDocx) md=$($c.LecturesMd) | exercises pdf=$($c.ExercisesPdf) docx=$($c.ExercisesDocx) md=$($c.ExercisesMd) | solutions=$($c.Solutions)")
     [void]$sb.AppendLine("")
     if ($Audit.Issues.Count -gt 0) {
         [void]$sb.AppendLine("**Issues ($($Audit.Issues.Count)):**")

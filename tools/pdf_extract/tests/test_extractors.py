@@ -84,6 +84,10 @@ class ImageExtractorTests(unittest.TestCase):
         full_path = (Path(blocks[0].content),)
         rel = blocks[0].content
         self.assertTrue(rel.startswith("assets/"), rel)
+        self.assertTrue(
+            rel.startswith("assets/input/"),
+            "assets must be namespaced by PDF stem to avoid cross-document overwrite",
+        )
         # File should exist on disk
         saved = (Path(blocks[0].content[: 0]) if False else None)
         # Reconstruct: out / rel
@@ -103,7 +107,7 @@ class MathExtractorTests(unittest.TestCase):
         self.assertGreaterEqual(len(blocks), 1, "should detect at least one math region")
         for b in blocks:
             self.assertEqual(b.type, "math")
-            self.assertTrue(b.content.startswith("assets/"))
+            self.assertTrue(b.content.startswith("assets/input/"))
             self.assertTrue(b.content.endswith(".png"))
 
     def test_no_op_when_output_dir_none(self):

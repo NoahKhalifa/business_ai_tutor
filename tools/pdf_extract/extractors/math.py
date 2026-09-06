@@ -48,7 +48,7 @@ class MathExtractor(BaseExtractor):
     def extract(self) -> List[Block]:
         if self.output_dir is None:
             return []
-        assets_dir = self.output_dir / "assets"
+        assets_dir = self.output_dir / "assets" / self.pdf_path.stem
         assets_dir.mkdir(parents=True, exist_ok=True)
 
         doc = fitz.open(self.pdf_path)

@@ -1,4 +1,4 @@
-"""Image extractor — saves embedded raster images to <output_dir>/assets/."""
+"""Image extractor — saves embedded raster images to a per-PDF asset folder."""
 from typing import List
 
 import fitz  # PyMuPDF
@@ -9,7 +9,7 @@ from .base import BaseExtractor, Block
 class ImageExtractor(BaseExtractor):
     """Extract embedded images. Skips icons smaller than MIN_DIMENSION pixels.
 
-    Output: PNG files at <output_dir>/assets/page_<NNN>_img_<NN>.png.
+    Output: PNG files at <output_dir>/assets/<pdf-stem>/page_<NNN>_img_<NN>.png.
     Block.content holds the path relative to output_dir (forward slashes).
     """
 
@@ -18,7 +18,7 @@ class ImageExtractor(BaseExtractor):
     def extract(self) -> List[Block]:
         if self.output_dir is None:
             return []
-        assets_dir = self.output_dir / "assets"
+        assets_dir = self.output_dir / "assets" / self.pdf_path.stem
         assets_dir.mkdir(parents=True, exist_ok=True)
 
         doc = fitz.open(self.pdf_path)

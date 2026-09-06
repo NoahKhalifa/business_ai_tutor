@@ -2,7 +2,7 @@
 exercise_file: "Quản trị marketing 1_Luyện tập trắc nghiệm Chương 2.md"
 solved_at: "2026-06-27T02:30:00Z"
 status: "draft"
-review_round: 2
+review_round: 5
 total_questions: 35
 examples_added: true
 ocr_uncertain: false
@@ -69,9 +69,12 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 
 **Phân tích từng phương án:**
 - **A.** Chi phí quảng cáo — **Đúng** vì khớp với tổng chi phí khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 584-587.
-- **B.** Chi phí tiền bạc — **Sai.** Nhiễu: Chi phí tiền bạc.
-- **C.** Chi phí tâm lý — **Sai.** Nhiễu: Chi phí tâm lý.
-- **D.** Chi phí thời gian — **Sai.** Nhiễu: Chi phí thời gian.
+- **B.** Chi phí tiền bạc — **Sai** — đây là nội dung vẫn thuộc nhóm/khái niệm đang xét về tổng chi phí khách hàng, nên không phải phương án loại trừ.
+- **C.** Chi phí tâm lý — **Sai** — đây là nội dung vẫn thuộc nhóm/khái niệm đang xét về tổng chi phí khách hàng, nên không phải phương án loại trừ.
+- **D.** Chi phí thời gian — **Sai** — đây là nội dung vẫn thuộc nhóm/khái niệm đang xét về tổng chi phí khách hàng, nên không phải phương án loại trừ.
+
+**Lưu ý:** Câu này hỏi theo kiểu loại trừ; trước hết xác định danh sách đúng của tổng chi phí khách hàng, rồi chọn phương án nằm ngoài danh sách đó.
+
 
 ---
 
@@ -85,10 +88,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Marketing phản ứng lại
 
 **Phân tích từng phương án:**
-- **A.** Marketing phản ứng trước — **Sai.** Nhiễu: Marketing phản ứng trước.
-- **B.** Marketing tương tác — **Sai.** Nhiễu: Marketing tương tác.
-- **C.** Marketing căn bản — **Sai.** Nhiễu: Marketing căn bản.
+- **A.** Marketing phản ứng trước — **Sai** — phương án này không phải dấu hiệu quyết định của cấp độ marketing quan hệ; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **B.** Marketing tương tác — **Sai** — phương án này không phải dấu hiệu quyết định của cấp độ marketing quan hệ; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **C.** Marketing căn bản — **Sai** — phương án này không phải dấu hiệu quyết định của cấp độ marketing quan hệ; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **D.** Marketing phản ứng lại — **Đúng** vì khớp với cấp độ marketing quan hệ; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1068-1109.
+
+**Lưu ý:** Bám vào từ khóa cấp độ marketing quan hệ; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -102,10 +108,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Thực hiện giá trị
 
 **Phân tích từng phương án:**
-- **A.** Truyền thông giá trị — **Sai.** Nhiễu: Truyền thông giá trị.
-- **B.** Cung ứng giá trị — **Sai.** Nhiễu: Cung ứng giá trị.
+- **A.** Truyền thông giá trị — **Sai** — phương án này không phải dấu hiệu quyết định của lựa chọn giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **B.** Cung ứng giá trị — **Sai** — phương án này không phải dấu hiệu quyết định của lựa chọn giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **C.** Lựa chọn giá trị — **Đúng** vì khớp với lựa chọn giá trị; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 888-917.
-- **D.** Thực hiện giá trị — **Sai.** Nhiễu: Thực hiện giá trị.
+- **D.** Thực hiện giá trị — **Sai** — phương án này không phải dấu hiệu quyết định của lựa chọn giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa lựa chọn giá trị; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -120,9 +129,12 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 
 **Phân tích từng phương án:**
 - **A.** Kỳ vọng của khách hàng và hiệu suất của sản phẩm — **Đúng** vì khớp với sự thỏa mãn khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 614-626.
-- **B.** Đánh giá của khách hàng và uy tín của doanh nghiệp — **Sai.** Nhiễu: Đánh giá của khách hàng.
-- **C.** Giá cả và thương hiệu của sản phẩm — **Sai.** Nhiễu: Giá cả và thương hiệu.
-- **D.** Kỳ vọng của khách hàng và giá trị của sản phẩm — **Sai.** Nhiễu: Kỳ vọng của khách hàng.
+- **B.** Đánh giá của khách hàng và uy tín của doanh nghiệp — **Sai** — phương án này không phải dấu hiệu quyết định của sự thỏa mãn khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **C.** Giá cả và thương hiệu của sản phẩm — **Sai** — phương án này không phải dấu hiệu quyết định của sự thỏa mãn khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Kỳ vọng của khách hàng và giá trị của sản phẩm — **Sai** — phương án này không phải dấu hiệu quyết định của sự thỏa mãn khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa sự thỏa mãn khách hàng; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -136,10 +148,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Hệ thống phân phối rộng khắp
 
 **Phân tích từng phương án:**
-- **A.** Giá cả hợp lý — **Sai.** Nhiễu: Giá cả hợp lý.
+- **A.** Giá cả hợp lý — **Sai** — phương án này không phải dấu hiệu quyết định của giá trị và lòng trung thành; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **B.** Cung ứng giá trị khách hàng tốt nhất — **Đúng** vì khớp với giá trị và lòng trung thành; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1000-1003.
-- **C.** Chất lượng sản phẩm tốt nhất — **Sai.** Nhiễu: Chất lượng sản phẩm tốt.
-- **D.** Hệ thống phân phối rộng khắp — **Sai.** Nhiễu: Hệ thống phân phối rộng.
+- **C.** Chất lượng sản phẩm tốt nhất — **Sai** — phương án này không phải dấu hiệu quyết định của giá trị và lòng trung thành; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Hệ thống phân phối rộng khắp — **Sai** — phương án này không phải dấu hiệu quyết định của giá trị và lòng trung thành; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa giá trị và lòng trung thành; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -153,10 +168,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Vì việc này có thể dẫn đến giảm lợi nhuận hoặc mất cân đối nguồn lực
 
 **Phân tích từng phương án:**
-- **A.** Vì chi phí để đạt sự thỏa mãn cao thường không thể đo lường — **Sai.** Nhiễu: Vì chi phí để đạt.
-- **B.** Vì thỏa mãn cao không tạo ra trung thành — **Sai.** Nhiễu: Vì thỏa mãn cao không.
-- **C.** Vì khách hàng thường không kỳ vọng cao với sản phẩm/dịch vụ thông thường — **Sai.** Nhiễu: Vì khách hàng thường không.
+- **A.** Vì chi phí để đạt sự thỏa mãn cao thường không thể đo lường — **Sai** — phương án này không phải dấu hiệu quyết định của giới hạn của tối đa hóa thỏa mãn; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **B.** Vì thỏa mãn cao không tạo ra trung thành — **Sai** — phương án này không phải dấu hiệu quyết định của giới hạn của tối đa hóa thỏa mãn; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **C.** Vì khách hàng thường không kỳ vọng cao với sản phẩm/dịch vụ thông thường — **Sai** — phương án này không phải dấu hiệu quyết định của giới hạn của tối đa hóa thỏa mãn; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **D.** Vì việc này có thể dẫn đến giảm lợi nhuận hoặc mất cân đối nguồn lực — **Đúng** vì khớp với giới hạn của tối đa hóa thỏa mãn; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 633-647.
+
+**Lưu ý:** Bám vào từ khóa giới hạn của tối đa hóa thỏa mãn; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -171,9 +189,12 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 
 **Phân tích từng phương án:**
 - **A.** Gia tăng các lợi ích tài chính để xây dựng lòng trung thành — **Đúng** vì khớp với công cụ giữ khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1122-1163.
-- **B.** Gia tăng lợi ích xã hội để xây dựng lòng trung thành — **Sai.** Nhiễu: Gia tăng lợi ích xã.
-- **C.** Gia tăng ràng buộc về cấu trúc để xây dựng lòng trung thành — **Sai.** Nhiễu: Gia tăng ràng buộc về.
-- **D.** Trao quyền cho khách hàng để xây dựng lòng trung thành — **Sai.** Nhiễu: Trao quyền cho khách hàng.
+- **B.** Gia tăng lợi ích xã hội để xây dựng lòng trung thành — **Sai** — phương án này không phải dấu hiệu quyết định của công cụ giữ khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **C.** Gia tăng ràng buộc về cấu trúc để xây dựng lòng trung thành — **Sai** — phương án này không phải dấu hiệu quyết định của công cụ giữ khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Trao quyền cho khách hàng để xây dựng lòng trung thành — **Sai** — phương án này không phải dấu hiệu quyết định của công cụ giữ khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa công cụ giữ khách hàng; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -187,10 +208,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Khi thị trường nhiều nhà phân phối/khách hàng, lợi nhuận biên thấp
 
 **Phân tích từng phương án:**
-- **A.** Khi muốn tăng doanh số ngắn hạn qua xúc tiến bán — **Sai.** Nhiễu: Khi muốn tăng doanh số.
+- **A.** Khi muốn tăng doanh số ngắn hạn qua xúc tiến bán — **Sai** — phương án này không phải dấu hiệu quyết định của marketing cộng tác; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **B.** Khi hoạt động trong thị trường ít nhà phân phối, ít khách hàng và lợi nhuận biên cao — **Đúng** vì khớp với marketing cộng tác; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1082-1109.
-- **C.** Khi thị trường có khách hàng lợi nhuận biên cao nhưng cạnh tranh không lớn — **Sai.** Nhiễu: Khi thị trường có khách.
-- **D.** Khi thị trường nhiều nhà phân phối/khách hàng, lợi nhuận biên thấp — **Sai.** Nhiễu: Khi thị trường nhiều nhà.
+- **C.** Khi thị trường có khách hàng lợi nhuận biên cao nhưng cạnh tranh không lớn — **Sai** — phương án này không phải dấu hiệu quyết định của marketing cộng tác; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Khi thị trường nhiều nhà phân phối/khách hàng, lợi nhuận biên thấp — **Sai** — phương án này không phải dấu hiệu quyết định của marketing cộng tác; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa marketing cộng tác; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -205,9 +229,12 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 
 **Phân tích từng phương án:**
 - **A.** Kinh nghiệm mua hàng quá khứ, lời khuyên từ bạn bè và đối thủ cạnh tranh — **Đúng** vì khớp với nguồn kỳ vọng khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 620-626.
-- **B.** Quảng cáo và chương trình xúc tiến — **Sai.** Nhiễu: Quảng cáo và chương trình.
-- **C.** Mối quan hệ giữa doanh nghiệp và đối tác — **Sai.** Nhiễu: Mối quan hệ giữa doanh.
-- **D.** Lợi nhuận của doanh nghiệp — **Sai.** Nhiễu: Lợi nhuận của doanh nghiệp.
+- **B.** Quảng cáo và chương trình xúc tiến — **Sai** — phương án này không phải dấu hiệu quyết định của nguồn kỳ vọng khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **C.** Mối quan hệ giữa doanh nghiệp và đối tác — **Sai** — phương án này không phải dấu hiệu quyết định của nguồn kỳ vọng khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Lợi nhuận của doanh nghiệp — **Sai** — phương án này không phải dấu hiệu quyết định của nguồn kỳ vọng khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa nguồn kỳ vọng khách hàng; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -222,9 +249,12 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 
 **Phân tích từng phương án:**
 - **A.** Marketing và bán hàng — **Đúng** vì khớp với chuỗi giá trị; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 788-797.
-- **B.** Phát triển công nghệ — **Sai.** Nhiễu: Phát triển công nghệ.
-- **C.** Quản lý nguồn nhân lực — **Sai.** Nhiễu: Quản lý nguồn nhân lực.
-- **D.** Cơ sở hạ tầng doanh nghiệp — **Sai.** Nhiễu: Cơ sở hạ tầng doanh.
+- **B.** Phát triển công nghệ — **Sai** — phương án này không phải dấu hiệu quyết định của chuỗi giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **C.** Quản lý nguồn nhân lực — **Sai** — phương án này không phải dấu hiệu quyết định của chuỗi giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Cơ sở hạ tầng doanh nghiệp — **Sai** — phương án này không phải dấu hiệu quyết định của chuỗi giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa chuỗi giá trị; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -238,10 +268,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Quảng bá mạnh để tạo kỳ vọng lớn
 
 **Phân tích từng phương án:**
-- **A.** Càng ngày càng thoả mãn khách hàng ở mức độ cao hơn — **Sai.** Nhiễu: Càng ngày càng thoả mãn.
+- **A.** Càng ngày càng thoả mãn khách hàng ở mức độ cao hơn — **Sai** — phương án này không phải dấu hiệu quyết định của quản trị kỳ vọng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **B.** Cẩn trọng thiết lập mức kỳ vọng phù hợp về sản phẩm — **Đúng** vì khớp với quản trị kỳ vọng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 628-630.
-- **C.** Đặt kỳ vọng thật thấp để dễ đạt thỏa mãn — **Sai.** Nhiễu: Đặt kỳ vọng thật thấp.
-- **D.** Quảng bá mạnh để tạo kỳ vọng lớn — **Sai.** Nhiễu: Quảng bá mạnh để tạo.
+- **C.** Đặt kỳ vọng thật thấp để dễ đạt thỏa mãn — **Sai** — phương án này không phải dấu hiệu quyết định của quản trị kỳ vọng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Quảng bá mạnh để tạo kỳ vọng lớn — **Sai** — phương án này không phải dấu hiệu quyết định của quản trị kỳ vọng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa quản trị kỳ vọng; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -255,10 +288,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Thời điểm khách hàng ký hợp đồng với doanh nghiệp
 
 **Phân tích từng phương án:**
-- **A.** Các phương tiện truyền thông doanh nghiệp sử dụng — **Sai.** Nhiễu: Các phương tiện truyền thông.
+- **A.** Các phương tiện truyền thông doanh nghiệp sử dụng — **Sai** — phương án này không phải dấu hiệu quyết định của điểm tiếp xúc CRM; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **B.** Bất kỳ khi nào khách hàng tiếp xúc với thương hiệu và sản phẩm của doanh nghiệp — **Đúng** vì khớp với điểm tiếp xúc CRM; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 990-998.
-- **C.** Mọi hoạt động marketing của doanh nghiệp — **Sai.** Nhiễu: Mọi hoạt động marketing của.
-- **D.** Thời điểm khách hàng ký hợp đồng với doanh nghiệp — **Sai.** Nhiễu: Thời điểm khách hàng ký.
+- **C.** Mọi hoạt động marketing của doanh nghiệp — **Sai** — phương án này không phải dấu hiệu quyết định của điểm tiếp xúc CRM; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Thời điểm khách hàng ký hợp đồng với doanh nghiệp — **Sai** — phương án này không phải dấu hiệu quyết định của điểm tiếp xúc CRM; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa điểm tiếp xúc CRM; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -273,9 +309,12 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 
 **Phân tích từng phương án:**
 - **A.** Thiết lập các chiến lược cạnh tranh với đối thủ — **Đúng** vì khớp với doanh nghiệp hiệu năng cao; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 660-723.
-- **B.** Nguồn lực sở hữu hoặc thuê ngoài — **Sai.** Nhiễu: Nguồn lực sở hữu hoặc.
-- **C.** Quản lý tốt quy trình hoạt động — **Sai.** Nhiễu: Quản lý tốt quy trình.
-- **D.** Xây dựng chiến lược đáp ứng lợi ích các bên hữu quan — **Sai.** Nhiễu: Xây dựng chiến lược đáp.
+- **B.** Nguồn lực sở hữu hoặc thuê ngoài — **Sai** — đây là nội dung vẫn thuộc nhóm/khái niệm đang xét về doanh nghiệp hiệu năng cao, nên không phải phương án loại trừ.
+- **C.** Quản lý tốt quy trình hoạt động — **Sai** — đây là nội dung vẫn thuộc nhóm/khái niệm đang xét về doanh nghiệp hiệu năng cao, nên không phải phương án loại trừ.
+- **D.** Xây dựng chiến lược đáp ứng lợi ích các bên hữu quan — **Sai** — đây là nội dung vẫn thuộc nhóm/khái niệm đang xét về doanh nghiệp hiệu năng cao, nên không phải phương án loại trừ.
+
+**Lưu ý:** Câu này hỏi theo kiểu loại trừ; trước hết xác định danh sách đúng của doanh nghiệp hiệu năng cao, rồi chọn phương án nằm ngoài danh sách đó.
+
 
 ---
 
@@ -289,10 +328,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Tăng tổng lợi ích hoặc giảm tổng chi phí mà khách hàng cảm nhận
 
 **Phân tích từng phương án:**
-- **A.** Đẩy mạnh quảng cáo để khách hàng nhận biết sản phẩm — **Sai.** Nhiễu: Đẩy mạnh quảng cáo để.
-- **B.** Tăng đa dạng hóa sản phẩm để đáp ứng mọi nhu cầu — **Sai.** Nhiễu: Tăng đa dạng hóa sản.
-- **C.** Cắt giảm tất cả chi phí để giá thấp hơn — **Sai.** Nhiễu: Cắt giảm tất cả chi.
+- **A.** Đẩy mạnh quảng cáo để khách hàng nhận biết sản phẩm — **Sai** — phương án này không phải dấu hiệu quyết định của gia tăng giá trị cảm nhận; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **B.** Tăng đa dạng hóa sản phẩm để đáp ứng mọi nhu cầu — **Sai** — phương án này không phải dấu hiệu quyết định của gia tăng giá trị cảm nhận; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **C.** Cắt giảm tất cả chi phí để giá thấp hơn — **Sai** — phương án này không phải dấu hiệu quyết định của gia tăng giá trị cảm nhận; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **D.** Tăng tổng lợi ích hoặc giảm tổng chi phí mà khách hàng cảm nhận — **Đúng** vì khớp với gia tăng giá trị cảm nhận; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-587.
+
+**Lưu ý:** Bám vào từ khóa gia tăng giá trị cảm nhận; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -306,10 +348,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Marketing căn bản
 
 **Phân tích từng phương án:**
-- **A.** Marketing phản ứng lại — **Sai.** Nhiễu: Marketing phản ứng lại.
+- **A.** Marketing phản ứng lại — **Sai** — phương án này không phải dấu hiệu quyết định của marketing tương tác; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **B.** Marketing tương tác — **Đúng** vì khớp với marketing tương tác; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1068-1109.
-- **C.** Marketing phản ứng trước — **Sai.** Nhiễu: Marketing phản ứng trước.
-- **D.** Marketing căn bản — **Sai.** Nhiễu: Marketing căn bản.
+- **C.** Marketing phản ứng trước — **Sai** — phương án này không phải dấu hiệu quyết định của marketing tương tác; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Marketing căn bản — **Sai** — phương án này không phải dấu hiệu quyết định của marketing tương tác; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa marketing tương tác; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -324,9 +369,12 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 
 **Phân tích từng phương án:**
 - **A.** Marketing cơ sở dữ liệu khách hàng — **Đúng** vì khớp với marketing cơ sở dữ liệu; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1183-1207.
-- **B.** Mạng lưới marketing — **Sai.** Nhiễu: Mạng lưới marketing.
-- **C.** Mạng lưới phân phối giá trị — **Sai.** Nhiễu: Mạng lưới phân phối giá.
-- **D.** Marketing cộng tác — **Sai.** Nhiễu: Marketing cộng tác.
+- **B.** Mạng lưới marketing — **Sai** — phương án này không phải dấu hiệu quyết định của marketing cơ sở dữ liệu; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **C.** Mạng lưới phân phối giá trị — **Sai** — phương án này không phải dấu hiệu quyết định của marketing cơ sở dữ liệu; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Marketing cộng tác — **Sai** — phương án này không phải dấu hiệu quyết định của marketing cơ sở dữ liệu; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa marketing cơ sở dữ liệu; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -340,10 +388,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Marketing căn bản
 
 **Phân tích từng phương án:**
-- **A.** Marketing tương tác — **Sai.** Nhiễu: Marketing tương tác.
-- **B.** Marketing phản ứng trước — **Sai.** Nhiễu: Marketing phản ứng trước.
+- **A.** Marketing tương tác — **Sai** — phương án này không phải dấu hiệu quyết định của cấp độ marketing quan hệ; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **B.** Marketing phản ứng trước — **Sai** — phương án này không phải dấu hiệu quyết định của cấp độ marketing quan hệ; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **C.** Marketing cộng tác — **Đúng** vì khớp với cấp độ marketing quan hệ; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1082-1109.
-- **D.** Marketing căn bản — **Sai.** Nhiễu: Marketing căn bản.
+- **D.** Marketing căn bản — **Sai** — phương án này không phải dấu hiệu quyết định của cấp độ marketing quan hệ; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa cấp độ marketing quan hệ; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -358,9 +409,12 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 
 **Phân tích từng phương án:**
 - **A.** Tại sao tôi nên mua thương hiệu của bạn chứ không phải đối thủ cạnh tranh? — **Đúng** vì khớp với đề xuất giá trị; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-575.
-- **B.** Sự ổn định tài chính của công ty bạn là gì? — **Sai.** Nhiễu: Sự ổn định tài chính.
-- **C.** Các chi phí liên quan đến sản xuất thương hiệu là gì? — **Sai.** Nhiễu: Các chi phí liên quan.
-- **D.** Vốn chủ sở hữu khách hàng ước tính là bao nhiêu? — **Sai.** Nhiễu: Vốn chủ sở hữu khách.
+- **B.** Sự ổn định tài chính của công ty bạn là gì? — **Sai** — phương án này không phải dấu hiệu quyết định của đề xuất giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **C.** Các chi phí liên quan đến sản xuất thương hiệu là gì? — **Sai** — phương án này không phải dấu hiệu quyết định của đề xuất giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Vốn chủ sở hữu khách hàng ước tính là bao nhiêu? — **Sai** — phương án này không phải dấu hiệu quyết định của đề xuất giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa đề xuất giá trị; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -374,10 +428,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Cắt giảm chi phí sản xuất để giảm giá bán
 
 **Phân tích từng phương án:**
-- **A.** Phân bổ đều nguồn lực để cải thiện tất cả yếu tố lợi ích — **Sai.** Nhiễu: Phân bổ đều nguồn lực.
-- **B.** Chỉ giảm thiểu tổng chi phí cảm nhận — **Sai.** Nhiễu: Chỉ giảm thiểu tổng chi.
+- **A.** Phân bổ đều nguồn lực để cải thiện tất cả yếu tố lợi ích — **Sai** — phương án này không phải dấu hiệu quyết định của phân tích giá trị khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **B.** Chỉ giảm thiểu tổng chi phí cảm nhận — **Sai** — phương án này không phải dấu hiệu quyết định của phân tích giá trị khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **C.** Tập trung cải thiện các yếu tố quan trọng nhất đối với khách hàng — **Đúng** vì khớp với phân tích giá trị khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 599-608.
-- **D.** Cắt giảm chi phí sản xuất để giảm giá bán — **Sai.** Nhiễu: Cắt giảm chi phí sản.
+- **D.** Cắt giảm chi phí sản xuất để giảm giá bán — **Sai** — phương án này không phải dấu hiệu quyết định của phân tích giá trị khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa phân tích giá trị khách hàng; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -392,9 +449,12 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 
 **Phân tích từng phương án:**
 - **A.** Khả năng thực hiện sản phẩm và kỳ vọng của khách hàng — **Đúng** vì khớp với sự thỏa mãn khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 614-626.
-- **B.** Giá trị cảm nhận và kỳ vọng khách hàng — **Sai.** Nhiễu: Giá trị cảm nhận và.
-- **C.** Giá và chất lượng sản phẩm — **Sai.** Nhiễu: Giá và chất lượng sản.
-- **D.** Hiệu suất sản phẩm so với đối thủ cạnh tranh — **Sai.** Nhiễu: Hiệu suất sản phẩm so.
+- **B.** Giá trị cảm nhận và kỳ vọng khách hàng — **Sai** — phương án này không phải dấu hiệu quyết định của sự thỏa mãn khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **C.** Giá và chất lượng sản phẩm — **Sai** — phương án này không phải dấu hiệu quyết định của sự thỏa mãn khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Hiệu suất sản phẩm so với đối thủ cạnh tranh — **Sai** — phương án này không phải dấu hiệu quyết định của sự thỏa mãn khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa sự thỏa mãn khách hàng; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -408,10 +468,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Thực hiện giá trị
 
 **Phân tích từng phương án:**
-- **A.** Cung ứng giá trị — **Sai.** Nhiễu: Cung ứng giá trị.
+- **A.** Cung ứng giá trị — **Sai** — phương án này không phải dấu hiệu quyết định của truyền thông giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **B.** Truyền thông giá trị — **Đúng** vì khớp với truyền thông giá trị; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 913-916.
-- **C.** Lựa chọn giá trị — **Sai.** Nhiễu: Lựa chọn giá trị.
-- **D.** Thực hiện giá trị — **Sai.** Nhiễu: Thực hiện giá trị.
+- **C.** Lựa chọn giá trị — **Sai** — phương án này không phải dấu hiệu quyết định của truyền thông giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Thực hiện giá trị — **Sai** — phương án này không phải dấu hiệu quyết định của truyền thông giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa truyền thông giá trị; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -425,10 +488,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Xây dựng chiến dịch quảng cáo mới
 
 **Phân tích từng phương án:**
-- **A.** Giảm giá cho lần mua sau — **Sai.** Nhiễu: Giảm giá cho lần mua.
-- **B.** Cung cấp sản phẩm thay thế miễn phí — **Sai.** Nhiễu: Cung cấp sản phẩm thay.
+- **A.** Giảm giá cho lần mua sau — **Sai** — phương án này không phải dấu hiệu quyết định của xử lý bất mãn khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **B.** Cung cấp sản phẩm thay thế miễn phí — **Sai** — phương án này không phải dấu hiệu quyết định của xử lý bất mãn khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **C.** Nhanh chóng liên hệ khách hàng và giải quyết vấn đề thỏa đáng — **Đúng** vì khớp với xử lý bất mãn khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 648-659.
-- **D.** Xây dựng chiến dịch quảng cáo mới — **Sai.** Nhiễu: Xây dựng chiến dịch quảng.
+- **D.** Xây dựng chiến dịch quảng cáo mới — **Sai** — phương án này không phải dấu hiệu quyết định của xử lý bất mãn khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa xử lý bất mãn khách hàng; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -442,10 +508,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Kinh nghiệm mua quá khứ và cam kết của đối thủ
 
 **Phân tích từng phương án:**
-- **A.** Chỉ thông tin từ doanh nghiệp và đối thủ — **Sai.** Nhiễu: Chỉ thông tin từ doanh.
+- **A.** Chỉ thông tin từ doanh nghiệp và đối thủ — **Sai** — phương án này không phải dấu hiệu quyết định của nguồn kỳ vọng khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **B.** Trải nghiệm mua quá khứ, lời khuyên, thông tin từ doanh nghiệp và đối thủ — **Đúng** vì khớp với nguồn kỳ vọng khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 624-626.
-- **C.** Lời khuyên từ tổ chức và sự quan tâm của nhân viên — **Sai.** Nhiễu: Lời khuyên từ tổ chức.
-- **D.** Kinh nghiệm mua quá khứ và cam kết của đối thủ — **Sai.** Nhiễu: Kinh nghiệm mua quá khứ.
+- **C.** Lời khuyên từ tổ chức và sự quan tâm của nhân viên — **Sai** — phương án này không phải dấu hiệu quyết định của nguồn kỳ vọng khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Kinh nghiệm mua quá khứ và cam kết của đối thủ — **Sai** — phương án này không phải dấu hiệu quyết định của nguồn kỳ vọng khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa nguồn kỳ vọng khách hàng; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -460,9 +529,12 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 
 **Phân tích từng phương án:**
 - **A.** Có liên kết chặt chẽ và tác động qua lại, ảnh hưởng trực tiếp đến phát triển doanh nghiệp — **Đúng** vì khớp với các giới hữu quan; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 683-696.
-- **B.** Làm việc phân tách và không can thiệp — **Sai.** Nhiễu: Làm việc phân tách và.
-- **C.** Cố định và không thay đổi theo thời gian — **Sai.** Nhiễu: Cố định và không thay.
-- **D.** Độc lập và không tương tác — **Sai.** Nhiễu: Độc lập và không tương.
+- **B.** Làm việc phân tách và không can thiệp — **Sai** — phương án này không phải dấu hiệu quyết định của các giới hữu quan; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **C.** Cố định và không thay đổi theo thời gian — **Sai** — phương án này không phải dấu hiệu quyết định của các giới hữu quan; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Độc lập và không tương tác — **Sai** — phương án này không phải dấu hiệu quyết định của các giới hữu quan; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa các giới hữu quan; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -477,9 +549,12 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 
 **Phân tích từng phương án:**
 - **A.** Chuỗi giá trị — **Đúng** vì khớp với chuỗi giá trị; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 823-835.
-- **B.** Khảo sát khách hàng — **Sai.** Nhiễu: Khảo sát khách hàng.
-- **C.** Kênh phân phối — **Sai.** Nhiễu: Kênh phân phối.
-- **D.** Chỉ số trung thành khách hàng — **Sai.** Nhiễu: Chỉ số trung thành khách.
+- **B.** Khảo sát khách hàng — **Sai** — phương án này không phải dấu hiệu quyết định của chuỗi giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **C.** Kênh phân phối — **Sai** — phương án này không phải dấu hiệu quyết định của chuỗi giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Chỉ số trung thành khách hàng — **Sai** — phương án này không phải dấu hiệu quyết định của chuỗi giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa chuỗi giá trị; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -493,10 +568,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Lợi ích kinh tế, chức năng và tâm lý theo cảm nhận của khách hàng
 
 **Phân tích từng phương án:**
-- **A.** Chỉ giá trị tiền bạc của sản phẩm — **Sai.** Nhiễu: Chỉ giá trị tiền bạc.
-- **B.** Chỉ sản phẩm và con người của doanh nghiệp — **Sai.** Nhiễu: Chỉ sản phẩm và con.
-- **C.** Chỉ dịch vụ và hình ảnh doanh nghiệp — **Sai.** Nhiễu: Chỉ dịch vụ và hình.
+- **A.** Chỉ giá trị tiền bạc của sản phẩm — **Sai** — phương án này không phải dấu hiệu quyết định của tổng lợi ích khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **B.** Chỉ sản phẩm và con người của doanh nghiệp — **Sai** — phương án này không phải dấu hiệu quyết định của tổng lợi ích khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **C.** Chỉ dịch vụ và hình ảnh doanh nghiệp — **Sai** — phương án này không phải dấu hiệu quyết định của tổng lợi ích khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **D.** Lợi ích kinh tế, chức năng và tâm lý theo cảm nhận của khách hàng — **Đúng** vì khớp với tổng lợi ích khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 580-583.
+
+**Lưu ý:** Bám vào từ khóa tổng lợi ích khách hàng; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -510,10 +588,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Quá trình thu nhận khách hàng
 
 **Phân tích từng phương án:**
-- **A.** Quá trình xây dựng tài sản khách hàng — **Sai.** Nhiễu: Quá trình xây dựng tài.
+- **A.** Quá trình xây dựng tài sản khách hàng — **Sai** — phương án này không phải dấu hiệu quyết định của quá trình CRM; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **B.** Quá trình quản trị quan hệ khách hàng — **Đúng** vì khớp với quá trình CRM; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 860-863.
-- **C.** Quá trình nhận diện khách hàng mới — **Sai.** Nhiễu: Quá trình nhận diện khách.
-- **D.** Quá trình thu nhận khách hàng — **Sai.** Nhiễu: Quá trình thu nhận khách.
+- **C.** Quá trình nhận diện khách hàng mới — **Sai** — phương án này không phải dấu hiệu quyết định của quá trình CRM; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Quá trình thu nhận khách hàng — **Sai** — phương án này không phải dấu hiệu quyết định của quá trình CRM; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa quá trình CRM; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -527,10 +608,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Giảm giá thường xuyên thấp hơn đối thủ
 
 **Phân tích từng phương án:**
-- **A.** Nâng cao chất lượng sản phẩm — **Sai.** Nhiễu: Nâng cao chất lượng sản.
-- **B.** Thoả mãn nhu cầu khách hàng tốt hơn bằng dịch vụ hậu mãi — **Sai.** Nhiễu: Thoả mãn nhu cầu khách.
+- **A.** Nâng cao chất lượng sản phẩm — **Sai** — phương án này không phải dấu hiệu quyết định của ràng buộc lòng trung thành; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **B.** Thoả mãn nhu cầu khách hàng tốt hơn bằng dịch vụ hậu mãi — **Sai** — phương án này không phải dấu hiệu quyết định của ràng buộc lòng trung thành; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **C.** Gia tăng mối ràng buộc với họ — **Đúng** vì khớp với ràng buộc lòng trung thành; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1122-1163.
-- **D.** Giảm giá thường xuyên thấp hơn đối thủ — **Sai.** Nhiễu: Giảm giá thường xuyên thấp.
+- **D.** Giảm giá thường xuyên thấp hơn đối thủ — **Sai** — phương án này không phải dấu hiệu quyết định của ràng buộc lòng trung thành; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa ràng buộc lòng trung thành; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -544,10 +628,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Xây dựng quan hệ với mọi đối tượng khách hàng
 
 **Phân tích từng phương án:**
-- **A.** Cải thiện lợi nhuận từ chăm sóc khách hàng mới — **Sai.** Nhiễu: Cải thiện lợi nhuận từ.
+- **A.** Cải thiện lợi nhuận từ chăm sóc khách hàng mới — **Sai** — phương án này không phải dấu hiệu quyết định của nhiệm vụ CRM; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **B.** Tập trung phát triển và duy trì quan hệ với khách hàng có giá trị — **Đúng** vì khớp với nhiệm vụ CRM; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 1000-1008.
-- **C.** Làm tăng lượng khách hàng mới — **Sai.** Nhiễu: Làm tăng lượng khách hàng.
-- **D.** Xây dựng quan hệ với mọi đối tượng khách hàng — **Sai.** Nhiễu: Xây dựng quan hệ với.
+- **C.** Làm tăng lượng khách hàng mới — **Sai** — phương án này không phải dấu hiệu quyết định của nhiệm vụ CRM; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Xây dựng quan hệ với mọi đối tượng khách hàng — **Sai** — phương án này không phải dấu hiệu quyết định của nhiệm vụ CRM; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa nhiệm vụ CRM; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -562,9 +649,12 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 
 **Phân tích từng phương án:**
 - **A.** Tẩy chay và lan truyền tin tức không tốt về sản phẩm — **Đúng** vì khớp với bất mãn khách hàng; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 648-659.
-- **B.** Viết thư/gọi hotline — **Sai.** Nhiễu: Viết thư/gọi hotline.
-- **C.** Tìm sản phẩm thay thế lần kế tiếp — **Sai.** Nhiễu: Tìm sản phẩm thay thế.
-- **D.** Không mua lại tất cả sản phẩm khác của doanh nghiệp — **Sai.** Nhiễu: Không mua lại tất cả.
+- **B.** Viết thư/gọi hotline — **Sai** — phương án này không phải dấu hiệu quyết định của bất mãn khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **C.** Tìm sản phẩm thay thế lần kế tiếp — **Sai** — phương án này không phải dấu hiệu quyết định của bất mãn khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Không mua lại tất cả sản phẩm khác của doanh nghiệp — **Sai** — phương án này không phải dấu hiệu quyết định của bất mãn khách hàng; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa bất mãn khách hàng; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -578,10 +668,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Vai trò của marketing trong quá trình kinh doanh
 
 **Phân tích từng phương án:**
-- **A.** Số lượng sản phẩm được sản xuất — **Sai.** Nhiễu: Số lượng sản phẩm được.
-- **B.** Quy trình sản xuất và phân phối sản phẩm — **Sai.** Nhiễu: Quy trình sản xuất và.
-- **C.** Loại hình khách hàng hướng đến — **Sai.** Nhiễu: Loại hình khách hàng hướng.
+- **A.** Số lượng sản phẩm được sản xuất — **Sai** — phương án này không phải dấu hiệu quyết định của quá trình sáng tạo giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **B.** Quy trình sản xuất và phân phối sản phẩm — **Sai** — phương án này không phải dấu hiệu quyết định của quá trình sáng tạo giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **C.** Loại hình khách hàng hướng đến — **Sai** — phương án này không phải dấu hiệu quyết định của quá trình sáng tạo giá trị; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **D.** Vai trò của marketing trong quá trình kinh doanh — **Đúng** vì khớp với quá trình sáng tạo giá trị; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 877-895.
+
+**Lưu ý:** Bám vào từ khóa quá trình sáng tạo giá trị; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -595,10 +688,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Quá trình CRM
 
 **Phân tích từng phương án:**
-- **A.** Giá trị trọn đời khách hàng — **Sai.** Nhiễu: Giá trị trọn đời khách.
-- **B.** Hình ảnh doanh nghiệp — **Sai.** Nhiễu: Hình ảnh doanh nghiệp.
+- **A.** Giá trị trọn đời khách hàng — **Sai** — phương án này không phải dấu hiệu quyết định của giá trị cảm nhận; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **B.** Hình ảnh doanh nghiệp — **Sai** — phương án này không phải dấu hiệu quyết định của giá trị cảm nhận; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **C.** Giá trị cảm nhận của khách hàng — **Đúng** vì khớp với giá trị cảm nhận; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-570.
-- **D.** Quá trình CRM — **Sai.** Nhiễu: Quá trình CRM.
+- **D.** Quá trình CRM — **Sai** — phương án này không phải dấu hiệu quyết định của giá trị cảm nhận; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa giá trị cảm nhận; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -612,10 +708,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Sự kết hợp chất lượng, dịch vụ và giá cả
 
 **Phân tích từng phương án:**
-- **A.** Chất lượng sản phẩm — **Sai.** Nhiễu: Chất lượng sản phẩm.
-- **B.** Sự chênh lệch giữa giá trị và thỏa mãn — **Sai.** Nhiễu: Sự chênh lệch giữa giá.
+- **A.** Chất lượng sản phẩm — **Sai** — phương án này không phải dấu hiệu quyết định của giá trị cảm nhận; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **B.** Sự chênh lệch giữa giá trị và thỏa mãn — **Sai** — phương án này không phải dấu hiệu quyết định của giá trị cảm nhận; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **C.** Sự chênh lệch giữa giá trị lợi ích trừ đi chi phí khách hàng nhận được — **Đúng** vì khớp với giá trị cảm nhận; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-570.
-- **D.** Sự kết hợp chất lượng, dịch vụ và giá cả — **Sai.** Nhiễu: Sự kết hợp chất lượng,.
+- **D.** Sự kết hợp chất lượng, dịch vụ và giá cả — **Sai** — phương án này không phải dấu hiệu quyết định của giá trị cảm nhận; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa giá trị cảm nhận; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -629,10 +728,13 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Tổng lợi ích khách hàng kỳ vọng nhận được
 
 **Phân tích từng phương án:**
-- **A.** Tổng chi phí khách hàng phải trả — **Sai.** Nhiễu: Tổng chi phí khách hàng.
+- **A.** Tổng chi phí khách hàng phải trả — **Sai** — phương án này không phải dấu hiệu quyết định của giá trị cảm nhận; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **B.** Chênh lệch giữa tổng lợi ích và tổng chi phí khách hàng cảm nhận từ một chào hàng — **Đúng** vì khớp với giá trị cảm nhận; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 568-570.
-- **C.** Cảm nhận chủ quan về chất lượng sản phẩm — **Sai.** Nhiễu: Cảm nhận chủ quan về.
-- **D.** Tổng lợi ích khách hàng kỳ vọng nhận được — **Sai.** Nhiễu: Tổng lợi ích khách hàng.
+- **C.** Cảm nhận chủ quan về chất lượng sản phẩm — **Sai** — phương án này không phải dấu hiệu quyết định của giá trị cảm nhận; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **D.** Tổng lợi ích khách hàng kỳ vọng nhận được — **Sai** — phương án này không phải dấu hiệu quyết định của giá trị cảm nhận; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+
+**Lưu ý:** Bám vào từ khóa giá trị cảm nhận; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.
+
 
 ---
 
@@ -646,10 +748,10 @@ extensions_file: "../extensions/quan-tri-marketing-1-luyen-tap-trac-nghiem-chuon
 - **D.** Quản lý tốt quy trình là điều không cần thiết
 
 **Phân tích từng phương án:**
-- **A.** Trung gian là giới hữu quan duy nhất cần thỏa mãn — **Sai.** Nhiễu: Trung gian là giới hữu.
-- **B.** Phải thỏa mãn tối đa mọi yêu cầu của tất cả bên hữu quan — **Sai.** Nhiễu: Phải thỏa mãn tối đa.
+- **A.** Trung gian là giới hữu quan duy nhất cần thỏa mãn — **Sai** — phương án này không phải dấu hiệu quyết định của tổ chức và văn hóa doanh nghiệp; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
+- **B.** Phải thỏa mãn tối đa mọi yêu cầu của tất cả bên hữu quan — **Sai** — phương án này không phải dấu hiệu quyết định của tổ chức và văn hóa doanh nghiệp; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 - **C.** Tập trung vào cơ cấu tổ chức và văn hoá doanh nghiệp là chìa khoá thành công — **Đúng** vì khớp với tổ chức và văn hóa doanh nghiệp; xem `lectures/md/TXMAGM0411_QTMKT1_Baigiangtext.md` dòng 751-762.
-- **D.** Quản lý tốt quy trình là điều không cần thiết — **Sai.** Nhiễu: Quản lý tốt quy trình.
+- **D.** Quản lý tốt quy trình là điều không cần thiết — **Sai** — phương án này không phải dấu hiệu quyết định của tổ chức và văn hóa doanh nghiệp; đối chiếu với dòng bài giảng ở đáp án đúng sẽ thấy trọng tâm khác.
 
 ---
 
@@ -663,3 +765,5 @@ Shopee thường tăng giá trị cảm nhận bằng voucher, miễn phí vận
 
 ### Ví dụ 3: Vinamilk/Kun - truyền thông giá trị
 Các chiến dịch hoạt hình, trường học hoặc nội dung cho trẻ em giúp thương hiệu truyền thông giá trị tới khách hàng mục tiêu. Ví dụ này gắn với Câu 21 về truyền thông giá trị trong quá trình sáng tạo và chuyển giao giá trị.
+
+**Lưu ý:** Bám vào từ khóa tổ chức và văn hóa doanh nghiệp; phương án đúng phải khớp trực tiếp với câu trích bài giảng, không chỉ nghe có vẻ liên quan.

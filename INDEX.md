@@ -25,6 +25,9 @@
 - `TODO.md` — việc dang dở / handoff giữa các session (đọc đầu mỗi session)
 
 ## Subjects hiện có
+- `subjects/Chiến lược kinh doanh quốc tế/` — Chiến lược kinh doanh quốc tế
+- `subjects/Quản trị chất lượng/` — Quản trị chất lượng
+- `subjects/Tiếng Anh thương mại 2/` — Tiếng Anh thương mại 2
 - `subjects/Khởi sự kinh doanh/` — Start up (3 tín chỉ, Khoa Khởi sự kinh doanh)
 - `subjects/Quản trị chiến lược/` — Quản trị Chiến lược (3 tín chỉ, Khoa QTKD)
 - `subjects/Quản trị tài chính/` — Financial management (3 tín chỉ, Khoa QTTC)

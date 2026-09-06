@@ -1,0 +1,23 @@
+subject_code: "AF"
+subject_name: "Nguyên lý kế toán"
+credits: 3
+faculty: "Business Administration"
+description: "Cung cấp kiến thức nền tảng về nguyên lý kế toán, bao gồm các khái niệm, nguyên tắc, quy trình ghi nhận, tổng hợp và trình bày thông tin kinh tế - tài chính trong doanh nghiệp."
+learning_outcomes:
+  - "Hiểu và phân biệt các khái niệm kế toán cơ bản: tài sản, nợ phải trả, vốn chủ sở hữu, doanh thu, chi phí"
+  - "Nắm vững nguyên tắc kế toán và phương pháp ghi nhận các nghiệp vụ kinh tế"
+  - "Lập và đọc hiểu các báo cáo tài chính: Bảng cân đối kế toán, Báo cáo kết quả hoạt động kinh doanh, Báo cáo lưu chuyển tiền tệ"
+  - "Thực hiện các bút toán điều chỉnh cuối kỳ và tính giá thành sản phẩm"
+  - "Phân tích và đánh giá tình hình tài chính doanh nghiệp từ báo cáo tài chính"
+lectures_order:
+  - "TXFACC0111_NLKT_BGtext.md"
+  - "TXFACC0111_NLKT_Baitapthuchanh_DA.md"
+related_subjects:
+  - "Quản trị tài chính"
+  - "Kinh tế thương mại đại cương"
+  - "Nguyên lý thống kê"
+references:
+  - "Hệ thống Chuẩn mực Kế toán Việt Nam (VAS)"
+  - "IAS/IFRS Fundamentals"
+media_types: []
+audio_language: ""
