@@ -1,11 +1,13 @@
 ---
 exercise_file: "Quản trị chất lượng.md"
 solved_at: "2026-09-06T15:56:55.485580+00:00"
-status: "draft"
-review_round: 0
+status: "reviewed_with_notes"
+review_round: 1
 total_questions: 23
 chapter: 2
 subject: "quan-tri-chat-luong"
+extensions_file: "../extensions/quan-tri-chat-luong_extended.md"
+examples_added: true
 ---
 
 # Quản trị chất lượng — Lời giải trắc nghiệm chương 2
@@ -50,7 +52,7 @@ B.7 bước
 C.8 bước  
 D.5 bước
 
-**Đáp án: A.** Căn cứ: [Text.md, dòng 1380-1381](../lectures/md/Text.md).
+**Đáp án: A** Căn cứ: [Text.md, dòng 1380-1381](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -72,7 +74,7 @@ B.Thay đổi lớn về máy móc, công nghệ và kỹ thuật sản xuất.
 C.Sự tham gia tích cực của mọi thành viên trong tổ chức.  
 D.Sự đầu tư vốn lớn.
 
-**Đáp án: C.** Căn cứ: [Text.md, dòng 1796-1804](../lectures/md/Text.md).
+**Đáp án: C** Căn cứ: [Text.md, dòng 1796-1804](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -94,7 +96,7 @@ B.Đảm bảo chất lượng dựa trên kiểm tra; (2) Đảm bảo chất l
 C.Đảm bảo chất lượng dựa trên kiểm tra; (2) Đảm bảo chất lượng dựa trên kiểm soát toàn diện quá trình sản xuất và (3) Đảm bảo chất lượng trong suốt chu kỳ sống của sản phẩm, từ nghiên cứu thị trường đến tiêu dùng sản phẩm.  
 D.(1) Đảm bảo chất lượng dựa trên kiểm tra; (2) Đảm bảo chất lượng trong thiết kế và (3) Đảm bảo chất lượng trong quá trình sản xuất.
 
-**Đáp án: C.** Căn cứ: [Text.md, dòng 1518-1521](../lectures/md/Text.md).
+**Đáp án: C** Căn cứ: [Text.md, dòng 1518-1521](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -116,7 +118,7 @@ B.Cần áp dụng vòng tròn quản lý Deming hay vòng tròn P-D-C-A để c
 C.Cải tiến chất lượng phải luôn hướng tới sự thỏa mãn khách hàng và đem lại hiệu quả cho tổ chức.  
 D.Cải tiến chất lượng đòi hỏi sự tham gia của mọi thành viên trong tổ chức.
 
-**Đáp án: A.** Căn cứ: [Text.md, dòng 1683-1717](../lectures/md/Text.md).
+**Đáp án: A** Căn cứ: [Text.md, dòng 1683-1717](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -138,7 +140,7 @@ B.Đảm bảo chất lượng không phải chỉ là việc đảm bảo các 
 C.Lãnh đạo tổ chức phải nhận thức được tầm quan trọng của hoạt động đảm bảo chất lượng. Từ đó, thu hút được sự tham gia của mọi thành viên trong tổ chức vào hoạt động đảm bảo chất lượng.  
 D.Đảm bảo chất lượng phải được thực hiện trong suốt chu kỳ sống của sản phẩm.
 
-**Đáp án: A.** Căn cứ: [Text.md, dòng 1477-1510](../lectures/md/Text.md).
+**Đáp án: A** Căn cứ: [Text.md, dòng 1477-1510](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -160,7 +162,7 @@ B.8 bước
 C.6 bước  
 D.7 bước
 
-**Đáp án: C.** Căn cứ: [Text.md, dòng 1736-1739](../lectures/md/Text.md).
+**Đáp án: C** Căn cứ: [Text.md, dòng 1736-1739](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -182,7 +184,7 @@ B.5 bước
 C.6 bước  
 D.4 bước
 
-**Đáp án: C.** Căn cứ: [Text.md, dòng 1140-1141](../lectures/md/Text.md).
+**Đáp án: C** Căn cứ: [Text.md, dòng 1140-1141](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -204,7 +206,7 @@ B.Sai, kiểm soát chất lượng chỉ cần tập trung vào 2 yếu tố qu
 C.Đúng, chỉ cần kiểm soát 4M  
 D.Sai, kiểm soát chất lượng cần phải kiểm soát thêm các yếu tố khác ngoài 4M.
 
-**Đáp án: D.** Căn cứ: [Text.md, dòng 1258-1263](../lectures/md/Text.md).
+**Đáp án: D** Căn cứ: [Text.md, dòng 1258-1263](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -226,7 +228,7 @@ B.Đảm bảo chất lượng dựa trên kiểm tra.
 C.Đảm bảo chất lượng trong thiết kế.  
 D.Đảm bảo chất lượng dựa trên kiểm soát toàn diện quá trình sản xuất.
 
-**Đáp án: B.** Căn cứ: [Text.md, dòng 1522-1537](../lectures/md/Text.md).
+**Đáp án: B** Căn cứ: [Text.md, dòng 1522-1537](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -248,7 +250,7 @@ B.Bước 4: Xác định nguyên nhân.
 C.Bước 5: Phát triển các ý tưởng mới.  
 D.Bước 2: Nhận dạng và mô tả quá trình.
 
-**Đáp án: D.** Căn cứ: [Text.md, dòng 1762-1766](../lectures/md/Text.md).
+**Đáp án: D** Căn cứ: [Text.md, dòng 1762-1766](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -270,7 +272,7 @@ B.là một phần của quản trị chất lượng tập trung vào việc n�
 C.một phần của quản trị chất lượng, tập trung vào việc lập mục tiêu chất lượng và quy định các quá trình tác nghiệp cần thiết và các nguồn lực có liên quan để thực hiện các mục tiêu chất lượng.  
 D.là một phần của quản trị chất lượng tập trung vào việc thực hiện các yêu cầu chất lượng.
 
-**Đáp án: B.** Căn cứ: [Text.md, dòng 1595-1605](../lectures/md/Text.md).
+**Đáp án: B** Căn cứ: [Text.md, dòng 1595-1605](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -292,7 +294,7 @@ B.Xác định mục tiêu chất lượng
 C.Phân định tập khách hàng mục tiêu  
 D.Tìm hiểu nhu cầu khách hàng
 
-**Đáp án: B.** Căn cứ: [Text.md, dòng 1176-1185](../lectures/md/Text.md).
+**Đáp án: B** Căn cứ: [Text.md, dòng 1176-1185](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -314,7 +316,7 @@ B.Đảm bảo chất lượng
 C.Cải tiến chất lượng  
 D.Kiểm soát chất lượng
 
-**Đáp án: D.** Căn cứ: [Text.md, dòng 1250-1263](../lectures/md/Text.md).
+**Đáp án: D** Căn cứ: [Text.md, dòng 1250-1263](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -336,7 +338,7 @@ B.Nhận dạng và mô tả quá trình
 C.Xác định vấn đề  
 D.Xác định nguyên nhân
 
-**Đáp án: C.** Căn cứ: [Text.md, dòng 1757-1763](../lectures/md/Text.md).
+**Đáp án: C** Căn cứ: [Text.md, dòng 1757-1763](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -358,7 +360,7 @@ B.Thiết lập các phương pháp đo lường
 C.Hành động để san bằng sự khác biệt  
 D.Đo lường hiệu năng/kết quả hiện tại
 
-**Đáp án: C.** Căn cứ: [Text.md, dòng 1453-1463](../lectures/md/Text.md).
+**Đáp án: C** Căn cứ: [Text.md, dòng 1453-1463](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -380,7 +382,7 @@ B.Hoạch định chất lượng
 C.Kiểm soát chất lượng  
 D.Cải tiến chất lượng
 
-**Đáp án: A.** Căn cứ: [Text.md, dòng 1465-1470](../lectures/md/Text.md).
+**Đáp án: A** Căn cứ: [Text.md, dòng 1465-1470](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -402,7 +404,7 @@ B.5 yếu tố
 C.6 yếu tố  
 D.4 yếu tố
 
-**Đáp án: B.** Căn cứ: [Text.md, dòng 1302-1305](../lectures/md/Text.md).
+**Đáp án: B** Căn cứ: [Text.md, dòng 1302-1305](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -424,7 +426,7 @@ B.là điều định tìm kiếm hay nhằm hướng tới có liên quan đế
 C.một phần của quản trị chất lượng, tập trung vào việc lập mục tiêu chất lượng và quy định các quá trình tác nghiệp cần thiết và các nguồn lực có liên quan để thực hiện các mục tiêu chất lượng.  
 D.là một phần của quản trị chất lượng tập trung vào việc thực hiện các yêu cầu chất lượng.
 
-**Đáp án: C.** Căn cứ: [Text.md, dòng 1038-1042](../lectures/md/Text.md).
+**Đáp án: C** Căn cứ: [Text.md, dòng 1038-1042](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -446,7 +448,7 @@ B.Phải chỉ rõ số lượng sản phẩm và dịch vụ cần sản xuất
 C.Phải cụ thể, đo lường được, có thể đạt được, phù hợp và có thời gian hoàn thành rõ ràng thông báo đến các bên liên quan thấu hiểu cùng thực hiện  
 D.Phải tập trung vào việc giảm thiểu chi phí và tăng lợi nhuận mà không cần quan tâm đến khách hàng.
 
-**Đáp án: C.** Căn cứ: [Text.md, dòng 1081-1101](../lectures/md/Text.md).
+**Đáp án: C** Căn cứ: [Text.md, dòng 1081-1101](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -468,7 +470,7 @@ B.Thiết lập quy trình
 C.Hoạch định các công việc nhằm tăng cường kiểm soát và chuyển giao  
 D.Xác định mục tiêu chất lượng
 
-**Đáp án: C.** Căn cứ: [Text.md, dòng 1237-1243](../lectures/md/Text.md).
+**Đáp án: C** Căn cứ: [Text.md, dòng 1237-1243](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -490,7 +492,7 @@ B.Cụ thể hóa và có thể đo lường
 C.Được xác định dựa trên cơ sở  chính sách, chiến lược của tổ chức.  
 D.Gắn với khung thời gian thực hiện
 
-**Đáp án: A.** Căn cứ: [Text.md, dòng 1087-1101](../lectures/md/Text.md).
+**Đáp án: A** Căn cứ: [Text.md, dòng 1087-1101](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -512,7 +514,7 @@ B.Xác định mục tiêu chất lượng và xác định các phương pháp 
 C.Kiểm soát các quá trình tạo ra sản phẩm và đo lường hiệu quả kinh doanh của tổ chức.  
 D.Xác định nguyên nhân vấn đề và phát triển các ý tưởng mới.
 
-**Đáp án: B.** Căn cứ: [Text.md, dòng 1077-1081](../lectures/md/Text.md).
+**Đáp án: B** Căn cứ: [Text.md, dòng 1077-1081](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -534,7 +536,7 @@ B.Rủi ro trong thực hiện quá trình
 C.Kết quả của quá trình (đầu ra \- đầu vào)  
 D.Đầu ra của quá trình
 
-**Đáp án: B.** Căn cứ: [Text.md, dòng 1767-1778](../lectures/md/Text.md).
+**Đáp án: B** Căn cứ: [Text.md, dòng 1767-1778](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -544,3 +546,9 @@ D.Đầu ra của quá trình
 - **D.** Đầu ra quá trình có trong danh sách.
 
 **Lưu ý:** Chọn theo danh sách của giáo trình; thực tế quản trị vẫn có thể bổ sung đo lường rủi ro.
+
+
+## Ví dụ thực tế học nhanh
+
+- **Vinamilk** là ví dụ gần gũi khi học về chất lượng hướng khách hàng, chi phí phòng ngừa và hệ thống quản lý: doanh nghiệp cần chuẩn hóa từ nguyên liệu, sản xuất, kiểm nghiệm đến phản hồi thị trường.
+- **Toyota** minh họa rõ quản trị chất lượng hiện đại: chất lượng được tạo trong quá trình, nhân viên tham gia cải tiến, và lỗi được xử lý tại nguồn thay vì chỉ kiểm tra ở cuối dây chuyền.

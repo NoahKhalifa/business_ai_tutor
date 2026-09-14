@@ -10,7 +10,7 @@
 > - **KHÔNG xóa mục `pending` mà chưa làm.** Nếu không định làm nữa → mark `❌ Bỏ qua` + lý do.
 > - Cập nhật `Cập nhật lần cuối:` ở đầu file mỗi khi thay đổi.
 
-**Cập nhật lần cuối:** 2026-08-01 00:00 (phát hiện review Quản trị marketing lọt lỗi MCQ compact ở Ch1/Ch2/Ch5)
+**Cập nhật lần cuối:** 2026-09-15 01:05 (đã xóa boilerplate explanation Tiếng Anh thương mại 2)
 
 ---
 
@@ -141,7 +141,27 @@
 
 ## 💡 Việc khác — Ý tưởng/đề xuất
 
-_(Trống — T-20260612-01 đã hoàn thành 2026-06-13.)_
+- **[T-20260914-01]** — pending — **Ưu tiên**: THẤP
+  - **Mô tả**: Khi giải toàn bộ đề `Quản trị chất lượng`, phát hiện 2 câu trắc nghiệm không có đáp án A/B/C/D duy nhất theo bài giảng hiện có.
+  - **Hành động cụ thể**:
+    1. Xác minh với PDF/nguồn đề gốc hoặc giảng viên: Chương 4 Câu 20, vì bài giảng phân loại phiếu kiểm tra thành "ghi chép" và "xác nhận" nhưng đề không có phương án ghép đúng cặp này.
+    2. Xác minh Chương 7 Câu 5, vì các yếu tố trong cả bốn phương án đều có thể ảnh hưởng tới chương trình/phạm vi đánh giá theo bài giảng.
+    3. Nếu nhận được đáp án chính thức, cập nhật `quan-tri-chat-luong-chuong-4_solution.md`, `quan-tri-chat-luong-chuong-7_solution.md` và review tương ứng.
+  - **File liên quan**:
+    - `subjects/Quản trị chất lượng/solutions/quan-tri-chat-luong-chuong-4_solution.md`
+    - `subjects/Quản trị chất lượng/solutions/quan-tri-chat-luong-chuong-7_solution.md`
+    - `subjects/Quản trị chất lượng/solutions/quan-tri-chat-luong-chuong-4_review.md`
+    - `subjects/Quản trị chất lượng/solutions/quan-tri-chat-luong-chuong-7_review.md`
+
+- **[T-20260914-02]** — pending — **Ưu tiên**: THẤP
+  - **Mô tả**: Khi giải đề `Chiến lược kinh doanh quốc tế`, phát hiện Chương 1 Câu 24 hỏi "Trong điều kiện nào doanh nghiệp KHÔNG nên quốc tế hoá?" nhưng cả bốn phương án đều là các lợi thế/điều kiện thuận lợi cho quốc tế hóa.
+  - **Hành động cụ thể**:
+    1. Xác minh với đề gốc hoặc đáp án chính thức của giảng viên xem câu hỏi có bị thiếu chữ "không" hoặc thiếu phương án phủ định hay không.
+    2. Nếu có đáp án chính thức, cập nhật `chien-luoc-kinh-doanh-quoc-te-chuong-1_solution.md`, review chương 1 và file tổng hợp đáp án.
+  - **File liên quan**:
+    - `subjects/Chiến lược kinh doanh quốc tế/solutions/chien-luoc-kinh-doanh-quoc-te-chuong-1_solution.md`
+    - `subjects/Chiến lược kinh doanh quốc tế/solutions/chien-luoc-kinh-doanh-quoc-te-chuong-1_review.md`
+    - `subjects/Chiến lược kinh doanh quốc tế/solutions/chien-luoc-kinh-doanh-quoc-te-dap-an-tong-hop.md`
 
 ---
 
@@ -281,3 +301,28 @@ _(Trống — T-20260612-01 đã hoàn thành 2026-06-13.)_
 ## ❌ Bỏ qua
 
 _(Trống.)_
+
+### [T-20260914-01] Tiếng Anh thương mại 2 — cần transcript audio để chốt câu Listening — *pending*
+- User đã thêm 9 file audio vào `subjects/Tiếng Anh thương mại 2/exercises/audio/`:
+  - `chapter 5  audio 1.mp3`, `chapter 5 audio 2.mp3`
+  - `chapter 6 audio 1.mp3`, `chapter 6 audio 2.mp3`
+  - `chapter 7 audio 1.mp3`, `chapter 7 audio 2.mp3`
+  - `chapter 8 audio 1.mp3`, `chapter 8 audio 2.mp3`, `chapter 8 audio 3.mp3`
+- Đã cập nhật `metadata.yaml` để có `media_types: ["video", "audio"]` và `audio_language: "en"`.
+- Đã rewrite solution Unit 5–8 theo format có bảng đáp án nhanh + giải thích chi tiết từng câu; các câu Listening đã map với audio tương ứng nhưng script proof vẫn pending.
+- Đã tạo lời giải draft cho phần không cần nghe:
+  - `solutions/tieng-anh-thuong-mai-2-unit-5_solution.md`
+  - `solutions/tieng-anh-thuong-mai-2-unit-6_solution.md`
+  - `solutions/tieng-anh-thuong-mai-2-unit-7_solution.md`
+  - `solutions/tieng-anh-thuong-mai-2-unit-8_solution.md`
+  - `solutions/tieng-anh-thuong-mai-2-dap-an-tong-hop.md`
+- ✅ Đã nhận `exercises/md/audio_transcript.md`, chuẩn hóa thành 9 file `_transcript.md`, và điền đáp án Listening cho Unit 5 câu 26–45, Unit 6 câu 26–45, Unit 7 câu 26–45, Unit 8 câu 26–55.
+- ✅ Solution Unit 5–8 đã có audio file + transcript file + script proof ngắn cho từng câu Listening.
+- ✅ Đã tạo venv `/tmp/be2-audio-venv`, cài `faster-whisper` + `static-ffmpeg`, transcribe trực tiếp 9 MP3 bằng `tiny.en`, và so sánh với transcript user cung cấp.
+- ✅ `audio_transcript_review.md` hiện là `PASS_MP3_VERIFIED`; solution/review Unit 5–8 đã chuyển sang trạng thái `draft_audio_mp3_verified` / `PASS_MP3_VERIFIED`.
+- Ghi chú: Whisper tiny có thể khác dấu câu/segmentation, nhưng keyword overlap đủ cao và nội dung chính khớp cả 9 file.
+
+
+### [T-20260915-03] Tiếng Anh thương mại 2 — cleanup boilerplate explanations — *hoàn thành 2026-09-15*
+- Đã rewrite explanation trong solution Unit 5–8 để không còn cụm lặp “vì đây là từ/cấu trúc đúng...”.
+- Audit: Unit 5/6/7/8 có số giải thích unique bằng đúng số câu; repeat_groups = 0.

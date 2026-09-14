@@ -8,5 +8,5 @@ lectures_order: []
 related_subjects: []
 references: []
 course_url: "https://dttx.tmu.edu.vn/my-courses/4201/"
-media_types: []
-audio_language: ""
+media_types: ["video", "audio"]
+audio_language: "en"

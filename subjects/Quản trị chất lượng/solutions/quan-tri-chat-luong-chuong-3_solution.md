@@ -1,11 +1,13 @@
 ---
 exercise_file: "Quản trị chất lượng.md"
 solved_at: "2026-09-06T15:58:30.964125+00:00"
-status: "draft"
-review_round: 0
+status: "reviewed_with_notes"
+review_round: 1
 total_questions: 23
 chapter: 3
 subject: "quan-tri-chat-luong"
+extensions_file: "../extensions/quan-tri-chat-luong_extended.md"
+examples_added: true
 ---
 
 # Quản trị chất lượng — Lời giải trắc nghiệm chương 3
@@ -50,7 +52,7 @@ B.chênh lệch giữa nhận thức của lãnh đạo về mong muốn của k
 C.độ lệch giữa chất lượng dịch vụ thực tế và mong đợi của khách hàng dưới tác động của các yếu tố bên ngoài như quảng cáo, tiếp thị, và các thông tin khác tới khách hàng.  
 D.độ lệch giữa dịch vụ mong đợi và nhận thức lãnh đạo về mức chất lượng dịch vụ cần phải cung ứng.
 
-**Đáp án: C (theo bài giảng).** Căn cứ: [Text.md, dòng 2149-2156](../lectures/md/Text.md).
+**Đáp án: C** (theo bài giảng). Căn cứ: [Text.md, dòng 2149-2156](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -72,7 +74,7 @@ B.Tính cá biệt của sản phẩm dịch vụ.
 C.Tính không lưu trữ được  
 D.Đặc trưng hỗn hợp (tính không tách rời).
 
-**Đáp án: A.** Căn cứ: [Text.md, dòng 1943-1954](../lectures/md/Text.md).
+**Đáp án: A** Căn cứ: [Text.md, dòng 1943-1954](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -94,7 +96,7 @@ B.Tính không lưu trữ được
 C.Tính cá biệt  
 D.Tính vô hình
 
-**Đáp án: C.** Căn cứ: [Text.md, dòng 1934-1942](../lectures/md/Text.md).
+**Đáp án: C** Căn cứ: [Text.md, dòng 1934-1942](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -116,7 +118,7 @@ B.Tính khác biệt, tính vô hình, tính không lưu trữ được.
 C.Tính cá biệt, tính vô hình, tính dự trữ, tính không tách rời.  
 D.Tính cá biệt, tính vô hình, tính không lưu trữ được, tính không tách rời.
 
-**Đáp án: D.** Căn cứ: [Text.md, dòng 1926-1963](../lectures/md/Text.md).
+**Đáp án: D** Căn cứ: [Text.md, dòng 1926-1963](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -138,7 +140,7 @@ B.Khả năng cung cấp lòng tin và tạo sự tín nhiệm của nhân viên
 C.Khả năng cung cấp, thực hiện dịch vụ một cách tin cậy và chính xác đúng như đã cam kết với khách hàng.  
 D.Khả năng cung cấp các chứng cứ vật chất của dịch vụ, điều kiện cơ sở trang thiết bị tiến hành dịch vụ và hình thức bên ngoài của nhân viên phục vụ.
 
-**Đáp án: B.** Căn cứ: [Text.md, dòng 2194-2202](../lectures/md/Text.md).
+**Đáp án: B** Căn cứ: [Text.md, dòng 2194-2202](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -160,7 +162,7 @@ B.Lập một kế hoạch dịch vụ theo thời gian cố định.
 C.Sử dụng hệ thống hẹn trước.  
 D.Tăng quá trình tiếp xúc với khách hàng.
 
-**Đáp án: D (phù hợp nhất).** Căn cứ: [Text.md, dòng 2294-2307](../lectures/md/Text.md).
+**Đáp án: D** (phù hợp nhất). Căn cứ: [Text.md, dòng 2294-2307](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -182,7 +184,7 @@ B.Khả năng cung cấp, thực hiện dịch vụ một cách tin cậy và ch
 C.Khả năng thể hiện sự quan tâm, lưu ý cá nhân đối với từng khách hàng.  
 D.Khả năng cung cấp các chứng cứ vật chất của dịch vụ, điều kiện cơ sở trang thiết bị tiến hành dịch vụ và hình thức bên ngoài của nhân viên phục vụ.
 
-**Đáp án: B.** Căn cứ: [Text.md, dòng 2194-2202](../lectures/md/Text.md).
+**Đáp án: B** Căn cứ: [Text.md, dòng 2194-2202](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -204,7 +206,7 @@ B.Cho kết quả chính xác, độ tin cậy cao hơn so với mô hình SERVQ
 C.Đơn giản, dễ thực hiện, ít tốn thời gian và chi phí khảo sát.  
 D.Kiểm tra được toàn diện và triệt để các nhu cầu dịch vụ.
 
-**Đáp án: D (dự kiến).** Căn cứ: [Text.md, dòng 2191-2202](../lectures/md/Text.md).
+**Đáp án: D** (dự kiến). Căn cứ: [Text.md, dòng 2191-2202](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -226,7 +228,7 @@ B.Xây dựng quy định cung cấp dịch vụ
 C.Xây dựng bản mô tả dịch vụ  
 D.Xây dựng quy định kiểm soát chất lượng
 
-**Đáp án: C.** Căn cứ: [Text.md, dòng 2354-2366](../lectures/md/Text.md).
+**Đáp án: C** Căn cứ: [Text.md, dòng 2354-2366](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -248,7 +250,7 @@ B.Phải có các chứng cứ vật chất của dịch vụ, các điều ki�
 C.Khả năng cung cấp lòng tin và tạo sự tín nhiệm của nhân viên phục vụ đối với khách hàng.  
 D.Khả năng cung cấp, thực hiện dịch vụ một cách tin cậy và chính xác đúng như đã cam kết với khách hàng.
 
-**Đáp án: B.** Căn cứ: [Text.md, dòng 2194-2202](../lectures/md/Text.md).
+**Đáp án: B** Căn cứ: [Text.md, dòng 2194-2202](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -270,7 +272,7 @@ B.quá trình cung ứng cho khách hàng những dịch vụ theo đúng nhữn
 C.độ lệch giữa chất lượng cảm nhận và mong đợi của khách hàng là sự tổng hợp của các khoảng cách.  
 D.độ lệch giữa dịch vụ mong đợi và nhận thức lãnh đạo về mức chất lượng dịch vụ cần phải cung ứng.
 
-**Đáp án: C.** Căn cứ: [Text.md, dòng 2149-2160](../lectures/md/Text.md).
+**Đáp án: C** Căn cứ: [Text.md, dòng 2149-2160](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -292,7 +294,7 @@ B.độ lệch giữa chất lượng dịch vụ thực tế và mong đợi c�
 C.quá trình cung ứng cho khách hàng những dịch vụ theo đúng những gì đã thiết kế.  
 D.độ lệch giữa dịch vụ mong đợi và nhận thức lãnh đạo về mức chất lượng dịch vụ cần phải cung ứng.
 
-**Đáp án: D.** Căn cứ: [Text.md, dòng 2149-2156](../lectures/md/Text.md).
+**Đáp án: D** Căn cứ: [Text.md, dòng 2149-2156](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -314,7 +316,7 @@ B.Sử dụng kho tàng trữ để duy trì hoạt động sản xuất.
 C.Lập kế hoạch dịch vụ theo thời gian cố định trong năm.  
 D.Thay đổi thời gian về cầu của khách hàng.
 
-**Đáp án: A.** Căn cứ: [Text.md, dòng 2282-2293](../lectures/md/Text.md).
+**Đáp án: A** Căn cứ: [Text.md, dòng 2282-2293](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -336,7 +338,7 @@ B.Độ tin cậy, Sự đảm bảo, Tính hữu hình, Sự thấu cảm và T
 C.Độ đồng nhất, Sự đảm bảo, Tính hữu hình, Sự thấu cảm và Độ an toàn.  
 D.Độ tin cậy, Tinh thần trách nhiệm, Năng lực, Khả năng tiếp cận, Tác phong của nhân viên, Kỹ năng giao tiếp, Sự tín nhiệm, Độ an toàn, Sự thấu hiểu của khách hàng và Tính hữu hình.
 
-**Đáp án: B.** Căn cứ: [Text.md, dòng 2191-2202](../lectures/md/Text.md).
+**Đáp án: B** Căn cứ: [Text.md, dòng 2191-2202](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -358,7 +360,7 @@ B.Sự cảm nhận của khách hàng khi sử dụng sản phẩm dịch vụ.
 C.Sự mong đợi của khách hàng khi sử dụng sản phẩm dịch vụ.  
 D.Sự thỏa mãn của khách hàng được tính bằng hiệu số của cảm nhận và sự mong đợi của khách hàng khi sử dụng sản phẩm dịch vụ.
 
-**Đáp án: D.** Căn cứ: [Text.md, dòng 2020-2035](../lectures/md/Text.md).
+**Đáp án: D** Căn cứ: [Text.md, dòng 2020-2035](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -380,7 +382,7 @@ B.Phải có các chứng cứ vật chất của dịch vụ, các điều ki�
 C.D.  Sự quan tâm, lưu ý cá nhân đối với từng khách hàng.  
 D.Khả năng cung cấp lòng tin và tạo sự tín nhiệm của nhân viên phục vụ đối với khách hàng.
 
-**Đáp án: A.** Căn cứ: [Text.md, dòng 2194-2202](../lectures/md/Text.md).
+**Đáp án: A** Căn cứ: [Text.md, dòng 2194-2202](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -402,7 +404,7 @@ B.Dễ dàng nâng cao sự hài lòng của khách hàng hơn.
 C.Có thể dự báo được nhu cầu của khách hàng.  
 D.Khó khăn hơn trong việc đo lường chất lượng dịch vụ.
 
-**Đáp án: D.** Căn cứ: [Text.md, dòng 2267-2281](../lectures/md/Text.md).
+**Đáp án: D** Căn cứ: [Text.md, dòng 2267-2281](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -424,7 +426,7 @@ B.độ lệch giữa chất lượng dịch vụ thực tế và mong đợi c�
 C.quá trình cung ứng cho khách hàng những dịch vụ theo đúng những gì đã thiết kế.  
 D.chênh lệch giữa nhận thức của lãnh đạo về mong muốn của khách hàng và biến nhận thức này thành các thông số và chỉ tiêu cụ thể nhằm thiết kế dịch vụ đáp ứng đúng nhu cầu của khách hàng.
 
-**Đáp án: C (theo ý đề).** Căn cứ: [Text.md, dòng 2149-2156](../lectures/md/Text.md).
+**Đáp án: C** (theo ý đề). Căn cứ: [Text.md, dòng 2149-2156](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -446,7 +448,7 @@ B.Khả năng cung cấp, thực hiện dịch vụ một cách tin cậy và ch
 C.Sự quan tâm, lưu ý cá nhân đối với từng khách hàng.  
 D.Khả năng cung cấp lòng tin và tạo sự tín nhiệm của nhân viên phục vụ đối với khách hàng.
 
-**Đáp án: C.** Căn cứ: [Text.md, dòng 2194-2202](../lectures/md/Text.md).
+**Đáp án: C** Căn cứ: [Text.md, dòng 2194-2202](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -468,7 +470,7 @@ B.Thiết kế dịch vụ, Cung ứng dịch vụ và Cải tiến nâng cao ch
 C.Quá trình Marketing, Mô tả dịch vụ, Quá trình thiết kế, Tổ chức thực hiện việc cung ứng dịch vụ và Hoạt động cải tiến nâng cao chất lượng dịch vụ.  
 D.Quá trình Marketing, Thiết kế dịch vụ, Mô tả dịch vụ và Cung ứng dịch vụ.
 
-**Đáp án: C.** Căn cứ: [Text.md, dòng 2308-2311](../lectures/md/Text.md).
+**Đáp án: C** Căn cứ: [Text.md, dòng 2308-2311](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -490,7 +492,7 @@ B.Đặc trưng hỗn hợp (tính không tách rời).
 C.Tính cá biệt của sản phẩm dịch vụ.  
 D.Đặc tính vô hình (phi vật thể)
 
-**Đáp án: A.** Căn cứ: [Text.md, dòng 2294-2307](../lectures/md/Text.md).
+**Đáp án: A** Căn cứ: [Text.md, dòng 2294-2307](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -512,7 +514,7 @@ B.chênh lệch giữa nhận thức của lãnh đạo về mong muốn của k
 C.quá trình cung ứng cho khách hàng những dịch vụ theo đúng những gì đã thiết kế.  
 D.độ lệch giữa dịch vụ mong đợi và nhận thức lãnh đạo về mức chất lượng dịch vụ cần phải cung ứng.
 
-**Đáp án: B.** Căn cứ: [Text.md, dòng 2149-2156](../lectures/md/Text.md).
+**Đáp án: B** Căn cứ: [Text.md, dòng 2149-2156](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -534,7 +536,7 @@ B.(1) Thực hiện chính sách chất lượng dịch vụ; (2) Xác định m
 C.Rà soát và thực hiện chính sách chất lượng dịch vụ; (2) Rà soát mục tiêu của quản trị chất lượng dịch vụ; (3) Cải tiến chất lượng dịch vụ; (4) Giám sát quá trình cung ứng dịch vụ  
 D.Rà soát chính sách chất lượng dịch vụ; (2) Duy trì các mục tiêu của quản trị chất lượng dịch vụ; (3) Cải tiến chất lượng dịch vụ; (4) Đánh giá quá trình cung ứng dịch vụ
 
-**Đáp án: A.** Căn cứ: [Text.md, dòng 2221-2252](../lectures/md/Text.md).
+**Đáp án: A** Căn cứ: [Text.md, dòng 2221-2252](../lectures/md/Text.md).
 
 **Phân tích từng phương án:**
 
@@ -544,3 +546,9 @@ D.Rà soát chính sách chất lượng dịch vụ; (2) Duy trì các mục ti
 - **D.** Chỉ duy trì, rà soát và cải tiến nên thiếu nhiều nội dung nền tảng.
 
 **Lưu ý:** Quản trị dịch vụ phải bao quát cả tạo lập hệ thống và theo dõi cải tiến.
+
+
+## Ví dụ thực tế học nhanh
+
+- **Vinamilk** là ví dụ gần gũi khi học về chất lượng hướng khách hàng, chi phí phòng ngừa và hệ thống quản lý: doanh nghiệp cần chuẩn hóa từ nguyên liệu, sản xuất, kiểm nghiệm đến phản hồi thị trường.
+- **Toyota** minh họa rõ quản trị chất lượng hiện đại: chất lượng được tạo trong quá trình, nhân viên tham gia cải tiến, và lỗi được xử lý tại nguồn thay vì chỉ kiểm tra ở cuối dây chuyền.
