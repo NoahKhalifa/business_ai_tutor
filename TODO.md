@@ -10,7 +10,7 @@
 > - **KHÔNG xóa mục `pending` mà chưa làm.** Nếu không định làm nữa → mark `❌ Bỏ qua` + lý do.
 > - Cập nhật `Cập nhật lần cuối:` ở đầu file mỗi khi thay đổi.
 
-**Cập nhật lần cuối:** 2026-09-15 01:05 (đã xóa boilerplate explanation Tiếng Anh thương mại 2)
+**Cập nhật lần cuối:** 2026-09-17 23:45 (chọn phương án gần nhất cho Câu 37 đề giữa kỳ Quản trị chất lượng)
 
 ---
 
@@ -140,6 +140,18 @@
 ---
 
 ## 💡 Việc khác — Ý tưởng/đề xuất
+
+- **[T-20260917-01]** — pending — **Ưu tiên**: TRUNG BÌNH
+  - **Mô tả**: Review vòng 1 file `exam-in-middle-term_solution.md` môn Quản trị chất lượng đạt 6,7/10, verdict REVISE. ✅ Ngày 2026-09-17 đã sửa 4 đáp án sai: Câu 7 thành B, Câu 18 thành D, Câu 27 thành A, Câu 35 thành A; đồng thời sửa giải thích và đặt `review_round: 1`. Phần còn lại là chuẩn hóa cấu trúc: audit MCQ vẫn fail vì file chưa có per-question/per-option, chỉ có 10 cite-line và không có lưu ý riêng.
+  - **Hành động cụ thể**:
+    1. ✅ Đã sửa bốn đáp án và giải thích tương ứng.
+    2. Rewrite 40 câu theo template MCQ compact, có phân tích A/B/C/D, cite-line và lưu ý riêng.
+    3. Chạy `scripts/audit-mcq-solutions.py`, sau đó review vòng 2.
+    4. ✅ Câu 37 đã chọn **C** khi bắt buộc chọn một phương án, đồng thời giữ cảnh báo rằng cặp chuẩn là “phiếu ghi chép và phiếu xác nhận”.
+  - **File liên quan**:
+    - `subjects/Quản trị chất lượng/solutions/exam-in-middle-term_solution.md`
+    - `subjects/Quản trị chất lượng/solutions/exam-in-middle-term_review.md`
+    - `subjects/Quản trị chất lượng/exercises/md/Exam in middle term.md`
 
 - **[T-20260914-01]** — pending — **Ưu tiên**: THẤP
   - **Mô tả**: Khi giải toàn bộ đề `Quản trị chất lượng`, phát hiện 2 câu trắc nghiệm không có đáp án A/B/C/D duy nhất theo bài giảng hiện có.
