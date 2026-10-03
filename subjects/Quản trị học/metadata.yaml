@@ -1,0 +1,18 @@
+subject_code: ""
+subject_name: "Quản trị học"
+credits: 3
+faculty: "Business Administration"
+description: "Cung cấp kiến thức nền tảng về quản trị tổ chức, các chức năng quản trị, vai trò nhà quản trị và bối cảnh ra quyết định."
+learning_outcomes:
+  - "Giải thích bản chất, vai trò và các cấp quản trị"
+  - "Vận dụng các chức năng hoạch định, tổ chức, lãnh đạo và kiểm soát"
+  - "Phân tích môi trường và các vấn đề ra quyết định trong tổ chức"
+  - "Nhận diện trách nhiệm đạo đức và xã hội của nhà quản trị"
+lectures_order: []
+related_subjects:
+  - "Tâm lý quản trị kinh doanh"
+  - "Quản trị chiến lược"
+  - "Quản trị nhân lực căn bản"
+references: []
+media_types: []
+audio_language: ""

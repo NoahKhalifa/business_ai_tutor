@@ -1,0 +1,18 @@
+subject_code: ""
+subject_name: "Nguyên lý marketing"
+credits: 3
+faculty: "Business Administration"
+description: "Giới thiệu các nguyên lý marketing, phân tích khách hàng và thị trường, lựa chọn thị trường mục tiêu, định vị và phối thức marketing."
+learning_outcomes:
+  - "Giải thích khái niệm, vai trò và quy trình marketing"
+  - "Phân tích môi trường, nhu cầu khách hàng và hành vi mua"
+  - "Thực hiện phân khúc, lựa chọn thị trường mục tiêu và định vị"
+  - "Vận dụng các công cụ sản phẩm, giá, phân phối và truyền thông"
+lectures_order: []
+related_subjects:
+  - "Quản trị marketing"
+  - "Kinh tế học"
+  - "Tâm lý quản trị kinh doanh"
+references: []
+media_types: []
+audio_language: ""

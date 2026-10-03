@@ -1,0 +1,18 @@
+subject_code: ""
+subject_name: "Logistics"
+credits: 3
+faculty: "Business Administration"
+description: "Giới thiệu các hoạt động logistics và cách phối hợp dòng hàng hóa, thông tin và tài chính trong chuỗi cung ứng."
+learning_outcomes:
+  - "Mô tả vai trò và phạm vi của logistics trong doanh nghiệp"
+  - "Phân tích vận tải, kho hàng, tồn kho, đóng gói và xử lý đơn hàng"
+  - "Đánh giá các phương án logistics theo chi phí, mức độ phục vụ và rủi ro"
+  - "Hiểu mối liên hệ giữa logistics, mua hàng và quản trị chuỗi cung ứng"
+lectures_order: []
+related_subjects:
+  - "Mua và quản trị nguồn cung"
+  - "Quản trị học"
+  - "Kinh tế học"
+references: []
+media_types: []
+audio_language: ""

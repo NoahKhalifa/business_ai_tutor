@@ -1,0 +1,18 @@
+subject_code: ""
+subject_name: "Kinh tế học"
+credits: 3
+faculty: "Business Administration"
+description: "Cung cấp nền tảng về các nguyên lý kinh tế, cơ chế thị trường, hành vi của người tiêu dùng và doanh nghiệp, cùng các vấn đề kinh tế vĩ mô cơ bản."
+learning_outcomes:
+  - "Giải thích các khái niệm và quy luật cơ bản của kinh tế học"
+  - "Phân tích cung, cầu, giá cả và hành vi của các chủ thể kinh tế"
+  - "Nhận diện các chỉ tiêu và vấn đề kinh tế vĩ mô như tăng trưởng, lạm phát và thất nghiệp"
+  - "Vận dụng tư duy kinh tế để phân tích quyết định kinh doanh"
+lectures_order: []
+related_subjects:
+  - "Kinh tế thương mại đại cương"
+  - "Quản trị học"
+  - "Tài chính tiền tệ"
+references: []
+media_types: []
+audio_language: ""

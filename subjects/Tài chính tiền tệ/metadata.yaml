@@ -1,0 +1,18 @@
+subject_code: ""
+subject_name: "Tài chính tiền tệ"
+credits: 3
+faculty: "Finance"
+description: "Cung cấp kiến thức về tiền tệ, tài chính, hệ thống tài chính, thị trường tài chính, ngân hàng và các chính sách tiền tệ – tài khóa."
+learning_outcomes:
+  - "Phân biệt tiền tệ, tài chính, tín dụng và các bộ phận của hệ thống tài chính"
+  - "Phân tích lãi suất, tỷ giá, lạm phát và các biến số tiền tệ cơ bản"
+  - "Mô tả vai trò của ngân hàng thương mại, ngân hàng trung ương và trung gian tài chính"
+  - "Đánh giá tác động cơ bản của chính sách tiền tệ và chính sách tài khóa"
+lectures_order: []
+related_subjects:
+  - "Nhập môn tài chính tiền tệ"
+  - "Quản trị tài chính"
+  - "Nguyên lý kế toán"
+references: []
+media_types: []
+audio_language: ""

@@ -1,0 +1,18 @@
+subject_code: ""
+subject_name: "Phương pháp nghiên cứu khoa học"
+credits: 3
+faculty: "Business Administration"
+description: "Giới thiệu quy trình, thiết kế, phương pháp thu thập và phân tích dữ liệu để thực hiện nghiên cứu khoa học trong kinh doanh."
+learning_outcomes:
+  - "Xác định vấn đề, câu hỏi, mục tiêu và phạm vi nghiên cứu"
+  - "Tìm kiếm, đánh giá và tổng hợp tài liệu học thuật"
+  - "Thiết kế nghiên cứu định tính, định lượng và phương pháp hỗn hợp"
+  - "Thu thập, phân tích, trình bày dữ liệu và trích dẫn nguồn có trách nhiệm"
+lectures_order: []
+related_subjects:
+  - "Kinh tế học"
+  - "Quản trị học"
+  - "Nguyên lý marketing"
+references: []
+media_types: []
+audio_language: ""
